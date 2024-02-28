@@ -1,0 +1,84 @@
+name: Python Generate
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '30 23 * * *'
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+
+      - name: Prepare
+        run: sudo apt-get update
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          check-latest: true
+
+      - name: Install Requests
+        run: |
+          pip3 install https://github.com/barseghyanartur/tld/archive/master.zip
+          pip3 install requests
+          update-tld-names
+
+      - name: Generate
+        run: |
+          mkdir -p dist
+          python3 ./scripts/build-apple.py
+          python3 ./scripts/build-apple-clash.py
+          python3 ./scripts/build-cnip.py
+          python3 ./scripts/build-cnip-clash.py
+          python3 ./scripts/build-direct.py
+          python3 ./scripts/build-direct-clash.py
+          python3 ./scripts/build-proxy.py -f ./temp/gfw.txt
+          python3 ./scripts/build-proxy-clash.py -f ./temp/gfw.txt
+          python3 ./scripts/build-reject.py
+          python3 ./scripts/build-reject-clash.py
+          python3 ./scripts/build-rules1.py
+          python3 ./scripts/build-rules2.py
+          python3 ./scripts/build-telegram.py
+          python3 ./scripts/build-telegram-clash.py
+          python3 ./scripts/build-tiktok.py
+          python3 ./scripts/build-tracker.py
+          python3 ./scripts/build-whitelist.py
+          python3 ./scripts/build-whitelist-clash.py
+          sort -u dist/rules1.txt | grep -v "^$" > gen/adguard.txt
+          sort -u dist/rules2.txt | grep -v "^$" > gen/adbyby.txt
+          sort -uf dist/apple1.txt | grep -v "^$" > gen/apple.txt
+          sort -uf dist/direct1.txt | grep -v "^$" > gen/direct.txt
+          sort -uf dist/proxy1.txt | grep -v "^$" > temp/proxy.txt
+          grep -vE 'blogspot|facebook|google|instagram|porn|telegram|twitter|whatsapp|wikileaks|wikipedia|youtube|netflix|twitch|yahoo\.|discord|flickr|pinterest' dist/whitelist1.txt > dist/whitelist3.txt
+          grep -vE '\.cloudfront\.net|\.amazonaws\.com|\.fastly\.net|\.azurewebsites\.net|\.cloudfunctions\.net|\.business\.site' dist/whitelist3.txt | sort -uf | grep -v "^$" > gen/whitelist.txt
+          sed "s/  - '\./  - '+\./g" dist/apple2.txt | sort -uf | grep -v "^$" | sed -e '1s/^/payload:\n/' > clash/apple.yaml
+          sort -uf dist/cnip2.txt | grep -v "^$" | sed -e '1s/^/payload:\n/' > clash/cnip.yaml
+          sed "s/  - '\./  - '+\./g" dist/direct2.txt | sort -uf | grep -v "^$" | sed -e '1s/^/payload:\n/' > clash/direct.yaml
+          sort -uf dist/proxy2.txt | grep -v "^$" | sed -e '1s/^/payload:\n/' > clash/proxy.yaml
+          sed "s/  - '\./  - '+\./g" dist/reject2.txt | sort -uf | grep -v "^$" | sed -e '1s/^/payload:\n/' > clash/reject.yaml
+          sort -uf dist/telegram2.txt | grep -v "^$" | sed -e '1s/^/payload:\n/' > clash/telegram.yaml
+          grep -vE 'blogspot|facebook|google|instagram|porn|telegram|twitter|whatsapp|wikileaks|wikipedia|youtube|netflix|twitch|yahoo\.|discord|flickr|pinterest' dist/whitelist2.txt > dist/whitelist4.txt
+          grep -vE '\.cloudfront\.net|\.amazonaws\.com|\.fastly\.net|\.azurewebsites\.net|\.cloudfunctions\.net|\.business\.site' dist/whitelist4.txt | sort -uf | grep -v "^$" | sed -e '1s/^/payload:\n/' > clash/whitelist.yaml
+          python3 ./scripts/gen-final.py
+
+      - name: Commit Files
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git checkout main
+          rm -rf dist
+          git add .
+          git commit -m "$(date '+%Y-%m-%d')"
+
+      - name: Push Changes
+        uses: ad-m/github-push-action@master
+        with:
+          branch: ${{ github.ref }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}

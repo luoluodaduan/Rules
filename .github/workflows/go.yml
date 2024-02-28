@@ -1,0 +1,81 @@
+name: Go Generate
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '15 23 * * *'
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+
+      - name: Prepare
+        run: |
+          sudo apt-get update
+          mkdir -p dist
+          rm -rf verify
+          rm -rf .github/workflows/commit-release.yml
+          rm -rf .github/workflows/cron-release.yml
+          find -name 'go.mod' | xargs perl -pi -e 's|/JMVoid/ipip2mmdb|/luoluodaduan/Rules|g'
+          find -name 'go.mod' | xargs perl -pi -e 's|go 1.*|go 1.22|g'
+          find -name '*.go' | xargs perl -pi -e 's|/JMVoid/ipip2mmdb|/luoluodaduan/Rules|g'
+
+      - name: Setup Go
+        uses: actions/setup-go@v5
+        with:
+          go-version-file: './go.mod'
+          check-latest: true
+
+      - name: Get Dependencies
+        run: |
+          go install mvdan.cc/gofumpt@master
+          go install github.com/daixiang0/gci@master
+          find -name '*.go' | xargs gofumpt -e -l -w
+          find -name '*.go' | xargs gci write -s standard -s default
+          go get -u
+          go mod tidy
+          go mod download
+
+      - name: Generate
+        run: |
+          curl -LR -o- "https://raw.githubusercontent.com/wanjune/wanjune.github.io/main/static/tvbox/1.json" | sed 's/\r//' | sed 's/ //g' | grep -vE '^#|^$' > gen/1.json
+          find -name '1.json' | xargs perl -pi -e 's|https://wanjune.github.io/static|https://raw.gitmirror.com/wanjune/wanjune.github.io/main/static|g'
+          sed -i '/^\"lives\"/d' gen/1.json
+          sed -i '/^\/\/{/d' gen/1.json
+          curl -LR -o- "https://raw.githubusercontent.com/wanjune/wanjune.github.io/main/static/tvbox/3721.json" | sed 's/\r//' | sed 's/ //g' | grep -vE '^#|^$' > gen/2.json
+          find -name '2.json' | xargs perl -pi -e 's|https://wanjune.github.io/static|https://raw.gitmirror.com/wanjune/wanjune.github.io/main/static|g'
+          sed -i '/^\"lives\"/d' gen/2.json
+          sed -i '/^\/\/{/d' gen/2.json
+          sh scripts/gfwlist.sh -l -o dist/gfw1.txt
+          cat dist/gfw1.txt temp/gfw_wiki.txt | grep -vE '\.cn$|\.xn--fiqs8s$|\.microsoft\.|\.iqiyi\.|\.apple\.|\.youku\.|\.baidu\.|\.weibo\.|\.sina\.|\.hao123\.|\.hao123img\.' > dist/gfw2.txt
+          grep -vE 'blogspot|facebook|google|instagram|porn|telegram|twitter|whatsapp|wikileaks|wikipedia|youtube|netflix|twitch|yahoo\.|discord|flickr|pinterest' dist/gfw2.txt > dist/gfw3.txt
+          grep -vE '\.cloudfront\.net|\.amazonaws\.com|\.fastly\.net|\.azurewebsites\.net|\.cloudfunctions\.net|\.business\.site|\.windows\.net' dist/gfw3.txt > dist/gfw4.txt
+          cat dist/gfw4.txt temp/gfw_custom.txt | sed 's/\r//' | sort -uf | grep -v "^$" > temp/gfw.txt
+          ./build.sh
+          curl -LR -o- "https://ispip.clang.cn/all_cn.txt" | sed 's/\r//' | sort -u | grep -vE '^#|^$' > temp/cnipv4.txt
+          curl -LR -o- "https://ispip.clang.cn/all_cn_ipv6.txt" | sed 's/\r//' | sort -u | grep -vE '^#|^$' > temp/cnipv6.txt
+          sort -u temp/cnipv4.txt temp/cnipv6.txt | grep -v "^$" > dist/Country.txt
+          cd dist
+          ./ipip2mmdb -s ./Country.txt -d Country.mmdb
+
+      - name: Commit Files
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git checkout main
+          cp -f dist/Country.mmdb clash/Country.mmdb
+          rm -rf dist
+          git add .
+          git commit -m "$(date '+%Y-%m-%d')"
+
+      - name: Push Changes
+        uses: ad-m/github-push-action@master
+        with:
+          branch: ${{ github.ref }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
