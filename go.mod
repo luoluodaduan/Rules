@@ -1,9 +1,14 @@
-module github.com/JMVoid/ipip2mmdb
+module github.com/luoluodaduan/Rules
 
-go 1.14
+go 1.22
 
 require (
-	github.com/maxmind/mmdbwriter v0.0.0-20200911190049-91ab57d2e8e9
-	github.com/sirupsen/logrus v1.6.0
-	github.com/oschwald/geoip2-golang v1.4.0
+	github.com/maxmind/mmdbwriter v1.0.0
+	github.com/sirupsen/logrus v1.9.3
+)
+
+require (
+	github.com/oschwald/maxminddb-golang v1.12.0 // indirect
+	go4.org/netipx v0.0.0-20231129151722-fdeea329fbba // indirect
+	golang.org/x/sys v0.17.0 // indirect
 )
