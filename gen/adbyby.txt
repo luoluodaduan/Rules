@@ -2021,9 +2021,9 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|xyg688.com|zzzzz688.com
 @@_300_250.$domain=nanrenwo.net
 @@_370x270.$domain=bairuitool-cn.aliyun-hk03.hicheng.net
 @@_ads_cpc_$domain=90lover.cn
-@@_cpa_cpm_$domain=52xkdy.com
+@@_adview_$domain=52xkdy.com|fydy8.com
 @@_cpc_cpm/$domain=youranshare.com
-@@_cpc_cpm_$domain=fydy8.com|saraba1st.com
+@@_cpc_cpm_$domain=saraba1st.com
 @@||060s.com/images_ad/*.png
 @@||073img.com/*,*,
 @@||10010.cn^*/ad
@@ -2472,9 +2472,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|xyg688.com|zzzzz688.com
 @@||hanjuwang.com^$script,~third-party
 @@||hanjuwang.net^$script,~third-party
 @@||hao123img.com/resource/zt/widget/service/util/clickTrack.
-@@||haokoubei.top/check_img_block.js
-@@||haokoubei.top/dl/rfo_v_f_pc.js
-@@||haokoubei.top/sz/to_v_f.js
+@@||haokoubei.top/sz/tos_v_f.js
 @@||haoweichi.com/Public/js/ads.js
 @@||hbu.cn^*/ad.css?$stylesheet
 @@||hc360.com/ad/*.css
@@ -30258,6 +30256,7 @@ zzzyk.com###Tinfo
 ||cxiebfdqydf.com^
 ||cxkhadk.com^
 ||cxlm.net.cn^
+||cxlvlbx.xyz^
 ||cxm.ingeniux.com^
 ||cxmnsbrbdmxoyd.com^
 ||cxnadcribh.com^
@@ -33243,6 +33242,7 @@ zzzyk.com###Tinfo
 ||diated.com^
 ||diboji.class101.net^
 ||dibsemey.com^
+||diccsbhij.com^
 ||dicheeph.com^
 ||dichoabs.net^
 ||dicinging.co.in^
@@ -43423,6 +43423,7 @@ zzzyk.com###Tinfo
 ||gksqdt.reitmans.com^
 ||gksqfw.reverso.net^
 ||gkswas.xyz^
+||gkutca.xyz^
 ||gkwrae.xyz^
 ||gkxaay.tontarellishop.com^
 ||gl-cash.com^
@@ -46094,6 +46095,7 @@ zzzyk.com###Tinfo
 ||hdtu.oss-cn-beijing.aliyuncs.com^
 ||hdu-deeplinks.mindtickle.com^
 ||hdvcode.com^
+||hdvsrz.xyz^
 ||hdwibtrw.com^
 ||hdwvhgnisi.com^
 ||hdxdhu.zumnorde.de^
@@ -52164,6 +52166,7 @@ zzzyk.com###Tinfo
 ||jbkmskjeaevkne.xyz^
 ||jblxcqsga.com^
 ||jbm6c54upkui.com^
+||jbmfldt.cn^
 ||jbnmppupawyil.com^
 ||jbnznvnylnkyr.top^
 ||jbnznvnylnqqy.top^
@@ -53618,6 +53621,7 @@ zzzyk.com###Tinfo
 ||jussiwhauds.com^
 ||just-news.pro^
 ||just.playvici.com^
+||justapp.top^
 ||justasimple.top^
 ||justey.com^
 ||justgetitfaster.com^
@@ -54684,6 +54688,7 @@ zzzyk.com###Tinfo
 ||kngcjx.com^
 ||knhmgn.com^
 ||knicks.jd.com^
+||knifdlad.top^
 ||knightcharleyloudly.com^
 ||knigna.com^
 ||knitstamp.com^
@@ -55398,6 +55403,7 @@ zzzyk.com###Tinfo
 ||laf1ma3eban85ana.com^
 ||lafastnews.com^
 ||laferia.cr^
+||lafirx.xyz^
 ||lafontainedessenterue.cn^
 ||laggerozonid.website^
 ||lagoonolivia.com^
@@ -68477,6 +68483,7 @@ zzzyk.com###Tinfo
 ||nshio.com^
 ||nshypdry.xyz^
 ||nsjczjnrravfcj.com^
+||nsjnmx.icu^
 ||nsjyfpo.com^
 ||nskwqto.com^
 ||nslokxweviwqbg.com^
@@ -76692,6 +76699,7 @@ zzzyk.com###Tinfo
 ||qvxvvjom.com^
 ||qvznqz.mekster.se^
 ||qvzrde.mensagenscomamor.com^
+||qw9cu.cyou^
 ||qwa3ldhn9u0t.com^
 ||qwaapgxfahce.com^
 ||qwandly.top^
@@ -77215,6 +77223,7 @@ zzzyk.com###Tinfo
 ||rcvsmbawwqodqt.com^
 ||rcwuzudjcsjmr.com^
 ||rcynoe.cn^
+||rcyzsh.icu^
 ||rczwcs.brack.ch^
 ||rd.alice.it^
 ||rd.autohome.com.cn^
@@ -91536,6 +91545,7 @@ zzzyk.com###Tinfo
 ||swpnyrxgobtryu.com^
 ||swpsvc.com^
 ||swqleb.adidas.ru^
+||swsegi.xyz^
 ||swtchrules.click^
 ||swunge.com^
 ||swungencetacea.website^
@@ -99826,6 +99836,7 @@ zzzyk.com###Tinfo
 ||vdrn.redplum.com^
 ||vdslnp.highkey.com^
 ||vdtxlt.xyz^
+||vdvcjlp.cn^
 ||vdvdjf.remotepc.com^
 ||vdzrjr.kenminkyosai.or.jp^
 ||ve.tsdlp.com^
@@ -103117,6 +103128,7 @@ zzzyk.com###Tinfo
 ||wopsedoaltuwn.com^
 ||wopsedoaltuwo.com^
 ||wopsedoaltuwp.com^
+||wopvmmy.cn^
 ||woqcfy.sony.ru^
 ||woqycyda.com^
 ||wordbodily.com^
@@ -107006,6 +107018,7 @@ zzzyk.com###Tinfo
 ||ztrack.online^
 ||ztsrv.com^
 ||zttgwpb.com^
+||zttuvj.xyz^
 ||ztumuvofzbfe.com^
 ||ztxhxby.com^
 ||ztxjutz.xyz^
