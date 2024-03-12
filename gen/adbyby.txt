@@ -2654,7 +2654,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|xyg688.com|zzzzz688.com
 @@||ozabc.com^$generichide
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl$domain=ff14angler.com|logi.im
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=doitwell.tw
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=23qb.net|4spaces.org|aboluowang.com|assbbs.com|chaojizhibo.net|chtoen.com|daxiaamu.com|demo.ama.pub|dizhishengcheng.com|doitwell.tw|ekamus.info|eu4cn.com|ff14angler.com|freedidi.com|haoweichi.com|it365.abctool.info|linovelib.com|logi.im|monnsutogatya.com|mpyit.com|myqqjd.com|numberempire.com|ozabc.com|pansearch.me|patch.ali213.net|pc3mag.com|reh.tw|shenfendaquan.com|sistersbedroom.com|sto520.com|vaptcha.com|wenxuecity.com|wuyong.fun|xbeibeix.com|xiebruce.top|xugaoxiang.com|xxxxx520.com|yodu.org|yummy.best
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=23qb.net|4spaces.org|aboluowang.com|assbbs.com|chaojizhibo.net|chtoen.com|daxiaamu.com|demo.ama.pub|dizhishengcheng.com|doitwell.tw|ekamus.info|eu4cn.com|ff14angler.com|freedidi.com|haoweichi.com|it365.abctool.info|linovelib.com|logi.im|monnsutogatya.com|mpyit.com|myqqjd.com|numberempire.com|ozabc.com|pansearch.me|patch.ali213.net|pc3mag.com|reh.tw|shenfendaquan.com|sistersbedroom.com|sto520.com|vaptcha.com|wandhi.com|wenxuecity.com|wuyong.fun|xbeibeix.com|xiebruce.top|xugaoxiang.com|xxxxx520.com|yodu.org|yummy.best
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=duelmeta.com|linetv.tw|liout.com|moneysave.info|zxmee.com
 @@||pagead2.googlesyndication.com/pagead/js/google_top_exp.js$domain=ebb.io
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=knowlet3389.blogspot.com|knowlet3389.blogspot.hk|knowlet3389.blogspot.jp|knowlet3389.blogspot.tw|mnighthk.net|weithenn.org
@@ -2884,6 +2884,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|xyg688.com|zzzzz688.com
 @@||vodjk.com/offlights.js
 @@||vvic.com/monetize/ads/index/
 @@||wancaibb.com/share/js/share.min.js
+@@||wandhi.com^$generichide
 @@||ware.shop.jd.com^$genericblock,generichide
 @@||wavse.com^$generichide
 @@||webmail.smartlinkcorp.com/dotrans_20160909.php
@@ -7407,7 +7408,7 @@ w3school.com.cn###fttg
 w3school.com.cn###sbtg
 w3school.com.cn###sp_tiy
 wacowla.com###home-top-narrow
-wandhi.com##.table
+wandhi.com##.table img
 wandhi.com##.table-bordered
 wandhi.com##.unit-100
 wandhi.com##a[style="display: inline-block;position: relative"]
@@ -8029,12 +8030,14 @@ zzzyk.com###Tinfo
 ||0o0.ooo/2017/01/13/58787d42bbad6.jpg
 ||0pengl.com^
 ||0pyn37dv3m.com^
+||0r3tyg.cn^
 ||0redirb.com^
 ||0redird.com^
 ||0sbm.consobaby.co.uk^
 ||0sntp7dnrr.com^
 ||0stats.com^
 ||0sywjs4r1x.com^
+||0tq6ub.cn^
 ||0udonfv52o9k.top^
 ||0uvt8b.cn^
 ||0uyt5b.cn^
@@ -15854,6 +15857,7 @@ zzzyk.com###Tinfo
 ||ahstrelgnh.com^
 ||ahsxot.meaningfulbeauty.com^
 ||ahtalcruzv.com^
+||ahtfzhs.xyz^
 ||ahuacasheely.top^
 ||ahuvjy.design-market.fr^
 ||ahuys.net/Runtime/js/
@@ -24924,6 +24928,7 @@ zzzyk.com###Tinfo
 ||c7d263f5d8.com^
 ||c7e935.netlify.com^
 ||c7ee346412.com^
+||c81.ipanocloud.com^
 ||c83cf15c4f.com^
 ||c86e7c49a2.com^
 ||c8b.jcdb88.com^
@@ -37152,6 +37157,7 @@ zzzyk.com###Tinfo
 ||eiorzm.orvis.com^
 ||eioseklxw.com^
 ||eipsxuknmhigap.com^
+||eiqsky.xyz^
 ||eisdog.shape.com^
 ||eit3.destinia.nl^
 ||eitb7.top^
@@ -38043,6 +38049,7 @@ zzzyk.com###Tinfo
 ||enherappedo.cc^
 ||enhwy.com^
 ||eniesdzgowy.com^
+||enifdlaw.top^
 ||enigmaticvoyage.com^
 ||eniobs.moncler.com^
 ||enisleslonely.com^
@@ -67907,6 +67914,7 @@ zzzyk.com###Tinfo
 ||njejgoscqmcqn.com^
 ||njfwjnpuq.com^
 ||njfxmqvonppwq.com^
+||njhvalu.cn^
 ||njih.net^
 ||njjebgkvrniwmr.com^
 ||njkewubccvt.com^
@@ -70262,6 +70270,7 @@ zzzyk.com###Tinfo
 ||opootsoa.net^
 ||opoxv.com^
 ||oppersianor.com^
+||oppnfev.xyz^
 ||opportunity.businessbroker.net^
 ||opportunitybrokenprint.com^
 ||opportunitysearch.net^
@@ -70551,6 +70560,7 @@ zzzyk.com###Tinfo
 ||osimg.universalparks.com^
 ||osimg.universalstudioshollywood.com^
 ||osimg.windsurfercrs.com^
+||osisk.com^
 ||ositracker.com^
 ||osjhvtxsyiuyjv.com^
 ||osjpyw.dico.com.mx^
@@ -73676,6 +73686,7 @@ zzzyk.com###Tinfo
 ||pnufzbzzomt.com^
 ||pnuhondppw.com^
 ||pnvnpy.scullyandscully.com^
+||pnxtnp.xyz^
 ||pnxtsauba.com^
 ||pny.net.penny.de^
 ||pnyjzdtirvufft.com^
@@ -86832,6 +86843,7 @@ zzzyk.com###Tinfo
 ||sni-dat.com^
 ||snidethereto.com^
 ||sniejankmqq.com^
+||snifdlab.top^
 ||sniffer.nitro-production.otto.boreus.de^
 ||sniffer.nitro-test-extern.otto.boreus.de^
 ||snigelweb.com^
@@ -100634,6 +100646,7 @@ zzzyk.com###Tinfo
 ||vmm-satellite*.com^
 ||vmmcdn.com^
 ||vmmpxl.com^
+||vmnlkr.icu^
 ||vmonetize.com^
 ||vmonitor.ws.netease.com^
 ||vmr6t.icu^
