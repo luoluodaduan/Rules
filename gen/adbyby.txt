@@ -3647,6 +3647,7 @@ chazidian.com##.ggin
 chbeyond.cn#?#a:-abp-has(> .xcybk-adfg)
 chchzhan.com,xxizhan.com##a[style^="position:fixed;z-index:"]
 chdbits.co##a[href*=".taobao"]
+che168.com#@#[data-adid]
 chem99.com###J_tcode
 chem99.com###div_main_ta
 chemicalbook.com,foodmate.net,nmgnews.com.cn,sportscn.com##.ad3
@@ -8037,6 +8038,7 @@ zzzyk.com###Tinfo
 ||0oqt9i.cn^
 ||0pengl.com^
 ||0pyn37dv3m.com^
+||0q5joc.cn^
 ||0r3tyg.cn^
 ||0redirb.com^
 ||0redird.com^
@@ -10677,6 +10679,7 @@ zzzyk.com###Tinfo
 ||999.com^
 ||9996777888.com^
 ||999aa666bb.com^
+||999bb222ww.com^
 ||999d.com^
 ||999d.com^$third-party
 ||999meiju.com/js/tj
@@ -34475,6 +34478,7 @@ zzzyk.com###Tinfo
 ||dnavtbt.com^
 ||dnceqzz.icu^
 ||dncxgm.pegadorfashion.com^
+||dndmygr.cn^
 ||dndvgeemcpgpp.com^
 ||dndvms.24s.com^
 ||dne6rbzy5csnc.cloudfront.net^
@@ -65737,6 +65741,7 @@ zzzyk.com###Tinfo
 ||mnhjkl.com^
 ||mnhknds.com^
 ||mnhncf.cn^
+||mnifdlax.top^
 ||mniumlapsers.com^
 ||mnjhrleahonkq.com^
 ||mnjxvtknnlai.com^
@@ -77236,6 +77241,7 @@ zzzyk.com###Tinfo
 ||qvlcdw.ho-br.com^
 ||qvlczhitbsqpl.com^
 ||qvmucs.abluestore.com^
+||qvnbjjd.xyz^
 ||qvnpxc.technopark.ru^
 ||qvol.tv^
 ||qvqtga.barenecessities.com^
@@ -81822,6 +81828,7 @@ zzzyk.com###Tinfo
 ||sdfjhuz.com^
 ||sdfp.snssdk.com^
 ||sdfqs2.com^
+||sdfsad562.xyz^
 ||sdfsdvc.com^
 ||sdfv66.com^
 ||sdfxcv.com^
@@ -88226,6 +88233,7 @@ zzzyk.com###Tinfo
 ||sortyellowapples.com^
 ||sorxyx.vi.nl^
 ||sos.vivi.sg^
+||sosakk.xyz^
 ||sosc.hrs.com^
 ||sosc.webroot.com^
 ||sosettoourmarke.info^
@@ -99822,6 +99830,7 @@ zzzyk.com###Tinfo
 ||urpctsrjilp.com^
 ||urptcerftud.com^
 ||urquqtbswaqta.com^
+||urqwzbu.cn^
 ||urqxesau.com^
 ||urr.kumamoto-food.com^
 ||urryjgwqjo.com^
@@ -100778,6 +100787,7 @@ zzzyk.com###Tinfo
 ||vfjsa6do.icu^
 ||vfjydbpywqwe.xyz^
 ||vfl81ea28aztw7y3.pro^
+||vflorp.xyz^
 ||vflouksffoxmlnk.xyz^
 ||vfmahn.slevomat.cz^
 ||vfo.voyage-prive.co.uk^
@@ -104897,6 +104907,7 @@ zzzyk.com###Tinfo
 ||xebadu.com^
 ||xebohjhh.xyz^
 ||xedo.me^
+||xedpzh.xyz^
 ||xefefetgxnh.com^
 ||xegluwate.com^
 ||xegmsox.com^
