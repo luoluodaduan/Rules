@@ -2858,6 +2858,7 @@ $third-party,xmlhttprequest,domain=cocolamanhua.com|subhd.tv|subhdtw.com|xyg688.
 @@||tv99.tv^$generichide
 @@||tvb.com/social/share_
 @@||tvb.com^*/videojs.ads.
+@@||tvbanywherena.com^$generichide
 @@||udn.com/mall/images/spacer.gif?
 @@||udndata.com/ndapp/ads/$~third-party
 @@||udnplay.com/js/momo/adsbygoogle.js
@@ -26203,6 +26204,7 @@ zzzyk.com###Tinfo
 ||cfredh.cn^
 ||cfrkiqyrtai.xyz^
 ||cfrsoft.com^
+||cfrtdmb.xyz^
 ||cfs10.blog.daum.net^
 ||cfs13.tistory.com^
 ||cfs7.blog.daum.net^
@@ -30113,6 +30115,7 @@ zzzyk.com###Tinfo
 ||ctydsy.xyz^
 ||ctyjsf.cellphones.com.vn^
 ||ctyojp.kibek.de^
+||ctyusif.top^
 ||ctywimluf.com^
 ||cuba7tilt.com^
 ||cubbingrebbes.com^
@@ -34490,6 +34493,7 @@ zzzyk.com###Tinfo
 ||dnfnpff.xyz^
 ||dnfqqucdsdb.com^
 ||dnfs24.com^
+||dngbjyc.cn^
 ||dngpzy.bfmtv.com^
 ||dngpzy.zone-turf.fr^
 ||dnhfi5nn2dt67.cloudfront.net^
@@ -36488,6 +36492,7 @@ zzzyk.com###Tinfo
 ||eap.big5.enorth.com.cn^
 ||eap.enorth.com.cn^
 ||eapect.icu^
+||eaqlos.xyz^
 ||earact.com^
 ||eardepth-prisists.com^
 ||eargentssep.one^
@@ -39773,6 +39778,7 @@ zzzyk.com###Tinfo
 ||f780f.space^
 ||f794d2f9d9.com^
 ||f7e5bf5ed8.com^
+||f7fe0.cyou^
 ||f8260adbf8558d6.com^
 ||f8272.com^
 ||f83d8a9867.com^
@@ -45328,6 +45334,7 @@ zzzyk.com###Tinfo
 ||grsm.io^
 ||grt02.com^
 ||grtaanmdu.com^
+||grtarpcf963.top^
 ||grtexch.com^
 ||grthhr.xyz^
 ||grtimed.com/material/*_960x110_
@@ -53504,6 +53511,7 @@ zzzyk.com###Tinfo
 ||jqafetxoermhue.com^
 ||jqassets.do^
 ||jqassets.download^
+||jqbddp.xyz^
 ||jqcdn.download^
 ||jqcdn01.herokuapp.com^
 ||jqcdn03.herokuapp.com^
@@ -76603,6 +76611,7 @@ zzzyk.com###Tinfo
 ||qhdlz.net/uploads/glxs/980x120.jpg
 ||qhdwjjhvgqa.com^
 ||qhdzljxsb.cn^
+||qhemphox.com^
 ||qheoy.cn^
 ||qhfcsd.rastaclat.com^
 ||qhimg.com/ssl/20212c7594890e1c.js
@@ -100175,6 +100184,7 @@ zzzyk.com###Tinfo
 ||uxwnqppdma.com^
 ||uxxsiyokw.com^
 ||uxxux.com/js/zd.js
+||uxzvjoj.cn^
 ||uycxhgrp.xyz^
 ||uydzfldt.xyz^
 ||uyeaoofppwrhz.com^
@@ -100546,6 +100556,7 @@ zzzyk.com###Tinfo
 ||vchiy.com^
 ||vcjczwnc.xyz^
 ||vcmedia.com^
+||vcnpnf.xyz^
 ||vcommission.com^
 ||vconf.f.360.cn^
 ||vcrypt.net^
