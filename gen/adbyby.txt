@@ -5585,6 +5585,9 @@ jisuxz.com##.dl_gaosu
 jitashe.org##.bc_side_250
 jitashe.org##a[href*=".makeding.com/"]
 jiumodiary.com###forum-panel
+jiuse.io###main > div[id^="rd"]
+jiuse.io##.footer + .block
+jiuse.io#?#.card:-abp-has(>.card-image>a[href^="http"])
 jiyingdm.com###otherWindowBox
 jiyingdm.com##.abcde
 jjckb.cn##.adv_ment
@@ -36985,6 +36988,7 @@ zzzyk.com###Tinfo
 ||edkgdruoreys.com^
 ||edkjpwvfy.com^
 ||edkwgbxgn.com^
+||edler.cn^
 ||edlilu.com^
 ||edm.healthroundtable.org^
 ||edm.neoslife.com.au^
@@ -45239,6 +45243,7 @@ zzzyk.com###Tinfo
 ||gridcash.net^
 ||griddedwarling.top^
 ||gridiogrid.com^
+||gridline.cn^
 ||gridsum-vd.cntv.cn^
 ||gridsum.com^
 ||gridsumdissector.cn^
@@ -53881,6 +53886,7 @@ zzzyk.com###Tinfo
 ||jtxh.net^
 ||jtxrou.saucony.com^
 ||jtys8.com^
+||jtyusia.top^
 ||ju23.madeindesign.co.uk^
 ||ju33.com^
 ||ju427bv7an9n.com^
@@ -65874,6 +65880,7 @@ zzzyk.com###Tinfo
 ||mobday.com^
 ||mobdel2.com^
 ||mobee.xyz^
+||moberg.cn^
 ||mobexpectationofficially.com^
 ||mobfox.com^
 ||mobgi.com^
@@ -73434,6 +73441,7 @@ zzzyk.com###Tinfo
 ||pilsarde.net^
 ||piltockcurt.top^
 ||pimg1.126.net^
+||pimg2023.com^
 ||pimlog.baidu.com^
 ||pimpleinterference.com^
 ||pimpmypr.de^
@@ -99802,6 +99810,7 @@ zzzyk.com###Tinfo
 ||upwkcv.vidaxl.ro^
 ||upwwgd.zentempel.com^
 ||upyerxzn.xyz^
+||upytsgo.cn^
 ||upz1.destinia.lt^
 ||upzekroman.com^
 ||uqckxr.chilli.se^
@@ -99814,6 +99823,7 @@ zzzyk.com###Tinfo
 ||uqmmfpr.com^
 ||uqotbpmidyewkmb.com^
 ||uqpvrqplyqm.com^
+||uqrcuxp.cn^
 ||uqueae.xyz^
 ||uqwbcm.xyz^
 ||ur.b.inhaabit.com^
