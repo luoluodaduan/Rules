@@ -1676,7 +1676,7 @@ $third-party,xmlhttprequest,domain=cocolamanhua.com|subhd.tv|subhdtw.com|xyg688.
 58.com#?#LI[sortid]:-abp-has(.jinico)
 58.com#?#TR[logr]:-abp-has(> .t > .mt-p-tit > .jingpin)
 58.com#?#tr[sortid]:-abp-has(> .t > .ico.accurate)
-58.com,pcpop.com,phpernote.com##div[id^="ad_"]
+58.com,pcpop.com,phpernote.com,zh141.com##div[id^="ad_"]
 58avgo.com##.BillingLeft
 58avgo.com##.BillingRight
 58cam.com##.syads
@@ -1760,7 +1760,7 @@ $third-party,xmlhttprequest,domain=cocolamanhua.com|subhd.tv|subhdtw.com|xyg688.
 85wp.com###a3_diy2
 85wp.com##.top-ad-img
 8684.cn,8684.com##div[id*="adid"]
-8684.cn,8684.com,iyxdm.cc,kugou.com,solarzoom.com,yesky.com##div[class^="adv"]
+8684.cn,8684.com,iyxdm.net,kugou.com,solarzoom.com,yesky.com##div[class^="adv"]
 880sy.com##.foot_gg
 880sy.com##.fot_btom
 88448.com###ad_forum_banner
@@ -7749,6 +7749,8 @@ yzpsb.net###fc_foot
 yzz.cn###video_ff
 zdface.com#@#.top-ad
 zeekmagazine.com##.td-all-devices
+zh141.com###text1
+zh141.com##a[title*="廣告"]
 zhainanba.org##.marauto > p[style="text-align: left;"]
 zhanqi.tv###js-room-flash-banner-panel
 zhaohuangpian.net##a[href="https://galaxymedia.xyz/app/"]
@@ -9991,6 +9993,7 @@ zzzyk.com###Tinfo
 ||69adu.com/bootstrap.
 ||69i.club^
 ||69oxt4q05.com^
+||69shux.com/js/otherad.
 ||69t49.com/floating/layer.js
 ||69v.club^
 ||69wx1.top^
@@ -16820,6 +16823,7 @@ zzzyk.com###Tinfo
 ||amhixwqagiz.ru^
 ||amhpbhyxfgvd.com^
 ||amiddespair.com^
+||amidicestrins.com^
 ||amidoxypochard.com^
 ||amikay.com^
 ||amimialonging.com^
@@ -21426,6 +21430,7 @@ zzzyk.com###Tinfo
 ||bathepoliteness.com^
 ||batheunits.com^
 ||bathtubpitcher.com^
+||batijian.com^
 ||batioc.com^
 ||baton.cuetv.online^
 ||bats.video.yahoo.com^
@@ -22902,6 +22907,7 @@ zzzyk.com###Tinfo
 ||bkvtrack.com^
 ||bkxuprh.cn^
 ||bkyqhavuracs.com^
+||bkzmtp.xyz^
 ||bkzwzyznzqabk.top^
 ||bkzwzyznzqjzl.top^
 ||bl-test.curatedplanet.com^
@@ -24414,6 +24420,7 @@ zzzyk.com###Tinfo
 ||btrll.com^
 ||btschool.net/images/*/HDYGR
 ||btserve.com^
+||btsgroup.cn^
 ||btstats.benakt.com^
 ||btstats.devtribu.fr^
 ||btsvad8.com^
@@ -25971,6 +25978,7 @@ zzzyk.com###Tinfo
 ||cdn1.res.uzham.com^
 ||cdn1.skrill.com^
 ||cdn12359286.ahacdn.me^
+||cdn141.com/banner/adcards.
 ||cdn2.crispadvertising.com^
 ||cdn2.moji002.com^
 ||cdn22904910.ahacdn.me^
@@ -28463,6 +28471,7 @@ zzzyk.com###Tinfo
 ||compteur.org^
 ||compteur.websiteout.net^
 ||compulsiveimpassablehonorable.com^
+||computel.cn^
 ||computers.panasonic.eu^
 ||comradeglorious.com^
 ||comradeorientalfinance.com^
@@ -33162,6 +33171,7 @@ zzzyk.com###Tinfo
 ||destc8.icu^
 ||destinationoralairliner.com^
 ||destinedsponsornominate.com^
+||destinyssa.com^
 ||destroyedspear.com^
 ||desugeng.xyz^
 ||desuscripcion.phg.palladiumhotelgroup.com^
@@ -38801,6 +38811,7 @@ zzzyk.com###Tinfo
 ||erseducationinin.info^
 ||ershniff.com^
 ||ersislaqands.com^
+||ersjnpwf837.shop^
 ||erssqstdjnn.com^
 ||erstonordersityex.info^
 ||ert5.rmcsport.tv^
@@ -39033,6 +39044,7 @@ zzzyk.com###Tinfo
 ||etymonsibycter.com^
 ||etyper.com^
 ||etystoass.com^
+||etyusiw.top^
 ||etzbnfuigipwvs.ru^
 ||etznkn.ec-store.net^
 ||eu-survey.com^
@@ -43001,6 +43013,7 @@ zzzyk.com###Tinfo
 ||gblcdn.com^
 ||gblock.greenhousedata.com^
 ||gblwebcen.com^
+||gblxtlo.xyz^
 ||gbmfid.1mg.com^
 ||gbncqh.koneko-breeder.com^
 ||gbotvisit.com^
@@ -45685,6 +45698,7 @@ zzzyk.com###Tinfo
 ||guchihyfa.pro^
 ||guddledarride.com^
 ||gudouzov.com^
+||gueikw.xyz^
 ||guemalgist.com^
 ||guerrilla-links.com^
 ||guess.h.qhimg.com^
@@ -48170,6 +48184,7 @@ zzzyk.com###Tinfo
 ||hubbubtheol.com^
 ||hubbysyndoc.com^
 ||hubcloud.com.cn^
+||hubgets.cn^
 ||hubhubhub.name^
 ||hublosk.com^
 ||hubmetric.samsclub.com^
@@ -58192,6 +58207,7 @@ zzzyk.com###Tinfo
 ||lkoulntogv.com^
 ||lkoxbiwi.com^
 ||lkpmprksau.com^
+||lkpxzt.xyz^
 ||lkqd.net^
 ||lkqpxhw.com^
 ||lkqyqwk.xyz^
@@ -63137,6 +63153,7 @@ zzzyk.com###Tinfo
 ||mdws.wscu.com^
 ||mdws.yourcu.com^
 ||mdzvoi.cn^
+||mdzwjra.cn^
 ||me.coact.org.au^
 ||me.glamhive.com^
 ||me.sigsauer.com^
@@ -67870,6 +67887,7 @@ zzzyk.com###Tinfo
 ||neejisee.xyz^
 ||neepsolufab.com^
 ||neerecah.xyz^
+||neess105.top^
 ||neetoutoo.com^
 ||neets.cc/assets/js/dup.js
 ||neeujqf.cn^
@@ -77877,6 +77895,7 @@ zzzyk.com###Tinfo
 ||rareghoa.net^
 ||rareru.ru^
 ||raresummer.com^
+||rarmkce.cn^
 ||rarnational.raisingareader.org^
 ||ras.yahoo.com^
 ||rasahick.space^
@@ -84121,6 +84140,7 @@ zzzyk.com###Tinfo
 ||skbnfa.filorga.com^
 ||skdaj.cn^
 ||skdisplay.jd.com^
+||skdncksklsv.com^
 ||skdunkig.xyz^
 ||skdzxqc.com^
 ||skeeingfondu.life^
