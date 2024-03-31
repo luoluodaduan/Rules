@@ -401,6 +401,7 @@ appledaily.com
 appledaily.com.hk
 appledaily.com.tw
 applinzi.com
+apps.evozi.com
 appshopper.com
 appsocks.net
 appspot-preview.com
@@ -874,6 +875,7 @@ c-spanvideo.org
 c100tibet.org
 c2cx.com
 ca.gov
+cableav.tv
 cablegatesearch.net
 cachefly.net
 cachinese.com
@@ -1122,6 +1124,7 @@ chubun.com
 chuizi.net
 churchinhongkong.org
 chushigangdrug.ch
+ciciai.com
 cienen.com
 cineastentreff.de
 cipfg.org
@@ -1277,6 +1280,7 @@ costco.com
 cotweet.com
 counter.social
 coursehero.com
+coze.com
 cpj.org
 cq99.us
 crackle.com
@@ -3882,6 +3886,7 @@ newnews.ca
 newrelic.com
 news.cnyes.com
 news.com.au
+news.ebc.net.tw
 news.hk.msn.com
 news.msn.com.tw
 news.nationalgeographic.com
