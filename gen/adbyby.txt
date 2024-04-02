@@ -2504,7 +2504,7 @@ $third-party,xmlhttprequest,domain=cocolamanhua.com|subhd.tv|subhdtw.com|xyg688.
 @@||ifengimg.com/pdt/cfg/mudu/aplayer.xml$domain=v.ifeng.com
 @@||iis1.deliver.ifeng.com/showcode?$domain=v.ifeng.com
 @@||ikea.cn^*/img/ads/
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=4gtv.tv|881903.com|ani.gamer.com.tw|appledaily.com|hamivideo.hinet.net|line.me|linetv.tw|litv.tv|mytvsuper.com|nextmedia.com|now.com|tvb.com|udn.com|ulifestyle.com.hk
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=4gtv.tv|881903.com|ani.gamer.com.tw|appledaily.com|ha365.com|hamivideo.hinet.net|line.me|linetv.tw|litv.tv|mytvsuper.com|nextmedia.com|now.com|tvb.com|udn.com|ulifestyle.com.hk
 @@||imfeifan.com/adv/$~third-party
 @@||img.ads.tvb.com^
 @@||img4399.com/static/huodong/daily/fpv2.js
@@ -3784,6 +3784,7 @@ ckdzb.com##div[style="float:right;margin:10px 10px;clear:right;height:310px;widt
 ckxxbao.com##.weixin
 click108.com.tw##.AD_300250
 click108.com.tw##.AD_730280
+cls.cn#@#.share-body
 cmbc.com.cn#@#.adBox
 cmhello.com##.gpost-above
 cmsky.com##.textwidget a[href^="http"]:not([href*="cmsky"])
@@ -8505,6 +8506,7 @@ zzzyk.com###Tinfo
 ||1906920927.rsc.cdn77.org^
 ||1909.me/upload/ad/
 ||1909a8.satofull.jp^
+||192.luyouwang.com^
 ||19273817.com^
 ||1927748188.rsc.cdn77.org^
 ||1933000.com^
@@ -42164,6 +42166,7 @@ zzzyk.com###Tinfo
 ||fq67.top^
 ||fq9vy0muyqi3.www.madrigalmaps.com^
 ||fqanulluixeis.com^
+||fqbjzj.xyz^
 ||fqceyqo.com^
 ||fqcqnb.dwr.com^
 ||fqdwrgbbkmlbh.com^
@@ -53829,6 +53832,7 @@ zzzyk.com###Tinfo
 ||jn23.madeindesign.ch^
 ||jn23.madeindesign.it^
 ||jnaixbgd.com^
+||jnalzla.top^
 ||jndczg.com^
 ||jndxsuy.xyz^
 ||jngdg.top^
@@ -56189,6 +56193,7 @@ zzzyk.com###Tinfo
 ||kwnmhplnqnfxh.xyz^
 ||kwqelx.com^
 ||kwqgprdmmwxyhb.com^
+||kwqnki.xyz^
 ||kwqpix.ravenna.gr^
 ||kwsjy9.oui.sncf^
 ||kwtgntyu.xyz^
@@ -68240,6 +68245,7 @@ zzzyk.com###Tinfo
 ||nawcgetfwpbff.com^
 ||naweslt.cn^
 ||nawpush.com^
+||nawpyd.icu^
 ||naxadrug.com^
 ||naybreath.com^
 ||naysaywinless.guru^
@@ -71902,6 +71908,7 @@ zzzyk.com###Tinfo
 ||osupdate.aliyun.com^
 ||osupdateservice.yunos.com^
 ||osur.dell.com^
+||osusjsga.com^
 ||osuwzo.oyunfor.com^
 ||osvdtm.theshopyohjiyamamoto.jp^
 ||oswegomiting.com^
@@ -78636,6 +78643,7 @@ zzzyk.com###Tinfo
 ||rawasy.com^
 ||rawconstitutionnan.com^
 ||rawjeansadvertising.com^
+||rawmtft.cn^
 ||rawoarsy.com^
 ||raxetyrw.xyz^
 ||raxfracid.com^
@@ -93564,6 +93572,7 @@ zzzyk.com###Tinfo
 ||szmpy.cn^
 ||szmtd.cn^
 ||szmty.cn^
+||szmyl.cn^
 ||szn0ehq.icu^
 ||sznews.com/s?z=
 ||szokwgcjxdt.com^
@@ -102555,6 +102564,7 @@ zzzyk.com###Tinfo
 ||vjrpnv.xyz^
 ||vjsohgd.com^
 ||vjtskjg.com^
+||vjvj.vj24co.com^
 ||vjzjpt.xyz^
 ||vjzlgtnaov.com^
 ||vk920.com/img1/
@@ -108679,6 +108689,7 @@ zzzyk.com###Tinfo
 ||zhjfad.com^
 ||zhmpqpqna.com^
 ||zhmzsjvkii.com^
+||zhnnaxe.xyz^
 ||zhongfujiaoyu.cn^
 ||zhongfumzzew.com^
 ||zhongkaowu.com^
