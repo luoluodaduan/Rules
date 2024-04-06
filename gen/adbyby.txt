@@ -9681,6 +9681,7 @@ zzzyk.com###Tinfo
 ||550b3ikb9j.com^
 ||550sky.com^
 ||5551556.com^
+||555bbb333bbb.com^
 ||555p555p.com^
 ||555vps.cn^
 ||5566ua.com^
@@ -15443,6 +15444,7 @@ zzzyk.com###Tinfo
 ||adyun.com^
 ||adyun.com^$third-party
 ||adzbazar.com^
+||adzdgr-wadd2-f1d.com^
 ||adzerk.net^
 ||adzfun.me^
 ||adzhub.com^
@@ -21803,6 +21805,7 @@ zzzyk.com###Tinfo
 ||bdj5.terrassesmontecarlosbm.com^
 ||bdjdhouhoipj.com^
 ||bdjdpyrt.xyz^
+||bdjfea.cn^
 ||bdjiaoben.wmxa.cn^
 ||bdjj.bzr99.com^
 ||bdjj.makepolo.net^
@@ -43915,6 +43918,7 @@ zzzyk.com###Tinfo
 ||gfupivnzaxi.com^
 ||gfv4.destinia.co.za^
 ||gfxa.sheetmusicplus.com^
+||gfylyw.xyz^
 ||gfzbdtwtlw.com^
 ||gg*.51cto.com^
 ||gg*.miguvideo.com^
@@ -50353,6 +50357,8 @@ zzzyk.com###Tinfo
 ||img599.net/images/*0x
 ||img599.net^$domain=18board.com|18p2p.com
 ||img6.126.net^
+||img8e51zy4bg.com^
+||img8e94zy4bg.com^
 ||img999.com^$popup,domain=tt1069.com
 ||imgad.thepaper.cn^
 ||imgad0.3conline.com^
@@ -61069,6 +61075,7 @@ zzzyk.com###Tinfo
 ||m1.stadiumgoods.com^
 ||m1.vodjk.com^
 ||m1.we556.com^
+||m1170.top^
 ||m1905.cn/afp/mdsfw.js
 ||m1905.cn/data/suspension_
 ||m1905.cn/images/vod/vod*-90.jpg
@@ -68038,6 +68045,7 @@ zzzyk.com###Tinfo
 ||naifshinnied.top^
 ||naiglipu.xyz^
 ||naigristoa.com^
+||naihyvz.cn^
 ||naimoate.xyz^
 ||naipatouz.com^
 ||naipsouz.net^
@@ -70236,6 +70244,7 @@ zzzyk.com###Tinfo
 ||obeysatman.com^
 ||obfrok.partyking.no^
 ||obgdk.top^
+||obgekjz.icu^
 ||obhggjchjkpb.xyz^
 ||obhnrw.furniturebox.se^
 ||obhxvb.tmktools.ru^
@@ -101821,6 +101830,7 @@ zzzyk.com###Tinfo
 ||veinletunapart.com^
 ||veinteractive.com^
 ||veipcwjeupr.com^
+||vejhln.xyz^
 ||vekroata.net^
 ||vel7.xyz^
 ||velaro.com^
@@ -105015,6 +105025,7 @@ zzzyk.com###Tinfo
 ||wnacg.*/w7z/
 ||wnacg.*/w8z/
 ||wnacg.*/zec/
+||wnalzle.top^
 ||wnbfw.com^
 ||wncs.7ez4.cn^
 ||wnd2.destinia.cat^
@@ -108438,6 +108449,7 @@ zzzyk.com###Tinfo
 ||zegrumse.net^
 ||zekeeksaita.com^
 ||zekkdxt.com^
+||zekzoh.icu^
 ||zel-zel-fie.com^
 ||zelatorpukka.com^
 ||zelfo.pw^
