@@ -1196,8 +1196,10 @@ $third-party,xmlhttprequest,domain=cocolamanhua.com|subhd.tv|subhdtw.com|xyg688.
 18-comic.work,18comic.org,18comic.vip,jmcomic.me##.div_sticky2
 18-comic.work,18comic.org,18comic.vip,jmcomic.me##.modal-backdrop
 18-comic.work,18comic.org,18comic.vip,jmcomic.me##a[href*="//"]:not([href*="comic."]) > [style*="back"]
+18-comic.work,18comic.org,18comic.vip,jmcomic.me##a[href*="//"]:not([href*="comic."]) > div[style^="display: block;"]
 18-comic.work,18comic.org,18comic.vip,jmcomic.me##a[href*="//"]:not([href*="comic."]) > img
 18-comic.work,18comic.org,18comic.vip,jmcomic.me##a[href*="//"]:not([href*="comic."]) > img + [style]
+18-comic.work,18comic.org,18comic.vip,jmcomic.me#?#:-abp-has(>ins+div)
 18-comic.work,18comic.org,18comic.vip,jmcomic.me#?#:-abp-has(>ins+script)
 18-comic.work,18comic.org,18comic.vip,jmcomic.me#?#:-abp-has(>ins+style)
 18-comic.work,18comic.org,18comic.vip,jmcomic.me#?#:-abp-has(>script+ins)
@@ -5068,6 +5070,8 @@ huya.com##.j_posterItem[href^="http"]:not([href*=".huya."])
 huya.com##.room-business-game
 huya.com##.small-handle-tip
 huya.com##.tt[style*="1200px"]
+hvhbbs.com##.block[data-widget-definition="SwiperWidget"]
+hvhbbs.com##.margin-add > style + div
 hxnews.com##.banner-90
 hxsame.hexun.com$domain=~quote.hexun.com
 hy5.com.cn##.toplogoad
@@ -8559,6 +8563,7 @@ zzzyk.com###Tinfo
 ||1f3k.com^
 ||1f6f6bfb05.com^
 ||1f7eece503.com^
+||1f84e33459.com^
 ||1f87527dc9.com^
 ||1f98dc1262.com^
 ||1fd92n6t8.de^
@@ -11069,6 +11074,7 @@ zzzyk.com###Tinfo
 ||a0food.top^
 ||a0x.cn^
 ||a1.289.com^
+||a1.51shiti.cn^
 ||a1.99933.cn^
 ||a1.99966.cn^
 ||a1.aichagu.com^
@@ -34658,6 +34664,7 @@ zzzyk.com###Tinfo
 ||dlkoo.com/down/copy
 ||dlmr7hpb2buud.cloudfront.net^
 ||dlne6myudrxi1.cloudfront.net^
+||dlngft.xyz^
 ||dload.qd.qingting.fm^
 ||dloeloqua.danskespil.dk^
 ||dlogs.bwton.com^
@@ -38995,6 +39002,7 @@ zzzyk.com###Tinfo
 ||equirekeither.xyz^
 ||equity.e2g.com^
 ||equitydefault.com^
+||equkgm.xyz^
 ||eqvioe.polihome.gr^
 ||eqvudqracrhalsg.com^
 ||eqy.link^
@@ -46184,6 +46192,7 @@ zzzyk.com###Tinfo
 ||guvnsusr.com^
 ||guvsxiex.xyz^
 ||guwait.com^
+||guwohvw.icu^
 ||guwuym.barneys.co.jp^
 ||guxdjfuuhey.xyz^
 ||guxedsuba.com^
@@ -49318,6 +49327,7 @@ zzzyk.com###Tinfo
 ||iethpk.notino.ro^
 ||ietyofedinj89yewtburgh.com^
 ||ievjylvqfjry.com^
+||ievvo.xyz^
 ||iewhonhdvryu.com^
 ||iewtwo.xyz^
 ||iezptsoc.com^
@@ -55927,6 +55937,7 @@ zzzyk.com###Tinfo
 ||kphcrjth.xyz^
 ||kphnncpx.xyz^
 ||kpkgkkbs.xyz^
+||kpmose.xyz^
 ||kpougoavtxkrew.com^
 ||kpphqv.emp-online.it^
 ||kppt.cc/zb_system/script/common.js
@@ -66377,6 +66388,7 @@ zzzyk.com###Tinfo
 ||mldys.14yzc.cn^
 ||mldys.mfis6.cn^
 ||mldys.mqchy.cn^
+||mldzwmt.xyz^
 ||mlegyu.xyz^
 ||mlfolu.nabava.net^
 ||mlgubn.autouncle.de^
@@ -66472,6 +66484,7 @@ zzzyk.com###Tinfo
 ||mmn811.top^
 ||mmnc87.shop^
 ||mmnetwork.mobi^
+||mmo2350.top^
 ||mmoddkdn.com^
 ||mmoframes.com^
 ||mmondi.com^
@@ -72443,6 +72456,7 @@ zzzyk.com###Tinfo
 ||ozesrbglrp.com^
 ||ozgqwv.xyz^
 ||ozhhujt.com^
+||ozhmig.cn^
 ||ozihechzlcsgs.com^
 ||ozkbdxdu.icu^
 ||ozkkuy.fabianafilippi.com^
@@ -96462,6 +96476,7 @@ zzzyk.com###Tinfo
 ||tmy8.madeindesign.ch^
 ||tmyzer.com^
 ||tmztcfp.com^
+||tnalzli.top^
 ||tnative.ru^
 ||tnc3-aliec1.toutiaoapi.com^
 ||tnc3-aliec1.zijieapi.com^
@@ -103105,6 +103120,7 @@ zzzyk.com###Tinfo
 ||vwtjvd.xyz^
 ||vwtqjotm.com^
 ||vwuyuahqf.com^
+||vwyycnq.cn^
 ||vxcjoz.nextadvisor.com^
 ||vxdgsgdsvlwz.com^
 ||vxdpmxw.xyz^
