@@ -1799,6 +1799,8 @@ $third-party,xmlhttprequest,domain=cocolamanhua.com|subhd.tv|subhdtw.com|xyg688.
 91porny.com,9s102.xyz,jiuse205.com,jiuse390.xyz,jiuse970.com##.container-fluid.p-0[class*="mb-"]
 91porny.com,9s102.xyz,jiuse205.com,jiuse390.xyz,jiuse970.com##.jsv-g1
 91porny.org,jiuse.io###main > div[id^="rd"]
+91porny.org,jiuse.io##.footer + .block
+91porny.org,jiuse.io#?#.card:-abp-has(>.card-image>a[href^="http"])
 920share.com###layui-layer1
 92sucai.com##.adtg2
 92wy.com##.adhengfu
@@ -2929,6 +2931,7 @@ $third-party,xmlhttprequest,domain=cocolamanhua.com|subhd.tv|subhdtw.com|xyg688.
 @@||youaima.com/zz/play_
 @@||youku.com/cms/player/userinfo/
 @@||youku.com/cms/playlog/get?
+@@||youneed.win^$generichide
 @@||yummy.best^$generichide
 @@||yunduanxin.xyz/static/js/banger.js
 @@||yunjiema.top/static/js/wpsafelink.js
@@ -5593,8 +5596,6 @@ jisuxz.com##.dl_gaosu
 jitashe.org##.bc_side_250
 jitashe.org##a[href*=".makeding.com/"]
 jiumodiary.com###forum-panel
-jiuse.io##.footer + .block
-jiuse.io#?#.card:-abp-has(>.card-image>a[href^="http"])
 jiyingdm.com###otherWindowBox
 jiyingdm.com##.abcde
 jjckb.cn##.adv_ment
@@ -6169,7 +6170,11 @@ mydigit.cn##.view-hover[channelid="smzdm"]
 mydigit.cn,storyren.top###diyfastposttop
 mydown.com##.adv2
 mydown.com##.advertisement_pic
+mydown.com##.aqDownload
+mydown.com##.doubleDownload_bottom
+mydown.com##.doubleDownload_content > .middle
 mydown.com##.fcGg
+mydown.com##.fc_anqDown
 mydowndown.com#?#.bs-component:-abp-has(>a[href*="97jez.com"])
 mydrivers.com###div_newsyjgg
 mydrivers.com##.adds
@@ -33642,6 +33647,7 @@ zzzyk.com###Tinfo
 ||dg0hrtzcus4q4.cloudfront.net^
 ||dg6gu9iqplusg.cloudfront.net^
 ||dgafgadsgkjg.top^
+||dgaxrjj0jwpwp.cloudfront.net^
 ||dgaxzn.samma3a.com^
 ||dgayibf.icu^
 ||dgbftl.luckyvitamin.com^
@@ -37241,6 +37247,7 @@ zzzyk.com###Tinfo
 ||echskbpghlc.com^
 ||eciea.xyz^
 ||eciivxqtur.com^
+||ecikmrm.icu^
 ||ecipientconcertain.info^
 ||ecityonatallcol.info^
 ||eclassified.my/cp_featured
@@ -58899,6 +58906,7 @@ zzzyk.com###Tinfo
 ||ln.ameba.jp^
 ||ln0.com.cn^
 ||lnabew.com^
+||lnalzll.top^
 ||lnbcfjkld.com^
 ||lnbdbdo.com^
 ||lncfuqbgpnmxm.xyz^
@@ -69022,6 +69030,7 @@ zzzyk.com###Tinfo
 ||nfmovies.com/static/*.jpg
 ||nfmovies.com/static/210203.png
 ||nfoxlyvassg.com^
+||nfptyfk.xyz^
 ||nftfyvbfbonpe.com^
 ||nfudeh.jadebag.co.kr^
 ||nfupxwsdzbqen.com^
@@ -71264,6 +71273,7 @@ zzzyk.com###Tinfo
 ||onaged.com^
 ||onagriflocoon.com^
 ||onagsc.xyz^
+||onalzlk.top^
 ||onameketathar.com^
 ||onandeggsis.com^
 ||onasider.top^
@@ -97125,6 +97135,7 @@ zzzyk.com###Tinfo
 ||tpopularcldfb.co^
 ||tposkglvqookv.xyz^
 ||tpstelemetry.tencent.com^
+||tptgvh.xyz^
 ||tptoon.com/skin/js/tjtjkk.
 ||tptp002.cfd^
 ||tpubrk.eobuv.com^
@@ -99915,6 +99926,7 @@ zzzyk.com###Tinfo
 ||tywdchppfgds.xyz^
 ||tyxo.bg^
 ||tyxo.com^
+||tyzfoej.cn^
 ||tz-68-fabb.com/qiye/
 ||tz-dsp.com^
 ||tz.1688988.com^
@@ -100956,6 +100968,7 @@ zzzyk.com###Tinfo
 ||uoflkjdc.com^
 ||uogqym.christopherandbanks.com^
 ||uogtrmjz.xyz^
+||uohvxrvd.xyz^
 ||uohxijnkd.com^
 ||uojoqx.icu^
 ||uoktyggqexq.com^
@@ -103601,6 +103614,7 @@ zzzyk.com###Tinfo
 ||wantopticalfreelance.com^
 ||wantsindulgencehum.com^
 ||wanwan.sina.com.cn/third_party/
+||waouss.xyz^
 ||wap.2f.com^
 ||wap.bytdzsw.com^
 ||wap.hfoyjg.cn^
@@ -106754,6 +106768,7 @@ zzzyk.com###Tinfo
 ||xmltym2.cn^
 ||xmlwiz.com^
 ||xmlwizard.com^
+||xmnkgi.cn^
 ||xmnmeu.cn^
 ||xmohlh.melia.com^
 ||xmq123.cn^
