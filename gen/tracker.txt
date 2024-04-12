@@ -44,8 +44,6 @@ http://torrentsmd.com:8080/announce
 
 http://tracker.bt4g.com:2095/announce
 
-http://tracker.dler.org:6969/announce
-
 http://tracker.edkj.club:6969/announce
 
 http://tracker.electro-torrent.pl:80/announce
@@ -58,11 +56,13 @@ http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
+http://tracker.k.vu:6969/announce
+
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.netmap.top:6969/announce
-
 http://tracker.opentrackr.org:1337/announce
+
+http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
@@ -80,9 +80,13 @@ http://www.peckservers.com:9000/announce
 
 http://www.wareztorrent.com:80/announce
 
+https://1337.abcvg.info:443/announce
+
 https://shahidrazi.online:443/announce
 
 https://t1.hloli.org:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -96,8 +100,6 @@ https://tracker.gbitt.info:443/announce
 
 https://tracker.gcrreen.xyz:443/announce
 
-https://tracker.imgoingto.icu:443/announce
-
 https://tracker.ipfsscan.io:443/announce
 
 https://tracker.kuroy.me:443/announce
@@ -105,8 +107,6 @@ https://tracker.kuroy.me:443/announce
 https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
-
-https://tracker.netmap.top:8443/announce
 
 https://tracker.renfei.net:443/announce
 
@@ -117,6 +117,8 @@ https://tracker.yemekyedim.com:443/announce
 https://tracker1.520.jp:443/announce
 
 https://trackers.mlsub.net:443/announce
+
+https://trackers.ptlsp.com:443/announce
 
 https://www.peckservers.com:9443/announce
 
@@ -182,8 +184,6 @@ udp://ipv4.rer.lol:2710/announce
 
 udp://ipv6.fuuuuuck.com:6969/announce
 
-udp://isk.richardsw.club:6969/announce
-
 udp://jutone.com:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
@@ -203,6 +203,8 @@ udp://oh.fuuuuuck.com:6969/announce
 udp://open.demonii.com:1337/announce
 
 udp://open.demonoid.ch:6969/announce
+
+udp://open.free-tracker.ga:6969/announce
 
 udp://open.publictracker.xyz:6969/announce
 
@@ -257,8 +259,6 @@ udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.anima.nz:6969/announce
-
-udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.ccp.ovh:6969/announce
 
@@ -331,8 +331,6 @@ udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
-
-udp://u6.trakx.crim.ist:1337/announce
 
 udp://wepzone.net:6969/announce
 

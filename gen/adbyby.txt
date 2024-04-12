@@ -1969,7 +1969,7 @@ $third-party,xmlhttprequest,domain=cocolamanhua.com|subhd.tv|subhdtw.com|xyg688.
 @@/advertisement/*$domain=ininin.com|midea.com|muyingzhijia.com|nmkjxy.com
 @@/advertising/*$domain=315.sh.cn
 @@/adverts/*$domain=onlychild.cn
-@@/adview_pic_$domain=bigpixel.cn|fffmo.com|itbaoku.cn|laimanhua.net|lfqie.com|lingjike.com|mahua.com|mati.hk|meiyouad.com|mh160.com|reh.tw|silisili.in|sssam.com|yanyue.cn|zgpingshu.com
+@@/adview_pic_$domain=zaixianjisuan.com|bigpixel.cn|fffmo.com|itbaoku.cn|laimanhua.net|lfqie.com|lingjike.com|mahua.com|mati.hk|meiyouad.com|mh160.com|reh.tw|silisili.in|sssam.com|yanyue.cn|zgpingshu.com
 @@/advs/*$domain=ciros.com.cn|gotobuy.com.tw|sj-touch.com
 @@/adx.$domain=tanx.com
 @@/analytics.php?$domain=xcar.com.cn
@@ -2660,6 +2660,7 @@ $third-party,xmlhttprequest,domain=cocolamanhua.com|subhd.tv|subhdtw.com|xyg688.
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl$domain=ff14angler.com|logi.im
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=doitwell.tw
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=23qb.net|4spaces.org|aboluowang.com|assbbs.com|chaojizhibo.net|chtoen.com|daxiaamu.com|demo.ama.pub|dizhishengcheng.com|doitwell.tw|ekamus.info|eu4cn.com|ff14angler.com|freedidi.com|haoweichi.com|it365.abctool.info|linovelib.com|logi.im|monnsutogatya.com|mpyit.com|myqqjd.com|numberempire.com|ozabc.com|pansearch.me|patch.ali213.net|pc3mag.com|reh.tw|shenfendaquan.com|sistersbedroom.com|sto520.com|vaptcha.com|wandhi.com|wenxuecity.com|wuyong.fun|xbeibeix.com|xiebruce.top|xugaoxiang.com|xxxxx520.com|yodu.org|yummy.best
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=zaixianjisuan.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=duelmeta.com|linetv.tw|liout.com|moneysave.info|zxmee.com
 @@||pagead2.googlesyndication.com/pagead/js/google_top_exp.js$domain=ebb.io
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=knowlet3389.blogspot.com|knowlet3389.blogspot.hk|knowlet3389.blogspot.jp|knowlet3389.blogspot.tw|mnighthk.net|weithenn.org
@@ -2936,6 +2937,7 @@ $third-party,xmlhttprequest,domain=cocolamanhua.com|subhd.tv|subhdtw.com|xyg688.
 @@||yunduanxin.xyz/static/js/banger.js
 @@||yunjiema.top/static/js/wpsafelink.js
 @@||yygsz.com^$generichide
+@@||zaixianjisuan.com^$generichide
 @@||zhaiyd5.com^$script,domain=louzhong8.com|miwens.com
 @@||zjjcxy.cn^*/ad.css?$stylesheet
 @@||zmtt.net^$script,domain=luoqiuzw.com
@@ -23682,6 +23684,7 @@ zzzyk.com###Tinfo
 ||booster.monster^
 ||booster3d.com^
 ||boostog.net^
+||bootcdn.net/ajax/libs/jquery-cookie/*/jquery.cookie.$domain=zaixianjisuan.com
 ||bootcss.com/assets/js/and
 ||bootstrap-framework.org^
 ||bootstrap-js.com^
@@ -93786,6 +93789,7 @@ zzzyk.com###Tinfo
 ||szmpy.cn^
 ||szmtd.cn^
 ||szmty.cn^
+||szmwr.cn^
 ||szmyl.cn^
 ||szn0ehq.icu^
 ||sznews.com/s?z=
@@ -106236,6 +106240,7 @@ zzzyk.com###Tinfo
 ||xambxhihx.com^
 ||xameleonads.com^
 ||xammcokaho.com^
+||xamssp.icu^
 ||xanawet.com^
 ||xannevugjv.com^
 ||xapads.com^
@@ -106252,6 +106257,7 @@ zzzyk.com###Tinfo
 ||xaxrtiahkft.com^
 ||xay5o.toscane-boutique.fr^
 ||xayiqcwbmmhwf.com^
+||xayjbz.com/static/images/apc.
 ||xayjr.cn^
 ||xazhuozhi.com^
 ||xazwlyh.com^
