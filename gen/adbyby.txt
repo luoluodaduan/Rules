@@ -204,6 +204,7 @@ $third-party,xmlhttprequest,domain=cocolamanhua.com|subhd.tv|subhdtw.com|xyg688.
 .xyz/upload/ad/
 .xyz/vh1/$script,third-party
 .xyz/z/*/code.js$script,third-party
+.xyz:8009/11?x=
 .zone/ads/
 /0mbjs/2800av*.js
 /1.js?ssfrid=$script,third-party
@@ -10165,6 +10166,7 @@ zzzyk.com###Tinfo
 ||777aa999aa.com^
 ||777bb111ww.com^
 ||777bbb222bbb.com^
+||777bbb777www.com^
 ||777partner.com^
 ||777partner.net^
 ||777partners.com^
@@ -10402,6 +10404,7 @@ zzzyk.com###Tinfo
 ||8886i.top^
 ||888bb555ww.com^
 ||888bb666cc.com^
+||888bbb555www.com^
 ||888cool.cn^
 ||888fr.xyz^
 ||888media.net^
@@ -30110,6 +30113,7 @@ zzzyk.com###Tinfo
 ||crazyrocket.io^
 ||crb-frm-71.com^
 ||crbbgate.com^
+||crbbhp.xyz^
 ||crcgrilses.com^
 ||crdefault.link^
 ||crdefault1.com^
@@ -30624,6 +30628,7 @@ zzzyk.com###Tinfo
 ||cunyiesus.com^
 ||cupboardbangingcaptain.com^
 ||cupfox.app^$third-party
+||cupid.iqiyi.com/mixer?
 ||cupid.iqiyi.com^
 ||cupidirresolute.com^
 ||cupidonmedia.com^
@@ -31012,6 +31017,7 @@ zzzyk.com###Tinfo
 ||czvdlp.hgregoire.com^
 ||czvdyzt.com^
 ||czx5eyk0exbhwp43ya.biz^
+||czxvgod.xyz^
 ||czyoxhxufpm.com^
 ||d*.ruiwen.com^
 ||d*.xinshipu.com^
@@ -42485,6 +42491,7 @@ zzzyk.com###Tinfo
 ||fqewxjjgfb.com^
 ||fqfclmlo.xyz^
 ||fqfjmojnjslr.com^
+||fqghykp.cn^
 ||fqhsolrj.com^
 ||fqirjff.com^
 ||fqjelyhrbrmyvte.com^
@@ -46373,6 +46380,7 @@ zzzyk.com###Tinfo
 ||gtsads.com^
 ||gtudkfe.com^
 ||gtwimkngw.com^
+||gtxkze.cn^
 ||gtxlouky.xyz^
 ||gtxyaiihuwkdbk.com^
 ||gtzpic.opodo.co.uk^
@@ -46599,6 +46607,7 @@ zzzyk.com###Tinfo
 ||gxgrrrovnlgjcv.xyz^
 ||gxgu9gktreso.com^
 ||gxhbsapkkdni.xyz^
+||gxihcq.xyz^
 ||gxikmksjuz.com^
 ||gxjajt.com^
 ||gxmlkgraj.com^
@@ -53337,6 +53346,7 @@ zzzyk.com###Tinfo
 ||iyqaosd.com^
 ||iyuedu.cn.com^
 ||iyumiao.com.cn^
+||iyuwkbo.top^
 ||iyvxqckadbplaa.com^
 ||iyvzqt.agabangmall.com^
 ||iyybqzv.cn^
@@ -54238,6 +54248,7 @@ zzzyk.com###Tinfo
 ||jmbluyxkl.xyz^
 ||jmcnwr.bricoprive.com^
 ||jmeeersdkmoir.xyz^
+||jmesxbe.icu^
 ||jmgehn.cn^
 ||jmghfyieixqw.com^
 ||jmhfw.com/index.php?/ajax/get_adv/
@@ -54918,6 +54929,7 @@ zzzyk.com###Tinfo
 ||jtxrou.saucony.com^
 ||jtys8.com^
 ||jtyusia.top^
+||jtzdld.xyz^
 ||ju23.madeindesign.co.uk^
 ||ju33.com^
 ||ju427bv7an9n.com^
@@ -94471,6 +94483,7 @@ zzzyk.com###Tinfo
 ||szpwf.cn^
 ||szpwg.cn^
 ||szpwh.cn^
+||szpzk.cn^
 ||szpzm.cn^
 ||szqxvo.com^
 ||szrpr.raen.com^
@@ -100330,6 +100343,7 @@ zzzyk.com###Tinfo
 ||tukexiu.com^
 ||tukj.net^
 ||tukulordimera.com^
+||tuky889900.com^
 ||tula9mari.com^
 ||tulasitoughie.com^
 ||tuleceti.com^
