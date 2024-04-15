@@ -738,7 +738,6 @@ blogjav.net
 bloglines.com
 bloglovin.com
 blogs.com
-blogs.icerocket.com
 blogs.libraryinformationtechnology.com
 blogs.tampabay.com
 blogsmithmedia.com
@@ -2770,6 +2769,7 @@ ibvpn.com
 ibw.bwnet.com.tw
 icams.com
 ice.audionow.com
+icedrive.net
 icerocket.com
 icij.org
 icl-fi.org
@@ -4686,6 +4686,7 @@ ronjoneswriter.com
 roodo.com
 rosechina.net
 rotten.com
+rou.video
 rpglogs.com
 rri.ro
 rsdlmonitor.com
