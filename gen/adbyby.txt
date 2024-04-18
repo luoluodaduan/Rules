@@ -2624,6 +2624,7 @@ $third-party,xmlhttprequest,domain=cocolamanhua.com|subhd.tv|subhdtw.com|xyg688.
 @@||money18.on.cc/js/adbanner.js
 @@||moneysave.info^$generichide
 @@||monnsutogatya.com^$elemhide
+@@||morosedog.gitlab.io^$generichide
 @@||moyens.net^$generichide
 @@||ms332.com^$generichide
 @@||msecnd.net/scripts/jsll-$domain=microsoft.com
@@ -3536,10 +3537,12 @@ bookrbx.com##a[href="/rmtj.html"]
 booktxts.com##div[style*="position:"]
 booom.net,x6d.com##.tmall_tab
 boylov.xyz,boylove.cc,boyloves.fun###fake_avivid_waterfall_webpush
+boylov.xyz,boylove.cc,boyloves.fun##.div_sticky2
 boylov.xyz,boylove.cc,boyloves.fun##.owl-carousel
 boylov.xyz,boylove.cc,boyloves.fun##.swiper-wrapper
 boylov.xyz,boylove.cc,boyloves.fun##div[data-type="1"]
 boylov.xyz,boylove.cc,boyloves.fun##div[style="display: block"]
+boylov.xyz,boylove.cc,boyloves.fun##style + div[style="cursor: pointer; position: relative;"]
 boylov.xyz,boylove.cc,boyloves.fun#?#:-abp-has(>.adsbyexoclick)
 boyoushe.com##a[href^="http"]:not([href*=".boyoushe"]) > .j-lazy
 brandsales.58.com#@#div[id^="ad_"]
@@ -21984,6 +21987,7 @@ zzzyk.com###Tinfo
 ||bdoaustralia.bdo.com.au^
 ||bdp.cn^
 ||bdplus.baidu.com^
+||bdpretc.cn^
 ||bdpxghphiwykioy.com^
 ||bdqjqfqyw.xyz^
 ||bdqolehoomnyk.com^
@@ -23404,6 +23408,7 @@ zzzyk.com###Tinfo
 ||blzjjrwbwvjav.top^
 ||blzsnd02.com^
 ||blzz.xyz^
+||bm.h576.com^
 ||bm23.com^
 ||bmail.getventive.com^
 ||bmatgg18.xyz^
@@ -36089,6 +36094,7 @@ zzzyk.com###Tinfo
 ||dti-ranker.com^
 ||dtiserv2.com^
 ||dtjhtp.xyz^
+||dtjpihv.xyz^
 ||dtkhbsictxpu.com^
 ||dtlog.szy.cn^
 ||dtmm9h2satghl.cloudfront.net^
@@ -40191,6 +40197,7 @@ zzzyk.com###Tinfo
 ||exceedinglydiscovered.com^
 ||excelelernody.info^
 ||excelfriendsdistracting.com^
+||excelhome.net/js/banner-
 ||excellenceads.com^
 ||excellent-vids.online^
 ||excellentafternoon.com^
@@ -43898,6 +43905,7 @@ zzzyk.com###Tinfo
 ||gcn.tuv.com^
 ||gcoiys.cutsclothing.com^
 ||gcomfbzrsa.com^
+||gcomwx.icu^
 ||gcowhi.thesalarycalculator.co.uk^
 ||gcprivacy.com^
 ||gcqciiqk.com^
@@ -49352,6 +49360,7 @@ zzzyk.com###Tinfo
 ||hutanz.xyz^
 ||hutkse.wecandoo.fr^
 ||hutremindbond.com^
+||huuocxu.icu^
 ||huvohjvpaog.com^
 ||huwkiycoup.com^
 ||huwuftie.com^
@@ -56025,6 +56034,7 @@ zzzyk.com###Tinfo
 ||kgbokc.masrefacciones.mx^
 ||kgcyvd.com^
 ||kgdvs9ov3l2aasw4nuts.com^
+||kgdyoh.icu^
 ||kgelugaz.com^
 ||kgfjrb711.com^
 ||kggikf.icu^
@@ -56034,6 +56044,7 @@ zzzyk.com###Tinfo
 ||kglqjacmqmns.com^
 ||kgmobilestat.kugou.com^
 ||kgouzrranqt.com^
+||kgqcse.xyz^
 ||kgqipyttin.com^
 ||kgqxzw.blue-tomato.com^
 ||kgqzgj.rougegorge.com^
@@ -94946,6 +94957,7 @@ zzzyk.com###Tinfo
 ||szbzp.cn^
 ||szfcol.com/images/wxright240.jpg
 ||szfcol.com/js/siteAd.js
+||szftg.cn^
 ||szgaikk.com^
 ||szgpmy.com/js/
 ||szhcyxtszb.com^
@@ -103963,6 +103975,7 @@ zzzyk.com###Tinfo
 ||vipdage.com/wp-content/uploads/ad/
 ||viperishly.com^
 ||vipfanyongwang.com^
+||vipgogo123.site^
 ||vipicmou.net^
 ||vipvps.shop^
 ||vipwao.nutrimuscle.com^
@@ -107922,6 +107935,7 @@ zzzyk.com###Tinfo
 ||xiaoshuo.zhandao.net^
 ||xiaoshuoyun.cn^
 ||xiaosss.ren^
+||xiaoweixiaoshuo.com/ad/
 ||xiaoxiuapp.com^
 ||xiaoy.name^
 ||xiaoyang.mobi^
