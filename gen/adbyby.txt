@@ -14820,7 +14820,6 @@ zzzyk.com###Tinfo
 ||ads.cc^
 ||ads.ccstock.cn^
 ||ads.cdn.rovio.com^
-||ads.cdn.tvb.com^
 ||ads.ce.cn^
 ||ads.csdn.net^
 ||ads.cyberctm.com^
@@ -40189,6 +40188,7 @@ zzzyk.com###Tinfo
 ||ewtdzpwufzsnc.com^
 ||ewtgmfajrdhsyn.xyz^
 ||ewtuyytdf45.com^
+||ewxufqs.cn^
 ||ewygto.swanicoco.co.kr^
 ||ewzavfde.xyz^
 ||ex.mobmore.com^
@@ -64986,6 +64986,7 @@ zzzyk.com###Tinfo
 ||meowpushnot.com^
 ||meowthon.com^
 ||mepirtedic.com^
+||meqanhm.icu^
 ||meqjdrrrxhdtgj.xyz^
 ||mer.stdout.cz^
 ||mercadeo.promerica.fi.cr^
@@ -76046,6 +76047,7 @@ zzzyk.com###Tinfo
 ||pllah.com^
 ||plmhezvbcjcywo.com^
 ||plmwsl.com^
+||plnbnd.xyz^
 ||plnrkgc.xyz^
 ||plnshao.xyz^
 ||plntxgh.com^
@@ -79501,6 +79503,7 @@ zzzyk.com###Tinfo
 ||qysknb.fukuishimbun.co.jp^
 ||qysnzg.bien-zenker.de^
 ||qyun.vip/pic/*.gif
+||qyuwkby.top^
 ||qyuzwd.maskworld.com^
 ||qyvklvjejrmkz.top^
 ||qyvklvjejrmwo.top^
@@ -79514,6 +79517,7 @@ zzzyk.com###Tinfo
 ||qzesmjv.com^
 ||qzfxcf.coastal.com^
 ||qzgjprj.com^
+||qziuwzn.cn^
 ||qzkjkiexmsyv.com^
 ||qzl8.destinia.fi^
 ||qzlog.com^
@@ -81679,6 +81683,7 @@ zzzyk.com###Tinfo
 ||rnnstu.rentbeforeowning.com^
 ||rnoddenkn.asia^
 ||rnotraff.com^
+||rnpkxgfp.xyz^
 ||rnqjfeuwrvd.com^
 ||rnrycry.com^
 ||rntdqwc.xyz^
@@ -101321,6 +101326,7 @@ zzzyk.com###Tinfo
 ||tytyeastfeukufun.info^
 ||tyuetxt.com^
 ||tyumen.net.anwalt.de^
+||tyuwkbi.top^
 ||tyvuwf.lameteoagricole.net^
 ||tywdchppfgds.xyz^
 ||tyxo.bg^
@@ -101598,6 +101604,7 @@ zzzyk.com###Tinfo
 ||udjdpyrt.xyz^
 ||udjfnbl.zwdu.com^
 ||udkcrj.com^
+||udkpcc.xyz^
 ||udksgsuvcpm.com^
 ||udlqdkqdfymq.com^
 ||udmmdl.dudalina.com.br^
@@ -103219,6 +103226,7 @@ zzzyk.com###Tinfo
 ||valleymuchunnecessary.com^
 ||valleysinstruct.com^
 ||valleysrelyfiend.com^
+||valo.atm.youku.com^
 ||valonghost.xyz^
 ||valornutricional.cc^
 ||valoxxx.net^
@@ -106654,6 +106662,7 @@ zzzyk.com###Tinfo
 ||wkpjgh.toysrus.pt^
 ||wkqcnkstso.com^
 ||wkrcbszi.xyz^
+||wkrhel.icu^
 ||wkudly.realtruck.com^
 ||wkwqljwykojvm.top^
 ||wkwqljwykollz.top^
@@ -109300,6 +109309,7 @@ zzzyk.com###Tinfo
 ||yjxzvqy.xyz^
 ||yjyc-ask.com/res/ads/
 ||yk-ssp.ad.youku.com^
+||ykad-data.cp31.ott.cibntv.net^
 ||ykad-data.youku.com^
 ||ykad-gateway.youku.com^
 ||ykatr.youku.com^

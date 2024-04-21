@@ -6222,7 +6222,6 @@
 .ads.cc
 .ads.ccstock.cn
 .ads.cdn.rovio.com
-.ads.cdn.tvb.com
 .ads.ce.cn
 .ads.csdn.net
 .ads.cyberctm.com
@@ -92400,6 +92399,7 @@
 .valleymuchunnecessary.com
 .valleysinstruct.com
 .valleysrelyfiend.com
+.valo.atm.youku.com
 .valonghost.xyz
 .valornutricional.cc
 .valoxxx.net
@@ -98168,6 +98168,7 @@
 .yjxssk.apartments.com
 .yjxzvqy.xyz
 .yk-ssp.ad.youku.com
+.ykad-data.cp31.ott.cibntv.net
 .ykad-data.youku.com
 .ykad-gateway.youku.com
 .ykatr.youku.com
