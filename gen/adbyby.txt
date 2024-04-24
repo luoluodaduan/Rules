@@ -10427,6 +10427,8 @@ zzzyk.com###Tinfo
 ||88lm09.com^
 ||88lm10.com^
 ||88lm11.com^
+||88lm12.com^
+||88lm13.com^
 ||88ng.com^
 ||88nu.info^
 ||88p2p.com^$popup
@@ -37175,6 +37177,7 @@ zzzyk.com###Tinfo
 ||eacla.com^
 ||eadaqfkkrprf.com^
 ||eadsrv.com^
+||eaezoi.xyz^
 ||eafb9d5abc.com^
 ||eagazi.com^
 ||eagle-insight.com^
@@ -42590,6 +42593,7 @@ zzzyk.com###Tinfo
 ||fprnt.com^
 ||fpt.inxinternational.com^
 ||fpt.microsoft.com^
+||fptbdr.xyz^
 ||fptdxkm.com^
 ||fptls.com^
 ||fptls2.com^
@@ -60701,6 +60705,7 @@ zzzyk.com###Tinfo
 ||lytiks.com^
 ||lytrjx.cn^
 ||lyunsd.cn^
+||lyuwkbl.top^
 ||lyvbqbvwlbery.top^
 ||lyvbqbvwllblj.top^
 ||lyvbqbvwllvnb.top^
@@ -66805,6 +66810,7 @@ zzzyk.com###Tinfo
 ||mining.best^
 ||mining711.com^
 ||mininghub.club^
+||miningzhizhong.top^
 ||minippa.cn^
 ||minisite.letv.com^
 ||minisite.vidown.cn^
@@ -81582,6 +81588,7 @@ zzzyk.com###Tinfo
 ||romeccs.microsoft.com^
 ||romepoptahul.com^
 ||romivapsi.com^
+||romiyee.icu^
 ||rompishvariola.com^
 ||ron.si^
 ||ronatorda.com^
@@ -94853,6 +94860,7 @@ zzzyk.com###Tinfo
 ||szpwf.cn^
 ||szpwg.cn^
 ||szpwh.cn^
+||szpxp.cn^
 ||szpzk.cn^
 ||szpzm.cn^
 ||szqxvo.com^
@@ -102705,6 +102713,7 @@ zzzyk.com###Tinfo
 ||uun.1uandun.com^
 ||uunak.cn^
 ||uunczm.lescon.com.tr^
+||uunfybw.cn^
 ||uuoizbtl.xyz^
 ||uurykr.pizzahut.com.mx^
 ||uurzdr.global-style.jp^
@@ -108862,6 +108871,8 @@ zzzyk.com###Tinfo
 ||yhbheroq.xyz^
 ||yhdd1.com^
 ||yhdd1.com^$third-party
+||yhdemu368.shop^
+||yhderd69.shop^
 ||yhdm44.com/123.html
 ||yhdongman.xyz/piao/
 ||yhgpuxim.xyz^
