@@ -2419,7 +2419,7 @@ $third-party,xmlhttprequest,domain=cocolamanhua.com|subhd.tv|subhdtw.com|xyg688.
 @@||forexprostools.com^$domain=shougedui.com
 @@||fotor.com.cn/static/web/share/js/
 @@||freedidi.com^$generichide
-@@||freereceivesms.com/js/peel1.js
+@@||freereceivesms.com/weborama.js
 @@||friday.tw/backend/uploadpic/adindex/
 @@||fscinda.com/ad/$~third-party
 @@||ftp.bmp.ovh^
@@ -33903,6 +33903,7 @@ zzzyk.com###Tinfo
 ||dfqcp2awt0947.cloudfront.net^
 ||dfr.deloitte.com^
 ||dfsdkkka.com^
+||dfsgppz.icu^
 ||dftckxqklqe.xyz^
 ||dftjcofe.com^
 ||dftoutiao.com/dfpcitv/pcitv?jsonpcallback=
@@ -40135,6 +40136,7 @@ zzzyk.com###Tinfo
 ||ewhareey.com^
 ||ewikajs.com^
 ||ewioud.com^
+||ewjhic.cn^
 ||ewkjfwwld.xyz^
 ||ewlfcpnqlylef.com^
 ||ewoodandwaveo.com^
@@ -49386,6 +49388,7 @@ zzzyk.com###Tinfo
 ||hwads-t.api.my7v.com^
 ||hwbekhxxihvdoue.com^
 ||hwderdk.com^
+||hweriou.top^
 ||hwfmynim.com^
 ||hwfnlmmqn.com^
 ||hwfoct.icu^
@@ -53567,6 +53570,7 @@ zzzyk.com###Tinfo
 ||ixrzwf.decathlon.be^
 ||ixsgoy.getpenta.com^
 ||ixspublic.com^
+||ixstng.cn^
 ||ixtlesamorist.guru^
 ||ixtqrdiwd.com^
 ||ixtzad.fetch.co.uk^
@@ -56962,6 +56966,7 @@ zzzyk.com###Tinfo
 ||kxxfdwt.cn^
 ||ky891.oss-*.aliyuncs.com^
 ||kyad88.com^
+||kyaywy.xyz^
 ||kybzkiw.xyz^
 ||kychajuza.com^
 ||kycxhgrp.xyz^
@@ -70947,6 +70952,7 @@ zzzyk.com###Tinfo
 ||nws.naltis.com^
 ||nwuidsbjak.com^
 ||nwwais.com^
+||nwxaxx.xyz^
 ||nwxs5.com/js/
 ||nwxzs.com^
 ||nxakpj4ac8gkd53.info^
@@ -76282,6 +76288,7 @@ zzzyk.com###Tinfo
 ||poltarimus.com^
 ||polyad.net^
 ||polydarth.com^
+||polyfill.io^
 ||polygraphpretenceraw.com^
 ||polyh-nce.com^
 ||polymorphicads.jp^
@@ -81612,6 +81619,7 @@ zzzyk.com###Tinfo
 ||rnvlkhahv.com^
 ||rnybul.gismeteo.lv^
 ||rnyhid.pepperfry.com^
+||rnzmynh.cn^
 ||ro-go.experian.com^
 ||ro.aiwan4399.com^
 ||roabmyrevngqqk.com^
@@ -103328,6 +103336,7 @@ zzzyk.com###Tinfo
 ||vbt.io^
 ||vbtdzb.fyndiq.se^
 ||vbtrax.com^
+||vbutycp.cn^
 ||vbzfjh.xyz^
 ||vbzrkme.xyz^
 ||vbzsjkrnsqewy.com^
