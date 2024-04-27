@@ -2318,6 +2318,7 @@ $third-party,xmlhttprequest,domain=cocolamanhua.com|subhd.tv|subhdtw.com|xyg688.
 @@||cntv.cn^*_ad.js
 @@||cnzz.com/c.php?id=30070167$domain=m.tieyou.com
 @@||cnzz.com/q_stat.php$domain=qd.alibaba.com
+@@||colamanga.com^$generichide
 @@||colatour.com.tw/webDM/*/adbanner$~third-party
 @@||colatour.com.tw^$generichide
 @@||content.s8bbs.com/ad/bbs/*.jpg
@@ -3893,7 +3894,6 @@ coderutil.com##.search-module + a
 codexiu.cn##.blog-twitter:first-child
 cokemine.com,eveaz.com,jubuzz.com,skyarea.cn,tianfateng.cn#@#.category-share
 colamanga.com##iframe[style*="important"]
-colamanga.com#@#.gg_950
 comefromchina.com##.ad_navtext_11 > li:nth-child(n+2)
 comic.qq.com###fixed_right > div
 comicat.org,dapenti.com,douyu.com,iqiyi.com,jinti.com,kisssub.org,libvio.me,mvcat.com,mzh.ren,rufengso.net,v.qq.com,zhanzhangb.com##a[href*=".jd.com"]
@@ -7782,6 +7782,8 @@ zh141.com##a[title*="廣告"]
 zhainanba.org##.marauto > p[style="text-align: left;"]
 zhanqi.tv###js-room-flash-banner-panel
 zhaohuangpian.net##a[href="https://galaxymedia.xyz/app/"]
+zhcw.com##.ycxdZw
+zhcw.com##.yzjggw
 zhibo8.cc##.ad_box_250
 zhibo8.cc##a[href*=".wanjiashe."]
 zhibo8.cc##div[class*="advert"]
@@ -53522,6 +53524,7 @@ zzzyk.com###Tinfo
 ||iwdapjojrylh.xyz^
 ||iwearthbharal.com^
 ||iwebtrack.com^
+||iwerioo.top^
 ||iwevxujxzdpb.com^
 ||iwfxgkixsoma.com^
 ||iwgfdj.iko-yo.net^
@@ -55649,6 +55652,7 @@ zzzyk.com###Tinfo
 ||kalifthorons.top^
 ||kalipasindra.online^
 ||kallerupstone.viessmann.dk^
+||kalmukrattail.com^
 ||kalp-s.com^
 ||kalpaksaffect.top^
 ||kalseech.xyz^
@@ -78537,6 +78541,7 @@ zzzyk.com###Tinfo
 ||qcb2xeg.icu^
 ||qcbfiytngupv.com^
 ||qcblzn.pinkpanda.it^
+||qcepqj.icu^
 ||qceyjl.cellularoutfitter.com^
 ||qceyyxauc.xyz^
 ||qcfkvespkj.com^
@@ -101669,6 +101674,7 @@ zzzyk.com###Tinfo
 ||ugripaid.com^
 ||ugroocuw.net^
 ||ugroogree.com^
+||ugtbit.icu^
 ||uguforvfud.com^
 ||ugujwhwwyh.com^
 ||ugvbsrbht.xyz^
@@ -103363,6 +103369,7 @@ zzzyk.com###Tinfo
 ||vcrypt.net^
 ||vcs.kensington.my^
 ||vcsesvwajeup.com^
+||vcugbgu.cn^
 ||vcvacpaenqepvm.com^
 ||vcvnsyewnv.com^
 ||vcxipynawv.com^
@@ -103655,6 +103662,7 @@ zzzyk.com###Tinfo
 ||vgsjapnjykapgq.com^
 ||vgw35hwr4w6x.com^
 ||vgwtjbeqfpesefn.xyz^
+||vgzytn.xyz^
 ||vhans.siege-corp.com^
 ||vhdbohe.com^
 ||vhec.jhjhyn.cn^
@@ -107560,6 +107568,7 @@ zzzyk.com###Tinfo
 ||wxvfhgdeis.com^
 ||wxwsmt.matsmart.fi^
 ||wxxmt.xyz^
+||wxymag.xyz^
 ||wy.ce22d.cn^
 ||wy213.com^
 ||wy213.com^$popup,third-party
@@ -107577,6 +107586,7 @@ zzzyk.com###Tinfo
 ||wyjkqvtgwmjqb.xyz^
 ||wylmzwkywjrzr.top^
 ||wymcgmxefvqvej.com^
+||wymqjow.icu^
 ||wymtqcllysgej.com^
 ||wymymep.com^
 ||wymzwy.cn^
