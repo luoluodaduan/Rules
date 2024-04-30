@@ -2664,7 +2664,7 @@ $third-party,xmlhttprequest,domain=cocolamanhua.com|subhd.tv|subhdtw.com|xyg688.
 @@||ozabc.com^$generichide
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl$domain=ff14angler.com|logi.im
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=doitwell.tw
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=23qb.net|4spaces.org|aboluowang.com|assbbs.com|chaojizhibo.net|chtoen.com|daxiaamu.com|demo.ama.pub|dizhishengcheng.com|doitwell.tw|ekamus.info|eu4cn.com|ff14angler.com|freedidi.com|haoweichi.com|it365.abctool.info|linovelib.com|logi.im|monnsutogatya.com|mpyit.com|myqqjd.com|numberempire.com|ozabc.com|pansearch.me|patch.ali213.net|pc3mag.com|reh.tw|shenfendaquan.com|sistersbedroom.com|sto520.com|vaptcha.com|wandhi.com|wenxuecity.com|wuyong.fun|xbeibeix.com|xiebruce.top|xugaoxiang.com|xxxxx520.com|yodu.org|yummy.best|zaixianjisuan.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=23qb.net|4spaces.org|aboluowang.com|assbbs.com|bilinovel.com|chaojizhibo.net|chtoen.com|daxiaamu.com|demo.ama.pub|dizhishengcheng.com|doitwell.tw|ekamus.info|eu4cn.com|ff14angler.com|freedidi.com|haoweichi.com|it365.abctool.info|linovelib.com|logi.im|monnsutogatya.com|mpyit.com|myqqjd.com|numberempire.com|ozabc.com|pansearch.me|patch.ali213.net|pc3mag.com|reh.tw|shenfendaquan.com|sistersbedroom.com|sto520.com|vaptcha.com|wandhi.com|wenxuecity.com|wuyong.fun|xbeibeix.com|xiebruce.top|xugaoxiang.com|xxxxx520.com|yodu.org|yummy.best|zaixianjisuan.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=duelmeta.com|linetv.tw|liout.com|moneysave.info|zxmee.com
 @@||pagead2.googlesyndication.com/pagead/js/google_top_exp.js$domain=ebb.io
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=knowlet3389.blogspot.com|knowlet3389.blogspot.hk|knowlet3389.blogspot.jp|knowlet3389.blogspot.tw|mnighthk.net|weithenn.org
@@ -26995,6 +26995,7 @@ zzzyk.com###Tinfo
 ||chinaqking.com/images/newPage/JLW.jpg
 ||chinaqking.com/images/qkw/jobApply1.jpg
 ||chinasexq.com/js/tpgg
+||chinaslauras.com^
 ||chinaso.red^
 ||chinatimes.com/Scripts/bennerad.
 ||chinatruck.org/index.php?m=poster&
@@ -30956,6 +30957,7 @@ zzzyk.com###Tinfo
 ||cweriof.top^
 ||cwgshkz.cn^
 ||cwhrfkpniuvkn.xyz^
+||cwiuhtp.icu^
 ||cwixbvnnndpe.xyz^
 ||cwkuefvuipe.com^
 ||cwlvmsvmqqgzb.com^
@@ -49770,6 +49772,7 @@ zzzyk.com###Tinfo
 ||iconworkshop.cn^
 ||icorp.ro^
 ||icpadv.com^
+||icqeou.xyz^
 ||icrxbetigcdjz.com^
 ||icslearn.actonsoftware.com^
 ||icstats.nl^
@@ -54348,6 +54351,7 @@ zzzyk.com###Tinfo
 ||jiuswcpdwgpwetf.com^
 ||jivox.com^
 ||jivskpprocrkv.com^
+||jivvjl.xyz^
 ||jiwire.com^
 ||jixie.io^
 ||jixing.cc^
@@ -56863,6 +56867,7 @@ zzzyk.com###Tinfo
 ||kwbmkwej.com^
 ||kwcmrfb.cn^
 ||kwedzcq.com^
+||kweriod.top^
 ||kwflvcdn.000dn.com^*.flv
 ||kwgs.letudiant.fr^
 ||kwhhdwyuvi.com^
@@ -85778,6 +85783,7 @@ zzzyk.com###Tinfo
 ||sift.com^
 ||siftscience.com^
 ||sifuglie.com^
+||sifuwei.com^
 ||sifyeldb.top^
 ||sig.ig.com^
 ||sig.igmarkets.com^
@@ -94654,6 +94660,7 @@ zzzyk.com###Tinfo
 ||swepfa.com^
 ||sweptbroadarchly.com^
 ||sweptgrimace.com^
+||sweriob.top^
 ||swesomepop.com^
 ||swetrix.org^
 ||swhgrsjg.com^
@@ -101739,6 +101746,7 @@ zzzyk.com###Tinfo
 ||ukenthascaptureu.info^
 ||ukentsiwoulukdlik.info^
 ||ukfareputfea.xyz^
+||ukgfniu.cn^
 ||ukgfxw.satofull.jp^
 ||uki2.secureforms.mcafee.com^
 ||ukidiayddbshfl.com^
@@ -102308,6 +102316,7 @@ zzzyk.com###Tinfo
 ||uoqsxdpx.xyz^
 ||uorhlwm.com^
 ||uorwogwlbwtk.xyz^
+||uosxdmk.cn^
 ||uosyhthogsaavr.com^
 ||uosyiozyu.com^
 ||uotksykpmkcd.com^
@@ -104163,6 +104172,7 @@ zzzyk.com###Tinfo
 ||vkezpstgtjxym.com^
 ||vkfvrsgj.com^
 ||vkgtrack.com^
+||vkguvyg.cn^
 ||vkjsnvk.com^
 ||vkkasm.officechairsusa.com^
 ||vkkotuek.xyz^
