@@ -6237,8 +6237,8 @@ netbardh.com##.pos-navbar-ad
 netbian.com##a[href^="https://ibaotu.com/guanggao/"]
 netflav.com##.ads_head_banner_container
 netflav.com##.ads_video_overlay_mobile
-netfly.fun,netfly.tv##.banner[href^="http"]
-netfly.fun,netfly.tv##[style^="display: flex;"]
+netfly.fun,netfly.tv,netflytv.xyz##.banner[href^="http"]
+netfly.fun,netfly.tv,netflytv.xyz##[style^="display: flex;"]
 netfly.lol##.module-tglist
 newcger.com##.banner_recom
 newduba.cn###jq_youxi
@@ -20880,6 +20880,7 @@ zzzyk.com###Tinfo
 ||azj57rjy.com^
 ||azjmp.com^
 ||azkcqs.com^
+||azkrya.xyz^
 ||azkwwrerlejqv.top^
 ||azlyta.immowelt.de^
 ||azmjosvecyye.com^
@@ -40538,6 +40539,7 @@ zzzyk.com###Tinfo
 ||eyrvfxwrogfslk.com^
 ||eytheed.com^
 ||eyusky.net/weixin-img/zhifubao.jpg
+||eyuwkbw.top^
 ||eyuyao.com/yyad/
 ||eywvko.shaddy.jp^
 ||eyyicbskhglf.com^
@@ -42100,6 +42102,7 @@ zzzyk.com###Tinfo
 ||flux.faloo.com^
 ||fluxads.com^
 ||fluxtowed.com^
+||fluxy.cn^
 ||flv.ytshuirun.com^
 ||flvvcqfmw.com^
 ||flw.camcaps.ac^
@@ -43651,6 +43654,7 @@ zzzyk.com###Tinfo
 ||gambar123.com^
 ||gambling-affiliation.com^
 ||gamblingliquidate.com^
+||gamdus.xyz^
 ||game-clicks.com^
 ||game-res.meizu.com^
 ||game.51yund.com^
@@ -48473,6 +48477,7 @@ zzzyk.com###Tinfo
 ||hldwdz.xyz^
 ||hldwmly.com^
 ||hldxvloxsxqqg.com^
+||hlegsdh.icu^
 ||hleouh.feelunique.com^
 ||hlerseomcb.com^
 ||hleuindnjcixxep.com^
@@ -72341,6 +72346,7 @@ zzzyk.com###Tinfo
 ||onnkloshwrh.xyz^
 ||onnnuvtikmzy.com^
 ||onogxwatipyevf.com^
+||onosyej.icu^
 ||onoztg.ultimate-guitar.com^
 ||onpluslean.com^
 ||onpsrrejx.com^
@@ -78691,6 +78697,7 @@ zzzyk.com###Tinfo
 ||qerkbejqwzvyw.top^
 ||qerpks.rollei.de^
 ||qeryz.com^
+||qescaen.com^
 ||qetdpyialxousr.com^
 ||qetskupch581.shop^
 ||qetskupyka61.shop^
@@ -79976,6 +79983,7 @@ zzzyk.com###Tinfo
 ||rcwuzudjcsjmr.com^
 ||rcynoe.cn^
 ||rcyzsh.icu^
+||rczudr.xyz^
 ||rczwcs.brack.ch^
 ||rd.alice.it^
 ||rd.autohome.com.cn^
@@ -81499,6 +81507,7 @@ zzzyk.com###Tinfo
 ||ring.staticmoly.me^
 ||ringashewasfl.info^
 ||ringexpressbeach.com^
+||ringingneo.com^
 ||ringplant.com^
 ||ringplayground.com^
 ||ringsempty.com^
@@ -81651,6 +81660,7 @@ zzzyk.com###Tinfo
 ||rmaticalacycurated.info^
 ||rmawm7mw.top^
 ||rmbmsqtryo.com^
+||rmbvzh.xyz^
 ||rmduuv.icu^
 ||rmdvca.belvilla.de^
 ||rmervvazoakba.top^
@@ -82337,6 +82347,7 @@ zzzyk.com###Tinfo
 ||runwaff.com^
 ||ruozukk.xyz^
 ||rup5.destinia.ru^
+||rupmlh.cn^
 ||ruptionverst.space^
 ||ruqwgb.icu^
 ||rural-patience.com^
@@ -82450,6 +82461,7 @@ zzzyk.com###Tinfo
 ||rx-test.capsulecares.com^
 ||rx.capsulecares.com^
 ||rxeosevsso.com^
+||rxfygd.cn^
 ||rxglvcowb.com^
 ||rxgvwht.com^
 ||rxhsry.sortiraparis.com^
@@ -98566,6 +98578,7 @@ zzzyk.com###Tinfo
 ||tqrznqs.cn^
 ||tqsrtyqpoeyp.com^
 ||tqtedm.kosmetik.at^
+||tquspo.com^
 ||tquvbfl.com^
 ||tqvacq.intrend.it^
 ||tqvnzj.xyz^
@@ -107479,6 +107492,7 @@ zzzyk.com###Tinfo
 ||wwclicktm.club^
 ||wwe.leetieniu.com^
 ||wwemleypftdook.com^
+||wwerioe.top^
 ||wwfx.xyz^
 ||wwgate.ru^
 ||wwgqqq.com^
