@@ -178,6 +178,7 @@ $third-party,xmlhttprequest,domain=cocolamanhua.com|subhd.tv|subhdtw.com|xyg688.
 .top/ad-
 .top/ads/
 .top/upload/ad.js
+.top^*-960x80-*.gif
 .tor*/js/jquery.bpopup.
 .tv/js/ads/
 .tv/style/vue.js?v=
@@ -1627,7 +1628,7 @@ $third-party,xmlhttprequest,domain=cocolamanhua.com|subhd.tv|subhdtw.com|xyg688.
 52ch.net##div[style^="margin-top:5px; height:60px;"]
 52che.com##a[href^="http://count.52che.com/goto.html?"]
 52fx.cn##.nex_index_top_ads
-52fzwg.com,79tao.com,hqol.cn,icabbs.com,k7d.com,kxdao.net,mcncc.com,sunwy.org,twunbbs.com,wnflb.com,wnflb2023.com,wnflb66.com,xkeba.com,zn501.cc##.GzList
+52fzwg.com,79tao.com,hqol.cn,icabbs.com,k7d.com,kxdao.net,mcncc.com,sunwy.org,twunbbs.com,wnflb.com,wnflb2023.com,wnflb66.com,xkeba.com,zn502.cc##.GzList
 52kd.com###frame2cu3VU
 52life.cc##table[style="margin-top:0"]
 52movieba.com,acglala.cc,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cgown.com,cn163.net,comicat.org,cosersuki.org,dzbhdm.net,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,idanmu.ee,ifenpaidy.com,jitapu.com,jitashe.org,kelatv.com,kisssub.org,languang.co,llss.bz,mtrend.cn,mydrivers.com,mzh.ren,nxing.cn,oyksoft.com,souxue8.com,speedtest.cn,tingroom.com,touchgal.org,whsir.com,xxshe.info,xxshe.xyz##a[href*=".taobao.com"]
@@ -2006,8 +2007,10 @@ $third-party,xmlhttprequest,domain=cocolamanhua.com|subhd.tv|subhdtw.com|xyg688.
 @@/log/report/*$script,domain=bilibili.com
 @@/mobileads.$domain=naviking.localking.com.tw
 @@/needsharebutton.min.js$domain=leetcode-cn.com
+@@/prebid-js-$domain=mytvsuper.com|tvb.com|tvbs.com.tw
 @@/pub/ad/*$domain=ruten.com.tw
 @@/pub1/??$domain=banggo.com
+@@/pubads_impl.js$domain=mytvsuper.com|tvb.com|tvbs.com.tw
 @@/rwd_cap.js$domain=ibf.tw
 @@/sensorsdata-$domain=aixiaoyuan.cn|zkh.com
 @@/sensorsdata.$domain=36kr.com|binance.com|by56.com|canon.com.cn|chuanglan.com|fenbi.com|guancha.cn|imooc.com|kuque.com|modian.com|saicskoda.com.cn|shanbay.com|tianyancha.com|ttcdw.cn|xinrenxinshi.com|zzjiasuqi.com
@@ -2373,7 +2376,6 @@ $third-party,xmlhttprequest,domain=cocolamanhua.com|subhd.tv|subhdtw.com|xyg688.
 @@||doubibackup.com^$generichide
 @@||doubleclick.net/ddm/trackclk/$popup,domain=hongkongcard.com
 @@||doubleclick.net/gpt/pubads_impl$domain=www.gamer.com.tw
-@@||doubleclick.net/gpt/pubads_impl_$domain=mytvsuper.com|tvb.com|tvbs.com.tw
 @@||doubleclick.net^$xmlhttprequest,domain=yyets.click
 @@||douyucdn.cn^*-share-master/
 @@||down.cc/down/js/ad.js
@@ -2469,7 +2471,7 @@ $third-party,xmlhttprequest,domain=cocolamanhua.com|subhd.tv|subhdtw.com|xyg688.
 @@||googleads4.g.doubleclick.net^$domain=renfei.net
 @@||googletagmanager.com/gtag/js?id=$domain=av01.tv
 @@||googletagmanager.com/gtm.js$domain=asus.com.cn|mamibuy.com.tw|support.amd.com|warnermusic.com.tw
-@@||googletagservices.com/tag/js/gpt.js$domain=tvb.com|www.gamer.com.tw
+@@||googletagservices.com/tag/js/gpt.js$domain=tvb.com|tvbs.com.tw|www.gamer.com.tw
 @@||googletagservices.com^$script,domain=creaders.net
 @@||gooogle.how^$generichide
 @@||gov.cn/scripts/Comm/AdRotator.js
@@ -2972,6 +2974,7 @@ aaread.space##.navi
 aaread.space##div[style^="position: fixed; bottom:"]
 abbao.cn#@##adContent
 abbao.cn,tt1069.com#@##adcontent
+ablesci.com#?#.fly-panel:-abp-has(img[src*="-hongbao."])
 abmedia.io##.pum
 abmedia.io,appinn.com,carrotchou.blog,landiannews.com,laoliublog.cn,woniuyulew.com,zhain8.com##.widget_media_image
 ac.qq.com###qgirlRefreshLead
@@ -5085,6 +5088,7 @@ huya.com###J_roomSideTop
 huya.com###ggcomment
 huya.com###huya-ab
 huya.com###huya-ab-fixed
+huya.com##.end-ab-banner
 huya.com##.end-ab-wrap
 huya.com##.j_posterItem[href^="http"]:not([href*=".huya."])
 huya.com##.room-business-game
@@ -5925,6 +5929,7 @@ lywww.com##.lianmengclass
 lz13.cn##.left_box3
 lz13.cn##.left_box4
 lz13.cn##.left_box5
+lzcfz2.com##body > .cl.wp
 lzdcctv.cn##.ac_pc
 lzdcctv.cn##.focusmo + table
 lzdcctv.cn##.widget_ssr > a > img
@@ -7828,8 +7833,8 @@ zj.qq.com##.mod-side + div[style="width:300px;height:257px;"]
 zjhlcp.com##.middle_list
 zjst.net##body > style ~ *,.vod-gd
 zk001.cc##section[class^="ch"]
-zn501.cc###klp_hdp
-zn501.cc#?##portal_block_69_content > li:-abp-has(a[href^="http"])
+zn502.cc###klp_hdp
+zn502.cc#?##portal_block_69_content > li:-abp-has(a[href^="http"])
 zol.com.cn###Article_Top_Banner
 zol.com.cn###downBoxGaosu + a
 zol.com.cn###official_url
@@ -9722,6 +9727,7 @@ zzzyk.com###Tinfo
 ||550sky.com^
 ||5551556.com^
 ||555bbb333bbb.com^
+||555bbb555www.com^
 ||555p555p.com^
 ||555vps.cn^
 ||5566ua.com^
@@ -22716,6 +22722,7 @@ zzzyk.com###Tinfo
 ||bgevhldiekl.xyz^
 ||bgevqy.moschino.com^
 ||bgfmvc.amandalindroth.com^
+||bgidskiv.top^
 ||bginrbancsr.com^
 ||bgjsjep.com^
 ||bgkh.zcpap.cn^
@@ -29535,6 +29542,7 @@ zzzyk.com###Tinfo
 ||convrse.media^
 ||convsweeps.com^
 ||conyak.com^
+||cooann.top^
 ||coobuo.pinkpanda.cz^
 ||coocaatv.com^
 ||cooch.tv^
@@ -33948,6 +33956,7 @@ zzzyk.com###Tinfo
 ||dfjd.xyz^
 ||dfkoqeunyv.com^
 ||dflewibj.com^
+||dflkndkzf.com^
 ||dfnetwork.link^
 ||dfninp.xyz^
 ||dfp.suning.com^
@@ -48025,6 +48034,7 @@ zzzyk.com###Tinfo
 ||hgearlpfbm.top^
 ||hgf4.zanzicar.fr^
 ||hgf8hck.com^
+||hgfutf.xyz^
 ||hghit.com^
 ||hghjks2.com^
 ||hghm4u7b61.com^
@@ -49206,6 +49216,7 @@ zzzyk.com###Tinfo
 ||htvixv.xyz^
 ||htwrildnk.xyz^
 ||htxz.yndushi.cn^
+||hty9m.cn^
 ||htyrmacanbty.com^
 ||htysiboswaj.com^
 ||htyusiu.top^
@@ -56355,6 +56366,7 @@ zzzyk.com###Tinfo
 ||kkghcdvxdfvsq.com^
 ||kkisoo.com^
 ||kkixbfuihbhhrj.com^
+||kkjhgfds.top^
 ||kkjjgban.com^
 ||kkjrwxs.com^
 ||kkjshsj.com^
@@ -65033,6 +65045,7 @@ zzzyk.com###Tinfo
 ||meowpushnot.com^
 ||meowthon.com^
 ||mepirtedic.com^
+||mepupr486.top^
 ||meqanhm.icu^
 ||meqjdrrrxhdtgj.xyz^
 ||mer.stdout.cz^
@@ -95021,6 +95034,7 @@ zzzyk.com###Tinfo
 ||sxltfj.cn^
 ||sxlvklm.com^
 ||sxmxpm.nectarsleep.com^
+||sxoejoc.icu^
 ||sxp.allianz.de^
 ||sxtnpzd.xyz^
 ||sxtpkrrvdvm.com^
@@ -101322,6 +101336,7 @@ zzzyk.com###Tinfo
 ||twentydruggeddumb.com^
 ||twentyexaggerate.com^
 ||twentyqueen.com^
+||twerioi.top^
 ||twerwew.org^
 ||twgzgqqu.com^
 ||twh5.com^
@@ -110100,6 +110115,7 @@ zzzyk.com###Tinfo
 ||yxgacdl.com^
 ||yxgcfb.petit-bateau.co.jp^
 ||yxgfcj.com^
+||yxgqgq.xyz^
 ||yxguqmcemyjiwb.com^
 ||yximgs.com/bs2/adcarsku/sku9c0e68cc-2f12-4e47-a340-a7293ee88c88.
 ||yxiqqh.dealchecker.co.uk^
