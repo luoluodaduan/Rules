@@ -2487,6 +2487,9 @@ $third-party,xmlhttprequest,domain=cocolamanhua.com|subhd.tv|subhdtw.com|xyg688.
 @@||hao123img.com/resource/zt/widget/service/util/clickTrack.
 @@||haokoubei.top/sz/tos_v_f.js
 @@||haoweichi.com/Public/js/ads.js
+@@||hboav.com/guga/ads.js
+@@||hboav.com/guga/images/20201021.jpg
+@@||hboav.com/js/wlfloat.js
 @@||hbu.cn^*/ad.css?$stylesheet
 @@||hc360.com/ad/*.css
 @@||hdsky.net/ad/down.png
@@ -5929,7 +5932,7 @@ lywww.com##.lianmengclass
 lz13.cn##.left_box3
 lz13.cn##.left_box4
 lz13.cn##.left_box5
-lzcfz2.com##body > .cl.wp
+lzcfz2.com,lzcfz7.xyz##body > .cl.wp
 lzdcctv.cn##.ac_pc
 lzdcctv.cn##.focusmo + table
 lzdcctv.cn##.widget_ssr > a > img
@@ -49033,6 +49036,7 @@ zzzyk.com###Tinfo
 ||hpuxrycfvo.com^
 ||hpvl2kb.icu^
 ||hpxsci.miista.com^
+||hpy9w.cn^
 ||hpychofen.com^
 ||hpyjmp.com^
 ||hpymkg.air-austral.com^
@@ -49048,6 +49052,7 @@ zzzyk.com###Tinfo
 ||hqgearb.icu^
 ||hqgjcm.com^
 ||hqgkmj.marine-deals.co.nz^
+||hqhspv.xyz^
 ||hqhwiwcahavywie.com^
 ||hqjstd.xyz^
 ||hqjuww.kolesa-darom.ru^
@@ -56350,6 +56355,7 @@ zzzyk.com###Tinfo
 ||kjrspnbf.xyz^
 ||kjsckwjvdxju.xyz^
 ||kjsvvnzcto.com^
+||kjubky.xyz^
 ||kjuftmdofmsrhq.com^
 ||kjugr.xyz^
 ||kjvaqbyebqarl.top^
@@ -60768,6 +60774,7 @@ zzzyk.com###Tinfo
 ||lvbngvy.com^
 ||lvdedf.xyz^
 ||lvecygampj.com^
+||lveodaz.icu^
 ||lvidqa.unisportstore.de^
 ||lvip.youku.com^
 ||lvivsu.peterhahn.de^
@@ -68504,6 +68511,7 @@ zzzyk.com###Tinfo
 ||munilf.com^
 ||munnin.hicsuntdra.co^
 ||munsterduke.com^
+||muntfd62.shop^
 ||muntiglesia.com^
 ||muoizbtl.xyz^
 ||mupufktvziob.com^
@@ -73457,6 +73465,7 @@ zzzyk.com###Tinfo
 ||owen.prolitteris.ch^
 ||owenexposure.com^
 ||oweoumoughtcal.com^
+||oweriok.top^
 ||owesdgagvkclmi.xyz^
 ||owevel.com^
 ||oweven.com^
@@ -103173,6 +103182,7 @@ zzzyk.com###Tinfo
 ||uwants.com^*_prod.html
 ||uwavoptig.com^
 ||uwayemfogibbgh.xyz^
+||uweriot.top^
 ||uwerpyh.cn^
 ||uwezxr.provenwinners.com^
 ||uwfcqtdb.xyz^
@@ -103810,6 +103820,7 @@ zzzyk.com###Tinfo
 ||versionlatticecheek.com^
 ||versionsfordisplay.com^
 ||versionslent.com^
+||verstug.cn^
 ||versusconsole.com^
 ||vertical-leap.co.uk^
 ||vertical-leap.net^
