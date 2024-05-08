@@ -6214,6 +6214,7 @@ mydrivers.com##.main_right_div[style="padding-top: 10px;"]
 mydrivers.com##a[href*=".dangbei.com"]
 mydrivers.com##div[style*="/ad/"]
 mydrivers.com##div[style^="position:fixed;left:50%;bottom:200px;"]
+mydrivers.com#?#li:-abp-has(>.titl+:-abp-contains(广 告))
 mydrivers.com#?#li:-abp-has(>.titl+:-abp-contains(广告))
 mydrivers.com,wmzhe.com##a[href*=".jd.com/"]
 myexception.cn##.c_a_3
@@ -53635,6 +53636,7 @@ zzzyk.com###Tinfo
 ||iuou.ysw365.com^
 ||iupian.com/mstyle/js/topinfo.js
 ||iupot.com^
+||iuqasw.xyz^
 ||iuryhk.soccer.com^
 ||iusxjykqehwdx.com^
 ||iutr.uozwys.top^
@@ -70338,6 +70340,7 @@ zzzyk.com###Tinfo
 ||nkbhsbteuu.com^
 ||nkbkor.icu^
 ||nkbobsj.com^
+||nkbpft.xyz^
 ||nkbpmxdubcd.com^
 ||nkcsycwf.com^
 ||nkeo.top^
@@ -70860,6 +70863,7 @@ zzzyk.com###Tinfo
 ||nr.static.mmcdn.com^
 ||nr7.us^
 ||nra.locktonaffinity.net^
+||nrbqgf.cn^
 ||nrcqqpjx.xyz^
 ||nreg.world^
 ||nrelate.com^
@@ -75857,6 +75861,7 @@ zzzyk.com###Tinfo
 ||pkk1.zuimeiniwo.com^
 ||pkkjxs.cn^
 ||pkkylyx.xyz^
+||pklujb.xyz^
 ||pkmvjx.my-store.ch^
 ||pknrnj.xyz^
 ||pkpibupbbuvbgwh.xyz^
@@ -79129,8 +79134,10 @@ zzzyk.com###Tinfo
 ||qm92.com^
 ||qmaacxajsovk.com^
 ||qmaobrsasck.com^
+||qmbdta.cn^
 ||qmbpmdeq.xyz^
 ||qmcwpi.naturitas.es^
+||qmgria.cn^
 ||qmhffrogjeca.com^
 ||qmiiln.tower.jp^
 ||qmin.xin^
@@ -81940,6 +81947,7 @@ zzzyk.com###Tinfo
 ||robotrenamed.com^
 ||robsbogsrouse.com^
 ||robspabah.com^
+||robudpw.cn^
 ||robunderstanding.com^
 ||robustbelieve.com^
 ||rocco-fvo.com^
@@ -108632,6 +108640,7 @@ zzzyk.com###Tinfo
 ||xmindchina.cn^
 ||xmindchina.net^
 ||xmjajv.xyz^
+||xmkmryu.icu^
 ||xml-api.online^
 ||xml-clickurl.com^
 ||xmladserver.com^
