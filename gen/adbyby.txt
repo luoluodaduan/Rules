@@ -4356,10 +4356,10 @@ elecfans.com##div[id^="new-listAd"]
 elecfans.com##div[style^="width: 960px;height: 40px;"]
 elecinfo.com##div[class$="-advert"]
 element-plus.gitee.io##.sidebar > .page-content
-element-plus.gitee.io,element-plus.org##.toc-content > .m-t-16px
-element-plus.gitee.io,element-plus.org##aside > .page-content
-element-plus.org##.sponsor-container
-element-plus.org##.sponsors
+element-plus.gitee.io##.toc-content > .m-t-16px
+element-plus.gitee.io##aside > .page-content
+element-plus.org##.toc-content > div[style="margin-top:16px;"]
+element-plus.org##aside > .page-content-main
 en8848.com.cn##.list_adv
 en8848.com.cn#@#.adcenter
 engadget.com#?#.Py\(40px\):-abp-has(> article > .D\(f\) > .Pos\(r\)[data-ylk*=":AD;"])
@@ -9731,6 +9731,7 @@ zzzyk.com###Tinfo
 ||544c1a86a1.com^
 ||54admin.net/images/ad_
 ||54dbg.xyz^
+||54gtlb.cn^
 ||54kefu.net^
 ||54new.com*/da/
 ||54y3eh34y3wh34y3h.com^
@@ -19527,6 +19528,7 @@ zzzyk.com###Tinfo
 ||arenalitteraccommodation.com^
 ||areolaeuploid.com^
 ||arewzvqbevrzj.top^
+||areyoutherenow.com^
 ||argasidstrafed.com^
 ||argeanwabi.com^
 ||argeredru.info^
@@ -26689,6 +26691,7 @@ zzzyk.com###Tinfo
 ||cgicounter.oneandone.co.uk^
 ||cgicounter.onlinehome.de^
 ||cgicounter.puretec.de^
+||cgidskif.top^
 ||cgqkhc.trendyol.com^
 ||cgqwgv.icu^
 ||cgsisl.owllabs.com^
@@ -38668,6 +38671,7 @@ zzzyk.com###Tinfo
 ||eluocs.xyz^
 ||eluviabattler.com^
 ||eluxer.net^
+||elvirassb.com^
 ||elwcchbwtnohia.com^
 ||elyvbqkmlqkqw.top^
 ||elyxvt.wilsonamplifiers.com^
@@ -48106,6 +48110,7 @@ zzzyk.com###Tinfo
 ||hghit.com^
 ||hghjks2.com^
 ||hghm4u7b61.com^
+||hgidskiu.top^
 ||hgirsxsgetv.com^
 ||hgjjk45.com^
 ||hgjxjis.com^
@@ -49385,6 +49390,7 @@ zzzyk.com###Tinfo
 ||huishenghuiying.com^
 ||huishij.net^
 ||huiun.com^
+||huiyunbei.com^
 ||huizu100.com/data/attachment/portal/
 ||hujunhao.name^
 ||hulabipptemux.com^
@@ -56791,6 +56797,8 @@ zzzyk.com###Tinfo
 ||koxcsmmcealss.com^
 ||koxqdviupg.xyz^
 ||koyi.pub/wp-content/plugins/dh-anti-adblocker/
+||koyso.com/static/js/abc.
+||koyso.com/z-
 ||koyuod.xyz^
 ||kozhyf.icu^
 ||kpbqlqv.cn^
@@ -68588,6 +68596,7 @@ zzzyk.com###Tinfo
 ||munsterduke.com^
 ||muntfd62.shop^
 ||muntiglesia.com^
+||muntswe58.shop^
 ||muoizbtl.xyz^
 ||mupufktvziob.com^
 ||mupyfpimgnvqdgy.com^
@@ -78885,6 +78894,7 @@ zzzyk.com###Tinfo
 ||qewylqmaqezzj.top^
 ||qexbcx.olx.kz^
 ||qezfer.motelamiio.com^
+||qfaaokr.icu^
 ||qfbles.elefant.ro^
 ||qfblqq.com^
 ||qfcxpa.dreamcloudsleep.com^
@@ -102042,6 +102052,7 @@ zzzyk.com###Tinfo
 ||uglylearnt.com^
 ||ugmarketing.smu.edu.sg^
 ||ugmfvqsu.ru^
+||ugolue.xyz^
 ||ugooo.cc^
 ||ugopkl.com^
 ||ugpibtpk.xyz^
@@ -108930,6 +108941,7 @@ zzzyk.com###Tinfo
 ||xunchn.com^
 ||xunfan.net^
 ||xunleiii.com^
+||xunsfr.xyz^
 ||xunsu.cc/js/indexbottom.js
 ||xunyangdianzi4.cn^
 ||xunyibaike.com^
@@ -111364,6 +111376,7 @@ zzzyk.com###Tinfo
 ||zwwlaasbezg.com^
 ||zwxxcb.icu^
 ||zwyhucpmoov.com^
+||zwzdjb.xyz^
 ||zx-adnet.com^
 ||zx.baosmx.com^
 ||zx.da.mgtv.com^
