@@ -33624,7 +33624,6 @@ zzzyk.com###Tinfo
 ||deliriumabatecarefully.com^
 ||deliriumalbumretreat.com^
 ||deliver.ifeng.com^
-||deliver.kuwo.cn^
 ||deliver.ptgncdn.com^
 ||delivereddecisiverattle.com^
 ||delivery-pc.wasu.cn/d/frontJs/3.0$rewrite=abp-resource:blank-js,domain=wasu.cn
@@ -34036,6 +34035,7 @@ zzzyk.com###Tinfo
 ||dfnetwork.link^
 ||dfninp.xyz^
 ||dfp.suning.com^
+||dfprljx.xyz^
 ||dfpstitialtag.com^
 ||dfqcp2awt0947.cloudfront.net^
 ||dfr.deloitte.com^
@@ -49299,7 +49299,6 @@ zzzyk.com###Tinfo
 ||httpcn.com/Images/banner
 ||httpcn.com/m/tg/
 ||httpdns-sdk.n.netease.com^
-||httpdns.alicdn.com^
 ||httpdns.bcelive.com^
 ||httpdns.browser.miui.com^
 ||httpdns.c.cdnhwc2.com^
@@ -56234,6 +56233,7 @@ zzzyk.com###Tinfo
 ||kggiqfmeafi.com^
 ||kgguwk.jeep.com.tr^
 ||kghgmn.top^
+||kgidskid.top^
 ||kglqjacmqmns.com^
 ||kgmobilestat.kugou.com^
 ||kgouzrranqt.com^
@@ -59621,6 +59621,7 @@ zzzyk.com###Tinfo
 ||lizapaisan.com^
 ||lizardslaugh.com^
 ||lizebruisiaculi.info^
+||lizijing12.top^
 ||lizouhaiwhe.com^
 ||lizzieforcepincers.com^
 ||lizziefullrounded.com^
@@ -64527,7 +64528,6 @@ zzzyk.com###Tinfo
 ||mcdmetric.aaa.com^
 ||mcdmetrics.aaa.com^
 ||mcdmetrics2.aaa.com^
-||mcdn.bilivideo.cn^
 ||mcdote.com^
 ||mcds7.icu^
 ||mcds9.icu^
@@ -64594,6 +64594,7 @@ zzzyk.com###Tinfo
 ||mdhv.io^
 ||mdhv3.icu^
 ||mdhxyhl.cn^
+||mdiygc.xyz^
 ||mdjdpyrt.xyz^
 ||mdkkbrbhlji.com^
 ||mdm.hibinobi-mandom.jp^
@@ -67872,6 +67873,7 @@ zzzyk.com###Tinfo
 ||mohaqu.xyz^
 ||mohecm.com^
 ||mohiwhaileed.com^
+||mohvxrvd.xyz^
 ||mohyafckgatre.com^
 ||moilizoi.com^
 ||moistblank.com^
@@ -70436,6 +70438,7 @@ zzzyk.com###Tinfo
 ||nlop.xyz^
 ||nlp-japan.life-and-mind.com^
 ||nlrsbd.xyz^
+||nltsvf.xyz^
 ||nltzqx.autodoc.co.uk^
 ||nlvgxr.xyz^
 ||nlvnht.miror.jp^
@@ -78634,6 +78637,7 @@ zzzyk.com###Tinfo
 ||pwmctl.com^
 ||pwrgrowthapi.com^
 ||pwtftm.shingaku.mynavi.jp^
+||pwuxnr.cn^
 ||pwwqkppwqkezqer.site^
 ||pwxerujvl.com^
 ||pwxmwmoyuobgku.com^
@@ -82479,6 +82483,7 @@ zzzyk.com###Tinfo
 ||rtrhit.com^
 ||rtrk.co.nz^
 ||rtrk.com^
+||rttnvz.xyz^
 ||rtty.in^
 ||rtumdhdk.xyz^
 ||rtumwzp.icu^
@@ -102956,6 +102961,7 @@ zzzyk.com###Tinfo
 ||upwwgd.zentempel.com^
 ||upyerxzn.xyz^
 ||upytsgo.cn^
+||upyzqf.cn^
 ||upz1.destinia.lt^
 ||upzekroman.com^
 ||uqckxr.chilli.se^
@@ -104941,6 +104947,7 @@ zzzyk.com###Tinfo
 ||vpumfeghiall.com^
 ||vpuuzj.schnullireich.de^
 ||vpwhhtpwhmd.com^
+||vpwizuj.icu^
 ||vpwyehsh.com^
 ||vpzccwpyilvoyg.ru^
 ||vpzohx.xyz^
