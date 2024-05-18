@@ -5084,6 +5084,7 @@ hupu.com##.maibghref
 hupu.com##.topPub
 hupu.com##.voice-ad300-250
 hupu.com##.voteIndex
+hupu.com##div[class*="-banner_"]
 hupu.com##div[class*="ad200-200"]
 hupu.com##div[class*="ad240-200"]
 hupu.com##div[class*="ad728-90"]
@@ -10748,6 +10749,7 @@ zzzyk.com###Tinfo
 ||999d.com^
 ||999d.com^$third-party
 ||999db.cn^
+||999fb.cn^
 ||999meiju.com/js/tj
 ||999pro.top^
 ||999xx333kk.com^
@@ -36162,6 +36164,7 @@ zzzyk.com###Tinfo
 ||ds88pc0kw6cvc.cloudfront.net^
 ||ds9e.top^
 ||dsa-mfp.fengshows.cn^
+||dsa22.com^
 ||dsadas.hydp188.com^
 ||dsail-tech.com^
 ||dsb6jelx4yhln.cloudfront.net^
@@ -42712,6 +42715,7 @@ zzzyk.com###Tinfo
 ||forwrdnow.com^
 ||foryanmachan.com^
 ||forzubatr.com^
+||foscvbu.icu^
 ||fosiecajeta.com^
 ||fositeth.com^
 ||fossagetentie.top^
@@ -59916,6 +59920,7 @@ zzzyk.com###Tinfo
 ||lnvabjwmrlmzb.top^
 ||lnvmxk.familyset.jp^
 ||lnxfgm.party-calendar.net^
+||lnxkrd.xyz^
 ||lnxpdj.xyz^
 ||lnyajvutvvirw.xyz^
 ||lnymd.com^
@@ -60752,6 +60757,7 @@ zzzyk.com###Tinfo
 ||ltedinncreasuke.org^
 ||ltengronsa.com^
 ||lteyrcwpoh.xyz^
+||ltfpbp.xyz^
 ||ltg69t.com^
 ||lthmfx.xyz^
 ||lti.cs.vt.edu^
@@ -67029,6 +67035,7 @@ zzzyk.com###Tinfo
 ||miamiahokums.com^
 ||miamribud.com^
 ||mianbao99.com/a/mianbao
+||mianyaojsj.com^
 ||miao.baidu.com^
 ||miaobeichina.com^
 ||miaomu139.cn^
@@ -73747,6 +73754,7 @@ zzzyk.com###Tinfo
 ||oxllyobna.com^
 ||oxmoonlint.com^
 ||oxmqzeszyo.com^
+||oxmvcg.xyz^
 ||oxnhhswdzwam.com^
 ||oxo.jilinfurong.com^
 ||oxqq.pandasuite.io^
@@ -101756,7 +101764,9 @@ zzzyk.com###Tinfo
 ||txeefgcutifv.info^
 ||txfryh.terra.com.br^
 ||txgeszx.com^
+||txhfgwgkwt*.asia^
 ||txhfgwgkwt7.asia^
+||txhfgwgkwt8.asia^
 ||txhrnluuyt.com^
 ||txjhmbn.com^
 ||txmeeqz.icu^
@@ -102224,6 +102234,7 @@ zzzyk.com###Tinfo
 ||ugg.keefung-zs.com^
 ||ughhimtoy.com^
 ||ughzfjx.com^
+||ugidskit.top^
 ||ugkpsi.xyz^
 ||ugkray.theloom.in^
 ||uglimontana.digital^
