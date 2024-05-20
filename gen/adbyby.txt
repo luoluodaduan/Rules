@@ -4129,6 +4129,7 @@ doudoudm.site,ezdmw.com##.public_ad
 douguo.com##.mbs
 douxie.com##.ndxBanner
 douxie.com##.ndxChdjBox
+douyin.com#?#.page-recommend-container:-abp-has(span[style^="background"]:-abp-contains(广告))
 douyu.com###sign_p_1
 douyu.com##.IconCardAdBoundsBox
 douyu.com##.ScreenBannerAd
@@ -20745,6 +20746,7 @@ zzzyk.com###Tinfo
 ||ax1x.com/2020/06/14/NSoyHe.png
 ||ax1x.com^$domain=caibaojian.com|hktvyb.com|zzvips.com
 ||ax7fv.space^
+||axa123.com^
 ||axalgyof.xyz^
 ||axallarded.top^
 ||axbxgg.com^
@@ -23649,6 +23651,7 @@ zzzyk.com###Tinfo
 ||bnhtml.com^
 ||bnifdlav.top^
 ||bnivcpronr.com^
+||bnjovv.xyz^
 ||bnk.wolterskluwerfs.com^
 ||bnl2bii.icu^
 ||bnlbecm.xyz^
@@ -55774,6 +55777,7 @@ zzzyk.com###Tinfo
 ||jy135.com/js/pubuliu.
 ||jy135.com^
 ||jy135.com^$third-party
+||jy147a.com^
 ||jybaekajjmroq.top^
 ||jybnuw.mudah.my^
 ||jyc.njxczy.com^
@@ -58330,6 +58334,7 @@ zzzyk.com###Tinfo
 ||lgepbups.xyz^
 ||lgfiufyaycsh.com^
 ||lghqdjhilj.com^
+||lgidskil.top^
 ||lgm.averydennison.com^
 ||lgmi.com/ggimg/
 ||lgmi.com/left_right_
@@ -60519,6 +60524,7 @@ zzzyk.com###Tinfo
 ||loyeesihighlyreco.info^
 ||lozano.net.anwalt.de^
 ||lozengevandalismexaminer.com^
+||lozmtk.cn^
 ||lp-eq.mitsuichemicals.com^
 ||lp-preview.net^
 ||lp.adp.com^
@@ -68870,6 +68876,7 @@ zzzyk.com###Tinfo
 ||mvhiyha.com^
 ||mvilivestats.com^
 ||mvip.zhuba8.com^
+||mvirkw.xyz^
 ||mvjlsdqd.com^
 ||mvkjeglvbbfvm.xyz^
 ||mvlvxzhxjci.com^
@@ -80310,6 +80317,7 @@ zzzyk.com###Tinfo
 ||rawoarsy.com^
 ||raxetyrw.xyz^
 ||raxfracid.com^
+||rayajmp.icu^
 ||rayjump.com^
 ||rayli.com.cn^
 ||rayli.com.cn^$third-party
@@ -96882,6 +96890,7 @@ zzzyk.com###Tinfo
 ||tdfkidmyynbqu.com^
 ||tdgtkqtluuhjcfw.com^
 ||tdhlmto.cn^
+||tdhnxf.xyz^
 ||tdid.m.qq.com^
 ||tdjdpyrt.xyz^
 ||tdjvod.chevignon.com.co^
@@ -104273,6 +104282,7 @@ zzzyk.com###Tinfo
 ||vfchm.cyou^
 ||vfd2dyn.vodafone.de^
 ||vfeeopywioabi.xyz^
+||vfgajrk.cn^
 ||vfghc.com^
 ||vfghd.com^
 ||vfghe.com^
