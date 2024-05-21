@@ -142,6 +142,7 @@ $third-party,xmlhttprequest,domain=cocolamanhua.com|subhd.tv|subhdtw.com|xyg688.
 .k618.cn/sytab/
 .k618.cn/zbggw/
 .la/style/vue.js?v=
+.land/ad/*.gif
 .life/ads/
 .live/o.js$script,third-party
 .lu/ads/
@@ -2632,6 +2633,7 @@ $third-party,xmlhttprequest,domain=cocolamanhua.com|subhd.tv|subhdtw.com|xyg688.
 @@||mmy.la^*300*250
 @@||mnighthk.net/template/*/ad
 @@||mnighthk.net^$elemhide
+@@||mobinovels.com^$generichide
 @@||moea.gov.tw/EgisWeb/Scripts/google-analytics.js
 @@||moegirl.org.cn^$generichide
 @@||momovod.com/js/momo/adsbygoogle.js
@@ -2678,6 +2680,7 @@ $third-party,xmlhttprequest,domain=cocolamanhua.com|subhd.tv|subhdtw.com|xyg688.
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=doitwell.tw
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=23qb.net|4spaces.org|aboluowang.com|assbbs.com|bilinovel.com|chaojizhibo.net|chtoen.com|daxiaamu.com|demo.ama.pub|dizhishengcheng.com|doitwell.tw|ekamus.info|eu4cn.com|ff14angler.com|freedidi.com|haoweichi.com|it365.abctool.info|linovelib.com|logi.im|monnsutogatya.com|mpyit.com|myqqjd.com|numberempire.com|ozabc.com|pansearch.me|patch.ali213.net|pc3mag.com|reh.tw|shenfendaquan.com|sistersbedroom.com|sto520.com|vaptcha.com|wandhi.com|wenxuecity.com|wuyong.fun|xbeibeix.com|xiebruce.top|xugaoxiang.com|xxxxx520.com|yodu.org|yummy.best|zaixianjisuan.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=duelmeta.com|linetv.tw|liout.com|moneysave.info|zxmee.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=raenonx.cc
 @@||pagead2.googlesyndication.com/pagead/js/google_top_exp.js$domain=ebb.io
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=knowlet3389.blogspot.com|knowlet3389.blogspot.hk|knowlet3389.blogspot.jp|knowlet3389.blogspot.tw|mnighthk.net|weithenn.org
 @@||pagead2.googlesyndication.com^$domain=battlecats-db.com
@@ -2736,6 +2739,7 @@ $third-party,xmlhttprequest,domain=cocolamanhua.com|subhd.tv|subhdtw.com|xyg688.
 @@||qspfw.com/r/cms/www/qspfw/common/img/ad_
 @@||quanzhi.cn/v3/images/index_ad/
 @@||r3sub.com^$generichide
+@@||raenonx.cc^$generichide
 @@||readmoo.com/images/social/
 @@||redguide.top^*/ad.css?$stylesheet
 @@||redian.news^$generichide
@@ -4006,6 +4010,7 @@ cztv.com##.drop_down_ad
 cztv.com##.right_box
 cztv.com##.vivo
 cztv.com##div[class^="banner_"]
+czys.top#?#.swiper-slide:-abp-has(.coveimg[src*=".gif"])
 d1net.com##div[style="width:1000px;height:90px;margin:15px auto 15px auto;"]
 d1xz.net##.base_ad_300_250
 d1xz.net##.base_ad_640_90
@@ -4129,7 +4134,7 @@ doudoudm.site,ezdmw.com##.public_ad
 douguo.com##.mbs
 douxie.com##.ndxBanner
 douxie.com##.ndxChdjBox
-douyin.com#?#.page-recommend-container:-abp-has(span[style^="background"]:-abp-contains(广告))
+douyin.com#?#.xgplayer>div[class]:-abp-has(svg[height="16"][width="30"])
 douyu.com###sign_p_1
 douyu.com##.IconCardAdBoundsBox
 douyu.com##.ScreenBannerAd
@@ -6761,6 +6766,7 @@ qzwb.com##.qzw_live_img
 qzwb.com##body > .area[style^="height:60px;"]
 r3sub.com##div[class] > a[href^="show.php?id="]
 r3sub.com##source + img
+raenonx.cc##.main_ads-content + div
 read.qidian.com##.operation-wrap
 readmoo.com#@#.navbar-social
 reaff.com,yangmaodang.org##.entry-content > p[style="text-indent:0"]
@@ -9760,6 +9766,7 @@ zzzyk.com###Tinfo
 ||5551556.com^
 ||555bbb333bbb.com^
 ||555bbb555www.com^
+||555bbb777www.com^
 ||555p555p.com^
 ||555vps.cn^
 ||5566ua.com^
@@ -10010,6 +10017,7 @@ zzzyk.com###Tinfo
 ||661291.com^
 ||6613167.cn^
 ||6615338.cn^
+||66308888.com^
 ||665166e5a9.com^
 ||6651tp.com^
 ||6665432.com^*.gif
@@ -10021,6 +10029,7 @@ zzzyk.com###Tinfo
 ||666bb777ww.com^
 ||666bbb222www.com^
 ||666bbb333bbb.com^
+||666bbb888www.com^
 ||6677648.reddoorz.com^
 ||668080.cc^
 ||668559.com^
@@ -10055,6 +10064,7 @@ zzzyk.com###Tinfo
 ||68amt53h.de^
 ||68aq8q352.com^
 ||68d6b65e65.com^
+||692881.com^
 ||693836.com^$popup
 ||6969aa.cn^
 ||69852b1734.com^
@@ -10207,6 +10217,7 @@ zzzyk.com###Tinfo
 ||777-partner.net^
 ||777-partners.com^
 ||777-partners.net^
+||777aa888bb.com^
 ||777aa999aa.com^
 ||777bb111ww.com^
 ||777bbb222bbb.com^
@@ -10445,6 +10456,8 @@ zzzyk.com###Tinfo
 ||8866786.com^
 ||888.jiuwanwang.com^
 ||888.tv.sohu.com^
+||888aa111bb.com^
+||888aa222bb.com^
 ||888bb555ww.com^
 ||888bb666cc.com^
 ||888bbb555www.com^
@@ -25187,6 +25200,7 @@ zzzyk.com###Tinfo
 ||bxiaev.linvosges.com^
 ||bxikceucv.com^
 ||bxjhlhk.xyz^
+||bxlmrl.xyz^
 ||bxlsct.ex-shop.net^
 ||bxmns.com^
 ||bxmpcfzlllej.com^
@@ -25545,6 +25559,7 @@ zzzyk.com###Tinfo
 ||ca.ssl.holdmybeerconsulting.com^
 ||ca.w8.com.cn^
 ||ca.yangshengtv.com^
+||ca2686564a.com^
 ||ca3m6ari9rllo.com^
 ||ca4psell23a4bur.com^
 ||ca548318cc.com^
@@ -27019,6 +27034,7 @@ zzzyk.com###Tinfo
 ||chengjie168.com.cn^
 ||chengtongled.com/gg/
 ||chengtu.com/api.php?mod=ad&adid=
+||chengzijianzhan.cc^$third-party,subdocument
 ||chenhaishan.info^
 ||chenjiayu.cn/gg.js
 ||cheno3yp5odt7iume.com^
@@ -30741,6 +30757,7 @@ zzzyk.com###Tinfo
 ||csvtr13.bmodelawaretrust.com^
 ||csvtt.bmolife.com^
 ||csvtu.bmolending.com^
+||csylief.top^
 ||csymrm.24mx.fr^
 ||csyqts.tmon.co.kr^
 ||cszlks.com^
@@ -35892,6 +35909,7 @@ zzzyk.com###Tinfo
 ||dpdcinlfynhg.xyz^
 ||dpdnav.com^
 ||dpe5t.space^
+||dpedrt.xyz^
 ||dpfchqsiksjuyjc.xyz^
 ||dphpycbr.com^
 ||dphunjimnkyadh.com^
@@ -38243,6 +38261,7 @@ zzzyk.com###Tinfo
 ||efplso.epost.go.kr^
 ||efptjivneg.com^
 ||efreecode.com^
+||efs604.top^
 ||eftsaudian.website^
 ||efumesok.xyz^
 ||efuxqe.tatilbudur.com^
@@ -57291,12 +57310,14 @@ zzzyk.com###Tinfo
 ||kymirasite.pro^
 ||kymllnoudhkiht.com^
 ||kymnelboloman.com^
+||kyokglm.icu^
 ||kyoufukudoucname.worldsmile.net^
 ||kyplpw.com^
 ||kyq3hky.icu^
 ||kyq3xch.icu^
 ||kyson.kakao.com^
 ||kyszhn.qvc.jp^
+||kytbxcl.cn^
 ||kyteblowzed.com^
 ||kyteevl.com^
 ||kytesconge.com^
@@ -67448,6 +67469,7 @@ zzzyk.com###Tinfo
 ||mitbbs.*/servicedata/static_ad.php
 ||mitbbs.ca/ad_
 ||mitbbs.com/ad_
+||mito03.top^
 ||mitosisaralia.top^
 ||mitour.de^
 ||mitowdcagos.com^
@@ -68678,6 +68700,7 @@ zzzyk.com###Tinfo
 ||mtrs.fluorconstructors.com^
 ||mtrs.fluoruniversity.com^
 ||mttjepfakwch.com^
+||mttpsy6666.cc^
 ||mtty-cdn.mtty.xin^
 ||mtvgxt.partirpascher.com^
 ||mtvnbq.infopraca.pl^
@@ -83628,6 +83651,7 @@ zzzyk.com###Tinfo
 ||sagumnlx.com^
 ||sahandkeightg.xyz^
 ||saheckas.xyz^
+||sahqoo.com^
 ||saiceezu.xyz^
 ||said3page.com^
 ||saikeela.net^
@@ -105526,6 +105550,7 @@ zzzyk.com###Tinfo
 ||w7.berlin.de^
 ||w7.berliner-silvester.de^
 ||w7.weihnachteninberlin.de^
+||w7044.com^
 ||w740.newstimes.com^
 ||w76mddb.com^
 ||w88.abc.com^
@@ -109807,6 +109832,7 @@ zzzyk.com###Tinfo
 ||yhderd69.shop^
 ||yhdm44.com/123.html
 ||yhdongman.xyz/piao/
+||yhgfoe.xyz^
 ||yhgpuxim.xyz^
 ||yhgumcr.xyz^
 ||yhhnjg.com^
@@ -110434,6 +110460,7 @@ zzzyk.com###Tinfo
 ||yu987.com^
 ||yuanbao777.com/download/*.gif
 ||yuanchengxiezuo.com^
+||yuanpinghengkangfuyouxiangongsi.top^
 ||yuanxiaa.cn^
 ||yuanxiab.cn^
 ||yuanxue365.com/js/a22.
