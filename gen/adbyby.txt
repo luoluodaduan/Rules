@@ -2679,8 +2679,7 @@ $third-party,xmlhttprequest,domain=cocolamanhua.com|subhd.tv|subhdtw.com|xyg688.
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl$domain=ff14angler.com|logi.im
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=doitwell.tw
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=23qb.net|4spaces.org|aboluowang.com|assbbs.com|bilinovel.com|chaojizhibo.net|chtoen.com|daxiaamu.com|demo.ama.pub|dizhishengcheng.com|doitwell.tw|ekamus.info|eu4cn.com|ff14angler.com|freedidi.com|haoweichi.com|it365.abctool.info|linovelib.com|logi.im|monnsutogatya.com|mpyit.com|myqqjd.com|numberempire.com|ozabc.com|pansearch.me|patch.ali213.net|pc3mag.com|reh.tw|shenfendaquan.com|sistersbedroom.com|sto520.com|vaptcha.com|wandhi.com|wenxuecity.com|wuyong.fun|xbeibeix.com|xiebruce.top|xugaoxiang.com|xxxxx520.com|yodu.org|yummy.best|zaixianjisuan.com
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=duelmeta.com|linetv.tw|liout.com|moneysave.info|zxmee.com
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=raenonx.cc
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=duelmeta.com|linetv.tw|liout.com|moneysave.info|raenonx.cc|zxmee.com
 @@||pagead2.googlesyndication.com/pagead/js/google_top_exp.js$domain=ebb.io
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=knowlet3389.blogspot.com|knowlet3389.blogspot.hk|knowlet3389.blogspot.jp|knowlet3389.blogspot.tw|mnighthk.net|weithenn.org
 @@||pagead2.googlesyndication.com^$domain=battlecats-db.com
@@ -3992,7 +3991,7 @@ ctfile.com##a[href*=".henghost.com"]
 ctwant.com##.l-ad__article
 ctwant.com##.l-ad__wrapper
 ctwant.com##.m-adpopup
-cupfox.love,hcomic.net##.swiper
+cupfox.love,hcomic.net,olevod.com##.swiper
 cww.net.cn##.adlinkL
 cww.net.cn##.adlinkR
 cww.net.cn##.ggbar
@@ -4135,6 +4134,7 @@ douguo.com##.mbs
 douxie.com##.ndxBanner
 douxie.com##.ndxChdjBox
 douyin.com###videoSideBar iframe
+douyin.com###videoSideBar:-abp-has(div:-abp-contains(/商品|商家|退款|店铺/))
 douyin.com#?#.xgplayer>div[class]:-abp-has(svg[height="16"][width="30"])
 douyu.com###sign_p_1
 douyu.com##.IconCardAdBoundsBox
@@ -6357,7 +6357,6 @@ oeeee.com##.homeAD
 ofweek.com###\5f ad-2100
 ofweek.com###fixedADWrap
 oilchem.net##.LzAdv
-olevod.com##.swiper
 olgame.tw##.nex_floor_banner
 olgame.tw##.nex_index_ads
 olgame.tw##.nex_mid_ads
@@ -7605,6 +7604,7 @@ woshipm.com##.article--heroAd
 woshipm.com##.article-bottomAd
 woshipm.com##.article-topAd
 wpjam.com###wpjam_blog_300x250_1
+wss://*/api/wss/GetNotReadCount$third-party
 www.17173.com##.pn-tg
 www.duba.com##.tiyan_a
 www.jin10.com##.l-main_body > div[class]:not(.jin-timeline)
@@ -27040,7 +27040,7 @@ zzzyk.com###Tinfo
 ||chengtongled.com/gg/
 ||chengtu.com/api.php?mod=ad&adid=
 ||chengzijianzhan.cc^
-||chengzijianzhan.cc^$third-party,subdocument
+||chengzijianzhan.cc^$subdocument,third-party
 ||chenhaishan.info^
 ||chenjiayu.cn/gg.js
 ||cheno3yp5odt7iume.com^
@@ -42507,6 +42507,7 @@ zzzyk.com###Tinfo
 ||fondlescany.top^
 ||fondnessbrokestreet.com^
 ||fondnessverge.com^
+||fonfn.com^
 ||fonnishcranked.com^
 ||fontainsuny.club^
 ||fontdeterminer.com^
@@ -53846,6 +53847,8 @@ zzzyk.com###Tinfo
 ||iwan.sogou.com^
 ||iwanad.baidu.com^
 ||iwandlo.top^
+||iwanshang*.asia^
+||iwanshang8.asia^
 ||iwanttodeliver.com^
 ||iwantuonly.com^
 ||iwantusingle.com^
@@ -55253,6 +55256,7 @@ zzzyk.com###Tinfo
 ||jrolyrlkjyeqw.top^
 ||jroqvbvw.info^
 ||jrpkizae.com^
+||jrpolj.xyz^
 ||jrpt.jrptweb.org^
 ||jrqmkrggfwd.xyz^
 ||jrqwfdkksamx.com^
@@ -55510,6 +55514,7 @@ zzzyk.com###Tinfo
 ||jsx.luyouwang.com^
 ||jsxwfb.xyz^
 ||jsyefc.com^
+||jsyliea.top^
 ||jsyrynq.com^
 ||jsyunmi.com^
 ||jszavs1.com^
@@ -102264,6 +102269,7 @@ zzzyk.com###Tinfo
 ||udfwwbkxremv.xyz^
 ||udgpjfdzxrvecn.com^
 ||udgrbq.malwarebytes.com^
+||udheansv.com^
 ||udiab1.jianshu.com^
 ||udiab2.jianshu.com^
 ||udinugoo.com^
@@ -107820,6 +107826,7 @@ zzzyk.com###Tinfo
 ||wpsmcns.com^
 ||wpsweb-dc.wps.cn^
 ||wpu.sh^
+||wpuiuwh.icu^
 ||wpunativesh.com^
 ||wpunkt.newsweek.pl^
 ||wpush.biz^
@@ -107932,6 +107939,7 @@ zzzyk.com###Tinfo
 ||wsadad.cn^
 ||wsafeguardpush.com^
 ||wsaidthemathe.info^
+||wscewc.xyz^
 ||wsd.guonongllc.com^
 ||wsdfame.com^
 ||wsds.cn^
@@ -109853,6 +109861,7 @@ zzzyk.com###Tinfo
 ||ygeosqsomusu.xyz^
 ||ygeqiky.com^
 ||ygfgzmzo.xyz^
+||ygh5.cn^
 ||ygkwjd.xyz^
 ||yglhcn.cn^
 ||ygmpia.worten.pt^
