@@ -1813,24 +1813,8 @@ $third-party,xmlhttprequest,domain=cocolamanhua.com|subhd.tv|subhdtw.com|xyg688.
 92ghai.com##.yttl_x_g
 92sucai.com##.adtg2
 92wy.com##.adhengfu
-939394.xyz##.allBg > div[style="display: block;"]
-939394.xyz##.j_r_w
-939394.xyz##.j_r_w + a
-939394.xyz##.wrap.mb8.mt5 ~ div[class]:not(.outer)
-939394.xyz##a[href*="base."]
-939394.xyz##a[href="https://pic.13709394.net/upload/"]
-939394.xyz##a[href^="/"]:not([href*="."]) > img[src*=".gif"]
-939394.xyz##a[href^="/"][href$=".html"] > img[src*=".gif"]:not([data-original])
-939394.xyz##a[style="display: block;"]
-939394.xyz##div[class] > div:not([class]):not([id])
-939394.xyz##div[id^="left_layer"]
-939394.xyz##div[style*="position: fixed;"]
-939394.xyz##img[src*=".xyz"][src*=".gif"]
-939394.xyz##img[src^="/"]
-939394.xyz##img[src^="\\"]
-939394.xyz#?#:-abp-properties(/fixed|data/)
-939394.xyz#?#a:-abp-has(img[src*=".alicdn."])
-939394.xyz#?#a:-abp-has(img[src*="/ddimg/"])
+939394.xyz##.j_m_ad
+939394.xyz##body > table:first-child img
 94itv.app##a[href="https://leo535.com/"]
 95ziyuan.cn##.jiuwu
 962.net##.g-962-ad
@@ -2115,7 +2099,6 @@ $third-party,xmlhttprequest,domain=cocolamanhua.com|subhd.tv|subhdtw.com|xyg688.
 @@||88box.com/images/ad_images/
 @@||930mh.com/js/config.js
 @@||939394.xyz^
-@@||939394.xyz^$generichide
 @@||95306.cn/public/images/ad/
 @@||95504.net/Advertisement_
 @@||95599.cn^*ad
@@ -7456,7 +7439,9 @@ vpsdx.com##.gsfha3-form
 vpsdx.com##.gthfdsa
 vpser.net##.ab_cpb
 vpser.net##.ab_cpr
+vsping.com##.ad_01
 vsping.com##.cell > span > a[href]:not([href*=".vsping.com"])
+vsping.com##div[style^="border-radius: 10px; box-shadow"]
 vuejs.org##.text-ad
 vuetifyjs.com##.v-sponsors
 vx666.com##.async[href^="http"]
@@ -9266,6 +9251,7 @@ zzzyk.com###Tinfo
 ||365sbaffiliates.com^
 ||366226193c.com^
 ||367207f60c.com^
+||369bgrec.top^
 ||36b7ca5028.com^
 ||36d1ef387c.com^
 ||36g.top^
@@ -10668,7 +10654,6 @@ zzzyk.com###Tinfo
 ||937791.com^
 ||9377ne.com^
 ||939394.xyz^
-||939394.xyz^$image
 ||93c398a59e.com^
 ||93savmobile-m.com^
 ||93ta.cn^
@@ -16102,6 +16087,9 @@ zzzyk.com###Tinfo
 ||aibantian.cn^
 ||aibici.com^
 ||aibing.cc/vip/img/gou.gif
+||aiboav.vip/wp-content/uploads/*/3aaa-
+||aiboav.vip/wp-content/uploads/ad/
+||aiboav.vip/wp-content/uploads/uu-chat/*.gif
 ||aibsgc.com^
 ||aibwjqpo.xyz^
 ||aichuangfu.cn/jquery/
@@ -42082,6 +42070,7 @@ zzzyk.com###Tinfo
 ||fkhxlz.xyz^
 ||fkjsjwbs.xyz^
 ||fkku194.com^
+||fklgndklbngg.com^
 ||fkllodaa.com^
 ||fkmdky.lifehacker.ru^
 ||fkodq.com^
@@ -50206,6 +50195,7 @@ zzzyk.com###Tinfo
 ||ie3wisa4.com^
 ||ie8eamus.com^
 ||ieamsbpzu.com^
+||ieapak.xyz^
 ||iebar.baidu.com^
 ||iebsmqevw.com^
 ||iedc.fitbit.com^
@@ -55809,6 +55799,7 @@ zzzyk.com###Tinfo
 ||jxofoyftjdo.xyz^
 ||jxpjlb.xyz^
 ||jxpjltwdeu.com^
+||jxqdl.cn^
 ||jxqfu.cn^
 ||jxsmzz.mytrauringstore.de^
 ||jxss88.mobi^
@@ -57469,6 +57460,7 @@ zzzyk.com###Tinfo
 ||l5kt1.icu^
 ||l74co.xyz^
 ||l7ghj.xyz^
+||l7u3kf.cn^
 ||l80ays.com^
 ||l936.expressnews.com^
 ||l9bdhcgihw.neihanw.com^
@@ -65233,7 +65225,6 @@ zzzyk.com###Tinfo
 ||meitu.com/js/floatxiuxiu.js
 ||meituan.com/ptapi/recommends?
 ||meituan.com/xiuxianyule/api/getRecommendList?
-||meituan.net^$domain=939394.xyz
 ||meitui.org^*.js
 ||meitulu.com/css/*showgg.js
 ||meitumq.com^
@@ -75773,6 +75764,7 @@ zzzyk.com###Tinfo
 ||pikecentreconfederate.com^
 ||pikedhelloed.com^
 ||pikrumsi.net^
+||piksrie.icu^
 ||pilaffskoniga.com^
 ||pilaryhurrah.com^
 ||piledannouncing.com^
@@ -80409,6 +80401,7 @@ zzzyk.com###Tinfo
 ||rbqcg6g.de^
 ||rbrbr88p.cn^
 ||rbrightscarletcl.info^
+||rbrmhz.xyz^
 ||rbrvifibj.com^
 ||rbs.haiyunx.com^
 ||rbsodzgoy.xyz^
@@ -103469,6 +103462,7 @@ zzzyk.com###Tinfo
 ||uslsxe.com^
 ||usltmus.cn^
 ||usmetric.rediff.com^
+||usmgoxe.cn^
 ||usn.cc^
 ||usnindioxime.website^
 ||usninicsooey.com^
@@ -105309,6 +105303,8 @@ zzzyk.com###Tinfo
 ||vskfeduxg.xyz^
 ||vsnoon.com^
 ||vsnpfmoxb.xyz^
+||vsping-*.myqcloud.com/ggw/
+||vsping.com/website/adLinks?
 ||vsping.com/website/ads?
 ||vsqf.nal5h.cn^
 ||vsqyaz.sweetwater.com^
@@ -107851,6 +107847,7 @@ zzzyk.com###Tinfo
 ||wqweiog.xyz^
 ||wqytxm.kurly.com^
 ||wqzjfsmudvpct.com^
+||wqzmed.cn^
 ||wqzqoobqpubx.com^
 ||wqzyt.net^
 ||wqzyxxrrep.com^
