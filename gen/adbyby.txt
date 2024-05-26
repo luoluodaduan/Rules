@@ -5435,6 +5435,9 @@ iqiyi.com##a[href*=".banggo."]
 iqiyi.com##a[href*=".oppo."]
 iqiyi.com##a[id^="100000"]
 iqiyi.com##div[class^="ad-piclist-"]
+iqiyi.com##div[class^="video-slide_normal"]>a[href^="http"]:not([href*="iqiyi.com"]) div[class^="video-slide_row"]
+iqiyi.com##div[class^="video-slide_normal"]>a[href^="http"]:not([href*="iqiyi.com"])>div>img
+iqiyi.com##div[class^="video-slide_threeImagePages"]>a[href^="http"]:not([href*="iqiyi.com"])>div
 iqiyi.com##div[id^="div_theatre"]
 iqiyi.com##li[data-flag="shop"]
 iqiyi.com##li[id^="100000"]
@@ -9220,6 +9223,7 @@ zzzyk.com###Tinfo
 ||360.cn/popup/popinfo/
 ||3600.com^
 ||360114.xyz^
+||3601880.xyz^
 ||360640.com^
 ||360ads.com^
 ||360buyimg.com/babel/jfs/t1/209256/22/21888/60206/627b7a6aEa5f2d78b/219868beb169203f.jpg
@@ -9443,6 +9447,7 @@ zzzyk.com###Tinfo
 ||415677.com^
 ||41f6f373a2.com^
 ||4207008.com^
+||420909.cn^
 ||4242jj.com^
 ||4242lll.com^
 ||4242uuu.com^
@@ -25321,6 +25326,7 @@ zzzyk.com###Tinfo
 ||bzhanyy.com^*.gif
 ||bzlold.machi.to^
 ||bznizrhd.xyz^
+||bzqqftz.icu^
 ||bzqxze.remixshop.com^
 ||bzsiyxkvehty.com^
 ||bzthxv.xyz^
@@ -38354,6 +38360,7 @@ zzzyk.com###Tinfo
 ||eheiwhacdsnc.com^
 ||eheuye.xyz^
 ||ehgavvcqj.xyz^
+||ehhjfgs.xyz^
 ||ehliswxnrx.com^
 ||ehoqtjfazgxzee.com^
 ||ehpcqqxlde.com^
@@ -39878,6 +39885,7 @@ zzzyk.com###Tinfo
 ||esumeformo.info^
 ||eswsentatives.info^
 ||esxjpnkgyaeiu.xyz^
+||esyliew.top^
 ||et-code.ru^
 ||et-gv.fr^
 ||et.educationdynamics.com^
@@ -47083,6 +47091,7 @@ zzzyk.com###Tinfo
 ||gw.d.ywopt.com^
 ||gw100-10.com^
 ||gw1jvhs.com^
+||gw2cddpt2hao.asia^
 ||gwallet.com^
 ||gwbgqrxlelrjsi.com^
 ||gwbnsh.net.cn/hd/unicom/ad.html
@@ -72830,6 +72839,7 @@ zzzyk.com###Tinfo
 ||onwekdebd.xyz^
 ||onx8.com/theme/tange/add/
 ||onx8.com/zb_users/theme/ydgreen/style/ad/
+||onxeacj.cn^
 ||onxtxdm.xyz^
 ||onychinferous.top^
 ||onzazqarhmpi.com^
@@ -73157,6 +73167,7 @@ zzzyk.com###Tinfo
 ||opuluswanton.top^
 ||opvanillishan.com^
 ||opwofty.cn^
+||opwoga.xyz^
 ||opxogkbiqkti.com^
 ||opzksyy.cn^
 ||oq6ry.com^
@@ -111803,6 +111814,7 @@ zzzyk.com###Tinfo
 ||zvrvwpcqweiwhm.com^
 ||zvtnj.icu^
 ||zvvajeokyboae.top^
+||zvvlbf.xyz^
 ||zvvpcz.puravita.ch^
 ||zvvsvr.kettner-edelmetalle.de^
 ||zvwhrc.com^
