@@ -177,6 +177,7 @@ $third-party,xmlhttprequest,domain=cocolamanhua.com|subhd.tv|subhdtw.com|xyg688.
 .site:20443/*.js^$script,third-party
 .test15./
 .top/ad-
+.top/ad/
 .top/ads/
 .top/upload/ad.js
 .top^*-960x80-*.gif
@@ -2601,6 +2602,7 @@ $third-party,xmlhttprequest,domain=cocolamanhua.com|subhd.tv|subhdtw.com|xyg688.
 @@||meituan.net/bs/js/*/js/tracker.js
 @@||meizu.coapi.moji.com^
 @@||meizu.com/fileserver/ad/img/
+@@||mens1069.com^$generichide
 @@||mhxk.com^*/main/entry.common.$script
 @@||miaozhen.com^*/m.suning.
 @@||microsoft.com/translate/auth
@@ -2660,7 +2662,7 @@ $third-party,xmlhttprequest,domain=cocolamanhua.com|subhd.tv|subhdtw.com|xyg688.
 @@||ozabc.com^$generichide
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl$domain=ff14angler.com|logi.im
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=doitwell.tw
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=23qb.net|4spaces.org|aboluowang.com|assbbs.com|bilinovel.com|chaojizhibo.net|chtoen.com|daxiaamu.com|demo.ama.pub|dizhishengcheng.com|doitwell.tw|ekamus.info|eu4cn.com|ff14angler.com|freedidi.com|haoweichi.com|it365.abctool.info|linovelib.com|logi.im|monnsutogatya.com|mpyit.com|myqqjd.com|numberempire.com|ozabc.com|pansearch.me|patch.ali213.net|pc3mag.com|reh.tw|shenfendaquan.com|sistersbedroom.com|sto520.com|vaptcha.com|wandhi.com|wenxuecity.com|wuyong.fun|xbeibeix.com|xiebruce.top|xugaoxiang.com|xxxxx520.com|yodu.org|yummy.best|zaixianjisuan.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mens1069.com|23qb.net|4spaces.org|aboluowang.com|assbbs.com|bilinovel.com|chaojizhibo.net|chtoen.com|daxiaamu.com|demo.ama.pub|dizhishengcheng.com|doitwell.tw|ekamus.info|eu4cn.com|ff14angler.com|freedidi.com|haoweichi.com|it365.abctool.info|linovelib.com|logi.im|monnsutogatya.com|mpyit.com|myqqjd.com|numberempire.com|ozabc.com|pansearch.me|patch.ali213.net|pc3mag.com|reh.tw|shenfendaquan.com|sistersbedroom.com|sto520.com|vaptcha.com|wandhi.com|wenxuecity.com|wuyong.fun|xbeibeix.com|xiebruce.top|xugaoxiang.com|xxxxx520.com|yodu.org|yummy.best|zaixianjisuan.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=duelmeta.com|linetv.tw|liout.com|moneysave.info|raenonx.cc|zxmee.com
 @@||pagead2.googlesyndication.com/pagead/js/google_top_exp.js$domain=ebb.io
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=knowlet3389.blogspot.com|knowlet3389.blogspot.hk|knowlet3389.blogspot.jp|knowlet3389.blogspot.tw|mnighthk.net|weithenn.org
@@ -13177,6 +13179,7 @@ zzzyk.com###Tinfo
 ||abtyroguer.com^
 ||abuaac.suzette-shop.jp^
 ||abuajs.e-monsite.com^
+||abucki.xyz^
 ||abuleiasafflow.com^
 ||abuliasbubber.com^
 ||abundantcoin.com^
@@ -20380,6 +20383,7 @@ zzzyk.com###Tinfo
 ||augustjadespun.com^
 ||augvtjtnsfnxg.ru^
 ||auiehechoulh.ru^
+||auisaoa.top^
 ||aujooxoo.com^
 ||aukalerim.com^
 ||aukarosizox.com^
@@ -23031,6 +23035,7 @@ zzzyk.com###Tinfo
 ||binaryrecentrecentcut.com^
 ||bincatracs.com^
 ||bineukdwithmef.info^
+||bing001.shop^
 ||bingads.microsoft.com^
 ||bingdianhuanyuan.cn^
 ||bingoocy.com^
@@ -42921,6 +42926,7 @@ zzzyk.com###Tinfo
 ||fpdbccngiujp.com^
 ||fpdisplay.com/templates/default/js/palyflash_
 ||fpdisplay.com/upload/n_ad/
+||fpelfyeesuoivy.com^
 ||fpgedsewst.com^
 ||fpghll.rossmann.hu^
 ||fphbwyonnk.com^
@@ -70668,6 +70674,7 @@ zzzyk.com###Tinfo
 ||nltzqx.autodoc.co.uk^
 ||nlvgxr.xyz^
 ||nlvnht.miror.jp^
+||nlvwdlnhfnnw.com^
 ||nlwjdxsa.com^
 ||nlyxqpeo.com^
 ||nlzq888.com^
@@ -103528,6 +103535,7 @@ zzzyk.com###Tinfo
 ||usisedprivatedqu.com^
 ||usivbt.qoo10.com^
 ||usjbwvtqwv.com^
+||uskecsx.icu^
 ||uskoie.xyz^
 ||uslbaht.top^
 ||uslphoctxrpwry.com^
@@ -108051,6 +108059,7 @@ zzzyk.com###Tinfo
 ||wstyruafypihv.xyz^
 ||wsuqzu.armani.com^
 ||wsyfsg.xyz^
+||wsyliee.top^
 ||wsytyz.tts.ru^
 ||wszwgs.cocopanda.fi^
 ||wt-eu02.net^
@@ -111227,6 +111236,7 @@ zzzyk.com###Tinfo
 ||zhan.vivo.com.cn^
 ||zhaner.xyz^
 ||zhangguangzong.com^
+||zhangqifeng12.top^
 ||zhangxinzhixun.com^
 ||zhangyumo.top^
 ||zhangyunxiawinner.top^
