@@ -726,7 +726,6 @@ blog.udn.com
 blog.workflow.is
 blog.xuite.net
 blog.youthwant.com.tw
-blog.youxu.info
 blogblog.com
 blogcatalog.com
 blogcdn.com
@@ -4352,6 +4351,7 @@ pipii.tv
 piposay.com
 piraattilahti.org
 piring.com
+pixeldrain.com
 pixelqi.com
 pixiv.net
 pixnet.in
@@ -6599,6 +6599,7 @@ ywxi.net
 yx51.net
 yyii.org
 yyjlymb.xyz
+yysub.net
 yzzk.com
 z-lib.org
 zacebook.com
