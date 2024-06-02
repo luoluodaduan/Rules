@@ -121,6 +121,7 @@ $third-party,xmlhttprequest,domain=cocolamanhua.com|subhd.tv|subhdtw.com|xyg688.
 .com:9120/discor_list.js
 .cyou/*_*_an*js?$script,third-party
 .cyou/*_*_u*js?$script,third-party
+.dajiahao*.top/getCodeDomain/
 .fun/*_*_rony.js
 .fun/ad/
 .gif|$domain=7mshipin.org|viidii.info
@@ -2662,7 +2663,7 @@ $third-party,xmlhttprequest,domain=cocolamanhua.com|subhd.tv|subhdtw.com|xyg688.
 @@||ozabc.com^$generichide
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl$domain=ff14angler.com|logi.im
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=doitwell.tw
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mens1069.com|23qb.net|4spaces.org|aboluowang.com|assbbs.com|bilinovel.com|chaojizhibo.net|chtoen.com|daxiaamu.com|demo.ama.pub|dizhishengcheng.com|doitwell.tw|ekamus.info|eu4cn.com|ff14angler.com|freedidi.com|haoweichi.com|it365.abctool.info|linovelib.com|logi.im|monnsutogatya.com|mpyit.com|myqqjd.com|numberempire.com|ozabc.com|pansearch.me|patch.ali213.net|pc3mag.com|reh.tw|shenfendaquan.com|sistersbedroom.com|sto520.com|vaptcha.com|wandhi.com|wenxuecity.com|wuyong.fun|xbeibeix.com|xiebruce.top|xugaoxiang.com|xxxxx520.com|yodu.org|yummy.best|zaixianjisuan.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=23qb.net|4spaces.org|aboluowang.com|assbbs.com|bilinovel.com|chaojizhibo.net|chtoen.com|daxiaamu.com|demo.ama.pub|dizhishengcheng.com|doitwell.tw|ekamus.info|eu4cn.com|ff14angler.com|freedidi.com|haoweichi.com|it365.abctool.info|linovelib.com|logi.im|mens1069.com|monnsutogatya.com|mpyit.com|myqqjd.com|numberempire.com|ozabc.com|pansearch.me|patch.ali213.net|pc3mag.com|reh.tw|shenfendaquan.com|sistersbedroom.com|sto520.com|vaptcha.com|wandhi.com|wenxuecity.com|wuyong.fun|xbeibeix.com|xiebruce.top|xugaoxiang.com|xxxxx520.com|yodu.org|yummy.best|zaixianjisuan.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=duelmeta.com|linetv.tw|liout.com|moneysave.info|raenonx.cc|zxmee.com
 @@||pagead2.googlesyndication.com/pagead/js/google_top_exp.js$domain=ebb.io
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=knowlet3389.blogspot.com|knowlet3389.blogspot.hk|knowlet3389.blogspot.jp|knowlet3389.blogspot.tw|mnighthk.net|weithenn.org
@@ -5158,7 +5159,6 @@ ifeng.com##.ad1000_2
 ifeng.com##.ad1000_box
 ifeng.com##.ad200-2
 ifeng.com##.adR01
-ifeng.com##.ad_01
 ifeng.com##.ad_04
 ifeng.com##.ad_09
 ifeng.com##.ad_12
@@ -5220,6 +5220,7 @@ ifeng.com#?#.box_list:-abp-has(.tuig)
 ifeng.com#?#div[class^="titleImg-"]:-abp-has(span[class^="source-"]:-abp-contains(推广))
 ifeng.com,qq.com###advert
 ifeng.com,sohu.com##.ad950
+ifeng.com,vsping.com##.ad_01
 ifenpaidy.com##.btn-copy + .btn
 ifenpaidy.com##.modal-body
 ifenpaidy.com##.post > .div
@@ -5437,9 +5438,9 @@ iqiyi.com##a[href*=".banggo."]
 iqiyi.com##a[href*=".oppo."]
 iqiyi.com##a[id^="100000"]
 iqiyi.com##div[class^="ad-piclist-"]
-iqiyi.com##div[class^="video-slide_normal"]>a[href^="http"]:not([href*="iqiyi.com"]) div[class^="video-slide_row"]
-iqiyi.com##div[class^="video-slide_normal"]>a[href^="http"]:not([href*="iqiyi.com"])>div>img
-iqiyi.com##div[class^="video-slide_threeImagePages"]>a[href^="http"]:not([href*="iqiyi.com"])>div
+iqiyi.com##div[class^="video-slide_normal"] > a[href^="http"]:not([href*="iqiyi.com"]) > div > img
+iqiyi.com##div[class^="video-slide_normal"] > a[href^="http"]:not([href*="iqiyi.com"]) div[class^="video-slide_row"]
+iqiyi.com##div[class^="video-slide_threeImagePages"] > a[href^="http"]:not([href*="iqiyi.com"]) > div
 iqiyi.com##div[id^="div_theatre"]
 iqiyi.com##li[data-flag="shop"]
 iqiyi.com##li[id^="100000"]
@@ -7447,7 +7448,6 @@ vpsdx.com##.gsfha3-form
 vpsdx.com##.gthfdsa
 vpser.net##.ab_cpb
 vpser.net##.ab_cpr
-vsping.com##.ad_01
 vsping.com##.cell > span > a[href]:not([href*=".vsping.com"])
 vsping.com##div[style^="border-radius: 10px; box-shadow"]
 vuejs.org##.text-ad
@@ -7590,6 +7590,7 @@ wnacg.com#@#.ff-ads
 wnacg.com#@#.google-ads
 wnacg.com#@#.hlol_ad
 wnacg.com#@#.pcd_ad
+woaimoon.com##div[id^="juan_"]
 woego.cn#@##topAds
 woniupai.net##.wnp-adbox
 workercn.cn#@#.ad_main
@@ -32515,6 +32516,8 @@ zzzyk.com###Tinfo
 ||dajdnm.splits59.com^
 ||dajean.com^
 ||dajiadu8.com/17.js
+||dajiahao10.top^
+||dajiahao9.top^
 ||dajiazhao.com/login/reg.js
 ||dakic-ia-300.com^
 ||dakjddjerdrct.online^
@@ -35978,6 +35981,7 @@ zzzyk.com###Tinfo
 ||downzoner.xyz^
 ||dowrylatest.com^
 ||dowtyler.com^
+||doxihz.xyz^
 ||doydplivplr.com^
 ||doyngspern.com^
 ||dozard.com^
@@ -55644,6 +55648,7 @@ zzzyk.com###Tinfo
 ||jspqhh.xyz^
 ||jspqms.bellevue-ferienhaus.de^
 ||jsqmt.qq.com^
+||jsqygwl.top^
 ||jsretra.com^
 ||jss.haoxyx.com^
 ||jssearch.net^
@@ -57193,6 +57198,7 @@ zzzyk.com###Tinfo
 ||krful.com^
 ||krgukepers.org^
 ||krisydark.com^
+||kritgu.xyz^
 ||krivo.buzz^
 ||krixyncbsyhju.com^
 ||krjxhvyyzp.com^
@@ -58586,6 +58592,7 @@ zzzyk.com###Tinfo
 ||lhiswrkt.com^
 ||lhkmedia.in^
 ||lhmebwq.cn^
+||lhmgoik.icu^
 ||lhmos.com^
 ||lhotajl.icu^
 ||lhp-mortgage.loanzify.com^
@@ -60998,6 +61005,7 @@ zzzyk.com###Tinfo
 ||lsv5.belambra.fr^
 ||lsvblpynuezkbf.com^
 ||lswfmx.stuartweitzman.com^
+||lsyliel.top^
 ||ltam2.secureforms.mcafee.com^
 ||ltassrv.com.s3.amazonaws.com^
 ||ltassrv.com^
@@ -75796,6 +75804,7 @@ zzzyk.com###Tinfo
 ||phrygiakodak.top^
 ||phs.tanx.com^
 ||phsism.com^
+||phtivr.xyz^
 ||phts.io^
 ||phubsorg.xyz^
 ||phudreez.com^
@@ -90724,6 +90733,7 @@ zzzyk.com###Tinfo
 ||snitchgutsdainty.com^
 ||snitchtidying.com^
 ||snitchyweenty.top^
+||snjfasp.com^
 ||snjlhmb.com^
 ||snlpclc.com^
 ||snltte.promod.fr^
