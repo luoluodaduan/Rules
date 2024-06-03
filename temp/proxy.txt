@@ -3145,6 +3145,7 @@ DOMAIN-SUFFIX,lizhizhuangbi.com,PROXY
 DOMAIN-SUFFIX,lkcn.net,PROXY
 DOMAIN-SUFFIX,llnwd.net,PROXY
 DOMAIN-SUFFIX,llss.me,PROXY
+DOMAIN-SUFFIX,lmsys.org,PROXY
 DOMAIN-SUFFIX,lncn.org,PROXY
 DOMAIN-SUFFIX,load.to,PROXY
 DOMAIN-SUFFIX,lobsangwangyal.com,PROXY
@@ -4283,6 +4284,7 @@ DOMAIN-SUFFIX,ra.gg,PROXY
 DOMAIN-SUFFIX,radicalparty.org,PROXY
 DOMAIN-SUFFIX,radikal.ru,PROXY
 DOMAIN-SUFFIX,radiko.jp,PROXY
+DOMAIN-SUFFIX,radio-canada.ca,PROXY
 DOMAIN-SUFFIX,radio.garden,PROXY
 DOMAIN-SUFFIX,radioaustralia.net.au,PROXY
 DOMAIN-SUFFIX,radiohilight.net,PROXY
@@ -4959,6 +4961,7 @@ DOMAIN-SUFFIX,tahr.org.tw,PROXY
 DOMAIN-SUFFIX,taipei.gov.tw,PROXY
 DOMAIN-SUFFIX,taipeisociety.org,PROXY
 DOMAIN-SUFFIX,taipeitimes.com,PROXY
+DOMAIN-SUFFIX,taisounds.com,PROXY
 DOMAIN-SUFFIX,taiwan-sex.com,PROXY
 DOMAIN-SUFFIX,taiwanbible.com,PROXY
 DOMAIN-SUFFIX,taiwancon.com,PROXY
