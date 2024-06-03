@@ -1012,6 +1012,7 @@ channel8news.sg
 channelnewsasia.com
 chaoex.com
 chapm25.com
+chat.lmsys.org
 chatgpt.com
 chatnook.com
 chatra.io
@@ -4556,6 +4557,7 @@ ra.gg
 radicalparty.org
 radikal.ru
 radiko.jp
+radio-canada.ca
 radio.garden
 radioaustralia.net.au
 radiohilight.net
@@ -5281,6 +5283,7 @@ tahr.org.tw
 taipei.gov.tw
 taipeisociety.org
 taipeitimes.com
+taisounds.com
 taiwan-sex.com
 taiwanbible.com
 taiwancon.com
