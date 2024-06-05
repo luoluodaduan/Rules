@@ -385,6 +385,7 @@ apkmirror.com
 apkmonk.com
 apkplz.com
 apkpure.com
+apkpure.net
 aplusvpn.com
 app-measurement.com
 app-measurement.net
@@ -1451,6 +1452,7 @@ deviantart.com
 deviantart.net
 devio.us
 devpn.com
+devv.ai
 dfas.mil
 dfn.org
 dharamsalanet.com
