@@ -3780,6 +3780,7 @@ chongbuluo.com###add
 chongbuluo.com###add + a
 chongbuluo.com###dzrid > .frame:nth-child(n+2)
 chongbuluo.com##.postright
+chongbuluo.com##.search > div[style="width: 607px;margin-top:30px;"]
 chongbuluo.com##a[href^="https://cn.udacity.com/"]
 chongdiantou.com##.nice-sales
 chromecj.com##.topblock
@@ -22973,6 +22974,7 @@ zzzyk.com###Tinfo
 ||bing001.shop^
 ||bing003.shop^
 ||bing005.shop^
+||bing007.shop^
 ||binga01.shop^
 ||bingads.microsoft.com^
 ||bingdianhuanyuan.cn^
@@ -41193,6 +41195,7 @@ zzzyk.com###Tinfo
 ||fcxsodjsrqp.xyz^
 ||fcxxsl.com^
 ||fczaifik.com^
+||fczunn.xyz^
 ||fd.anzhi.com^
 ||fd.bawag.at^
 ||fd2.m.630book.la^
@@ -41525,6 +41528,7 @@ zzzyk.com###Tinfo
 ||fgfecw.rebelle.com^
 ||fgfgnbmeieorr910.com^
 ||fgfukd.sakazen.co.jp^
+||fghghh.cn^
 ||fghhbp.xyz^
 ||fghm.ga25.com^
 ||fghmc.ga25.com^
@@ -68885,6 +68889,7 @@ zzzyk.com###Tinfo
 ||mymix.mixdevelopment.com^
 ||mymix.mixtel.com^
 ||mymix.mixtelematics.com^
+||mymqcy.xyz^
 ||mynativeads.com^
 ||mynewcounter.com^
 ||myniceposts.com^
@@ -82109,6 +82114,7 @@ zzzyk.com###Tinfo
 ||roxasnxjruxnd.com^
 ||roxby.org^
 ||roxewwq.cn^
+||roxfrv.xyz^
 ||roxot-panel.com^
 ||roxyaffiliates.com^
 ||royal-cash.com^
@@ -82555,6 +82561,7 @@ zzzyk.com###Tinfo
 ||rvrpushserv.com^
 ||rvrpushsrv.com^
 ||rvshjxsbohimgb.com^
+||rvtfwryz.icu^
 ||rvtwqp.winparts.se^
 ||rvuoghivbylqlr.com^
 ||rvv.emol.com^
@@ -97411,6 +97418,7 @@ zzzyk.com###Tinfo
 ||theythourbonusgain.life^
 ||theyunm.com^
 ||thgebtibfyry.com^
+||thgthgfg.cn^
 ||thhesw.tre.it^
 ||thialfi.net.anwalt.de^
 ||thibwejrqrmjstt.com^
@@ -108681,6 +108689,7 @@ zzzyk.com###Tinfo
 ||xn--wgvp78a61swpe6zdozj.cn^
 ||xn--wxtr44c.video^
 ||xn--wxtr9fwyxk9c.*^
+||xn--xhq326apqhcx0d.cn^
 ||xn--xhq9mt12cf5v.*^
 ||xn--zw0autp42d.cn^
 ||xnbwsp.c-and-a.com^
