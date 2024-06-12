@@ -56297,7 +56297,6 @@
 .milteept.xyz
 .miltlametta.com
 .miluwo.com
-.mime.baidu.com
 .mimeihui.com
 .mimg.126.net
 .mimicbeeralb.com
@@ -81359,7 +81358,6 @@
 .statics.3987.com
 .statics.woozooo.com
 .staticsfs.host
-.staticsns.cdn.bcebos.com
 .statictapcdn-a.akamaihd.net
 .staticxx.facebook.com
 .staticxz.com

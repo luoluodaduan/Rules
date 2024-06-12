@@ -180,6 +180,7 @@ $third-party,xmlhttprequest,domain=cocolamanhua.com|subhd.tv|subhdtw.com|xyg688.
 .top/ad-
 .top/ad/
 .top/ads/
+.top/g3/myString3AsyncG?$third-party
 .top/upload/ad.js
 .top^*-960x80-*.gif
 .tor*/js/jquery.bpopup.
@@ -23413,6 +23414,7 @@ zzzyk.com###Tinfo
 ||blownsuperstitionabound.com^
 ||blowssubplow.com^
 ||blox.minexmr.com^
+||blrpbt.xyz^
 ||blrupz.xyz^
 ||blsoof.wirwinzer.de^
 ||blthwbe.xyz^
@@ -44560,6 +44562,7 @@ zzzyk.com###Tinfo
 ||gfbxgrfnljmxs.com^
 ||gfd.huigoushop.com^
 ||gfdfegg.cn^
+||gfdfgfgr.cn^
 ||gfdgfhh.cn^
 ||gfeede.theminda.com^
 ||gfgcwf.vidaxl.lv^
@@ -44870,6 +44873,7 @@ zzzyk.com###Tinfo
 ||gjfeblixctsojx.xyz^
 ||gjffrtfkhf.xyz^
 ||gjh111.cn^
+||gjhjjhgc.cn^
 ||gjhksxthokyjlm.com^
 ||gjigle.com^
 ||gjipd.xyz^
@@ -46712,6 +46716,7 @@ zzzyk.com###Tinfo
 ||gtosmdjgn.xyz^
 ||gtpso.com/Home/TopSdk/getFavCoupItems
 ||gtreus.aliexpress.com^
+||gtrhnhg.cn^
 ||gtrk.s3.amazonaws.com^
 ||gtrmshgbw.com^
 ||gts-ads.twistbox.com^
@@ -55008,6 +55013,7 @@ zzzyk.com###Tinfo
 ||jqcdn03.herokuapp.com^
 ||jqcdn2.herokuapp.com^
 ||jqcyacoxrvada.com^
+||jqfql.top^
 ||jqgqrsvcaos.xyz^
 ||jqitetsk.com^
 ||jqkcett.icu^
@@ -58169,6 +58175,7 @@ zzzyk.com###Tinfo
 ||lffsnhwhxnqn.com^
 ||lfhdryz.xyz^
 ||lfhnzbj.xyz^
+||lfjslil.top^
 ||lfjtiuy.cn^
 ||lfkxjcrlrrar.com^
 ||lflcbcb.com^
@@ -67061,7 +67068,6 @@ zzzyk.com###Tinfo
 ||miltlametta.com^
 ||miluwo.com^
 ||mima.club/tuijian/speedtest/
-||mime.baidu.com^
 ||mimeihui.com^
 ||mimg.126.net^
 ||mimicbeeralb.com^
@@ -68988,6 +68994,7 @@ zzzyk.com###Tinfo
 ||myqcloud.com/ad/
 ||myqcloud.com/wp-content/uploads/huoxingyun.
 ||myraqcajwkeyqd.com^
+||myreadcloud.com^
 ||myregeneaf.com^
 ||myrfdq.emmi.jp^
 ||myroitracking.com^
@@ -78928,6 +78935,7 @@ zzzyk.com###Tinfo
 ||qhdwjjhvgqa.com^
 ||qhdzljxsb.cn^
 ||qhemphox.com^
+||qheose.xyz^
 ||qheoy.cn^
 ||qhfcsd.rastaclat.com^
 ||qhimg.com/ssl/20212c7594890e1c.js
@@ -92839,7 +92847,6 @@ zzzyk.com###Tinfo
 ||statics.3987.com^
 ||statics.woozooo.com^
 ||staticsfs.host^
-||staticsns.cdn.bcebos.com^
 ||statictapcdn-a.akamaihd.net^
 ||staticxx.facebook.com^
 ||staticxz.com^
@@ -98035,6 +98042,7 @@ zzzyk.com###Tinfo
 ||tjsicyijerce.com^
 ||tjtmjjigtdoah.com^
 ||tjuhdrm.com^
+||tjuspyk.icu^
 ||tjwzyjx.icu^
 ||tjxfkmlhubh.com^
 ||tjxjpqa.com^
@@ -105193,6 +105201,7 @@ zzzyk.com###Tinfo
 ||vxoncbelghuic.com^
 ||vxorjza.com^
 ||vxotu.com/i/*.gif
+||vxpdfb.xyz^
 ||vxrydraquqcwb.com^
 ||vxsscpctuiq.com^
 ||vxvtzx.xyz^
@@ -109038,6 +109047,7 @@ zzzyk.com###Tinfo
 ||xukevxdf.com^
 ||xukou.net^
 ||xukpresesmr.info^
+||xuldtcip.icu^
 ||xulizui6.com^
 ||xun.mobi^
 ||xunchn.com^
@@ -111125,6 +111135,7 @@ zzzyk.com###Tinfo
 ||zkntjk.hikaku-cardloan.news.mynavi.jp^
 ||zkqegdgj.com^
 ||zkqhqv.sizeofficial.it^
+||zkrdzn.xyz^
 ||zktsygv.com^
 ||zkxggrwzswhpgn.com^
 ||zkzpgz.icu^
@@ -111160,6 +111171,7 @@ zzzyk.com###Tinfo
 ||zlyhslx.icu^
 ||zlyk.com^*/ysapp.
 ||zm232.com^
+||zmbmoxij.icu^
 ||zmctrack.net^
 ||zmdesf.cn^
 ||zmdjbl.xyz^
