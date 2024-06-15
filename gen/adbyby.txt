@@ -3536,6 +3536,7 @@ boke112.com##a[href*="url.cn"]
 boke112.com##a[href^="https://dwz.cn/"]
 boke112.com,dzbhdm.net,mzh.ren,whsir.com##a[href*=".aliyun.com"]
 boke112.com,ruanyifeng.com##a[href^="http://t.cn/"]
+bole90.com###xy_toast_ad
 boniu123.cc##.td_item
 boniu123.cc##a[href^="http"] > img[src*="/bn_"]
 boo.tw##.blockUI
@@ -7744,6 +7745,8 @@ yes-news.com##.new-index-main-ysm
 yes-news.com##.new-sidebar-today-300ad
 yes-news.com##.notification
 yesky.com##.abox
+yesky.com##.main_left_advertisement
+yesky.com##.rightGg
 yesky.com##div[class^="ad1"]
 yesky.com##div[class^="ad7"]
 ygdy8.cc##.container > a[href^="/"]
@@ -10651,6 +10654,7 @@ zzzyk.com###Tinfo
 ||91yun.co/download/
 ||920share.com/layer/layer.js
 ||920share.com/wp-content/uploads/*/911
+||9216tp1.com^
 ||922tp.com/wp-content/uploads/*0x
 ||9270.com.cn^
 ||92caijing.com^
@@ -15565,6 +15569,7 @@ zzzyk.com###Tinfo
 ||adzmarket.net^
 ||adzmedia.com^
 ||adzmob.com^
+||adzo.cn^
 ||adzoc.com^
 ||adzonk.com^
 ||adzouk.com^
@@ -15631,6 +15636,7 @@ zzzyk.com###Tinfo
 ||aeucyo.xyz^
 ||aevspdhb.com^
 ||aexz.rm.fhxiaoshuo.com^
+||aeyyck.xyz^
 ||af-z.jp^
 ||af.eficads.com^
 ||af.gmobile.biz^
@@ -21863,6 +21869,7 @@ zzzyk.com###Tinfo
 ||bbn.gzblogger.cn^
 ||bbphonix.xyz^
 ||bbqckhmgboal.xyz^
+||bbqoa.top^
 ||bbrdbr.com^
 ||bbrnpj.xyz^
 ||bbs.a9vg.com/showit/img_show.php
@@ -36501,6 +36508,7 @@ zzzyk.com###Tinfo
 ||dvenkbn.icu^
 ||dvfmdgdk.com^
 ||dvghns.idealista.it^
+||dvgjx.cn^
 ||dvhcob.jtrip.co.jp^
 ||dvigutying.top^
 ||dvjkmskks.xyz^
@@ -42386,6 +42394,7 @@ zzzyk.com###Tinfo
 ||foghug.site^
 ||fogl1onf.com^
 ||fognvcteac.com^
+||fogolakda.top^
 ||fogsham.com^
 ||fogtweybq.com^
 ||foguroli.pro^
@@ -59892,6 +59901,7 @@ zzzyk.com###Tinfo
 ||lnkrdr.com^
 ||lnkvv.com^
 ||lnkyqvkyznkvz.top^
+||lnlkmr.xyz^
 ||lnlxhsjjqfjs.com^
 ||lnmreidn.com^
 ||lnonsoygtt.com^
@@ -76978,6 +76988,7 @@ zzzyk.com###Tinfo
 ||powrpvuruejv.com^
 ||poxaharap.com^
 ||poxcgxylozny.com^
+||poxdpj.xyz^
 ||poxiao.com/template/default/images/12345.js
 ||poxykhakis.com^
 ||poxypicine.com^
@@ -78688,6 +78699,7 @@ zzzyk.com###Tinfo
 ||pwuxnr.cn^
 ||pwwqkppwqkezqer.site^
 ||pwxerujvl.com^
+||pwxlbsie.icu^
 ||pwxmwmoyuobgku.com^
 ||pwxtock.com^
 ||px-intl.ucweb.com^
@@ -95517,6 +95529,7 @@ zzzyk.com###Tinfo
 ||szbxm.cn^
 ||szbxw.cn^
 ||szbzp.cn^
+||szdpk.cn^
 ||szfcol.com/images/wxright240.jpg
 ||szfcol.com/js/siteAd.js
 ||szfmr.cn^
@@ -108620,6 +108633,7 @@ zzzyk.com###Tinfo
 ||xiangshunjy.com^
 ||xiankandy.com^
 ||xianliao.me^
+||xianliao.voto^
 ||xianshuabao.com/ashx/pt.ashx?cmd=record&filter=&order=all&
 ||xiaoangel.com^
 ||xiaobaipan.com/tb.html
@@ -110380,6 +110394,7 @@ zzzyk.com###Tinfo
 ||ytnkdhmtdubhk.com^
 ||ytouvy.arezzo.com.br^
 ||ytoworkwi.org^
+||ytqeavc.icu^
 ||ytqnzvqfsr.com^
 ||ytsa.net^
 ||ytse*.top/Static/Home/GongGao/img/
