@@ -1809,11 +1809,11 @@ $third-party,xmlhttprequest,domain=cocolamanhua.com|subhd.tv|subhdtw.com|xyg688.
 91lai.com##.D_guanggaotu3
 91lai.com##.showimgs
 91porn.com##.preroll-blocker
-91porny.com,9s102.xyz,jiuse205.com,jiuse390.xyz,jiuse970.com##.container-fluid.p-0[class*="mb-"]
-91porny.com,9s102.xyz,jiuse205.com,jiuse390.xyz,jiuse970.com##.jsv-g1
-91porny.org,haijiao35.com,jiuse.io###main > div[id^="rd"]
-91porny.org,haijiao35.com,jiuse.io##.footer + .block
-91porny.org,jiuse.io,haijiao35.com#?#.card:-abp-has(>.card-image>a[href^="http"])
+91porny.com##.container-fluid.p-0[class*="mb-"]
+91porny.com##.jsv-g1
+91porny.org,jiuse.io,x9av7.com#?#.card:-abp-has(>.card-image>a[href^="http"])
+91porny.org,x9av7.com,jiuse.io###main > div[id^="rd"]
+91porny.org,x9av7.com,jiuse.io##.footer + .block
 920share.com###layui-layer1
 92ghai.com##.a_xiu_t
 92ghai.com##.yttl_x_g
@@ -20790,6 +20790,7 @@ zzzyk.com###Tinfo
 ||awvqfalackho.com^
 ||awvvhicirfti.com^
 ||awytythbxujkz.com^
+||awyuge.xyz^
 ||awzbijw.com^
 ||awzddev.cn^
 ||awzvpbg.com^
@@ -23106,6 +23107,7 @@ zzzyk.com###Tinfo
 ||birthdaybelief.com^
 ||birthdayinhale.com^
 ||birtuwhaim.com^
+||birtw.cn^
 ||bis-dic15.com^
 ||bis8j.com^
 ||biscow.com^
@@ -33379,6 +33381,7 @@ zzzyk.com###Tinfo
 ||ddmuiijrdvv0s.cloudfront.net^
 ||ddns.name^
 ||ddns.ne^
+||ddnzpr.xyz^
 ||ddome-tag.blablacar.com^
 ||ddpaowanji.com^
 ||ddpvnqtpdqid.xyz^
@@ -42380,6 +42383,7 @@ zzzyk.com###Tinfo
 ||fmhyysk.com^
 ||fmild.xyz^
 ||fmjgtp.dentalspeed.com^
+||fmjjvb.xyz^
 ||fmkoyjqnxdj.com^
 ||fmkqhwrfvs.com^
 ||fmocscbstnhbq.com^
@@ -102376,6 +102380,7 @@ zzzyk.com###Tinfo
 ||uelllwrite.com^
 ||uepkcdjgp.com^
 ||uerzyr.cn^
+||uessnah.icu^
 ||uestat.video.qiyi.com^
 ||ueumdkc.cn^
 ||ueuodgnrhb.com^
@@ -106155,6 +106160,7 @@ zzzyk.com###Tinfo
 ||wdff.buzz/hengf.
 ||wdfl.co^
 ||wdnyom.faces.com^
+||wdoshbe.top^
 ||wdownthreerfdfg.com^
 ||wdpqgagmulazv.com^
 ||wdpylyw.com^
@@ -109782,6 +109788,7 @@ zzzyk.com###Tinfo
 ||yccz.net/xml/
 ||ycembr.net-a-porter.com^
 ||yceml.net^
+||ycgfdf.cn^
 ||ycgkol.icu^
 ||ycgmnpp.icu^
 ||ycgy8888.com^
