@@ -10036,6 +10036,7 @@ zzzyk.com###Tinfo
 ||661291.com^
 ||6613167.cn^
 ||6615338.cn^
+||663008888.com^
 ||66308888.com^
 ||665166e5a9.com^
 ||6651tp.com^
@@ -10138,6 +10139,7 @@ zzzyk.com###Tinfo
 ||6park.com/img/*0.gif
 ||6park.com/parks/$script
 ||6ped2nd3yp.com^
+||6pznpz.com^
 ||6qu5dcmyumtw.com^
 ||6sc.co^
 ||6slb0.cyou^
@@ -15854,6 +15856,7 @@ zzzyk.com###Tinfo
 ||afocus.com.cn/s?
 ||afodreet.net^
 ||afootwitword.com^
+||afopr.cn^
 ||afosseel.net^
 ||afp.ai^
 ||afp.alicdn.com^
@@ -21481,6 +21484,8 @@ zzzyk.com###Tinfo
 ||baihuwang.com^
 ||baihuwang.com^$third-party
 ||baijav.com^
+||baijs02.xyz^
+||baijs03.xyz^
 ||baikalize.com^
 ||baike.biz^
 ||bailedgatheringmirth.com^
@@ -30502,6 +30507,7 @@ zzzyk.com###Tinfo
 ||creptdeservedprofanity.com^
 ||cresfpho2ntesepapillo3.com^
 ||cresivetanach.com^
+||cresqoirz.com^
 ||crestfallenwall.com^
 ||crestislelocation.com^
 ||cretgate.com^
@@ -35446,6 +35452,7 @@ zzzyk.com###Tinfo
 ||dnn1300.top^
 ||dnn506yrbagrg.cloudfront.net^
 ||dnnwebuxps.com^
+||dnpalh.xyz^
 ||dnpjzf.fashionette.co.uk^
 ||dnpnemyntetpj.com^
 ||dnpz123.com^
@@ -35790,6 +35797,7 @@ zzzyk.com###Tinfo
 ||douhooke.net^
 ||doujs01.xyz^
 ||doujs02.xyz^
+||doujs03.xyz^
 ||doukekan.cn^
 ||doukoula.com^
 ||doumaibiji.cn^
@@ -40764,6 +40772,7 @@ zzzyk.com###Tinfo
 ||eyfivnokubyhmy.xyz^
 ||eyharae.com^
 ||eyhcervzexp.com^
+||eyislow.top^
 ||eyjouer.com^
 ||eyjs.b7nkd.cn^
 ||eyjvq.xyz^
@@ -46180,6 +46189,7 @@ zzzyk.com###Tinfo
 ||goodyhitherto.com^
 ||google-analytics-cn.com^
 ||google-analytics.com^
+||google-js-01.xyz^
 ||googleadapis.com^
 ||googleads-cn.com^
 ||googleads.com^
@@ -67503,6 +67513,7 @@ zzzyk.com###Tinfo
 ||miui.hftaili.com^
 ||miuo.cloud^
 ||mivideo.g.mi.com^
+||miwfkm.xyz^
 ||miwifi.com^*ads/
 ||miwllmo.com^
 ||mix-omniture.rbs.com^
@@ -79103,6 +79114,7 @@ zzzyk.com###Tinfo
 ||qdmil.com^
 ||qdnxys.cotswoldco.com^
 ||qdogpcfgejgc.com^
+||qdoshby.top^
 ||qdotzfy.com^
 ||qdp.qidian.com^
 ||qdprapwflpvxpyl.com^
@@ -103694,6 +103706,7 @@ zzzyk.com###Tinfo
 ||uurykr.pizzahut.com.mx^
 ||uurzdr.global-style.jp^
 ||uusimaa.viessmann.fi^
+||uutytp.com^
 ||uuu9.tieba.com^$subdocument
 ||uuudqhialb.com^
 ||uuuutp.com^
@@ -105596,6 +105609,7 @@ zzzyk.com###Tinfo
 ||w.xiaopiaoyou.com^
 ||w.yamaidei.cn^
 ||w.yinyuehu.cn^
+||w0057.com^
 ||w00tmedia.net^
 ||w010w.com.cn^$subdocument
 ||w07.xyz^
