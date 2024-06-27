@@ -7246,7 +7246,6 @@ theporn.cc##.toolbar-gg
 theworld.cn##.download-now
 thinbug.com###inktokad
 thinkphp.cn##.a6
-thwiki.cc###a-carousel
 tianhaohz.com##span[style="display: block; clear: both; overflow: hidden;"]
 tianshif.com###comment-ad
 tianshui.com.cn##td[height="420"]
@@ -7611,6 +7610,7 @@ woshipm.com##.article-bottomAd
 woshipm.com##.article-topAd
 wpjam.com###wpjam_blog_300x250_1
 ws://*/api/wss/GetNotReadCount$third-party
+wss://*.xyz:*?x=$third-party
 wss://*/api/wss/GetNotReadCount$third-party
 www.17173.com##.pn-tg
 www.duba.com##.tiyan_a
@@ -8240,7 +8240,7 @@ zzzyk.com###Tinfo
 ||1048358656.rsc.cdn77.org^
 ||1059265748.rsc.cdn77.org^
 ||105app.com^
-||107.167.16.14^
+||107.167.16.*.gif
 ||107788.com^
 ||1080872514.rsc.cdn77.org^
 ||1085549509.rsc.cdn77.org^
@@ -10067,7 +10067,7 @@ zzzyk.com###Tinfo
 ||66wz.com/adv2/
 ||66wz.com/data/attachment/portal/
 ||66wz.com/eap/
-||67.21.92.163^
+||67.21.92.*.gif
 ||6711.com^
 ||671c.pandasuite.io^
 ||6788787.com^
@@ -42119,6 +42119,7 @@ zzzyk.com###Tinfo
 ||fkwc.sfr.fr^
 ||fkwkzlb.com^
 ||fkxlsc.fenix-store.com^
+||fkxs.net/tops/
 ||fkxsklor.com^
 ||fkyhqtfiopfit.com^
 ||fkyujept.com^
@@ -45093,6 +45094,7 @@ zzzyk.com###Tinfo
 ||gkjmev3.com^
 ||gkkchmjdndovu.xyz^
 ||gkktjf.top^
+||gklox.cn^
 ||gkopqp.coccodrillo.eu^
 ||gkoutpips.com^
 ||gkpfuoyapoprvln.com^
@@ -64806,6 +64808,7 @@ zzzyk.com###Tinfo
 ||mdn3.phluantmobile.net^
 ||mdn3origin.phluantmobile.net^
 ||mdoirsw.com^
+||mdoshbx.top^
 ||mdotm.com^
 ||mdpycygel.com^
 ||mdqpkdne.xyz^
@@ -76098,6 +76101,7 @@ zzzyk.com###Tinfo
 ||pjbncv.ode.co.kr^
 ||pjcn.org^
 ||pjcn.org^$third-party
+||pjdthz.xyz^
 ||pjgaez.autouncle.at^
 ||pjh7.us.chantelle.com^
 ||pjhbyaaadlw.com^
@@ -82217,6 +82221,7 @@ zzzyk.com###Tinfo
 ||rmhfrtnd.com^
 ||rmhfrtnd.com^$third-party
 ||rmhptjwikttv.com^
+||rmioswx.icu^
 ||rmipoz.com/dp.js
 ||rmixfgusqoc.com^
 ||rmndme.com^
@@ -95742,6 +95747,7 @@ zzzyk.com###Tinfo
 ||szbzp.cn^
 ||szdgl.cn^
 ||szdpk.cn^
+||szdtf.cn^
 ||szdxw.cn^
 ||szdzn.cn^
 ||szfcol.com/images/wxright240.jpg
@@ -101521,6 +101527,7 @@ zzzyk.com###Tinfo
 ||truthvexedben.com^
 ||truyoproductionuscdn.truyo.com^
 ||trvonu.k-manga.jp^
+||trvxbd.xyz^
 ||trw12.com^
 ||trx-cdn.zip.co^
 ||trx-hub.com^
@@ -102057,6 +102064,7 @@ zzzyk.com###Tinfo
 ||tyhlwigp.com^
 ||tyhwheveeshngi.xyz^
 ||tyingentered.com^
+||tyisloi.top^
 ||tykor.net^
 ||tylcpcikj.com^
 ||tylfgkf.com^
@@ -105365,6 +105373,7 @@ zzzyk.com###Tinfo
 ||vqjacf.mauriziocollectionstore.com^
 ||vqjfiuwbqpvwrn.xyz^
 ||vqjvnjxbgnz.com^
+||vqlwoy.xyz^
 ||vqonjcnsl.com^
 ||vqp3.madeindesign.co.uk^
 ||vqrqnylppo.com^
@@ -110661,6 +110670,7 @@ zzzyk.com###Tinfo
 ||ytmx.2r3485.cn^
 ||ytndjaefvan.xyz^
 ||ytnkdhmtdubhk.com^
+||ytoeyxz.icu^
 ||ytouvy.arezzo.com.br^
 ||ytoworkwi.org^
 ||ytqeavc.icu^
