@@ -821,6 +821,7 @@ $third-party,xmlhttprequest,domain=cocolamanhua.com|subhd.tv|subhdtw.com|xyg688.
 /timer.aspx?719$script,~third-party
 /tisai/img/nav_980_90.gif
 /tm00738.bj.
+/tops/fmt.js?v=
 /tourl.html?url=
 /tps/noexpire/*
 /tres/recommend/*$domain=ifeng.com
@@ -22147,6 +22148,7 @@ zzzyk.com###Tinfo
 ||bdmjs.xywy.com^
 ||bdmm.xywy.com^
 ||bdoaustralia.bdo.com.au^
+||bdoshbv.top^
 ||bdp.cn^
 ||bdplus.baidu.com^
 ||bdpretc.cn^
@@ -23028,6 +23030,7 @@ zzzyk.com###Tinfo
 ||biiepofl.xyz^
 ||bijiangqing.com^
 ||bijkep.hotelesestelar.com^
+||bijmz.cn^
 ||bijouremudas.space^
 ||bijwehk.com^
 ||bijxpjgtdrgk.com^
@@ -23581,6 +23584,7 @@ zzzyk.com###Tinfo
 ||blziha.intimissimi.com^
 ||blzjjrwbwvjav.top^
 ||blzsnd02.com^
+||blzwvb.xyz^
 ||blzz.xyz^
 ||bm.h576.com^
 ||bm23.com^
@@ -30350,6 +30354,7 @@ zzzyk.com###Tinfo
 ||cqbmddliqbbp.com^
 ||cqcktg.adlerwerbegeschenke.de^
 ||cqcounter.com^
+||cqcrci.xyz^
 ||cqdalradz.com^
 ||cqdaznl.com^
 ||cqddhfjl.com^
@@ -33427,6 +33432,7 @@ zzzyk.com###Tinfo
 ||ddns.ne^
 ||ddnzpr.xyz^
 ||ddome-tag.blablacar.com^
+||ddomjhr.icu^
 ||ddpaowanji.com^
 ||ddpvnqtpdqid.xyz^
 ||ddpxhq.cn^
@@ -54797,6 +54803,7 @@ zzzyk.com###Tinfo
 ||jiuduad.com^
 ||jiujiushishi.com^
 ||jiupaozi.com^
+||jiusudie.com^
 ||jiuswcpdwgpwetf.com^
 ||jivinggrazers.com^
 ||jivox.com^
@@ -57016,6 +57023,7 @@ zzzyk.com###Tinfo
 ||kopeukasrsiha.com^
 ||kopsil.com^
 ||kopsooli.com^
+||kopvx.cn^
 ||koqjok.xyz^
 ||koqsxdpx.xyz^
 ||koraboe.com^
@@ -69409,6 +69417,7 @@ zzzyk.com###Tinfo
 ||n2faw.site^
 ||n2major.com^
 ||n2s.co.kr^
+||n2wqmr4lmaummar.xyz^
 ||n3567.com^
 ||n49seircas7r.com^
 ||n4kb43cl2bsw.creatordrop.com^
@@ -95806,6 +95815,7 @@ zzzyk.com###Tinfo
 ||szbxm.cn^
 ||szbxw.cn^
 ||szbzp.cn^
+||szddm.cn^
 ||szdgl.cn^
 ||szdpk.cn^
 ||szdtf.cn^
@@ -105560,6 +105570,7 @@ zzzyk.com###Tinfo
 ||vuphoubs.com^
 ||vupload.duowan.com^
 ||vupoupay.com^
+||vupsnx.xyz^
 ||vupulse.com^
 ||vursoofte.net^
 ||vuruzy.xyz^
