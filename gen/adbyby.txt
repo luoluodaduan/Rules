@@ -2808,6 +2808,7 @@ $third-party,xmlhttprequest,domain=cocolamanhua.com|subhd.tv|subhdtw.com|xyg688.
 @@||static3.iask.cn^
 @@||stats.gov.cn^
 @@||stats.uptimerobot.com^
+@@||stcaimcu.com/data/attachment/common/cf/stc_logo_
 @@||steamcn.com/source/plugin/steamcn_gift/template/images/*steam.png
 @@||stjscn.s-msn.com/portal/hp/2011/udctrack.
 @@||sto520.com^$generichide
@@ -10057,6 +10058,7 @@ zzzyk.com###Tinfo
 ||666bbb333bbb.com^
 ||666bbb888www.com^
 ||666ppp222ppp.com^
+||666ppp888ppp.com^
 ||6677648.reddoorz.com^
 ||668080.cc^
 ||668559.com^
@@ -13428,6 +13430,7 @@ zzzyk.com###Tinfo
 ||acloud.com^
 ||acloudimages.com^
 ||acloudvideos.com^
+||aclsx.cn^
 ||acmaknoxwo.com^
 ||acme.vidox.net^
 ||acmexxx.com^
@@ -30605,6 +30608,7 @@ zzzyk.com###Tinfo
 ||crjshop.com^
 ||crl.microsoft.com^
 ||crlkyzwra.com^
+||crlsxny.xyz^
 ||crm-analytics.imweb.ru^
 ||crm-eve.b2b.alibaba-inc.com^
 ||crm.casabaca.com^
@@ -48339,6 +48343,7 @@ zzzyk.com###Tinfo
 ||hgirsxsgetv.com^
 ||hgjjk45.com^
 ||hgjxjis.com^
+||hgngrf.xyz^
 ||hgpdoa.cn^
 ||hgpmbfkxmrw.xyz^
 ||hgsosrgldtgmyb.xyz^
@@ -49498,6 +49503,7 @@ zzzyk.com###Tinfo
 ||htqfxh.vuch.cz^
 ||htqyy.com/kiees/
 ||htrace.wetvinfo.com^
+||htrurb.xyz^
 ||htseca.top^
 ||htsysxlupdqe.com^
 ||httpcn.com/Images/banner
@@ -79460,6 +79466,7 @@ zzzyk.com###Tinfo
 ||qkfwiylmib.com^
 ||qkhhjm.autoscout24.nl^
 ||qkhvongctffugm.com^
+||qkikkg.xyz^
 ||qkjjuhs.com^
 ||qkodjvdsm.com^
 ||qkqlqjjobvkr.top^
@@ -104238,6 +104245,7 @@ zzzyk.com###Tinfo
 ||vatois.com^
 ||vatrack.hinet.net^
 ||vattingpliable.top^
+||vatzxd.xyz^
 ||vaugaiva.net^
 ||vaugroar.com^
 ||vaultmultiple.com^
@@ -109147,6 +109155,7 @@ zzzyk.com###Tinfo
 ||xkdxygywfm.com^
 ||xkejsns.com^
 ||xkesalwueyz.com^
+||xkesqbp.icu^
 ||xkfigjh.cn^
 ||xkfogxtamlnn.com^
 ||xkfvvyjurlil.com^
