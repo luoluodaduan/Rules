@@ -1335,6 +1335,7 @@ $third-party,xmlhttprequest,domain=cocolamanhua.com|subhd.tv|subhdtw.com|xyg688.
 2345.com###sideCat
 2345.com###sidel_lvy
 2345.com###sidenav > .activity-trig
+2345.com###xxl_game-new
 2345.com##.act-market
 2345.com##.act-openJ-mask
 2345.com##.act-search-tab
@@ -4004,7 +4005,7 @@ cztv.com##.drop_down_ad
 cztv.com##.right_box
 cztv.com##.vivo
 cztv.com##div[class^="banner_"]
-czys.top#?#.swiper-slide:-abp-has(.coveimg[src*=".gif"])
+czzy77.com#?#.swiper-slide:-abp-has(a[href^="http"]:not([href*="czzy"]))
 d1net.com##div[style="width:1000px;height:90px;margin:15px auto 15px auto;"]
 d1xz.net##.base_ad_300_250
 d1xz.net##.base_ad_640_90
@@ -4894,6 +4895,7 @@ hao123.com###yixing-siye
 hao123.com##.adMainMiddle-box
 hao123.com##.bar-text
 hao123.com##.browsertip
+hao123.com##.cmsad_wrapper
 hao123.com##.cn_tips
 hao123.com##.enter1
 hao123.com##.guess-recommend
@@ -10408,6 +10410,7 @@ zzzyk.com###Tinfo
 ||8184.cc^
 ||81book.com/static/scripts/1.js
 ||81book.com/static/scripts/common.
+||8208tp.com^
 ||82308721ac.com^
 ||82448dceaaa13034.com^
 ||8269996.com^
@@ -28170,6 +28173,7 @@ zzzyk.com###Tinfo
 ||cmptch.com^
 ||cmpv2.pcworld.com^
 ||cmqjims.com^
+||cmqxy.cn^
 ||cmr.customer.americanexpress.de^
 ||cmrcustomer.americanexpress.co.uk^
 ||cmrcustomer.americanexpress.es^
@@ -49474,6 +49478,7 @@ zzzyk.com###Tinfo
 ||hygqtz.cn^
 ||hyibby.lampen24.be^
 ||hyibpgaa.com^
+||hyislou.top^
 ||hyjbdt.xyz^
 ||hyjss.tkshyp.com^
 ||hylaxngo.xyz^
@@ -49555,6 +49560,7 @@ zzzyk.com###Tinfo
 ||hzoywchsp.com^
 ||hzr0dm28m17c.com^
 ||hzrghx.xyz^
+||hzrnbl.xyz^
 ||hzsod71wov.me^
 ||hzuheh.palcloset.jp^
 ||hzvcaadn.icu^
@@ -49842,6 +49848,7 @@ zzzyk.com###Tinfo
 ||idioticstoop.com^
 ||idiotminority.com^
 ||idiotproprietary.com^
+||idipsumo.top^
 ||iditolshewn.com^
 ||idjcymxwbjqxum.com^
 ||idkmgzkdhanmz.com^
@@ -51013,6 +51020,7 @@ zzzyk.com###Tinfo
 ||imgme.me/images/*.gif
 ||imgmega.com/i/*.gif$domain=18avtube.com|mm-cg.com
 ||imgopen.vip^
+||imgoss511.top^
 ||imgot.info^
 ||imgot.site^
 ||imgp.cymzc.com^
@@ -53836,6 +53844,7 @@ zzzyk.com###Tinfo
 ||jbflil.cn^
 ||jbhhxd.xyz^
 ||jbirahiifj.com^
+||jbkqemk.icu^
 ||jbm6c54upkui.com^
 ||jbmfldt.cn^
 ||jbnmppupawyil.com^
@@ -73045,6 +73054,7 @@ zzzyk.com###Tinfo
 ||ovcenehu.com^
 ||ovdimin.buzz^
 ||oveechoops.xyz^
+||ovejqw.xyz^
 ||ovemes.com^
 ||ovenbifaces.cam^
 ||ovenge.com^
@@ -75986,6 +75996,7 @@ zzzyk.com###Tinfo
 ||pnufzbzzomt.com^
 ||pnuhondppw.com^
 ||pnvnpy.scullyandscully.com^
+||pnvtlh.xyz^
 ||pnvypcuqqyu.com^
 ||pnxtnp.xyz^
 ||pnxtsauba.com^
@@ -97787,6 +97798,7 @@ zzzyk.com###Tinfo
 ||tlootas.org^
 ||tlprbzoi.com^
 ||tlprlf.xyz^
+||tlpyft.xyz^
 ||tlrkcj17.de^
 ||tls.thelibrarystore.com^
 ||tlsalw.platypusshoes.co.nz^
@@ -109118,8 +109130,8 @@ zzzyk.com###Tinfo
 ||yhdd1.com^$third-party
 ||yhdemu368.shop^
 ||yhderd69.shop^
+||yhdm335.com/piao/
 ||yhdm44.com/123.html
-||yhdongman.xyz/piao/
 ||yhgfoe.xyz^
 ||yhgpuxim.xyz^
 ||yhgumcr.xyz^
