@@ -12,7 +12,7 @@ $script,third-party,domain=cilimao.co|cilimao.one
 $script,third-party,domain=colamanga.com
 $script,third-party,domain=torkitty.com|torrentkitty.app|torrentkitty.asia|torrentkitty.cam|torrentkitty.ink|torrentkitty.io|torrentkitty.live|torrentkitty.lol|torrentkitty.net|torrentkitty.se|torrentkitty.tv|torrkitty.com
 $script,third-party,websocket,domain=52codes.net
-$third-party,xmlhttprequest,domain=cocolamanhua.com|subhd.tv|subhdtw.com|xyg688.com|xyg688.xyz|zzzzz688.com
+$third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|xyg688.com|xyg688.xyz|zzzzz688.com
 &xhtml?$script,third-party
 -*-*-*-*.alpha^$script,third-party
 -*-*-*-*.as^$script,third-party
@@ -1628,7 +1628,7 @@ $third-party,xmlhttprequest,domain=cocolamanhua.com|subhd.tv|subhdtw.com|xyg688.
 528500.com###wp > div[align="center"]
 52asus.com###guiigo-black-mask
 52av.one##.message + center
-52bdys.com###ayx
+52bdys.com###ayx > img
 52bdys.com##center[style*="background"]
 52bdys.com##div[style^="position: fixed;bottom:"]
 52biquge.com##[onclick*="app"]
@@ -15862,6 +15862,7 @@ zzzyk.com###Tinfo
 ||afpmm.alicdn.com^
 ||afpssp.alimama.com^
 ||afptrack.alimama.com^
+||afqodjc.top^
 ||afqqnxifhgsaqab.com^
 ||afr4g5.de^
 ||afrage.com^
@@ -19873,6 +19874,7 @@ zzzyk.com###Tinfo
 ||ask.antalis.se^
 ||ask.gaykes.com^
 ||ask.wearelistening.co.nz^
+||askdlajfbv.top^
 ||askdomainad.com^
 ||askedappear.com^
 ||askersstylish.top^
@@ -30750,6 +30752,7 @@ zzzyk.com###Tinfo
 ||ctykxlvztyy.com^
 ||ctyojp.kibek.de^
 ||ctyusif.top^
+||cuaeblh.icu^
 ||cuba7tilt.com^
 ||cubbingrebbes.com^
 ||cubchannel.com^
@@ -32335,6 +32338,7 @@ zzzyk.com###Tinfo
 ||dajean.com^
 ||dajiadu8.com/17.js
 ||dajiahao10.top^
+||dajiahao17.top^
 ||dajiahao9.top^
 ||dajiazhao.com/login/reg.js
 ||dajkqqpz.top^
@@ -41336,6 +41340,7 @@ zzzyk.com###Tinfo
 ||fenxi.com^$third-party
 ||fenxiangdashi.com/Res/js/detail_
 ||fenxiangdashi.com/img/banner/
+||feofamdak.top^
 ||fepgdpebyr.com^
 ||fepmpify.xyz^
 ||fepseqdkfyfjc.com^
@@ -43398,6 +43403,7 @@ zzzyk.com###Tinfo
 ||fzgpzp.opodo.de^
 ||fzipipalkri.com^
 ||fzjchj.com^
+||fzllis.cn^
 ||fzlnk.com^
 ||fzlol.com/images/$script
 ||fznxvf.xyz^
@@ -49454,6 +49460,7 @@ zzzyk.com###Tinfo
 ||hy.huangye88.com.cn^
 ||hy.huangye88.net^
 ||hy5.com.cn/admin/
+||hy90.cn^
 ||hya.comp.360os.com^
 ||hyaenajitneys.top^
 ||hyalinsbenami.top^
@@ -50063,6 +50070,7 @@ zzzyk.com###Tinfo
 ||ihavelearnat.xyz^
 ||ihc.cellmarque.com^
 ||ihcamp.ybtour.co.kr^
+||ihcxue.xyz^
 ||ihdcnwbcmw.com^
 ||ihdvilappuxpgiv.ru^
 ||iheartbucks.com^
@@ -53588,6 +53596,7 @@ zzzyk.com###Tinfo
 ||iyi.net^
 ||iyingdi.com/goood?
 ||iyinghua.io/bar/
+||iyisloo.top^
 ||iykig.cn^
 ||iymbywma.com^
 ||iyolnstplmxae.com^
@@ -53970,6 +53979,7 @@ zzzyk.com###Tinfo
 ||jdgtgb.watson.de^
 ||jdhgswknl.com^
 ||jdhpfnfc.com^
+||jdipsuma.top^
 ||jdjxjelhrxy.com^
 ||jdkmbvbyy.com^
 ||jdlmjessy.com^
@@ -108693,6 +108703,7 @@ zzzyk.com###Tinfo
 ||xxxoh.com^
 ||xxxrevpushclcdu.com^
 ||xxxssv.jeulia.com^
+||xxxuhx.xyz^
 ||xxxviijmp.com^
 ||xxxvjmp.com^
 ||xxxwebtraffic.com^
