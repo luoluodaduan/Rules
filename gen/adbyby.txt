@@ -806,6 +806,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|xyg688.com|xyg688.xyz|zz
 /template/shoujigg/*
 /template/znfls/asd/*
 /template/zsy_badian/dddytt-gg/*
+/template/zsy_badian/js/stui_
 /templates/*/js/_banner.js
 /templates/bootadult4/js/bottom.js
 /templates/bootadult4/js/text.js
@@ -3308,6 +3309,7 @@ baidu.com##.result-op[tpl="b2b_prod"] > div > .c-border
 baidu.com##.result-op[tpl="pc-education-fs"]
 baidu.com##.result-op[tpl="pc-soft-accurate"] > div > .c-row
 baidu.com##.result-op[tpl="sp_hot_sale"]
+baidu.com##.result-op[tpl="vmp_strengthen_brand"]
 baidu.com##.rightAd-skin
 baidu.com##.s-nativead-item
 baidu.com##.s-news-special[data-url^="http://vip.baidu.com/"]
@@ -21553,6 +21555,8 @@ zzzyk.com###Tinfo
 ||baihuwang.com^$third-party
 ||baijs02.xyz^
 ||baijs03.xyz^
+||baijs05.xyz^
+||baijs06.xyz^
 ||baikalize.com^
 ||baike.biz^
 ||bailedgatheringmirth.com^
@@ -35564,6 +35568,7 @@ zzzyk.com###Tinfo
 ||dmmgjsymlrfp.com^
 ||dmmzkfd82wayn.cloudfront.net^
 ||dmnprx.com^
+||dmnxkj.cn^
 ||dmoldsusvkpa.xyz^
 ||dmowvblljmkqx.com^
 ||dmp.sina.cn^
@@ -35989,6 +35994,8 @@ zzzyk.com###Tinfo
 ||doujs01.xyz^
 ||doujs02.xyz^
 ||doujs03.xyz^
+||doujs05.xyz^
+||doujs06.xyz^
 ||doukekan.cn^
 ||doukoula.com^
 ||doumaibiji.cn^
@@ -41621,6 +41628,7 @@ zzzyk.com###Tinfo
 ||febrah.com^
 ||februarybogus.com^
 ||februarynip.com^
+||febtzd.xyz^
 ||fecerismasker.com^
 ||fedapush.net^
 ||fedassuagecompare.com^
@@ -41898,6 +41906,7 @@ zzzyk.com###Tinfo
 ||fguhyg.cn^
 ||fgukchz.icu^
 ||fgwerg.top^
+||fgwuw.com^
 ||fgxfnkiojgs.com^
 ||fh21.com.cn/partners/
 ||fh259by01r25.com^
@@ -47000,6 +47009,7 @@ zzzyk.com###Tinfo
 ||gsuxyg.xyz^
 ||gswinnodf.com^
 ||gsyegj.shatura.com^
+||gsywcc.xyz^
 ||gszetzdm.xyz^
 ||gt.duowan.com^
 ||gt.yy.com^
@@ -47255,6 +47265,8 @@ zzzyk.com###Tinfo
 ||gw100-10.com^
 ||gw1jvhs.com^
 ||gw2cddpt2hao.asia^
+||gw2cddpt2hao.cloud^
+||gw2cddpt2hao.site^
 ||gwallet.com^
 ||gwbgqrxlelrjsi.com^
 ||gwbnsh.net.cn/hd/unicom/ad.html
@@ -53635,6 +53647,7 @@ zzzyk.com###Tinfo
 ||iptmgi.akan.co.kr^
 ||iptmih.hifi-regler.de^
 ||iptrack.io^
+||iptuy.cn^
 ||iptv444.com/ad-
 ||iptvdeals.com^
 ||ipummv.pharao24.de^
@@ -57603,6 +57616,7 @@ zzzyk.com###Tinfo
 ||kygftx.xyz^
 ||kygso.com/js/lrtk.js
 ||kyikdee.cn^
+||kyislod.top^
 ||kyjhuflgtl.xyz^
 ||kyjoyk.modoza.com^
 ||kyjwtxei.xyz^
@@ -58844,6 +58858,7 @@ zzzyk.com###Tinfo
 ||liitwrz.icu^
 ||liivhntsu.com^
 ||lijit.com^
+||lijlrz.xyz^
 ||lijybcfgnjh.com^
 ||like.reply.de^
 ||likeads.com^
@@ -72368,6 +72383,7 @@ zzzyk.com###Tinfo
 ||oleoshaves.top^
 ||olep.xyz^
 ||olgame.tw/home/attachment/
+||olgcpwc.icu^
 ||olgknseruf.com^
 ||olgtex.com^
 ||olhqou.realsimple.com^
@@ -73367,6 +73383,7 @@ zzzyk.com###Tinfo
 ||orthitepetrous.com^
 ||orthronsmatter.com^
 ||ortkrq.damyller.com.br^
+||ortlisk.top^
 ||ortontotlejohn.com^
 ||orts.wixawin.com^
 ||orxbqsvibjxqvai.com^
@@ -103404,6 +103421,7 @@ zzzyk.com###Tinfo
 ||urstats.de^
 ||urthdtcg.com^
 ||urtirepor.com^
+||urtlist.top^
 ||urueuah.cn^
 ||uruftio.com^
 ||uruswan.com^
@@ -105125,7 +105143,6 @@ zzzyk.com###Tinfo
 ||vodlpsf.com^
 ||vodobyve.pro^
 ||vodone.com^
-||vodttdy.com/template/zsy_badian/js/stui_
 ||voeux2020.wearemip.com^
 ||vogate.com^
 ||vogozae.ru^
