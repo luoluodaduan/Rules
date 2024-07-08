@@ -1,3 +1,5 @@
+http://1337.abcvg.info:80/announce
+
 http://207.241.226.111:6969/announce
 
 http://207.241.231.226:6969/announce
@@ -30,13 +32,7 @@ http://tk.greedland.net:80/announce
 
 http://torrentsmd.com:8080/announce
 
-http://tr.kxmp.cf:80/announce
-
 http://tracker.bt4g.com:2095/announce
-
-http://tracker.dler.com:6969/announce
-
-http://tracker.dler.org:6969/announce
 
 http://tracker.dump.cl:6969/announce
 
@@ -48,15 +44,13 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
-http://tracker.ipv6tracker.org:80/announce
-
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.opentrackr.org:1337/announce
 
-http://tracker2.dler.org:80/announce
+http://tracker.tfile.co:80/announce
 
-http://tracker2.itzmx.com:6961/announce
+http://tracker2.dler.org:80/announce
 
 http://tracker3.itzmx.com:6961/announce
 
@@ -88,6 +82,8 @@ https://tracker.gbitt.info:443/announce
 
 https://tracker.gcrenwp.top:443/announce
 
+https://tracker.imgoingto.icu:443/announce
+
 https://tracker.ipfsscan.io:443/announce
 
 https://tracker.kuroy.me:443/announce
@@ -98,13 +94,13 @@ https://tracker.loligirl.cn:443/announce
 
 https://tracker.pmman.tech:443/announce
 
+https://tracker.renfei.net:443/announce
+
 https://tracker.tamersunion.org:443/announce
 
 https://tracker.yemekyedim.com:443/announce
 
 https://tracker1.520.jp:443/announce
-
-https://trackers.mlsub.net:443/announce
 
 https://trackers.run:443/announce
 
@@ -131,6 +127,8 @@ udp://[2a0f:e586:f:f::81]:6969/announce
 udp://aegir.sexy:6969/announce
 
 udp://amigacity.xyz:6969/announce
+
+udp://bt.ktrackers.com:6666/announce
 
 udp://bt1.archive.org:6969/announce
 
@@ -160,9 +158,9 @@ udp://isk.richardsw.club:6969/announce
 
 udp://jutone.com:6969/announce
 
-udp://leet-tracker.moe:1337/announce
-
 udp://martin-gebhardt.eu:25/announce
+
+udp://mikrotik2.draatman.net:6969/announce
 
 udp://moonburrow.club:6969/announce
 
@@ -172,15 +170,9 @@ udp://odd-hd.fr:6969/announce
 
 udp://oh.fuuuuuck.com:6969/announce
 
-udp://open-tracker.demonoid.ch:6969/announce
-
 udp://open.demonii.com:1337/announce
 
-udp://open.demonoid.ch:6969/announce
-
 udp://open.dstud.io:6969/announce
-
-udp://open.free-tracker.ga:6969/announce
 
 udp://open.publictracker.xyz:6969/announce
 
@@ -220,9 +212,9 @@ udp://tk1.trackerservers.com:8080/announce
 
 udp://tk2.trackerservers.com:8080/announce
 
-udp://torrents.artixlinux.org:6969/announce
+udp://tk2v6.trackerservers.com:8080/announce
 
-udp://tracker-udp.gbitt.info:80/announce
+udp://torrents.artixlinux.org:6969/announce
 
 udp://tracker-us.silksa.co.za:6969/announce
 
@@ -240,8 +232,6 @@ udp://tracker.darkness.services:6969/announce
 
 udp://tracker.ddunlimited.net:6969/announce
 
-udp://tracker.deadorbit.nl:6969/announce
-
 udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
@@ -252,15 +242,11 @@ udp://tracker.draatman.uk:6969/announce
 
 udp://tracker.dump.cl:6969/announce
 
-udp://tracker.edkj.club:6969/announce
-
 udp://tracker.filemail.com:6969/announce
 
 udp://tracker.fnix.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
-
-udp://tracker.jamesthebard.net:6969/announce
 
 udp://tracker.moeking.me:6969/announce
 
@@ -270,8 +256,6 @@ udp://tracker.qu.ax:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
-udp://tracker.srv00.com:6969/announce
-
 udp://tracker.theoks.net:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
@@ -279,6 +263,8 @@ udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tryhackx.org:6969/announce
+
+udp://tracker.vds.nz:6969/announce
 
 udp://tracker.xor.st:6969/announce
 
