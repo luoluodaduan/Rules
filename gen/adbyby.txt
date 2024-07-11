@@ -5545,8 +5545,9 @@ iyaxin.com##.huand3
 iyf.tv#@#.share-top
 jable.tv###jimds-slider
 jable.tv##div[class^="root-"]
-jandan.net###sidebar > ul[style="height:480px"]
+jandan.net###sidebar > UL:nth-child(2)
 jandan.net##.goods2-list
+jandan.net##.post[style="padding-left:150px;width:336px;height:280px;"]
 jandan.net##a[href*="/money.php?"]
 javdove.com,javdove2.club,porn5f.com##.preroll-adv-popup-overlay
 javhd.com##.benefits-list-holder
@@ -21565,6 +21566,7 @@ zzzyk.com###Tinfo
 ||baijs05.xyz^
 ||baijs06.xyz^
 ||baijs07.xyz^
+||baijs08.xyz^
 ||baikalize.com^
 ||baike.biz^
 ||bailedgatheringmirth.com^
@@ -35595,6 +35597,7 @@ zzzyk.com###Tinfo
 ||dmmgjsymlrfp.com^
 ||dmmzkfd82wayn.cloudfront.net^
 ||dmnprx.com^
+||dmnqfn.xyz^
 ||dmnxkj.cn^
 ||dmoldsusvkpa.xyz^
 ||dmowvblljmkqx.com^
@@ -48490,6 +48493,7 @@ zzzyk.com###Tinfo
 ||hfoghh.inter.it^
 ||hfolmr.office-com.jp^
 ||hfptbb.cn^
+||hfptbf.cn^
 ||hfpuhwqi.xyz^
 ||hfpwcx.supermercadosmas.com^
 ||hfresgtyytjncvvh.com^
@@ -49020,6 +49024,7 @@ zzzyk.com###Tinfo
 ||hkuuopuhl.xyz^
 ||hkuypnhpafbuyy.com^
 ||hkvuzv.xyz^
+||hl.dyq.cn^
 ||hl.kuzu.com^
 ||hl.quw18.com^
 ||hl2rcv.adobe.com^
@@ -54277,6 +54282,7 @@ zzzyk.com###Tinfo
 ||izavugne.com^
 ||izbmbmt.com^
 ||izbwce.secretoutlet.com.br^
+||izcqyy.xyz^
 ||izea.com^
 ||izearanks.com^
 ||izegag.shop24direct.de^
@@ -57404,6 +57410,7 @@ zzzyk.com###Tinfo
 ||krqmfmh.com^
 ||krqttfeq.com^
 ||krskux.newhaircaps.com.br^
+||krtlisd.top^
 ||krux.net^
 ||krxd.net^
 ||kryjqq.com^
@@ -84765,6 +84772,7 @@ zzzyk.com###Tinfo
 ||scnd.landsend.de^
 ||scobbypseudo.guru^
 ||scode.randomhouse.com^
+||scoev.cn^
 ||scoggerashrams.com^
 ||sconceszeugite.com^
 ||sconline.com.tw/top/coolpc_
@@ -97091,6 +97099,7 @@ zzzyk.com###Tinfo
 ||tdhnxf.xyz^
 ||tdhserg.cn^
 ||tdid.m.qq.com^
+||tdipsumi.top^
 ||tdjdpyrt.xyz^
 ||tdjvod.chevignon.com.co^
 ||tdljuuw.xyz^
@@ -110300,6 +110309,7 @@ zzzyk.com###Tinfo
 ||ykakassg.com^
 ||ykatr.youku.com^
 ||ykbei.com^
+||ykcsldm.icu^
 ||ykdwyf.com^
 ||ykfrpx.kapten-son.com^
 ||ykgfcs.xyz^
