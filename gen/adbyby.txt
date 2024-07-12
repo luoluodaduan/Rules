@@ -3294,6 +3294,7 @@ baidu.com##.intro-adv
 baidu.com##.l-header-ad
 baidu.com##.link-banner
 baidu.com##.manual-spread
+baidu.com##.na-ec-waterfall
 baidu.com##.nav_ads
 baidu.com##.opr-zhaopin-ad-ctn
 baidu.com##.optimus
@@ -3306,6 +3307,7 @@ baidu.com##.rec-feeditem
 baidu.com##.recommend-goods-card
 baidu.com##.rel-exp-feed-ad-item
 baidu.com##.result-op[tpl="b2b_prod"] > div > .c-border
+baidu.com##.result-op[tpl="game-page-right-openservice"]
 baidu.com##.result-op[tpl="pc-education-fs"]
 baidu.com##.result-op[tpl="pc-soft-accurate"] > div > .c-row
 baidu.com##.result-op[tpl="sp_hot_sale"]
@@ -4050,6 +4052,7 @@ ddooo.com##.guoasu
 ddooo.com##.xzbtn
 ddooo.com#?#span:-abp-has(>p:-abp-contains(高速))
 ddooo.com#?#ul:-abp-has(>dd:-abp-contains(高速))
+ddxs.vip##.content > p > font[color="red"]
 dealmoon.com,weibo.com##.pic_ad
 demaxiya.com##.tp_box
 dhaomu.com##.ceo-ad
@@ -4068,6 +4071,8 @@ dict.cn###tjcd
 dict.cn##.search-right-ad5
 dict.cn##.search-right-ad7
 didispace.com##.widget-wrap > p[style="text-align: left;padding-bottom: 20px;line-height: 30px;"]
+digitimes.com.tw##.dt-ad-block
+digitimes.com.tw##a[href*="/webad/"]
 dimtown.com##.aggd
 dingdangsheji.com##.modown-ad
 dingdong.ganji.com#@#.banner
@@ -6389,6 +6394,7 @@ opdown.com##.gxxz-btn
 opdown.com##.listaddrs
 opticsky.cn###head > .tac
 opticsky.cn##.p83_gridC > .cc
+orangenews.hk##img[advid]
 orsoon.com###new-actentry
 oschina.net###project_ad_banner
 oschina.net##.aside-topjj
@@ -8248,6 +8254,7 @@ zzzyk.com###Tinfo
 ||1059265748.rsc.cdn77.org^
 ||105app.com^
 ||107.167.16.*.gif
+||107.167.22.*.gif
 ||107788.com^
 ||1080872514.rsc.cdn77.org^
 ||1085549509.rsc.cdn77.org^
@@ -9830,6 +9837,7 @@ zzzyk.com###Tinfo
 ||57.com.cn^
 ||5726303d87522d05.com^
 ||57558.com^
+||57573zubo36833.com^
 ||57577.live^$csp=script-src
 ||576tv.com/Scripts/home.js
 ||577682.com^
@@ -23115,6 +23123,7 @@ zzzyk.com###Tinfo
 ||bilezdq.cn^
 ||bilgerak.com^
 ||bilibilijj.com/image/right_bottom.gif
+||bilibilitool.site^
 ||bilicaxers.com^
 ||bilingualwalking.com^
 ||bilkedsquit.com^
@@ -43147,6 +43156,7 @@ zzzyk.com###Tinfo
 ||fpjs.io^
 ||fpjscdn.net^
 ||fpmleqdb.com^
+||fpninv.xyz^
 ||fpnpmcdn.net^
 ||fpptmv.mrmarvis.co.uk^
 ||fprnt.com^
@@ -51643,6 +51653,7 @@ zzzyk.com###Tinfo
 ||imgme.me/images/*.gif
 ||imgmega.com/i/*.gif$domain=18avtube.com|mm-cg.com
 ||imgopen.vip^
+||imgoss2255.top^
 ||imgoss511.top^
 ||imgot.info^
 ||imgot.site^
@@ -61426,6 +61437,7 @@ zzzyk.com###Tinfo
 ||lwojitro.top^
 ||lwonclbench.com^
 ||lwozzk.legacy.com^
+||lwprdv.xyz^
 ||lwq.wangketuan.com^
 ||lwrohd.xyz^
 ||lwtqqq.com^
@@ -72052,6 +72064,7 @@ zzzyk.com###Tinfo
 ||oddsserve.com^
 ||odegumsane.com^
 ||odepcf.modetour.com^
+||odipsumk.top^
 ||odjdpy.jobware.de^
 ||odjweddfuh.com^
 ||odkvrg.pedrodelhierro.com^
@@ -78639,6 +78652,7 @@ zzzyk.com###Tinfo
 ||punchsub.net^
 ||punctualflopsubquery.com^
 ||punctuationceiling.com^
+||pungar85.shop^
 ||pungentsmartlyhoarse.com^
 ||punishgrantedvirus.com^
 ||punkahskayles.com^
@@ -80711,6 +80725,7 @@ zzzyk.com###Tinfo
 ||rdrsec.com^
 ||rdrtrk.com^
 ||rdsb2.club^
+||rdsgick.icu^
 ||rdsig.yahoo.co.jp^
 ||rdsncyndhj.com^
 ||rdstat.tanx.com^
@@ -86938,6 +86953,7 @@ zzzyk.com###Tinfo
 ||singmwn51g.com^
 ||singroot.com^
 ||singstout.com^
+||singtao.ca/editions/affiliate_
 ||singulardisplace.com^
 ||singularheroic.com^
 ||sinisterbatchoddly.com^
@@ -92110,6 +92126,7 @@ zzzyk.com###Tinfo
 ||srsotqdgln.com^
 ||srtb.msn.cn^
 ||srtb.msn.com^
+||srtlisb.top^
 ||srtlyye.com^
 ||srtrak.com^
 ||sruk.srglobal.com^
@@ -101831,6 +101848,7 @@ zzzyk.com###Tinfo
 ||tuotianxia.top^
 ||tupian6666.com^
 ||tupian888.*.bcebos.com^
+||tupian88888.com^
 ||tupian9999.com^
 ||tuplzt.xyz^
 ||tupwiwm.com^
@@ -103896,6 +103914,7 @@ zzzyk.com###Tinfo
 ||uxxsiyokw.com^
 ||uxxux.com/js/zd.js
 ||uxzvjoj.cn^
+||uyaeco.xyz^
 ||uycxhgrp.xyz^
 ||uydzfldt.xyz^
 ||uyeaoofppwrhz.com^
@@ -111776,6 +111795,7 @@ zzzyk.com###Tinfo
 ||zol.com.cn/active/*tmall
 ||zol.com.cn/adrs/
 ||zol.com.cn/js/ask/ask.js
+||zoltrl.xyz^
 ||zombieslayer-alternate.kano.link^
 ||zombieslayer.kano.link^
 ||zomcz.cyou^
