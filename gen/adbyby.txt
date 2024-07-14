@@ -2671,7 +2671,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|xyg688.com|xyg688.xyz|zz
 @@||ozabc.com^$generichide
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl$domain=ff14angler.com|logi.im
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=doitwell.tw
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=23qb.net|4spaces.org|aboluowang.com|assbbs.com|bilinovel.com|chaojizhibo.net|chtoen.com|daxiaamu.com|demo.ama.pub|dizhishengcheng.com|doitwell.tw|ekamus.info|eu4cn.com|ff14angler.com|freedidi.com|haoweichi.com|it365.abctool.info|linovelib.com|logi.im|mens1069.com|monnsutogatya.com|mpyit.com|myqqjd.com|numberempire.com|ozabc.com|pansearch.me|patch.ali213.net|pc3mag.com|reh.tw|shenfendaquan.com|sistersbedroom.com|sto520.com|vaptcha.com|wandhi.com|wenxuecity.com|wuyong.fun|xbeibeix.com|xiebruce.top|xugaoxiang.com|xxxxx520.com|yodu.org|yummy.best|zaixianjisuan.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=fsbot.xyz|23qb.net|4spaces.org|aboluowang.com|assbbs.com|bilinovel.com|chaojizhibo.net|chtoen.com|daxiaamu.com|demo.ama.pub|dizhishengcheng.com|doitwell.tw|ekamus.info|eu4cn.com|ff14angler.com|freedidi.com|haoweichi.com|it365.abctool.info|linovelib.com|logi.im|mens1069.com|monnsutogatya.com|mpyit.com|myqqjd.com|numberempire.com|ozabc.com|pansearch.me|patch.ali213.net|pc3mag.com|reh.tw|shenfendaquan.com|sistersbedroom.com|sto520.com|vaptcha.com|wandhi.com|wenxuecity.com|wuyong.fun|xbeibeix.com|xiebruce.top|xugaoxiang.com|xxxxx520.com|yodu.org|yummy.best|zaixianjisuan.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=duelmeta.com|linetv.tw|liout.com|moneysave.info|raenonx.cc|zxmee.com
 @@||pagead2.googlesyndication.com/pagead/js/google_top_exp.js$domain=ebb.io
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=knowlet3389.blogspot.com|knowlet3389.blogspot.hk|knowlet3389.blogspot.jp|knowlet3389.blogspot.tw|mnighthk.net|weithenn.org
@@ -4492,6 +4492,7 @@ feeds.qq.com,lenovo.com.cn##.game
 feiwan.net##div[id*="_"][style]
 feixiaohao.com##.TopHomeLink
 feng.com##.ad-aside
+fengchedmp.com##body > div[style]
 fenghuo.in##.mimi
 fengniao.com,zhiding.cn##div[id^="AD"]
 fffdm.com##[style^="width"][style*="height"]
@@ -9468,6 +9469,7 @@ zzzyk.com###Tinfo
 ||3qfe1gfa.de^
 ||3rd.t.sohu.com^
 ||3redlightfix.com^
+||3ri.cc^
 ||3shangyou.com^
 ||3sk7d418al8u.com^
 ||3skickasurf.tre.se^
@@ -25295,6 +25297,7 @@ zzzyk.com###Tinfo
 ||bvrzwnq.xyz^
 ||bvtfutroyr.com^
 ||bvtvlp.xyz^
+||bvubasnf.com^
 ||bvubje.leboncoin.fr^
 ||bvudraqxpl.com^
 ||bvvb9.com^
@@ -31415,6 +31418,7 @@ zzzyk.com###Tinfo
 ||cypressreel.com^
 ||cyprie.com^
 ||cyq3noz.icu^
+||cyretuf.top^
 ||cyrigh.com^
 ||cyrxvpnu.com^
 ||cysd.7kww.net^
@@ -36824,6 +36828,7 @@ zzzyk.com###Tinfo
 ||duwtkigcyxh.com^
 ||duwvinarma.com^
 ||duxesboddagh.com^
+||duyewnf.icu^
 ||duyvtanrheje.xyz^
 ||duz64ud8y8urc.cloudfront.net^
 ||duzbhonizsk.com^
@@ -57986,6 +57991,7 @@ zzzyk.com###Tinfo
 ||laivue.com^
 ||laixi.com/tp/20
 ||laizuwhy.com^
+||lajevt.xyz^
 ||lajollaautorepairs.com^
 ||lajouly.com^
 ||lakequincy.com^
@@ -95631,6 +95637,7 @@ zzzyk.com###Tinfo
 ||swwcyk.ahaber.com.tr^
 ||swwcyk.atv.com.tr^
 ||swwcyk.takvim.com.tr^
+||swwdke.xyz^
 ||swwpush.com^
 ||swzgvmlvt.com^
 ||swzydgm.com^
@@ -99406,6 +99413,7 @@ zzzyk.com###Tinfo
 ||tqrznqs.cn^
 ||tqsrtyqpoeyp.com^
 ||tqtedm.kosmetik.at^
+||tqtqvb.xyz^
 ||tquspo.com^
 ||tquvbfl.com^
 ||tqvacq.intrend.it^
@@ -102554,6 +102562,7 @@ zzzyk.com###Tinfo
 ||udiab2.jianshu.com^
 ||udicje.perrys.co.uk^
 ||udinugoo.com^
+||udipsumt.top^
 ||udjdpyrt.xyz^
 ||udjfnbl.zwdu.com^
 ||udkcrj.com^
