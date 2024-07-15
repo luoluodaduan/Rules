@@ -5334,7 +5334,6 @@ iplaysoft.com##.d250x90
 iplaysoft.com##.entry-content + div[style="margin:-10px 0 0 0;overflow:hidden"]
 iplaysoft.com##[style*="width:3"][style*="height:2"]
 iplaysoft.com##div[style="background:#fcf0ef;width:680px;height:130px;border-radius:8px;margin-top:28px;position:relative"]
-ipv6.baidu.com,m.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###results > div[class]:not(.result):not(.result-op):not(.sp-rslt-bar):not(.s-group-result)
 ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###content_left > [class] > [id*="00"] > div
 ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###content_left > [class] > [id*="00"] > tbody
 ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###content_left > [class] > [id*="00"] > ul
@@ -9337,6 +9336,7 @@ zzzyk.com###Tinfo
 ||37see.com^
 ||37wan.com^
 ||37xs.net^
+||38.33.15.10^
 ||380.tw^
 ||380.tw^$popup,third-party
 ||380tv.com/upload/*-ad-
@@ -18187,6 +18187,7 @@ zzzyk.com###Tinfo
 ||aofzkovajqti.com^
 ||aogk88.asia^
 ||aoihaizo.xyz^
+||aoiqa.top^
 ||aojeet.icu^
 ||aojhzj.watch.co.uk^
 ||aokkwzg.cn^
@@ -21916,6 +21917,7 @@ zzzyk.com###Tinfo
 ||bauweethie.com^
 ||bavei.com/img/*.png
 ||bavkvoks.xyz^
+||bavotr.xyz^
 ||bavvgo.zingat.com^
 ||bavxuhaxtqi.com^
 ||baw5tracker.com^
@@ -38700,6 +38702,7 @@ zzzyk.com###Tinfo
 ||eitka.com^
 ||eitkrg.loriblu.com^
 ||eitney.com^
+||eiuoom.xyz^
 ||eiv.baidu.cn^
 ||eiv.baidu.com^
 ||eiwojaavyvc.com^
@@ -50179,6 +50182,7 @@ zzzyk.com###Tinfo
 ||hyrankhit.meldingcloud.com^
 ||hyrcanquittor.com^
 ||hyrcycmtckbcpyf.xyz^
+||hyretuu.top^
 ||hyrewusha.pro^
 ||hyros.com^
 ||hysdknb.com^
@@ -54072,6 +54076,7 @@ zzzyk.com###Tinfo
 ||iteneanrhina.com^
 ||iterable.convoy.com^
 ||itespurrom.com^
+||iteyi.xyz^
 ||itgiblean.com^
 ||itguvmlnyhfa.com^
 ||itheat.com/?show=
@@ -54516,6 +54521,7 @@ zzzyk.com###Tinfo
 ||jarteerteen.com^
 ||jarvispopsu.com^
 ||jas.indeednps.com^
+||jasdz1.cn^
 ||jashautchord.com^
 ||jasheest.xyz^
 ||jasmin.com^
@@ -56228,6 +56234,7 @@ zzzyk.com###Tinfo
 ||jyd.fjzdmy.com^
 ||jydydmctzxcea.com^
 ||jyewkb.icu^
+||jyfdbj.xyz^
 ||jyfght.cn^
 ||jyfirjqojg.xyz^
 ||jyfw.cn/gonggong/jiayu/cf_
@@ -102420,6 +102427,7 @@ zzzyk.com###Tinfo
 ||uahozcfq.xyz^
 ||uahpycewbx.com^
 ||uaiosio.top^
+||uaiqp.top^
 ||uakxkb.icu^
 ||ualkzq.moobel1.ee^
 ||uamoctchgmkya.com^
@@ -107836,6 +107844,7 @@ zzzyk.com###Tinfo
 ||wnmaoc.xyz^
 ||wnmyerzbjhu.ru^
 ||wnnbvnj.cn^
+||wnootzc.icu^
 ||wnozpl.escarpe.it^
 ||wnp.com^
 ||wnpbdan.bid^
@@ -109358,6 +109367,7 @@ zzzyk.com###Tinfo
 ||xmglass.cn^
 ||xmgysweb.com^
 ||xmhgwmdjhul.com^
+||xmhszb.xyz^
 ||xmindchina.cn^
 ||xmindchina.net^
 ||xmjajv.xyz^
