@@ -1765,6 +1765,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|xyg688.com|xyg688.xyz|zz
 7down.com###btndowns
 7hcn.com##.pr > a[href^="http"]:not([href^="http://www.7hcn."])
 7hcn.com##.rCont
+7itv.com##body > div[style]
 7junshi.com##.breaknovel-ave
 7junshi.com##.videoads
 7junshi.com##div[style="position: fixed; right: 0px; bottom: 0;z-index:999;width: 300px;height: 250px;"]
@@ -1814,9 +1815,6 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|xyg688.com|xyg688.xyz|zz
 91porn.com##.preroll-blocker
 91porny.com##.container-fluid.p-0[class*="mb-"]
 91porny.com##.jsv-g1
-91porny.org,jiuse.io,x9av7.com###main > div[id^="rd"]
-91porny.org,jiuse.io,x9av7.com##.footer + .block
-91porny.org,jiuse.io,x9av7.com#?#.card:-abp-has(>.card-image>a[href^="http"])
 920share.com###layui-layer1
 92ghai.com##.a_xiu_t
 92ghai.com##.yttl_x_g
@@ -5115,6 +5113,7 @@ huya.com###huya-ab
 huya.com###huya-ab-fixed
 huya.com##.end-ab-banner
 huya.com##.end-ab-wrap
+huya.com##.huya-ab
 huya.com##.j_posterItem[href^="http"]:not([href*=".huya."])
 huya.com##.room-business-game
 huya.com##.small-handle-tip
@@ -5692,6 +5691,9 @@ js0573.com###adv2
 js0573.com###gotopl
 js0573.com###gotopr
 js0573.com##.gg_bnr
+jsav2.com,91porny.org,x9av1.com,x9av7.com###main > div[id^="rd"]
+jsav2.com,91porny.org,x9av1.com,x9av7.com##.footer + .block
+jsav2.com,91porny.org,x9av1.com,x9av7.com#?#.card:-abp-has(>.card-image>a[href^="http"])
 jsbooks.com.cn#@#.left-ads
 json.cn###shuangshi1Modal1
 json.cn##.tip[target="_blank"]
@@ -8448,6 +8450,7 @@ zzzyk.com###Tinfo
 ||155game.com^
 ||155zn.com^
 ||1564285319.rsc.cdn77.org^
+||156xsw.com/css/js/tools.
 ||158779.com^
 ||1588aa.com^
 ||158aq.com^
@@ -22204,6 +22207,7 @@ zzzyk.com###Tinfo
 ||bdimg.com/static/m-question-new/widget/ad-union-
 ||bdimg.com/static/wkcore/widget/commerce/fengchao/
 ||bdimg.com/static/wkview/widget/download_after_activity_new/download_after_activity_new_
+||bdipsumv.top^
 ||bdj.tianya.cn^
 ||bdj.tianyaui.cn^
 ||bdj5.terrassesmontecarlosbm.com^
@@ -23011,6 +23015,7 @@ zzzyk.com###Tinfo
 ||bi.heyloyalty.com^
 ||bi.irisdating.com^
 ||bi.medscape.com^
+||bi25.cc/js/hf
 ||biabowqi.com^
 ||bialithicket.com^
 ||bian-min.com/javascript/a/detail.js
@@ -50610,6 +50615,7 @@ zzzyk.com###Tinfo
 ||ievvo.xyz^
 ||iewhonhdvryu.com^
 ||iewtwo.xyz^
+||ieymhkx.icu^
 ||iezptsoc.com^
 ||iezxmddndn.com^
 ||if.yyjsbz.cn^
@@ -56138,6 +56144,7 @@ zzzyk.com###Tinfo
 ||juzi.cn^
 ||juzi007.com^
 ||juzilm.com^
+||juznlx.xyz^
 ||juzqsq.finanzcheck.de^
 ||juzzclftcseca.com^
 ||jvbvng.notino.it^
@@ -67565,6 +67572,7 @@ zzzyk.com###Tinfo
 ||mikelperaia.openapp.link^
 ||mikeylaude.com^
 ||mikhrmpwbtrip.com^
+||mikka.app^
 ||mikop.xyz^
 ||mikuclub.*/pub/
 ||mil.news.sina.com.cn/iframe/109/2012/1024/photo.html
@@ -67911,6 +67919,7 @@ zzzyk.com###Tinfo
 ||mkmkew.hometogo.no^
 ||mkmree.dmm.co.jp^
 ||mkolqj.ozonee.pl^
+||mkscy6.cn^
 ||mksogv.oneclickdrive.com^
 ||mkt-tracking.cloudmargin.com^
 ||mkt.aderant.com^
@@ -68407,6 +68416,7 @@ zzzyk.com###Tinfo
 ||molimao.top/imp/upload/vod/*.gif
 ||mollandgleam.top^
 ||mollnia.com^
+||molpmh.xyz^
 ||molseelr.xyz^
 ||molypsigry.pro^
 ||momclumsycamouflage.com^
