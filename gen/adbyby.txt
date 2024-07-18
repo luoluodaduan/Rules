@@ -10377,7 +10377,6 @@ zzzyk.com###Tinfo
 ||7mmtv.tv/js/ad_js/
 ||7mmtv.tv/u_banner/
 ||7mnpeh.com1.z0.glb.clouddn.com^
-||7moor-fs1.com^
 ||7mvmjg.www.emanualonline.com^
 ||7mx.eider.com^
 ||7mx.eidershop.com^
@@ -11194,7 +11193,6 @@ zzzyk.com###Tinfo
 ||a.zleep.com^
 ||a.zuowenku.net^
 ||a.zuowenxuan.cn^
-||a0.app.xiaomi.com^
 ||a00s.net^
 ||a013.com^
 ||a06bbd98194c252.com^
@@ -21593,6 +21591,7 @@ zzzyk.com###Tinfo
 ||baihuiad.com^
 ||baihuwang.com^
 ||baihuwang.com^$third-party
+||baijs010.xyz^
 ||baijs02.xyz^
 ||baijs03.xyz^
 ||baijs05.xyz^
@@ -24074,8 +24073,11 @@ zzzyk.com###Tinfo
 ||booster.monster^
 ||booster3d.com^
 ||boostog.net^
+||bootcdn.cn^
 ||bootcdn.net/ajax/libs/jquery-cookie/*/jquery.cookie.$domain=zaixianjisuan.com
+||bootcdn.net^
 ||bootcss.com/assets/js/and
+||bootcss.com^
 ||bootharchie.com^
 ||bootstrap-framework.org^
 ||bootstrap-js.com^
@@ -25357,6 +25359,7 @@ zzzyk.com###Tinfo
 ||bxmns.com^
 ||bxmpcfzlllej.com^
 ||bxnxdlb.xyz^
+||bxoaeju.icu^
 ||bxoiksm.xyz^
 ||bxpjpkldxrsss.xyz^
 ||bxrfbsrlerio.com^
@@ -36088,6 +36091,7 @@ zzzyk.com###Tinfo
 ||doujs06.xyz^
 ||doujs07.xyz^
 ||doujs08.xyz^
+||doujs09.xyz^
 ||doukekan.cn^
 ||doukoula.com^
 ||doumaibiji.cn^
@@ -42231,7 +42235,6 @@ zzzyk.com###Tinfo
 ||fire.solutions.jci.com^
 ||firearminvoluntary.com^
 ||firearmtire.com^
-||firebaseinstallations.googleapis.com^
 ||firebaselogging-pa.googleapis.com^
 ||firebaselogging.googleapis.com^
 ||fireboxarborer.com^
@@ -46500,6 +46503,7 @@ zzzyk.com###Tinfo
 ||google-analytics.com^
 ||google-js-01.xyz^
 ||google-js-02.xyz^
+||google-js-08.xyz^
 ||googleadapis.com^
 ||googleads-cn.com^
 ||googleads.com^
@@ -48978,6 +48982,7 @@ zzzyk.com###Tinfo
 ||hjnjjcw.xyz^
 ||hjprhubzqgw.com^
 ||hjqdwmekhur.com^
+||hjrcjz.xyz^
 ||hjrvsw.info^
 ||hjrwwwlqcovom.com^
 ||hjshal.com^
@@ -49792,7 +49797,6 @@ zzzyk.com###Tinfo
 ||httpdns.push.oppomobile.com^
 ||httpool.com^
 ||httpp.gdn^
-||https-filtering-check.adtidy.org^
 ||httpsecurity.org^
 ||httpwwwdcom.com/js/aaa/
 ||httr.redskins.com^
@@ -55879,6 +55883,7 @@ zzzyk.com###Tinfo
 ||jsdelivr.net/gh/vip888vip/*960x80
 ||jsdelivr.net/gh/yaociyuan/
 ||jsdelivr.net/gh/yaofa88/bifa@main/*960
+||jsdelivr.vip^
 ||jsdelvr.com^
 ||jsecoin.com^
 ||jsefrmwji.com^
@@ -62830,6 +62835,7 @@ zzzyk.com###Tinfo
 ||mack7oyes.com^
 ||mackaytracking.newyorklifeinvestments.com^
 ||mackeeper.com^
+||macoms.la^
 ||macromill.com^
 ||macx.cn/js/jquery.$domain=game.macx.cn
 ||mad.kuuad.com^
@@ -65162,6 +65168,7 @@ zzzyk.com###Tinfo
 ||mdhv.io^
 ||mdhv3.icu^
 ||mdhxyhl.cn^
+||mdipsumx.top^
 ||mdiygc.xyz^
 ||mdjdpyrt.xyz^
 ||mdm.hibinobi-mandom.jp^
@@ -71966,7 +71973,6 @@ zzzyk.com###Tinfo
 ||oatmealstickyflax.com^
 ||oatscheapen.com^
 ||oatsouje.net^
-||oauth-login-drcn.platform.dbankcloud.com^
 ||oawhaursaith.com^
 ||oawvsm.xyz^
 ||oaxoulro.com^
@@ -72240,6 +72246,7 @@ zzzyk.com###Tinfo
 ||ofdnkro.xyz^
 ||ofdrapiona.com^
 ||ofdxfsho.com^
+||ofebyk.xyz^
 ||ofedupub.com^
 ||ofeetles.pro^
 ||offaces-butional.com^
@@ -81016,6 +81023,7 @@ zzzyk.com###Tinfo
 ||rebelswing.com^
 ||rebillsegomism.com^
 ||rebindskayoes.com^
+||rebojf.xyz^
 ||rebrew-foofteen.com^
 ||rebsouvaih.com^
 ||rebursteaseful.com^
@@ -93421,6 +93429,8 @@ zzzyk.com###Tinfo
 ||static1.searchbox.baidu.com^
 ||staticadm.leju.com^
 ||staticcdn.ecootec.com^
+||staticfile.net^
+||staticfile.org^
 ||staticiv.com^
 ||staticjs.cn^
 ||statics.3987.com^
@@ -102097,6 +102107,7 @@ zzzyk.com###Tinfo
 ||tvkfms.nta.co.jp^
 ||tvlaavcxdxlqan.com^
 ||tvpixel.com^
+||tvpqnh.xyz^
 ||tvpqrydt.xyz^
 ||tvprocessing.com^
 ||tvqqrycnutpp.com^
