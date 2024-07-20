@@ -331,6 +331,7 @@ DOMAIN-SUFFIX,anpopo.com,PROXY
 DOMAIN-SUFFIX,answering-islam.org,PROXY
 DOMAIN-SUFFIX,antd.org,PROXY
 DOMAIN-SUFFIX,anthonycalzadilla.com,PROXY
+DOMAIN-SUFFIX,anthropic.com,PROXY
 DOMAIN-SUFFIX,anti1984.com,PROXY
 DOMAIN-SUFFIX,antichristendom.com,PROXY
 DOMAIN-SUFFIX,antiwave.net,PROXY
@@ -1051,6 +1052,7 @@ DOMAIN-SUFFIX,cjb.net,PROXY
 DOMAIN-SUFFIX,ck101.com,PROXY
 DOMAIN-SUFFIX,clarionproject.org,PROXY
 DOMAIN-SUFFIX,classicalguitarblog.net,PROXY
+DOMAIN-SUFFIX,claude.ai,PROXY
 DOMAIN-SUFFIX,clb.org.hk,PROXY
 DOMAIN-SUFFIX,cleansite.biz,PROXY
 DOMAIN-SUFFIX,cleansite.info,PROXY
@@ -4050,6 +4052,7 @@ DOMAIN-SUFFIX,perfectgirls.net,PROXY
 DOMAIN-SUFFIX,perfectmarket.com,PROXY
 DOMAIN-SUFFIX,perfectvpn.net,PROXY
 DOMAIN-SUFFIX,periscope.tv,PROXY
+DOMAIN-SUFFIX,perplexity.ai,PROXY
 DOMAIN-SUFFIX,persecutionblog.com,PROXY
 DOMAIN-SUFFIX,persiankitty.com,PROXY
 DOMAIN-SUFFIX,pfd.org.hk,PROXY
