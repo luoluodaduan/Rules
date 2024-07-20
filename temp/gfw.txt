@@ -340,6 +340,7 @@ anpopo.com
 answering-islam.org
 antd.org
 anthonycalzadilla.com
+anthropic.com
 anti1984.com
 antichristendom.com
 antiwave.net
@@ -1155,6 +1156,7 @@ ck101.com
 cl.d0z.net
 clarionproject.org
 classicalguitarblog.net
+claude.ai
 clb.org.hk
 cldr.unicode.org
 cleansite.biz
@@ -4316,6 +4318,7 @@ perfectgirls.net
 perfectmarket.com
 perfectvpn.net
 periscope.tv
+perplexity.ai
 persecutionblog.com
 persiankitty.com
 pfd.org.hk
