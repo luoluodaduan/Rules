@@ -8970,6 +8970,7 @@ zzzyk.com###Tinfo
 ||2529.com^$third-party
 ||2540166.chalknation.com^
 ||254a.com^
+||25662zubo23739.com^
 ||256ppp.com^
 ||258a912d15.com^
 ||258pcf.com^
@@ -9340,7 +9341,7 @@ zzzyk.com###Tinfo
 ||37see.com^
 ||37wan.com^
 ||37xs.net^
-||38.33.15.10^
+||38.33.15.*.gif
 ||380.tw^
 ||380.tw^$popup,third-party
 ||380tv.com/upload/*-ad-
@@ -10506,6 +10507,7 @@ zzzyk.com###Tinfo
 ||88148.com/UpFile/a/2016040849191350.jpg
 ||8820.pandasuite.io^
 ||88210212.com^
+||88362zubo95838.com^
 ||88448.com/images/appkai980x100.gif
 ||884de19f2b.com^
 ||8861198.com^
@@ -21605,6 +21607,7 @@ zzzyk.com###Tinfo
 ||baihuwang.com^
 ||baihuwang.com^$third-party
 ||baijs010.xyz^
+||baijs011.xyz^
 ||baijs02.xyz^
 ||baijs03.xyz^
 ||baijs05.xyz^
@@ -26876,6 +26879,7 @@ zzzyk.com###Tinfo
 ||cestibegster.com^
 ||ceteembathe.com^
 ||cetlog.jp^
+||cetlwsf.top^
 ||cetoniafulwa.website^
 ||cetrk.com^
 ||cevocoxuhu.com^
@@ -30137,6 +30141,7 @@ zzzyk.com###Tinfo
 ||cosmi.io^
 ||cosmicpartially.com^
 ||cosmismnatchez.com^
+||cosmo001.top^
 ||cosmosjackson.com^
 ||cosseterrits.com^
 ||cost1action.com^
@@ -34415,6 +34420,7 @@ zzzyk.com###Tinfo
 ||df80k0z3fi8zg.cloudfront.net^
 ||df888.eastday.com^
 ||dfaikhkm.xyz^
+||dfan4.icu^
 ||dfanalytics.dealerfire.com^
 ||dfapvmql-q.global.ssl.fastly.net^
 ||dfc1.benbaisteel.com^
@@ -35903,6 +35909,7 @@ zzzyk.com###Tinfo
 ||dojyiu8.com^
 ||dokaboka.com^
 ||dokauzob.top^
+||dokfrl.xyz^
 ||dokhmacoining.com^
 ||doko.moe^$domain=pantsu.cat
 ||dokseptaufa.com^
@@ -42750,6 +42757,7 @@ zzzyk.com###Tinfo
 ||fmild.xyz^
 ||fmjgtp.dentalspeed.com^
 ||fmjjvb.xyz^
+||fmkipgm.icu^
 ||fmkqhwrfvs.com^
 ||fmmirep.icu^
 ||fmocscbstnhbq.com^
@@ -44570,6 +44578,7 @@ zzzyk.com###Tinfo
 ||gcwwsv.icu^
 ||gcxa.cn/a/gb.gif
 ||gcxiyx.inspireuplift.com^
+||gcylkq.xyz^
 ||gcyzgld.com^
 ||gd.189.cn*/push/$popup
 ||gd.189.cn/ad/$popup,third-party
@@ -46566,6 +46575,7 @@ zzzyk.com###Tinfo
 ||google-js-01.xyz^
 ||google-js-02.xyz^
 ||google-js-08.xyz^
+||google-js-09.xyz^
 ||googleadapis.com^
 ||googleads-cn.com^
 ||googleads.com^
@@ -61320,6 +61330,7 @@ zzzyk.com###Tinfo
 ||lsgwkbk.com^
 ||lshuaibin.cn^
 ||lsixuz.agrifournitures.fr^
+||lsjazn.xyz^
 ||lsjne.com^
 ||lsjvqovgx.com^
 ||lsjxs.cc/js/html
@@ -70543,6 +70554,7 @@ zzzyk.com###Tinfo
 ||news.sina.com.tw/js/ti.js
 ||news.sitl.eu^
 ||news.sp2.org^
+||news.ssp.qq.com/ad
 ||news.ssp.qq.com/app
 ||news.strategiccfo360.com^
 ||news.strategiccio360.com^
@@ -77627,6 +77639,7 @@ zzzyk.com###Tinfo
 ||ppvabs.pplive.com^
 ||ppvmhhpxuomjwo.xyz^
 ||ppvpmrt.xyz^
+||ppxscy1.cn^
 ||ppyflc.uniformnext.com^
 ||pqaz.xyz^
 ||pqbj.jianjiaovip.vip^
@@ -104230,6 +104243,7 @@ zzzyk.com###Tinfo
 ||uyohyy.xyz^
 ||uypsmaxzejvpqx.com^
 ||uyq3ruf.icu^
+||uyretut.top^
 ||uysdxmo.com^
 ||uyt79.top^
 ||uyulwc.xyz^
@@ -112218,6 +112232,7 @@ zzzyk.com###Tinfo
 ||zqgixxp.icu^
 ||zqkdzl.invia.sk^
 ||zqksqsjupnb.com^
+||zqkxlf.com^
 ||zqmblmebyeloq.top^
 ||zqmmtbwqymhrru.com^
 ||zqpztal.com^
@@ -112367,6 +112382,7 @@ zzzyk.com###Tinfo
 ||zvfzqw.cotta.jp^
 ||zvhednrza.com^
 ||zvhkzb.ambiendo.de^
+||zvhlzb.xyz^
 ||zvhprab.com^
 ||zvjkhrdp.com^
 ||zvkytbjimbhk.com^
