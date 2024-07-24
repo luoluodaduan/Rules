@@ -13,12 +13,14 @@ $script,third-party,domain=colamanga.com
 $script,third-party,domain=torkitty.com|torrentkitty.app|torrentkitty.asia|torrentkitty.cam|torrentkitty.ink|torrentkitty.io|torrentkitty.live|torrentkitty.lol|torrentkitty.net|torrentkitty.se|torrentkitty.tv|torrkitty.com
 $script,third-party,websocket,domain=52codes.net
 $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|xyg688.com|xyg688.xyz|zzzzz688.com
+$third-party,xmlhttprequest,websocket,domain=qiyoudy2.com|qiyoudy4.com
 &xhtml?$script,third-party
 -*-*-*-*.alpha^$script,third-party
 -*-*-*-*.as^$script,third-party
 -*-*-*-*.panda^$script,third-party
 -1316632262.cos.
 -1316899192.cos.
+-1321533417.cos.
 -1688-wp-media/ads/
 -90mh-gg.
 .189.gd^*.html?p=$popup,third-party
@@ -622,6 +624,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|xyg688.com|xyg688.xyz|zz
 /jun0120211102193659.
 /jun0120211112090740.
 /k120g270.
+/k228.oss-
 /k300g250.
 /k960g90.
 /kan/ads/dl.js
@@ -10065,6 +10068,7 @@ zzzyk.com###Tinfo
 ||68069795d1.com^
 ||68109deb96.com^
 ||6810f7dd2b.com^
+||68287zubo85737.com^
 ||685wo.com^
 ||6863fd0afc.com^
 ||688de7b3822de.com^
@@ -10698,6 +10702,7 @@ zzzyk.com###Tinfo
 ||962.net/show/cms_$script
 ||962.net/show/down_
 ||962.net/show/index_
+||96382zubo66756.com^
 ||963fc.com^
 ||96424fcd96.com^
 ||964ka.cn^
@@ -22753,6 +22758,7 @@ zzzyk.com###Tinfo
 ||bewilderedblade.com^
 ||bewitchadmiringconstraint.com^
 ||bewoobaton.com^
+||bewr1.com^
 ||bewsejqcbm.com^
 ||beyanmaan.com^
 ||beyers.cn^
@@ -25249,6 +25255,7 @@ zzzyk.com###Tinfo
 ||bypassmaestro.com^
 ||bypassprofessordemonstrate.com^
 ||byqdtp.interpark.com^
+||byretuv.top^
 ||byrkmeibah.com^
 ||byscy.cn^
 ||bysfnu.bodeboca.com^
@@ -35831,6 +35838,7 @@ zzzyk.com###Tinfo
 ||dougou88.com^
 ||douguo.net/upload/post/d/
 ||douhooke.net^
+||doujs01.shop^
 ||doujs01.xyz^
 ||doujs010.xyz^
 ||doujs02.xyz^
@@ -47886,6 +47894,7 @@ zzzyk.com###Tinfo
 ||heaterrobotscompute.com^
 ||heatertried.com^
 ||heatexperience.com^
+||heatherssb.com^
 ||heathertravelledpast.com^
 ||heatmap.com^
 ||heatmap.it^
@@ -54401,6 +54410,7 @@ zzzyk.com###Tinfo
 ||jestthankfulcaption.com^
 ||jesulf.com^
 ||jesupe.com^
+||jetlwsa.top^
 ||jetordinarilysouvenirs.com^
 ||jetpgnebpwm.com^
 ||jetsdulce.com^
@@ -54831,7 +54841,6 @@ zzzyk.com###Tinfo
 ||jnlc.com/www/fund/newsmarket
 ||jnlldyq.com^
 ||jnm.o41qed.cn^
-||jnn-pa.googleapis.com^
 ||jnnbzmyqaekzj.top^
 ||jnnjthg.com^
 ||jnovoksjreeyrpm.xyz^
@@ -57166,6 +57175,7 @@ zzzyk.com###Tinfo
 ||kwedzcq.com^
 ||kweriod.top^
 ||kwflvcdn.000dn.com^*.flv
+||kwgqaqf.icu^
 ||kwgs.letudiant.fr^
 ||kwijfh.proactiv.com^
 ||kwiqcoh.icu^
@@ -78463,6 +78473,7 @@ zzzyk.com###Tinfo
 ||pziad.com^
 ||pzimff.com^
 ||pzjizsyf.icu^
+||pznlpp.xyz^
 ||pzoifaum.info^
 ||pzoynkxexnx.com^
 ||pzphmkf.xyz^
@@ -79526,6 +79537,7 @@ zzzyk.com###Tinfo
 ||qzpkxf.edenboutique.ro^
 ||qzqfud.casamineira.com.br^
 ||qzsgudj.com^
+||qzsvwo.xyz^
 ||qzu5.carrefour-banque.fr^
 ||qzvzluu.xyz^
 ||qzwbod.blackdiamondequipment.com^
@@ -99961,6 +99973,7 @@ zzzyk.com###Tinfo
 ||trafficlide.com^
 ||trafficmagnates.com^
 ||trafficman.io^
+||trafficmanager.net^
 ||trafficmaxx.de^
 ||trafficmediaareus.com^
 ||trafficmoon.com^
@@ -101806,6 +101819,7 @@ zzzyk.com###Tinfo
 ||ui37.net^
 ||ui8l2.xyz^
 ||uiakq.top^
+||uicdns.xyz^
 ||uicjnk.gumtree.co.za^
 ||uid.ksosoft.com^
 ||uid.mdbchina.com^
@@ -104530,6 +104544,7 @@ zzzyk.com###Tinfo
 ||vozftn.xyz^
 ||vp.html5.qq.com^
 ||vpdcp.com^
+||vpdnjl.xyz^
 ||vpemsb.autocasion.com^
 ||vpf4.euskaltelofertas.com^
 ||vpfudjdi.com^
@@ -105335,6 +105350,7 @@ zzzyk.com###Tinfo
 ||wboux.com^
 ||wbowoheflewroun.info^
 ||wbpctips.mobile.sina.cn^
+||wbqqo.com^$third-party
 ||wbsads.com^
 ||wbswtr.decathlon.com.tr^
 ||wbtrk.net^
@@ -108491,6 +108507,7 @@ zzzyk.com###Tinfo
 ||xs.houyi.baofeng.net^
 ||xs.searchacg.org^
 ||xs.swagger1.com^
+||xs6po.icu^
 ||xsapp.cdn.bcebos.com^
 ||xscmzs.tenki.jp^
 ||xsfajf.xyz^
@@ -109282,7 +109299,7 @@ zzzyk.com###Tinfo
 ||yinadeditiontowriti.info^
 ||yingav.net/images/content/spot01.jpg
 ||yingforthemoo.info^
-||yinghua8.tv/bar/
+||yinghua8.*/bar/
 ||yinghuavideo.com/bar/
 ||yingshizxw.com/js/tc/
 ||yingxiao.baidu.com^
@@ -109323,6 +109340,7 @@ zzzyk.com###Tinfo
 ||yjbdyjnctgj.top^
 ||yjcf360.com/ad.
 ||yjdigtr.com^
+||yje912.cn^
 ||yjkyj.cn^
 ||yjlbvd.pcfactory.cl^
 ||yjlhep.skechers.co.nz^
