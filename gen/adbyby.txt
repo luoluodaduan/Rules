@@ -7,7 +7,7 @@ $popup,third-party,domain=76fengyun.com|avsdown.com|downdv.com|downdvs.com|downh
 $script,subdocument,third-party,domain=dlkoo.com
 $script,subdocument,third-party,websocket,xmlhttprequest,domain=bhshu.net|louzhong8.com|miwens.com
 $script,subdocument,~third-party,websocket,xmlhttprequest,domain=m.6666xsw.com|m.biqugee6.com|m.chenkuan.com|m.jmshuwu.net|wodexiaoshuoh.com
-$script,third-party,domain=52movieba.com|audio699.com|kan-tv.com|m.supfree.net|movieffm.net|xiaoxintv.net
+$script,third-party,domain=52movieba.com|audio699.com|kan-tv.com|m.supfree.net|movieffm.net|xiaoxintv.com|xiaoxintv.net
 $script,third-party,domain=cilimao.co|cilimao.one
 $script,third-party,domain=colamanga.com
 $script,third-party,domain=torkitty.com|torrentkitty.app|torrentkitty.asia|torrentkitty.cam|torrentkitty.ink|torrentkitty.io|torrentkitty.live|torrentkitty.lol|torrentkitty.net|torrentkitty.se|torrentkitty.tv|torrkitty.com
@@ -21521,6 +21521,7 @@ zzzyk.com###Tinfo
 ||baihuwang.com^$third-party
 ||baijs010.xyz^
 ||baijs011.xyz^
+||baijs02.shop^
 ||baijs02.xyz^
 ||baijs03.xyz^
 ||baijs05.xyz^
@@ -31220,6 +31221,7 @@ zzzyk.com###Tinfo
 ||cvzvun.vidaxl.de^
 ||cwcdmm.zennioptical.com^
 ||cwchmb.com^
+||cwerilxf.top^
 ||cweriof.top^
 ||cwgucvm.icu^
 ||cwhrfkpniuvkn.xyz^
@@ -35953,6 +35955,7 @@ zzzyk.com###Tinfo
 ||doujs01.shop^
 ||doujs01.xyz^
 ||doujs010.xyz^
+||doujs02.shop^
 ||doujs02.xyz^
 ||doujs03.xyz^
 ||doujs05.xyz^
@@ -47863,6 +47866,7 @@ zzzyk.com###Tinfo
 ||hbbtv-track.prosieben.de^
 ||hbbtv-track.prosiebensat1puls4.com^
 ||hbbvykwoiqhjpah.xyz^
+||hbbynt.xyz^
 ||hbcrnvtpyfegpws.com^
 ||hbdt.luomi.com^
 ||hbeipcdntijpb.com^
@@ -73646,6 +73650,7 @@ zzzyk.com###Tinfo
 ||oxmvcg.xyz^
 ||oxnhhswdzwam.com^
 ||oxo.jilinfurong.com^
+||oxoucm.xyz^
 ||oxowcjxiffsj.com^
 ||oxqq.pandasuite.io^
 ||oxrqdkfftw.com^
@@ -85415,6 +85420,7 @@ zzzyk.com###Tinfo
 ||sethiteblindly.guru^
 ||setidlgzwc.com^
 ||setitoefanyor.org^
+||setlwsb.top^
 ||setn.com/js/advertisement?
 ||setn.com/js/idleAD.
 ||setoniale.com^
@@ -92435,6 +92441,7 @@ zzzyk.com###Tinfo
 ||starman.floorcleanse.co.uk^
 ||starmobmedia.com^
 ||starnnews.com/banner/
+||starredvs.com^
 ||starry-galaxy.com^
 ||starry.xiaohongshu.com^
 ||starsaug.com^
@@ -107097,6 +107104,7 @@ zzzyk.com###Tinfo
 ||wnjtssmha.com^
 ||wnllmyw.xyz^
 ||wnmaoc.xyz^
+||wnmoobz.icu^
 ||wnmyerzbjhu.ru^
 ||wnootzc.icu^
 ||wnozpl.escarpe.it^
@@ -108815,6 +108823,7 @@ zzzyk.com###Tinfo
 ||xtremepush.com^
 ||xtremeserve.xyz^
 ||xtremline.com^
+||xtrkhv.xyz^
 ||xtsk.6yush.cn^
 ||xttaff.com^
 ||xtvhkbqmhqu.xyz^

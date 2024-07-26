@@ -31635,6 +31635,8 @@
 .gvi-tech.com
 .gvlocalization.com
 .gvoiceplat.com
+.gvt1-cn.com
+.gvt2-cn.com
 .gvzen.com
 .gw-ec.com
 .gw.craft.moe
@@ -46962,6 +46964,7 @@
 .lao.si
 .laobaicai.net
 .laobaigan-hs.com
+.laoban100.com
 .laobandq.com
 .laobanfa.com
 .laobangban.com
@@ -63979,8 +63982,10 @@
 .shengyan985.com
 .shengyasd.com
 .shengyeji.com
+.shengyi.ai
 .shengyi.biz
 .shengyidi.com
+.shengyizhuanjia.com
 .shengyuancc.com
 .shengzehr.com
 .shengzhaoli.com
@@ -83218,6 +83223,7 @@
 .yuanbaohui.com
 .yuanbaokc.com
 .yuanbaotaoche.com
+.yuanbei.biz
 .yuanbin.me
 .yuancangipr.com
 .yuancdn.com
@@ -88174,8 +88180,6 @@ gtm.oasisfeng.com
 guzzoni-apple-com.v.aaplimg.com
 guzzoni.apple.com
 guzzoni.smoot.apple.com
-gvt1-cn.com
-gvt2-cn.com
 hellofontpreview.oss-cn-beijing.aliyuncs.com
 hellowebfonts.oss-cn-beijing.aliyuncs.com
 hospital.pku.edu.cn
