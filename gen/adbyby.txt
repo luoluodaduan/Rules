@@ -2598,6 +2598,7 @@ $third-party,xmlhttprequest,websocket,domain=qiyoudy2.com|qiyoudy4.com
 @@||login-ishare.iask.com.cn^
 @@||logo.clearbit.com^
 @@||loltmcheck.com/js/ads.js
+@@||luoxiadushu.com^$generichide
 @@||macauo2o.com/advertise/
 @@||mail.td^$generichide
 @@||manhua.weibo.com/adv/
@@ -5115,6 +5116,7 @@ huya.com###J_roomSideTop
 huya.com###ggcomment
 huya.com###huya-ab
 huya.com###huya-ab-fixed
+huya.com##.ab-content
 huya.com##.end-ab-banner
 huya.com##.end-ab-wrap
 huya.com##.huya-ab
@@ -25263,6 +25265,7 @@ zzzyk.com###Tinfo
 ||bxjhlhk.xyz^
 ||bxlmrl.xyz^
 ||bxlsct.ex-shop.net^
+||bxmazls.icu^
 ||bxmns.com^
 ||bxmpcfzlllej.com^
 ||bxnxdlb.xyz^
@@ -47234,6 +47237,7 @@ zzzyk.com###Tinfo
 ||guxdjfuuhey.xyz^
 ||guxedsuba.com^
 ||guybaafvpv.com^
+||guyhok.xyz^
 ||guysfair.com^
 ||guywireincorp.com^
 ||gvbhae0.com^
@@ -55927,6 +55931,7 @@ zzzyk.com###Tinfo
 ||jwduahujge.ru^
 ||jweoe.xyz^
 ||jweqai.amen.fr^
+||jwerilxa.top^
 ||jwerioa.top^
 ||jwfesuk.cn^
 ||jwg365.cn^
@@ -70560,6 +70565,7 @@ zzzyk.com###Tinfo
 ||nnrbyty.xyz^
 ||nntgna.dmm.com^
 ||nntzjgzvbzz.com^
+||nnvjbb.xyz^
 ||nnvoia.closetworld.com^
 ||nnwm.com^
 ||nnxijkdigwywla.com^
@@ -85940,6 +85946,7 @@ zzzyk.com###Tinfo
 ||shbzegs.cn^
 ||shbzogs.cn^
 ||shbzokj.cn^
+||shbzpgs.cn^
 ||shbzqgs.cn^
 ||shbzqkj.cn^
 ||shdegtbokshipns.xyz^
@@ -111465,6 +111472,7 @@ zzzyk.com###Tinfo
 ||zyfnbl.xyz^
 ||zyiis.net^
 ||zyijzosrnzfru.com^
+||zylizz.xyz^
 ||zylytavo.com^
 ||zymbrlgu.cn^
 ||zymerget.bid^
