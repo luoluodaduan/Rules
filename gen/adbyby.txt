@@ -5117,6 +5117,7 @@ huya.com###ggcomment
 huya.com###huya-ab
 huya.com###huya-ab-fixed
 huya.com##.ab-content
+huya.com##.component-ab
 huya.com##.end-ab-banner
 huya.com##.end-ab-wrap
 huya.com##.huya-ab
@@ -9612,6 +9613,7 @@ zzzyk.com###Tinfo
 ||4name.com^
 ||4o.cc^
 ||4oney.com^
+||4oz4n.icu^
 ||4p68.com^
 ||4p74i5b6.de^
 ||4paradigm.com^$domain=sina.com.cn
@@ -21600,6 +21602,7 @@ zzzyk.com###Tinfo
 ||baleiambwee.com^
 ||baletingo.com^
 ||bali6nora.com^
+||balili2024.top^
 ||balkog.withmoment.co.kr^
 ||ballarduous.com^
 ||ballastaccommodaterapt.com^
@@ -41118,6 +41121,7 @@ zzzyk.com###Tinfo
 ||fabriczigzagpercentage.com^
 ||fabrkrup.com^
 ||fabryczna.viessmann.pl^
+||fabu333.top^
 ||fabuye.vip/zhuanfa/
 ||fac.fanucamerica.com^
 ||facai383.oss-cn-guangzhou.aliyuncs.com^
@@ -49376,6 +49380,7 @@ zzzyk.com###Tinfo
 ||houthaub.xyz^
 ||houtouchekan.space^
 ||houyi.baofeng.net^*.html
+||hov15.icu^
 ||hoverclassicalroused.com^
 ||hoverr.co^
 ||hoverr.media^
@@ -57430,6 +57435,7 @@ zzzyk.com###Tinfo
 ||kwbmkwej.com^
 ||kwbpge.jra-van.jp^
 ||kwedzcq.com^
+||kwerilxd.top^
 ||kweriod.top^
 ||kwflvcdn.000dn.com^*.flv
 ||kwgqaqf.icu^
@@ -71318,6 +71324,7 @@ zzzyk.com###Tinfo
 ||nxwniq.aboutyou.ie^
 ||nxwpxtaik.xyz^
 ||nxwrgrymkfp.com^
+||nxxkxr.xyz^
 ||ny79641.com^
 ||ny7f6goy.bid^
 ||nyaa.*/static/js/ccheck.js
@@ -78990,6 +78997,7 @@ zzzyk.com###Tinfo
 ||qerpks.rollei.de^
 ||qeryz.com^
 ||qescaen.com^
+||qetlwsy.top^
 ||qetskupch581.shop^
 ||qetskupyka61.shop^
 ||qetup12.com^
@@ -79727,6 +79735,7 @@ zzzyk.com###Tinfo
 ||qvsfrk.stephane-christian.com^
 ||qvtcigr.com^
 ||qvwick.mister-auto.de^
+||qvxtzi.xyz^
 ||qvznqz.mekster.se^
 ||qvzrde.mensagenscomamor.com^
 ||qw9cu.cyou^
@@ -85683,6 +85692,7 @@ zzzyk.com###Tinfo
 ||sgw-analytics.panasonic.com^
 ||sgwhvw.alura.com.br^
 ||sgwsqcyhxkb.com^
+||sgwsss.xyz^
 ||sgxkm.com^
 ||sgzhg.pornlovo.co^
 ||sh.b.inhaabit.com^
@@ -85944,6 +85954,7 @@ zzzyk.com###Tinfo
 ||shbear.com^*/ad/
 ||shbzdkj.cn^
 ||shbzegs.cn^
+||shbzngs.cn^
 ||shbzogs.cn^
 ||shbzokj.cn^
 ||shbzpgs.cn^
@@ -102998,6 +103009,7 @@ zzzyk.com###Tinfo
 ||upz1.destinia.lt^
 ||upzekroman.com^
 ||uqaagi.xyz^
+||uqcktxp.icu^
 ||uqckxr.chilli.se^
 ||uqd.io^
 ||uqdoeag.com^
@@ -104165,6 +104177,7 @@ zzzyk.com###Tinfo
 ||vhutitpu.icu^
 ||vhvmiinx.com^
 ||vhvwlb.xyz^
+||vhzivz.xyz^
 ||vi-serve.com^
 ||vi.adviso.ca^
 ||vi.xiaohongshu.com^
@@ -105236,6 +105249,8 @@ zzzyk.com###Tinfo
 ||w.yamaidei.cn^
 ||w.yinyuehu.cn^
 ||w0057.com^
+||w0079.com^
+||w0082.com^
 ||w00tmedia.net^
 ||w010w.com.cn^$subdocument
 ||w07.xyz^
