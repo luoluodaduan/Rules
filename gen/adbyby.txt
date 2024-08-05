@@ -4330,7 +4330,6 @@ easyai.tech##.sidebar-inner > .widget_media_image:nth-child(n+2)
 easyicon.net##.page_big_adv
 easylife.tw,ettoday.net##.idleAd
 easylife.tw,ez3c.tw,softwarebrother.com##.popup_bottom_block
-ebay.com#?#li.s-item:-abp-has(span[role="text"]>span:-abp-contains(助))
 ebc.net.tw###lotteryfnc
 ebiotrade.com###dlBoxs
 ebiotrade.com###pop_banner1
@@ -4963,11 +4962,12 @@ hcbbs.com###framemI4t76
 hcbbs.com###framerG6o99_left
 hcbbs.com###fwin_dialog
 hcbbs.com###portal_block_2652
+hcbbs.com###portal_block_3441
 hcbbs.com##.a_cn_pb
+hcbbs.com##a[href*="&adid="]
 hcbbs.com##table[width="100%"][bordercolor="#CCCCCC"]
 hcbbs.com,isiyuan.net##.ke-zeroborder
 hdchina.org##.sitead
-hdmoli.com###index_banner
 hdshare.cn,it168.com###adv
 hdzone.org##a[style*="fixed"]
 he-games.com###he_banner_ad
@@ -5118,6 +5118,7 @@ huya.com###ggcomment
 huya.com###huya-ab
 huya.com###huya-ab-fixed
 huya.com##.ab-content
+huya.com##.ab-wrap
 huya.com##.component-ab
 huya.com##.end-ab-banner
 huya.com##.end-ab-wrap
@@ -5126,6 +5127,7 @@ huya.com##.j_posterItem[href^="http"]:not([href*=".huya."])
 huya.com##.room-business-game
 huya.com##.small-handle-tip
 huya.com##.tt[style*="1200px"]
+huya.com#?#.item-pic:-abp-has(>.img-tips)
 hvhbbs.com##.block[data-widget-definition="SwiperWidget"]
 hvhbbs.com##.margin-add > style + div
 hxnews.com##.banner-90
@@ -12874,6 +12876,7 @@ zzzyk.com###Tinfo
 ||abiderestless.com^
 ||abilityscale.com^
 ||abissnet.net^
+||abjalrq.cn^
 ||abjectionblame.com^
 ||abjectionomnipresent.com^
 ||abjectionpatheticcoloured.com^
@@ -21568,6 +21571,7 @@ zzzyk.com###Tinfo
 ||baijs02.shop^
 ||baijs02.xyz^
 ||baijs03.xyz^
+||baijs04.shop^
 ||baijs05.xyz^
 ||baijs06.xyz^
 ||baijs07.xyz^
@@ -36035,6 +36039,7 @@ zzzyk.com###Tinfo
 ||doujs02.xyz^
 ||doujs03.shop^
 ||doujs03.xyz^
+||doujs04.shop^
 ||doujs05.xyz^
 ||doujs06.xyz^
 ||doujs07.xyz^
@@ -48096,7 +48101,6 @@ zzzyk.com###Tinfo
 ||hdjfeed.top^
 ||hdjhsudhe.kuaizhan.com^
 ||hdjthzg.cn^
-||hdmoli.com/static/js/pop_promotion.js
 ||hdmtools.com^
 ||hdnagl.womensecret.com^
 ||hdns.ksyun.com^
@@ -57554,6 +57558,7 @@ zzzyk.com###Tinfo
 ||kwtgntyu.xyz^
 ||kwtnhdrmbx.com^
 ||kwtpbkqmtbuqvz.com^
+||kwumme.xyz^
 ||kwurl.ucweb.com^
 ||kwvbhj.jcpenney.com^
 ||kwwgmv.tennistown.de^
@@ -67078,6 +67083,7 @@ zzzyk.com###Tinfo
 ||mfcewkrob.com^
 ||mfcvxw.cn^
 ||mfd.myfirstdressing.com^
+||mfemiac.icu^
 ||mff.messefrankfurt.com^
 ||mfhlsdd.com^
 ||mfio.cf^
@@ -79110,6 +79116,7 @@ zzzyk.com###Tinfo
 ||qebpwkxjz.com^
 ||qebuoxn.com^
 ||qedeczzdt.com^
+||qedgcxi.cn^
 ||qedlai.restplatzboerse.com^
 ||qeedaa.xyz^
 ||qehjsjdubamsrt.com^
@@ -98505,6 +98512,7 @@ zzzyk.com###Tinfo
 ||tmmp.io^
 ||tmnbocewmddu.com^
 ||tmnsstf.com^
+||tmoclbf.icu^
 ||tmpbr.getgifted.com^
 ||tmrhpl.nurse-agent.com^
 ||tmrjaghtledm.com^
@@ -103617,6 +103625,7 @@ zzzyk.com###Tinfo
 ||uvwelvnydoy.com^
 ||uvwtmppnbqgzha.com^
 ||uvxclrl.com^
+||uvyuqzx.cn^
 ||uvzomxvbpbgo.com^
 ||uvzrtq.livingspaces.com^
 ||uvzsmwfxa.com^
@@ -105442,6 +105451,7 @@ zzzyk.com###Tinfo
 ||w.xiaopiaoyou.com^
 ||w.yamaidei.cn^
 ||w.yinyuehu.cn^
+||w0054.com^
 ||w0057.com^
 ||w0079.com^
 ||w0082.com^
@@ -108873,6 +108883,7 @@ zzzyk.com###Tinfo
 ||xlivrdr.com^
 ||xljqqe.hsn.com^
 ||xlkdbbvy.xyz^
+||xlmdtiyqbkygtfkh.com^
 ||xlmygeuxtv.com^
 ||xlmzc.cnjp-exp.com^
 ||xlnvvbk.xyz^
@@ -109987,6 +109998,7 @@ zzzyk.com###Tinfo
 ||yktj.yzz.cn^
 ||ykugc.cp31.ott.cibntv.net.302.myalicdn.com^
 ||ykujch.icu^
+||ykwykw.xyz^
 ||ykxafzdu.xyz^
 ||ykxfoj.purchasingpower.com^
 ||ykxscghselpj.com^
