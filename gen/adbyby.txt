@@ -21585,6 +21585,7 @@ zzzyk.com###Tinfo
 ||baijs02.xyz^
 ||baijs03.xyz^
 ||baijs04.shop^
+||baijs05.shop^
 ||baijs05.xyz^
 ||baijs06.xyz^
 ||baijs07.xyz^
@@ -28123,6 +28124,7 @@ zzzyk.com###Tinfo
 ||clkservice*.youdao.com^
 ||clksite.com^
 ||clkslvmiwadfsx.xyz^
+||clkwnl.xyz^
 ||clmbtech.com^
 ||clmcom.com^
 ||clmkwi.xyz^
@@ -36061,6 +36063,7 @@ zzzyk.com###Tinfo
 ||doujs03.shop^
 ||doujs03.xyz^
 ||doujs04.shop^
+||doujs05.shop^
 ||doujs05.xyz^
 ||doujs06.xyz^
 ||doujs07.xyz^
@@ -48573,6 +48576,7 @@ zzzyk.com###Tinfo
 ||hh010.com/static/image/fff/
 ||hh6666.com^
 ||hh6820123.com^
+||hhausq.top^
 ||hhb123.tk^
 ||hhbxcs.tylko.com^
 ||hhbypdoecp.com^
@@ -55883,7 +55887,6 @@ zzzyk.com###Tinfo
 ||juandou.com^$third-party
 ||juapp5.com/geek_image/chaopai.jpeg
 ||juaqmic.com^
-||jubaibaic.com/xx/
 ||jubbie.de^
 ||jubbkon.top^
 ||jubilantcanyon.com^
@@ -69064,6 +69067,7 @@ zzzyk.com###Tinfo
 ||mwbilx.pisos.com^
 ||mwbrnpmixxtu.com^
 ||mwcxljdywq.com^
+||mwerilxx.top^
 ||mweriox.top^
 ||mwf7.montecarlowellness.com^
 ||mwfdaciicqhyrj.com^
@@ -71477,6 +71481,7 @@ zzzyk.com###Tinfo
 ||nxovay.fo-online.jp^
 ||nxpdotflwcmrcfh.com^
 ||nxqolxelijv.com^
+||nxrajr.xyz^
 ||nxrxt.com^
 ||nxszxho.com^
 ||nxt-psh.com^
@@ -82564,6 +82569,7 @@ zzzyk.com###Tinfo
 ||rp.baidu.cn^
 ||rp.baidu.com^
 ||rpawarcnm.com^
+||rpeutxu.icu^
 ||rpfkgf.rp-online.de^
 ||rpfkgf.saarbruecker-zeitung.de^
 ||rpfkgf.volksfreund.de^
@@ -86173,6 +86179,7 @@ zzzyk.com###Tinfo
 ||shaxiq.com^
 ||shazauds.net^
 ||shbear.com^*/ad/
+||shbxugs.cn^
 ||shbzdkj.cn^
 ||shbzegs.cn^
 ||shbzkkj.cn^
@@ -103538,6 +103545,7 @@ zzzyk.com###Tinfo
 ||utarget.ru^
 ||utecsfi.com^
 ||uterinecordis.top^
+||utewyc.xyz^
 ||utf1.liehuo.net^
 ||utgckq.reductionrevolution.com.au^
 ||utherverse.com^
