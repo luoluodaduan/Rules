@@ -49,7 +49,7 @@ jobs:
           curl -LR -o- "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/0914-only-sex.json" | sed 's/\r//' | grep -vE '^#|^$' > gen/2.json
           find -name '2.json' | xargs perl -pi -e 's|"https://raw.githubusercontent.com/newrecha|"https://raw.kkgithub.com/newrecha|g'
           sh scripts/gfwlist.sh -l -o dist/gfw1.txt
-          cat dist/gfw1.txt temp/gfw_wiki.txt | grep -vE '\.cn$|\.xn--fiqs8s$|\.microsoft\.|\.iqiyi\.|\.apple\.|\.youku\.|\.baidu\.|\.weibo\.|\.sina\.|\.hao123\.|\.hao123img\.' > dist/gfw2.txt
+          cat dist/gfw1.txt temp/gfw_wiki.txt | grep -vE '\.cn$|\.xn--fiqs8s$|\.microsoft\.|\.iqiyi\.|\.youku\.|\.baidu\.|\.weibo\.|\.sina\.|\.hao123\.|\.hao123img\.' > dist/gfw2.txt
           grep -vE 'blogspot|facebook|google|instagram|porn|telegram|twitter|whatsapp|wikileaks|wikipedia|youtube|netflix|twitch|yahoo\.|discord|flickr|pinterest' dist/gfw2.txt > dist/gfw3.txt
           grep -vE '\.cloudfront\.net|\.amazonaws\.com|\.fastly\.net|\.azurewebsites\.net|\.cloudfunctions\.net|\.business\.site|\.windows\.net' dist/gfw3.txt > dist/gfw4.txt
           cat dist/gfw4.txt temp/gfw_custom.txt | sed 's/\r//' | sort -uf | grep -v "^$" > temp/gfw.txt
