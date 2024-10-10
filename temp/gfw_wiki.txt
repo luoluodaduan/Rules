@@ -593,7 +593,6 @@ binance.com
 binance.us
 binance.vision
 binancezh.com
-bing.com
 binsearch.info
 binux.me
 binwang.me
@@ -655,7 +654,6 @@ blogspot.tw
 blogtd.net
 blogtd.org
 bloodshed.net
-bloomberg.cn
 bloomberg.com
 bloomberg.de
 bloombergview.com
@@ -781,6 +779,7 @@ c100tibet.org
 c2cx.com
 ca.gov
 cablegatesearch.net
+cablenews.i-cable.com
 cachefly.net
 cachinese.com
 cacnw.com
@@ -1031,7 +1030,7 @@ civiliangunner.com
 civilmedia.tw
 civisec.org
 cixiaoya.club
-Cjb.net
+cjb.net
 ck101.com
 clarionproject.org
 classicalguitarblog.net
@@ -1073,7 +1072,6 @@ cnbc.com
 cnd.org
 cnet.com
 cnews.com.tw
-cnex.org.cn
 cnineu.com
 cnitter.com
 cnn.com
@@ -1212,7 +1210,6 @@ daidostup.ru
 dailidaili.com
 dailymail.co.uk
 dailymotion.com
-dailynews.sina.com
 dailysabah.com
 dailyview.tw
 daiphapinfo.net
@@ -1253,7 +1250,6 @@ data-vocabulary.org
 daum.net
 david-kilgour.com
 dawangidc.com
-daxa.cn
 dayabook.com
 daylife.com
 dayoneapp.com
@@ -1290,6 +1286,8 @@ demdex.net
 democrats.org
 demosisto.hk
 depositphotos.com
+derpibooru.org
+derpicdn.net
 desc.se
 design.google
 desipro.de
@@ -1510,7 +1508,6 @@ edgecastcdn.net
 edgekey.net
 edgesuite.net
 edicypages.com
-edmontonchina.cn
 edmontonservice.com
 edns.biz
 edoors.com
@@ -1593,6 +1590,7 @@ epochweek.com
 epochweekly.com
 eporner.com
 eprice.com.hk
+equestriadaily.com
 equinenow.com
 erabaru.net
 eracom.com.tw
@@ -1774,7 +1772,7 @@ fdc64.org
 fdc89.jp
 feedburner.com
 feeder.co
-Feedly.com
+feedly.com
 feedx.net
 feelssh.com
 feer.com
@@ -2126,7 +2124,6 @@ gitter.im
 gizlen.net
 gjczz.com
 glass8.eu
-global.bing.com
 global.ssl.fastly.net
 globaljihad.net
 globalmediaoutreach.com
@@ -2142,7 +2139,6 @@ glorystar.me
 gluckman.com
 glype.com
 gmail.com
-gmbd.cn
 gmgard.com
 gmhz.org
 gmiddle.com
@@ -2196,6 +2192,8 @@ goodreads.com
 goodtv.com.tw
 goodtv.tv
 goofind.com
+google.co.jp
+google.com
 gopetition.com
 goproxing.net
 goreforum.com
@@ -2242,7 +2240,6 @@ grotty-monday.com
 groueta.cc
 gs-discuss.com
 gsearch.media
-gstatic.cn
 gstatic.com
 gtricks.com
 gts-vpn.com
@@ -2450,7 +2447,6 @@ hola.com
 hola.org
 holymountaincn.com
 holyspiritspeaks.org
-home.sina.com
 homedepot.com
 homeip.net
 homeperversion.com
@@ -2473,7 +2469,6 @@ hostloc.com
 hotair.com
 hotav.tv
 hotbak.net
-hotels.cn
 hotfrog.com.tw
 hotgoo.com
 hotjar.com
@@ -2879,7 +2874,6 @@ jp1lib.org
 jpopforum.net
 jquery.com
 jqueryui.com
-jsdelivr.net
 jsfiddle.net
 jshell.net
 jslint.com
@@ -2952,7 +2946,6 @@ kendincos.net
 kenengba.com
 keontech.net
 kepard.com
-keso.cn
 kex.com
 keycdn.com
 keyhole.com
@@ -2975,7 +2968,6 @@ kinmen.org.tw
 kinmen.travel
 kinokuniya.com
 kir.jp
-kissbbao.cn
 kissjav.com
 kiwi.kz
 kk-whys.co.jp
@@ -3031,9 +3023,7 @@ lamenhu.com
 lamnia.co.uk
 lamrim.com
 landofhope.tv
-lanterncn.cn
 lantosfoundation.org
-laod.cn
 laogai.org
 laogairesearch.org
 laomiu.com
@@ -3054,7 +3044,6 @@ le-vpn.com
 leafyvpn.net
 learn.go.dev
 lecloud.net
-leeao.com.cn
 lefora.com
 left21.hk
 legalporno.com
@@ -3092,7 +3081,6 @@ lidecheng.com
 lifemiles.com
 lighten.org.tw
 lighti.me
-lightnovel.cn
 lightyearvpn.com
 lih.kg
 lihkg.com
@@ -3421,7 +3409,6 @@ modernchinastudies.org
 moeaic.gov.tw
 moeerolibrary.com
 moegirl.org
-moegirl.org.cn
 mofa.gov.tw
 mofaxiehui.com
 mofos.com
@@ -3895,6 +3882,7 @@ onthehunt.com
 ontrac.com
 oopsforum.com
 open.com.hk
+openai.com
 openallweb.com
 openbase.com
 opendemocracy.net
@@ -3911,7 +3899,6 @@ openvpn.net
 openvpn.org
 openwebster.com
 openwrt.org
-openwrt.org.cn
 opera-mini.net
 opera.com
 optimizely.com
@@ -4279,7 +4266,6 @@ qiangyou.org
 qidian.ca
 qienkuen.org
 qiwen.lu
-qixianglu.cn
 qkshare.com
 qmzdd.com
 qooqlevideo.com
@@ -4485,6 +4471,7 @@ sacks.com
 sacom.hk
 sadistic-v.com
 sadpanda.us
+saeima.lv
 safechat.com
 safeguarddefenders.com
 safervpn.com
@@ -4566,6 +4553,7 @@ seraph.me
 servehttp.com
 serveuser.com
 serveusers.com
+service.gov.tw
 sesawe.net
 sesawe.org
 sethwklein.net
@@ -4695,7 +4683,6 @@ sites.new
 six-degrees.io
 sixth.biz
 sjrt.org
-sjum.cn
 sketchappsources.com
 skimresources.com
 skimtube.com
@@ -4936,6 +4923,7 @@ sumrando.com
 sun1911.com
 sundayguardianlive.com
 sunmedia.ca
+suno.com
 sunporno.com
 sunskyforum.com
 sunta.com.tw
@@ -4974,7 +4962,6 @@ syncback.com
 synergyse.com
 sysresccd.org
 sytes.net
-syx86.cn
 syx86.com
 szbbs.net
 szetowah.org.hk
@@ -5188,7 +5175,6 @@ tianhuayuan.com
 tianlawoffice.com
 tianti.io
 tiantibooks.org
-tianyantong.org.cn
 tianzhu.org
 tibet-envoy.eu
 tibet-foundation.org
@@ -5678,7 +5664,6 @@ v2raytech.com
 valeursactuelles.com
 van001.com
 van698.com
-vanemu.cn
 vanilla-jp.com
 vanpeople.com
 vansky.com
@@ -6041,15 +6026,25 @@ wuyanblog.com
 wwe.com
 wwitv.com
 www.abc.net.au
-www.bing.com
+www.bignews.org
+www.chinaworker.info
+www.creaders.net
+www.ey.gov.tw
+www.hk01.com
+www.internetfreedom.org
 www.jpl.nasa.gov
 www.knowyourmeme.com
+www.meta.ai
+www.renminbao.com
+www.secretchina.com
+www.socialism.hk
 wzj9.com
 wzyboy.im
 x-art.com
 x-berry.com
 x-wall.org
 x.co
+x.com
 x.company
 x1949x.com
 x24hr.com
@@ -6110,6 +6105,7 @@ xpdo.net
 xpud.org
 xrentdvd.com
 xsden.info
+xsden.org
 xskywalker.com
 xskywalker.net
 xtube.com
@@ -6290,7 +6286,6 @@ zhongmeng.org
 zhoushuguang.com
 zhreader.com
 zhuangbi.me
-zhuanxing.cn
 zhuatieba.com
 zhuichaguoji.org
 zhujiget.com
@@ -6305,7 +6300,6 @@ ziporn.com
 zippyshare.com
 zkaip.com
 zkiz.com
-zmw.cn
 zodgame.us
 zoho.com
 zomobo.net

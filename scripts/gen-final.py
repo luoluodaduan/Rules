@@ -33,8 +33,6 @@ def gen_file(name):
 
 file_names = [
     "black-ad",
-    "black-ad-tiktok",
-    "black-tiktok",
     "white-ad-tiktok",
     "white-tiktok",
 ]
