@@ -301,6 +301,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|xyg688.com|xyg688.xyz|zz
 /adPlat/adPlat_
 /adTopBar.
 /ad_360_$domain=somanhua.com
+/ad_display.php?ad_pos=
 /ad_unified_access?
 /adcg/*
 /adcms/js/*
@@ -9596,6 +9597,7 @@ zzzyk.com###Tinfo
 ||4p68.com^
 ||4p74i5b6.de^
 ||4paradigm.com^$domain=sina.com.cn
+||4q87v.icu^
 ||4rabettraff.com^
 ||4rw6x0b.cn^
 ||4stats.de^
@@ -45889,6 +45891,7 @@ zzzyk.com###Tinfo
 ||gxnews.com.cn/clientscript/index_duilian_
 ||gxnfz.com^
 ||gxny.imanchu.cn^
+||gxoaku.xyz^
 ||gxordgtvjr.com^
 ||gxoymwfwex.com^
 ||gxpiypxnjwtclv.com^
@@ -56135,6 +56138,7 @@ zzzyk.com###Tinfo
 ||lbjxsort.xyz^
 ||lbkezllkewevy.top^
 ||lbnrrh.autouncle.dk^
+||lbqdaua.icu^
 ||lbstatic-a.akamaihd.net^
 ||lbswotkkpry.com^
 ||lbv5.mperf.com^
@@ -60749,6 +60753,7 @@ zzzyk.com###Tinfo
 ||mamblubamblua.com^
 ||mamecn.com/style/pcjs/bgimg.
 ||mamerscastor.top^
+||mamjkg.xyz^
 ||mamluksburion.com^
 ||mammaclassesofficer.com^
 ||mammalbuy.com^
@@ -101691,6 +101696,7 @@ zzzyk.com###Tinfo
 ||vtetishcijmi.com^
 ||vtffnz.blindsdirect.co.uk^
 ||vtftijvus.xyz^
+||vtjbnb.xyz^
 ||vtlyrj.xyz^
 ||vtneexam.quantresear.ch^
 ||vtnmxx.xyz^
@@ -103803,6 +103809,7 @@ zzzyk.com###Tinfo
 ||wnmoobz.icu^
 ||wnmyerzbjhu.ru^
 ||wnnhnaurzbr.com^
+||wnojded.icu^
 ||wnootzc.icu^
 ||wnozpl.escarpe.it^
 ||wnp.com^
@@ -104735,6 +104742,7 @@ zzzyk.com###Tinfo
 ||xadcentral.com^
 ||xads.one^
 ||xadsmart.com^
+||xadulxs.cn^
 ||xafuzcxr.xyz^
 ||xageyai.com^
 ||xaguwy.thomas-muenz.ru^
