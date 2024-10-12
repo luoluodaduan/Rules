@@ -209,6 +209,35 @@
 		"changeable": 1
 	  },
 	  {
+		"key": "凯奇影视",
+		"name": "優質｜卡曲",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"jar": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar;md5;145277452362fe4b1371e8968b414ed1",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": {
+		  "简介": "请勿相信影片中的广告，以免上当受骗。+简介：&&</div>",
+		  "线路数组": "class=\"iconfont hl-icon-laiyuan\"&&</a>[不包含:线路1]",
+		  "线路标题": "</i>&nbsp;&&</span>[不包含:线路1]",
+		  "分类url": "https://cageyy.com/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+		  "分类": "电影$dianying#连续剧$lianxuju#动漫$dongman#综艺$zongyi#纪录片$jilupian#短剧$duanshipin"
+		}
+	  },
+	  {
+		"key": "凯奇追剧",
+		"name": "優質｜凯奇",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"jar": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/jar/happy.jar;md5;56ffe5fc72be5f94267be472b59540a7",
+		"ext": {
+		  "简介": "+hl-content-text\">&&</span>",
+		  "分类url": "https://www.kqyy.tv/vodshow/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+		  "分类": "电影$dianying#连续剧$lianxuju#动漫$dongman#综艺$zongyi#短剧$duanshipin"
+		}
+	  },
+	  {
 		"key": "zj",
 		"name": "優質｜8K影院",
 		"type": 3,
@@ -444,7 +473,7 @@
 	  },
 	  {
 		"key": "hipy_js_旋风视频",
-		"name": "旋风",
+		"name": "🎥｜旋风",
 		"type": 3,
 		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
 		"searchable": 1,
@@ -721,7 +750,7 @@
 	  },
 	  {
 		"key": "金鹰克隆",
-		"name": "🎥｜金鹰｜無更新頁",
+		"name": "🕸｜金鹰｜聚合",
 		"type": 4,
 		"api": "http://api.paoyun.eu.org/jy.php",
 		"jar": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/jar/fm.jar;md5;41c87635d7592069884a5dafa12acabe",
@@ -732,7 +761,7 @@
 	  },
 	  {
 		"key": "索尼克隆",
-		"name": "🎥｜索尼｜無更新頁",
+		"name": "🕸｜索尼｜聚合",
 		"type": 4,
 		"api": "http://api.paoyun.eu.org/sn.php",
 		"jar": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/jar/fm.jar;md5;41c87635d7592069884a5dafa12acabe",
@@ -1150,7 +1179,7 @@
 	  },
 	  {
 		"key": "可可",
-		"name": "🎥｜可可｜飯硬",
+		"name": "🕸｜可可｜飯硬",
 		"type": 3,
 		"api": "csp_Kekys",
 		"timeout": 15,
@@ -1559,23 +1588,6 @@
 		}
 	  },
 	  {
-		"key": "凯奇影视",
-		"name": "🎥｜凯奇",
-		"type": 3,
-		"api": "csp_XBPQ",
-		"jar": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar;md5;145277452362fe4b1371e8968b414ed1",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": {
-		  "简介": "请勿相信影片中的广告，以免上当受骗。+简介：&&</div>",
-		  "线路数组": "class=\"iconfont hl-icon-laiyuan\"&&</a>[不包含:线路1]",
-		  "线路标题": "</i>&nbsp;&&</span>[不包含:线路1]",
-		  "分类url": "https://cageyy.com/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-		  "分类": "电影$dianying#连续剧$lianxuju#动漫$dongman#综艺$zongyi#纪录片$jilupian#短剧$duanshipin"
-		}
-	  },
-	  {
 		"key": "飞飞",
 		"name": "🎥｜飞飞",
 		"type": 3,
@@ -1894,7 +1906,7 @@
 	  },
 	  {
 		"key": "555影院",
-		"name": "🎥｜555",
+		"name": "🕸｜555",
 		"type": 3,
 		"api": "csp_AppYsV2",
 		"jar": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar;md5;145277452362fe4b1371e8968b414ed1",
@@ -2067,7 +2079,7 @@
 	  },
 	  {
 		"key": "Ikanbot",
-		"name": "🎥｜机器",
+		"name": "🕸｜机器",
 		"type": 3,
 		"api": "csp_Ikanbot",
 		"jar": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/jar/Pgdanmu.jar;md5;d33f4e4bd4fa3e9a119c1b6317e62af6",
@@ -2336,7 +2348,7 @@
 	  },
 	  {
 		"key": "csp_XYQ电影牛",
-		"name": "🎥｜电影牛",
+		"name": "🕸｜电影牛",
 		"type": 3,
 		"api": "csp_XYQHiker",
 		"searchable": 1,
@@ -2372,7 +2384,7 @@
 	  },
 	  {
 		"key": "drpy_js_蛋蛋赞",
-		"name": "🎥｜蛋蛋赞｜T3",
+		"name": "🕸｜蛋蛋赞｜T3",
 		"type": 3,
 		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
 		"searchable": 1,
@@ -2392,7 +2404,7 @@
 	  },
 	  {
 		"key": "drpy_js_KUBO影视[飞]",
-		"name": "🎥｜KUBO｜T3",
+		"name": "🕸｜KUBO｜T3",
 		"type": 3,
 		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
 		"searchable": 1,
@@ -2516,7 +2528,7 @@
 	  },
 	  {
 		"key": "csp_HkTv",
-		"name": "🎥｜TVB云播",
+		"name": "🕸｜TVB云播",
 		"type": 3,
 		"api": "csp_HkTv",
 		"searchable": 1,
@@ -2741,7 +2753,7 @@
 	  },
 	  {
 		"key": "hipy_js_B站影视",
-		"name": "🎥｜B站｜T3",
+		"name": "🕸｜B站｜T3",
 		"type": 3,
 		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
 		"searchable": 1,
@@ -2813,7 +2825,7 @@
 	  },
 	  {
 		"key": "南瓜",
-		"name": "🎥｜南瓜",
+		"name": "🕸｜南瓜",
 		"type": 3,
 		"api": "csp_NanGua",
 		"jar": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;2c42532410c381e1c8a5326f5a85e248",
@@ -2835,18 +2847,6 @@
 		}
 	  },
 	  {
-		"key": "凯奇追剧",
-		"name": "🎥｜凯奇",
-		"type": 3,
-		"api": "csp_XBPQ",
-		"jar": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/jar/happy.jar;md5;56ffe5fc72be5f94267be472b59540a7",
-		"ext": {
-		  "简介": "+hl-content-text\">&&</span>",
-		  "分类url": "https://www.kqyy.tv/vodshow/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-		  "分类": "电影$dianying#连续剧$lianxuju#动漫$dongman#综艺$zongyi#短剧$duanshipin"
-		}
-	  },
-	  {
 		"key": "看片狂人",
 		"name": "🎥｜看片狂人",
 		"type": 3,
@@ -2861,23 +2861,6 @@
 		  "搜索url": "https://www.kpkuang.fun/vodsearch/-------------.html?wd={wd}",
 		  "分类url": "https://www.kpkuang.fun/vodshow/{cateId}-{area}-time------{catePg}---{year}--.html[https://www.kpkuang.one/vodtype/{cateId}/]",
 		  "分类": "国产剧$13#电影$1#连续剧$2#综艺$3#动漫$4"
-		}
-	  },
-	  {
-		"key": "晨光电影",
-		"name": "🎥｜晨光",
-		"type": 3,
-		"api": "csp_XBPQ",
-		"jar": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/jar/happy.jar;md5;56ffe5fc72be5f94267be472b59540a7",
-		"ext": {
-		  "简介": "剧情介绍: +white-space: initial;\">&&</div>",
-		  "数组": "fed-list-item fed-padding fed-col-xs4 fed-col-sm3 fed-col-md2\">&&</li>",
-		  "图片": "data-original=\"&&\"",
-		  "标题": "fed-visible fed-part-eone\" href=*>&&</a>",
-		  "副标题": "fed-text-white fed-text-center\">&&</span>",
-		  "线路数组": "fed-drop-btns fed-padding fed-col-xs3 fed-col-md2\">&&</li>",
-		  "分类url": "https://www.cgdyw.net/s/{cateId}/area/{area}/page/{catePg}/year/{year}.html",
-		  "分类": "短剧$duanju#电视剧$lianxuju#电影$dianying#动漫$dongman#综艺$zongyi"
 		}
 	  },
 	  {
@@ -3049,7 +3032,7 @@
 	  },
 	  {
 		"key": "drpy_js_哔哩直播",
-		"name": "🎥｜哔哩直播｜T3",
+		"name": "🕸｜哔哩直播｜T3",
 		"type": 3,
 		"searchable": 1,
 		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
@@ -3168,17 +3151,6 @@
 		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/冠建影视.js"
 	  },
 	  {
-		"key": "hipy_js_哈皮影视[优]",
-		"name": "🎥｜哈皮｜T3",
-		"type": 3,
-		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"order_num": 0,
-		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/哈皮影视[优].js"
-	  },
-	  {
 		"key": "hipy_js_即看影视",
 		"name": "🎥｜即看｜T3",
 		"type": 3,
@@ -3212,17 +3184,6 @@
 		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/饺子影院.js"
 	  },
 	  {
-		"key": "hipy_js_九牛电影",
-		"name": "🎥｜九牛｜T3",
-		"type": 3,
-		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"order_num": 0,
-		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/九牛电影.js"
-	  },
-	  {
 		"key": "hipy_js_剧迷",
 		"name": "🎥｜剧迷｜T3",
 		"type": 3,
@@ -3232,17 +3193,6 @@
 		"filterable": 1,
 		"order_num": 0,
 		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/剧迷.js"
-	  },
-	  {
-		"key": "hipy_js_美益达",
-		"name": "🎥｜美益达｜T3",
-		"type": 3,
-		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"order_num": 0,
-		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/美益达.js"
 	  },
 	  {
 		"key": "hipy_js_魔方影视",
@@ -3312,7 +3262,7 @@
 	  },
 	  {
 		"key": "hipy_js_三集电影[自动]",
-		"name": "🎥｜三影[自动]｜T3",
+		"name": "🎥｜三影｜T3",
 		"type": 3,
 		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
 		"searchable": 1,
@@ -3610,7 +3560,7 @@
 	  },
 	  {
 		"key": "drpy_js_骚火电影",
-		"name": "🎥｜骚火｜T3",
+		"name": "🕸｜骚火｜T3",
 		"type": 3,
 		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
 		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/js/骚火电影.js"
@@ -3646,7 +3596,7 @@
 	  },
 	  {
 		"key": "drpy_js_飞兔影视",
-		"name": "🎥｜飞兔｜T3",
+		"name": "🕸｜飞兔｜T3",
 		"type": 3,
 		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
 		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/js/飞兔影视.js"
@@ -3675,7 +3625,7 @@
 	  },
 	  {
 		"key": "hipy_js_OmoFun[漫]",
-		"name": "🎥｜OmoFun",
+		"name": "動漫｜OmoFun",
 		"type": 3,
 		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
 		"searchable": 1,
@@ -3686,7 +3636,7 @@
 	  },
 	  {
 		"key": "金鹰资源",
-		"name": "🎥｜金鹰",
+		"name": "🕸｜金鹰",
 		"type": 1,
 		"api": "https://jyzyapi.com/provide/vod/",
 		"searchable": 1,
@@ -3699,7 +3649,7 @@
 	  },
 	  {
 		"key": "非凡資源",
-		"name": "🎥｜非凡",
+		"name": "🕸｜非凡",
 		"type": 1,
 		"api": "http://ffzy.tv/api.php/provide/vod/",
 		"searchable": 1,
@@ -3712,7 +3662,7 @@
 	  },
 	  {
 		"key": "索尼資源",
-		"name": "🎥｜索尼",
+		"name": "🕸｜索尼",
 		"type": 1,
 		"api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
 		"playUrl": "",
