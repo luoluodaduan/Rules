@@ -5,13 +5,13 @@
 	"warningText": "請勿外流，内部使用。",
 	"sites": [
 	  {
-		"key": "drpy_js_豆瓣",
+		"key": "dr_豆瓣",
 		"name": "👊【老王彙整，請勿廣為外流】👊",
 		"type": 3,
-		"api": "csp_Douban",
-		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/json/douban.json",
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/douban.js",
 		"searchable": 1,
-		"quickSearch": 1,
+		"quickSearch": 0,
 		"changeable": 0
 	  },
 	  {
@@ -249,6 +249,22 @@
 		}
 	  },
 	  {
+		"key": "zy_闪电资源",
+		"name": "優質｜闪电資源",
+		"type": 1,
+		"api": "https://xsd.sdzyapi.com/api.php/provide/vod/",
+		"jar": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/jar/fan.jar",
+		"searchable": 1,
+		"quickSearch": 1,
+		"playerType": 2,
+		"categories": [
+		  "国产剧" , "韩国剧" , "国产动漫", "伦理片" , "欧美剧" , "香港剧" , "台湾剧" , "日剧"  , "海外剧" ,
+		  "日本动漫", "欧美动漫", "港台动漫", "海外动漫", "动作片" , "喜剧片" , "科幻片" , "恐怖片" , "爱情片" ,
+		  "剧情片" , "战争片" , "纪录片" , "犯罪片" , "其他片" , "悬疑片" , "奇幻片" , "动画片" , "大陆综艺",
+		  "港台综艺", "日韩综艺", "欧美综艺"
+		]
+	  },
+	  {
 		"key": "Net_emby",
 		"name": "🍏 Net┃Emby",
 		"type": 3,
@@ -315,6 +331,98 @@
 		  "proxy": ""
 		},
 		"changeable": 1
+	  },
+	  {
+		"key": "drpy_js_360影视",
+		"name": "🎖︎｜360",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/360影视[官].js"
+	  },
+	  {
+		"key": "hipy_js_奇珍异兽[官]",
+		"name": "🎖︎｜i奇异",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/奇珍异兽[官].js"
+	  },
+	  {
+		"key": "drpy_js_百忙无果",
+		"name": "🎖︎｜M果",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/百忙无果[官].js"
+	  },
+	  {
+		"key": "drpy_js_腾云驾雾",
+		"name": "🎖︎｜T讯",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/腾云驾雾[官].js"
+	  },
+	  {
+		"key": "drpy_js_菜狗",
+		"name": "🎖︎｜S狗",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/菜狗[官].js"
+	  },
+	  {
+		"key": "drpy_js_优酷",
+		"name": "🎖︎｜U酷",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/优酷[官].js"
+	  },
+	  {
+		"key": "hipy_js_85k影视",
+		"name": "🎥｜85k｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/85k影视.js"
+	  },
+	  {
+		"key": "hipy_js_111tv[自动]",
+		"name": "🎥｜111｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/111tv[自动].js"
+	  },
+	  {
+		"key": "hipy_js_539影视",
+		"name": "🎥｜539｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/539影视.js"
+	  },
+	  {
+		"key": "hipy_js_爱迪影视",
+		"name": "🎥｜爱迪｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/爱迪影视.js"
 	  },
 	  {
 		"key": "糯米",
@@ -460,16 +568,17 @@
 		"jar": "https://jihulab.com/zjx3514824/kkk/-/raw/main/lib/4K%E4%B8%93%E4%BA%AB.jar?inline=false"
 	  },
 	  {
-		"key": "君君",
+		"key": "junjun",
 		"name": "🎥｜君君",
-		"playerType": 1,
 		"type": 3,
-		"api": "csp_AppYsV2",
-		"jar": "https://jihulab.com/zjx3514824/kkk/-/raw/main/ou.jar?inline=false",
 		"searchable": 1,
 		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "http://122.228.85.203:1000/api.php/app/"
+		"api": "https://xn--tkh-mf3g9f.v.nxog.top/m/js/appys.js",
+		"jar": "https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610",
+		"ext": {
+		  "host": "http://122.228.85.203:1000/api.php/app/",
+		  "*": ["https://xcoo.vip/xiaojun/xiaojunjiexi.php?url="]
+		}
 	  },
 	  {
 		"key": "hipy_js_旋风视频",
@@ -480,7 +589,7 @@
 		"quickSearch": 1,
 		"filterable": 1,
 		"order_num": 0,
-		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/js/旋风视频.js"
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/旋风视频.js"
 	  },
 	  {
 		"key": "花姐影院",
@@ -875,7 +984,7 @@
 		"type": 3,
 		"searchable": 1,
 		"quickSearch": 1,
-		"api": "https://xn--tkh-mf3g9f.v.nxog.top/m/js/appys.js",
+		"api": "https://xn--tkh-mf3g9f.v.nxog.top/m/drpy_js/appys.js",
 		"jar": "https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610",
 		"ext": {
 		  "host": "http://122.228.85.203:1000/api.php/app/",
@@ -1062,28 +1171,6 @@
 		  "分类ID": "href=\"/L/&&.html\"",
 		  "分类url": "https://m.xian372.top/L/{cateId}_{catePg}.html[https://m.xian372.top/L/{cateId}.html]"
 		}
-	  },
-	  {
-		"key": "hipy_js_腾云驾雾[官]",
-		"name": "🎥｜腾云驾雾｜T3",
-		"type": 3,
-		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"order_num": 0,
-		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/腾云驾雾[官].js"
-	  },
-	  {
-		"key": "hipy_js_百忙无果[官]",
-		"name": "🎥｜百忙无果｜無更新頁｜T3",
-		"type": 3,
-		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"order_num": 0,
-		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/百忙无果[官].js"
 	  },
 	  {
 		"key": "hipy_js_飞鱼影视｜T3",
@@ -1288,17 +1375,6 @@
 		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/json/超前B站.json"
 	  },
 	  {
-		"key": "csp_Free",
-		"name": "🎥｜Free",
-		"type": 3,
-		"api": "csp_XBPQ",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/json/Free影视.json",
-		"jar": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/jar/0606.jar;md5;dd42498b23f9c619b272804ff8f26529"
-	  },
-	  {
 		"key": "csp_AppYsV2_五一影视",
 		"name": "🎥｜五一",
 		"type": 3,
@@ -1396,28 +1472,6 @@
 		"filterable": 1,
 		"ext": "http://v.rbotv.cn",
 		"jar": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/jar/jar0423.jar;md5;f5f25556deaf4016a82345864b16cd81"
-	  },
-	  {
-		"key": "胖虎",
-		"name": "🎥｜胖虎",
-		"type": 3,
-		"api": "csp_XBPQ",
-		"jar": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar;md5;145277452362fe4b1371e8968b414ed1",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": {
-		  "嗅探词": ".m3u8?#v3.huoshanvod.com#.m3u8#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com#.mp4",
-		  "过滤词": "/cdn.physvod.com/#116.m3u8",
-		  "影片地区": "圥忈制作",
-		  "影片年代": "<div class=\"module-info-tag\">&&</div>",
-		  "影片状态": "备注：&&</div>",
-		  "影片类型": "module-info-tag\">&&立即播放",
-		  "线路数组": "data-dropdown-value=&&</div>[不包含:请换源1#请换源2#请换源3#请换源4#请换源5#请换源6]",
-		  "线路标题": "<span>&&</span>",
-		  "分类url": "https://www.phyt.net/vodshow/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-		  "分类": "电影$1#剧集$2#动漫$4#综艺$3#短剧$7#解说$8#其他$9"
-		}
 	  },
 	  {
 		"key": "海纳TV",
@@ -2026,15 +2080,15 @@
 		"ext": "https://www.nntv.in/api.php/v1.vod"
 	  },
 	  {
-		"key": "北川影视",
-		"name": "不穩｜北川",
+		"key": "hipy_js_北川影视",
+		"name": "北川影视｜T3",
 		"type": 3,
-		"api": "csp_AppYsV2",
-		"jar": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar;md5;145277452362fe4b1371e8968b414ed1",
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "http://www.bczhuiju.com/api.php/v1.vod"
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/北川影视.js"
 	  },
 	  {
 		"key": "酷咯影视",
@@ -2245,17 +2299,15 @@
 		}
 	  },
 	  {
-		"key": "茶杯影视",
-		"name": "🎥｜茶杯",
+		"key": "hipy_js_茶杯狐",
+		"name": "茶杯狐｜T3",
 		"type": 3,
-		"api": "csp_XBPQ",
-		"jar": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
-		"ext": {
-		  "简介": "小林子为您剧情介绍:+本剧主要讲述&&</div>",
-		  "标题": "title=*>&&</div>",
-		  "分类url": "https://hoodlumsmusic.com/cupfox-list/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-		  "分类": "短剧$5#电视剧$2#电影$1#动漫$4#综艺$3"
-		}
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/茶杯狐.js"
 	  },
 	  {
 		"key": "飞鱼影院",
@@ -2300,14 +2352,14 @@
 		"name": "🎥｜348｜T3",
 		"type": 3,
 		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/js/348电影网.js"
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/348电影网.js"
 	  },
 	  {
 		"key": "drpy_js_567电影院",
 		"name": "🎥｜567",
 		"type": 3,
 		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/js/567电影院.js"
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/567电影院.js"
 	  },
 	  {
 		"key": "csp_XYQHiker_电影盒子",
@@ -2326,7 +2378,7 @@
 		"name": "🎥｜北极狐｜T3",
 		"type": 3,
 		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/js/北极狐[V2].js"
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/北极狐[V2].js"
 	  },
 	  {
 		"key": "hipy_js_看了么",
@@ -2344,7 +2396,7 @@
 		"name": "🎥｜玄天｜T3",
 		"type": 3,
 		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/js/玄天.js"
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/玄天.js"
 	  },
 	  {
 		"key": "csp_XYQ电影牛",
@@ -2373,14 +2425,14 @@
 		"name": "🎥｜两个BT｜T3",
 		"type": 3,
 		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/js/两个BT.js"
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/两个BT.js"
 	  },
 	  {
 		"key": "drpy_js_免费看",
 		"name": "🎥｜免费看｜T3",
 		"type": 3,
 		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/js/免费看.js"
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/免费看.js"
 	  },
 	  {
 		"key": "drpy_js_蛋蛋赞",
@@ -2409,7 +2461,7 @@
 		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
 		"searchable": 1,
 		"quickSearch": 1,
-		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/js/KUBO影视[飞].js"
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/KUBO影视[飞].js"
 	  },
 	  {
 		"key": "csp_XYQHiker_VSYY",
@@ -2427,7 +2479,7 @@
 		"name": "🎥｜中国人｜T3",
 		"type": 3,
 		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/js/中国人.js"
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/中国人.js"
 	  },
 	  {
 		"key": "420kvm",
@@ -2613,13 +2665,6 @@
 		}
 	  },
 	  {
-		"key": "剧兔",
-		"name": "🎥｜追剧兔子",
-		"type": 3,
-		"api": "csp_AppYsV2",
-		"ext": "https://www.zjtu.one/api.php/app/"
-	  },
-	  {
 		"key": "酷云七七",
 		"name": "🎥｜酷云七七",
 		"type": 3,
@@ -2671,7 +2716,8 @@
 		"name": "🎥｜天天美剧",
 		"type": 3,
 		"api": "csp_AppYsV2",
-		"ext": "https://www.ttmja.com/api.php/app/"
+		"ext": "https://www.ttmja.com/api.php/app/",
+		"jar": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar;md5;145277452362fe4b1371e8968b414ed1"
 	  },
 	  {
 		"key": "csp_XYQHiker_圣城影视",
@@ -2991,7 +3037,7 @@
 		"name": "🎥｜97tvs｜T3",
 		"type": 3,
 		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/js/97tvs.js"
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/97tvs.js"
 	  },
 	  {
 		"key": "XYQHiker_高清MP4",
@@ -3038,7 +3084,7 @@
 		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
 		"style": {"type": "rect", "ratio": 1.597},
 		"changeable": 0,
-		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/js/哔哩直播.js"
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/哔哩直播.js"
 	  },
 	  {
 		"key": "drpy_js_哔哩影视",
@@ -3048,7 +3094,7 @@
 		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
 		"style": {"type": "rect", "ratio": 1.597},
 		"changeable": 0,
-		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/js/哔哩影视.js"
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/哔哩影视.js"
 	  },
 	  {
 		"key": "hipy_js_4K-AV",
@@ -3062,22 +3108,11 @@
 		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/4K-AV.js"
 	  },
 	  {
-		"key": "hipy_js_奇珍异兽[官]",
-		"name": "🎥｜奇珍异兽｜無推薦｜T3",
-		"type": 3,
-		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"order_num": 0,
-		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/奇珍异兽[官].js"
-	  },
-	  {
 		"key": "drpy_js_voflix",
 		"name": "🎥｜voflix｜T3",
 		"type": 3,
 		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/js/voflix.js"
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/voflix.js"
 	  },
 	  {
 		"key": "艾旦影视",
@@ -3470,17 +3505,6 @@
 		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/游子视频.js"
 	  },
 	  {
-		"key": "hipy_js_掌心世界",
-		"name": "🎥｜掌心｜T3",
-		"type": 3,
-		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"order_num": 0,
-		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/掌心世界.js"
-	  },
-	  {
 		"key": "hipy_js_bilfun(自动)",
 		"name": "🎥｜bilfun｜T3",
 		"type": 3,
@@ -3540,14 +3564,14 @@
 		"name": "🎥｜网飞｜T3",
 		"type": 3,
 		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/js/wf.js"
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/wf.js"
 	  },
 	  {
 		"key": "drpy_js_凌云影视",
 		"name": "🎥｜凌云｜T3",
 		"type": 3,
 		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/js/凌云影视.js"
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/凌云影视.js"
 	  },
 	  {
 		"key": "低端影视",
@@ -3556,61 +3580,948 @@
 		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
 		"searchable": 1,
 		"changeable": 1,
-		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/js/ddys.js"
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/ddys.js"
 	  },
 	  {
 		"key": "drpy_js_骚火电影",
 		"name": "🕸｜骚火｜T3",
 		"type": 3,
 		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/js/骚火电影.js"
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/骚火电影.js"
 	  },
 	  {
 		"key": "drpy_js_量子资源",
 		"name": "🎥｜量子｜T3",
 		"type": 3,
 		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/js/量子资源.js"
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/量子资源.js"
 	  },
 	  {
 		"key": "drpy_js_小宝影院[飞]",
 		"name": "🎥｜小宝｜T3",
 		"type": 3,
 		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/js/小宝影院[飞].js",
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/小宝影院[飞].js",
 		"User-Agent": "Mozilla/5.0(Linux;Android11;M2101K9CBuild/RKQ1.201112.002;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/76.0.3809.89MobileSafari/537.36T7/12.16SearchCraft/3.9.1(Baidu;P111)"
 	  },
 	  {
-		"key": "drpy_js_139影视",
-		"name": "🎥｜139｜T3",
-		"type": 3,
-		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/js/139影视.js"
-	  },
-	  {
-		"key": "drpy_js_美视网",
-		"name": "🎥｜美视网｜T3",
-		"type": 3,
-		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/js/美视网.js"
-	  },
-	  {
-		"key": "drpy_js_飞兔影视",
-		"name": "🕸｜飞兔｜T3",
-		"type": 3,
-		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/js/飞兔影视.js"
-	  },
-	  {
-		"key": "hipy_js_GO影视",
-		"name": "🎥｜GO｜T3",
+		"key": "hipy_js_爱优影视[自动]",
+		"name": "🎥｜爱优影视｜T3",
 		"type": 3,
 		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
 		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/爱优影视[自动].js"
+	  },
+	  {
+		"key": "hipy_js_刺猬影视",
+		"name": "🎥｜刺猬影视｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/刺猬影视.js"
+	  },
+	  {
+		"key": "hipy_js_达达猪",
+		"name": "🎥｜达达猪｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/达达猪.js"
+	  },
+	  {
+		"key": "hipy_js_APPV2[模板]1",
+		"name": "🎥｜大米星球｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 1,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/APPV2[模板].js?type=url&params=https://dmz8k4.wiki"
+	  },
+	  {
+		"key": "hipy_js_大米星球",
+		"name": "🎥｜大米星球｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/大米星球.js"
+	  },
+	  {
+		"key": "hipy_js_大米星球[V2]",
+		"name": "🎥｜大米星球[V2]｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/大米星球[V2].js"
+	  },
+	  {
+		"key": "hipy_js_电影猎手[自动]",
+		"name": "🎥｜电影猎手[自动]｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/电影猎手[自动].js"
+	  },
+	  {
+		"key": "hipy_js_电影兔",
+		"name": "🎥｜电影兔｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/电影兔.js"
+	  },
+	  {
+		"key": "hipy_js_豆角网",
+		"name": "🎥｜豆角网｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/豆角网.js"
+	  },
+	  {
+		"key": "hipy_js_多多影音",
+		"name": "🎥｜多多影音｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/多多影音.js"
+	  },
+	  {
+		"key": "hipy_js_饭团影视",
+		"name": "🎥｜饭团影视｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/饭团影视.js"
+	  },
+	  {
+		"key": "hipy_js_干饭影视",
+		"name": "🎥｜干饭影视｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/干饭影视.js"
+	  },
+	  {
+		"key": "hipy_js_哈皮影视[优]",
+		"name": "🎥｜哈皮影视[优]｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/哈皮影视[优].js"
+	  },
+	  {
+		"key": "hipy_js_黑狐影院",
+		"name": "🎥｜黑狐影院｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/黑狐影院.js"
+	  },
+	  {
+		"key": "hipy_js_极速资源[资]",
+		"name": "🎥｜极速资源[资]｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/极速资源[资].js"
+	  },
+	  {
+		"key": "hipy_js_茄子影视[自动]",
+		"name": "🎥｜茄子影视｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/茄子影视[自动].js"
+	  },
+	  {
+		"key": "hipy_js_家庭影视",
+		"name": "🎥｜家庭影视｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/家庭影视.js"
+	  },
+	  {
+		"key": "hipy_js_金金虫",
+		"name": "🎥｜金金虫｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/金金虫.js"
+	  },
+	  {
+		"key": "hipy_js_酷云影视",
+		"name": "🎥｜酷云影视｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/酷云影视.js"
+	  },
+	  {
+		"key": "hipy_js_快看影视",
+		"name": "🎥｜快看影视｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/快看影视.js"
+	  },
+	  {
+		"key": "hipy_js_米爱影视",
+		"name": "🎥｜米爱影视｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/米爱影视.js"
+	  },
+	  {
+		"key": "hipy_js_魔方影视",
+		"name": "🎥｜魔方影视｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/魔方影视.js"
+	  },
+	  {
+		"key": "hipy_js_墨点影视",
+		"name": "🎥｜墨点影视｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/墨点影视.js"
+	  },
+	  {
+		"key": "hipy_js_木瓜影视",
+		"name": "🎥｜木瓜影视｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/木瓜影视.js"
+	  },
+	  {
+		"key": "hipy_js_那兔视频",
+		"name": "🎥｜那兔视频｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/那兔视频.js"
+	  },
+	  {
+		"key": "hipy_js_南瓜影视[优]",
+		"name": "🎥｜南瓜影视｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/南瓜影视[优].js"
+	  },
+	  {
+		"key": "hipy_js_你好帅影院",
+		"name": "🎥｜你好帅影院｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/你好帅影院.js"
+	  },
+	  {
+		"key": "hipy_js_努努影院1",
+		"name": "🎥｜努努影院1｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/努努影院1.js"
+	  },
+	  {
+		"key": "hipy_js_暖光影视",
+		"name": "🎥｜暖光影视｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/暖光影视.js"
+	  },
+	  {
+		"key": "hipy_js_牌牌影院",
+		"name": "🎥｜牌牌影院｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/牌牌影院.js"
+	  },
+	  {
+		"key": "hipy_js_泡泡影院",
+		"name": "🎥｜泡泡影院｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/泡泡影院.js"
+	  },
+	  {
+		"key": "hipy_js_片多多[优]",
+		"name": "🎥｜片多多[优]｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/片多多[优].js"
+	  },
+	  {
+		"key": "hipy_js_飘花影院",
+		"name": "🎥｜飘花影院｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/飘花影院.js"
+	  },
+	  {
+		"key": "hipy_js_全能影视",
+		"name": "🎥｜全能影视｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/全能影视.js"
+	  },
+	  {
+		"key": "hipy_js_热片网",
+		"name": "🎥｜热片网｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/热片网.js"
+	  },
+	  {
+		"key": "hipy_js_三集电影[自动]",
+		"name": "🎥｜三集电影[自动]｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/三集电影[自动].js"
+	  },
+	  {
+		"key": "hipy_js_胖虎影视",
+		"name": "🎥｜胖虎影视｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/胖虎影视.js"
+	  },
+	  {
+		"key": "剧兔",
+		"name": "🎥｜追剧兔子",
+		"type": 3,
+		"api": "csp_AppYsV2",
+		"jar": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar;md5;145277452362fe4b1371e8968b414ed1",
+		"ext": "https://www.zjtu.one/api.php/app/"
+	  },
+	  {
+		"key": "hipy_js_GO影视",
+		"name": "🎥｜GO",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
 		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/GO影视.js"
+	  },
+	  {
+		"key": "hipy_js_神马影院[自动]",
+		"name": "🎥｜神马影院｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/神马影院[自动].js"
+	  },
+	  {
+		"key": "hipy_js_时光影院",
+		"name": "🎥｜时光影院｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/时光影院.js"
+	  },
+	  {
+		"key": "hipy_js_素白白[优]",
+		"name": "🎥｜素白白[优]｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/素白白[优].js"
+	  },
+	  {
+		"key": "hipy_js_索尼资源[资]",
+		"name": "🎥｜索尼资源[资]｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/索尼资源[资].js"
+	  },
+	  {
+		"key": "hipy_js_天龙影院",
+		"name": "🎥｜天龙影院｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/天龙影院.js"
+	  },
+	  {
+		"key": "hipy_js_歪片星球[资]",
+		"name": "🎥｜歪片星球[资]｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/歪片星球[资].js"
+	  },
+	  {
+		"key": "hipy_js_网飞.TV",
+		"name": "🎥｜网飞.TV｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/网飞.TV.js"
+	  },
+	  {
+		"key": "hipy_js_网飞啦[自动]",
+		"name": "🎥｜网飞啦[自动]｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/网飞啦[自动].js"
+	  },
+	  {
+		"key": "hipy_js_文才[资]",
+		"name": "🎥｜文才[资]｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/文才[资].js"
+	  },
+	  {
+		"key": "hipy_js_文才2[资]",
+		"name": "🎥｜文才2[资]｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/文才2[资].js"
+	  },
+	  {
+		"key": "hipy_js_我播",
+		"name": "🎥｜我播｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/我播.js"
+	  },
+	  {
+		"key": "hipy_js_卧龙资源[资]",
+		"name": "🎥｜卧龙资源[资]｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/卧龙资源[资].js"
+	  },
+	  {
+		"key": "hipy_js_无忧影视",
+		"name": "🎥｜无忧影视｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/无忧影视.js"
+	  },
+	  {
+		"key": "hipy_js_夕云影视",
+		"name": "🎥｜夕云影视｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/夕云影视.js"
+	  },
+	  {
+		"key": "hipy_js_西瓜影院",
+		"name": "🎥｜西瓜影院｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/西瓜影院.js"
+	  },
+	  {
+		"key": "hipy_js_西屋影视",
+		"name": "🎥｜西屋影视｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/西屋影视.js"
+	  },
+	  {
+		"key": "hipy_js_小宝影院",
+		"name": "🎥｜小宝影院｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/小宝影院.js"
+	  },
+	  {
+		"key": "hipy_js_小猫电影院",
+		"name": "🎥｜小猫电影院｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/小猫电影院.js"
+	  },
+	  {
+		"key": "hipy_js_新视觉",
+		"name": "🎥｜新视觉｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/新视觉.js"
+	  },
+	  {
+		"key": "hipy_js_星辰CT",
+		"name": "🎥｜星辰CT｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/星辰CT.js"
+	  },
+	  {
+		"key": "hipy_js_星空影院",
+		"name": "🎥｜星空影院｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/星空影院.js"
+	  },
+	  {
+		"key": "hipy_js_熊猫TV",
+		"name": "🎥｜熊猫TV｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/熊猫TV.js"
+	  },
+	  {
+		"key": "hipy_js_旋风视频",
+		"name": "🎥｜旋风视频｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/旋风视频.js"
+	  },
+	  {
+		"key": "hipy_js_妖狐影视[自动]",
+		"name": "🎥｜妖狐影视｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/妖狐影视[自动].js"
+	  },
+	  {
+		"key": "hipy_js_一个g影视",
+		"name": "🎥｜一个g影视｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/一个g影视.js"
+	  },
+	  {
+		"key": "hipy_js_一号影院[搜]",
+		"name": "🎥｜一号影院[搜]｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/一号影院[搜].js"
+	  },
+	  {
+		"key": "hipy_js_一起看",
+		"name": "🎥｜一起看｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/一起看.js"
+	  },
+	  {
+		"key": "hipy_js_一起看[优]",
+		"name": "🎥｜一起看[优]｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/一起看[优].js"
+	  },
+	  {
+		"key": "hipy_js_一支穿云箭",
+		"name": "🎥｜一支穿云箭｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/一支穿云箭.js"
+	  },
+	  {
+		"key": "hipy_js_易点看影院[自动]",
+		"name": "🎥｜易点看影院[自动]｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/易点看影院[自动].js"
+	  },
+	  {
+		"key": "hipy_js_影视大全",
+		"name": "🎥｜影视大全｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/影视大全.js"
+	  },
+	  {
+		"key": "hipy_js_影视工厂",
+		"name": "🎥｜影视工厂｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/影视工厂.js"
+	  },
+	  {
+		"key": "hipy_js_影视工场",
+		"name": "🎥｜影视工场｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/影视工场.js"
+	  },
+	  {
+		"key": "hipy_js_影视看吧",
+		"name": "🎥｜影视看吧｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/影视看吧.js"
+	  },
+	  {
+		"key": "hipy_js_映播TV",
+		"name": "🎥｜映播TV｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/映播TV.js"
+	  },
+	  {
+		"key": "hipy_js_悠悠影视",
+		"name": "🎥｜悠悠影视｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/悠悠影视.js"
+	  },
+	  {
+		"key": "hipy_js_游子视频",
+		"name": "🎥｜游子视频｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/游子视频.js"
+	  },
+	  {
+		"key": "hipy_js_宇航影视",
+		"name": "🎥｜宇航影视｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/宇航影视.js"
+	  },
+	  {
+		"key": "hipy_js_云电影网",
+		"name": "🎥｜云电影网｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/云电影网.js"
+	  },
+	  {
+		"key": "hipy_js_APPV2[模板]0",
+		"name": "🎥｜泽少｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/APPV2[模板].js?type=url&params=http://122.228.85.203:1000$http://122.228.85.203:1000/play?url="
+	  },
+	  {
+		"key": "hipy_js_B站影视",
+		"name": "🎥｜B站影视｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/B站影视.js"
+	  },
+	  {
+		"key": "hipy_js_HBOTV[优]",
+		"name": "🎥｜HBOTV[优]｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/HBOTV[优].js"
+	  },
+	  {
+		"key": "hipy_js_voflix",
+		"name": "🎥｜voflix｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/voflix.js"
+	  },
+	  {
+		"key": "drpy_js_139影视",
+		"name": "🎥｜139｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/139影视.js"
+	  },
+	  {
+		"key": "drpy_js_美视网",
+		"name": "🎥｜美视网｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/美视网.js"
+	  },
+	  {
+		"key": "drpy_js_飞兔影视",
+		"name": "🕸｜飞兔｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/飞兔影视.js"
 	  },
 	  {
 		"key": "hipy_js_iFun",
@@ -3624,15 +4535,15 @@
 		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/iFun.js"
 	  },
 	  {
-		"key": "hipy_js_OmoFun[漫]",
-		"name": "動漫｜OmoFun",
+		"key": "hipy_js_爱弹幕[漫]",
+		"name": "爱弹幕｜T3",
 		"type": 3,
 		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
 		"order_num": 0,
-		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/OmoFun[漫].js"
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/爱弹幕[漫].js"
 	  },
 	  {
 		"key": "金鹰资源",
@@ -3688,18 +4599,6 @@
 		  "韩国剧" , "欧美剧" , "香港剧" , "泰国剧" , "日本剧" , "福利"  , "纪录片" , "动画片" , "海外剧" ,
 		  "伦理片" , "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "搞笑"  ,
 		  "音乐"  , "影视"  , "汽车"  , "短剧大全"
-		]
-	  },
-	  {
-		"key": "xml_快看",
-		"name": "🎥｜快看資源",
-		"type": 1,
-		"api": "https://kuaikan-api.com/api.php/provide/vod/from/kuaikanyun",
-		"categories": [
-		  "网络电影", "动画电影", "动作片" , "冒险片" , "剧情片" , "纪录片" , "喜剧片" , "奇幻片" , "恐怖片" ,
-		  "悬疑片" , "惊悚片" , "战争片" , "灾难片" , "爱情片" , "科幻片" , "犯罪片" , "国产剧" , "港台剧" ,
-		  "日本剧" , "韩国剧" , "欧美剧" , "新马剧" , "泰剧"  , "其他剧" , "国产综艺", "港台综艺", "日本综艺",
-		  "韩国综艺", "欧美综艺", "国产动漫", "港台动漫", "日本动漫", "欧美动漫"
 		]
 	  },
 	  {
@@ -3815,60 +4714,83 @@
 		]
 	  },
 	  {
+		"key": "南瓜弹幕",
+		"name": "弹幕｜南瓜",
+		"type": 3,
+		"api": "csp_Nangua",
+		"jar": "https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": {"danmu": true}
+	  },
+	  {
 		"key": "天天弹幕",
 		"name": "弹幕｜天天",
 		"type": 3,
 		"api": "csp_TianTian",
+		"jar": "https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610",
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": {"danmu": true},
-		"jar": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/jar/danmu.jar;md5;d41d8cd98f00b204e9800998ecf8427e"
-	  },
-	  {
-		"key": "三六零弹幕",
-		"name": "弹幕｜三六零",
-		"type": 3,
-		"api": "csp_Sp360",
-		"searchable": 1,
-		"filterable": 1,
-		"changeable": 1,
-		"ext": {"danmu": true},
-		"jar": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/jar/danmu.jar;md5;d41d8cd98f00b204e9800998ecf8427e"
-	  },
-	  {
-		"key": "机器人弹幕",
-		"name": "弹幕｜机器人",
-		"type": 3,
-		"api": "csp_Ikanbot",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": {"danmu": true},
-		"jar": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/jar/danmu.jar;md5;d41d8cd98f00b204e9800998ecf8427e"
-	  },
-	  {
-		"key": "小苹果弹幕",
-		"name": "弹幕｜小苹果",
-		"type": 3,
-		"api": "csp_Xpg",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": {"danmu": true},
-		"jar": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/jar/danmu.jar;md5;d41d8cd98f00b204e9800998ecf8427e"
+		"ext": {"danmu": true}
 	  },
 	  {
 		"key": "荐片弹幕",
-		"name": "弹幕｜薦片",
+		"name": "弹幕｜荐片",
 		"type": 3,
 		"api": "csp_Jianpian",
+		"jar": "https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610",
 		"playerType": 1,
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": {"danmu": true},
-		"jar": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/jar/danmu.jar;md5;d41d8cd98f00b204e9800998ecf8427e"
+		"ext": {"danmu": true}
+	  },
+	  {
+		"key": "小苹果弹幕",
+		"name": "弹幕｜苹果",
+		"type": 3,
+		"api": "csp_Xpg",
+		"jar": "https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": {"danmu": true}
+	  },
+	  {
+		"key": "文才弹幕",
+		"name": "弹幕｜文才",
+		"type": 3,
+		"api": "csp_Jpys",
+		"jar": "https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": {"danmu": true}
+	  },
+	  {
+		"key": "机器人弹幕",
+		"name": "弹幕｜机机",
+		"type": 3,
+		"api": "csp_Ikanbot",
+		"jar": "https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": {"danmu": true}
+	  },
+	  {
+		"key": "荐片弹幕",
+		"name": "弹幕｜荐片",
+		"type": 3,
+		"api": "csp_Jianpian",
+		"jar": "https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610",
+		"playerType": 1,
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": {"danmu": true}
 	  },
 	  {
 		"key": "韩小圈",
@@ -3907,7 +4829,7 @@
 		"type": 3,
 		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
 		"jar": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/jar/spider.jar",
-		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/js/天堂短剧.js"
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/天堂短剧.js"
 	  },
 	  {
 		"key": "爱你短剧",
@@ -4029,7 +4951,7 @@
 		"quickSearch": 1,
 		"filterable": 1,
 		"order_num": 0,
-		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/js/短剧TV网.js"
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/短剧TV网.js"
 	  },
 	  {
 		"key": "短剧天堂",
@@ -4058,7 +4980,7 @@
 		"quickSearch": 1,
 		"filterable": 1,
 		"order_num": 0,
-		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/js/短剧天堂.js"
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/短剧天堂.js"
 	  },
 	  {
 		"key": "fty-短剧",
@@ -4114,99 +5036,95 @@
 		"key": "hipy_短剧天堂",
 		"name": "📺｜短剧天堂",
 		"type": 3,
-		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main//drpy_libs/drpy2.min.js",
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main//lib/drpy2.min.js",
 		"jar": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/jar/YSC.jar",
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
 		"order_num": 87,
-		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/js/短剧天堂.js"
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/短剧天堂.js"
 	  },
 	  {
-		"key": "drpy_js_360影视",
-		"name": "官源｜360",
-		"type": 3,
-		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/js/360影视.js"
-	  },
-	  {
-		"key": "drpy_js_百忙无果",
-		"name": "官源｜芒果",
-		"type": 3,
-		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/js/百忙无果.js"
-	  },
-	  {
-		"key": "drpy_js_腾云驾雾",
-		"name": "官源｜腾讯",
-		"type": 3,
-		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/js/腾云驾雾.js"
-	  },
-	  {
-		"key": "drpy_js_菜狗",
-		"name": "官源｜搜狗",
-		"type": 3,
-		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/js/菜狗.js"
-	  },
-	  {
-		"key": "drpy_js_优酷",
-		"name": "官源｜优酷",
+		"key": "hipy_js_OmoFun[漫]",
+		"name": "動漫｜OmoFun",
 		"type": 3,
 		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
 		"searchable": 1,
 		"quickSearch": 1,
-		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/js/优酷.js"
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/OmoFun[漫].js"
+	  },
+	  {
+		"key": "hipy_js_嗷呜动漫",
+		"name": "动漫｜嗷呜动漫",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/嗷呜动漫.js"
+	  },
+	  {
+		"key": "hipy_js_大米动漫[漫]",
+		"name": "动漫｜大米动漫",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/大米动漫[漫].js"
 	  },
 	  {
 		"key": "drpy_js_58动漫",
 		"name": "动漫｜58动漫",
 		"type": 3,
 		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/js/58动漫.js"
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/58动漫.js"
 	  },
 	  {
 		"key": "drpy_js_AnFuns",
 		"name": "动漫｜AnFuns",
 		"type": 3,
 		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/js/AnFuns.js"
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/AnFuns.js"
 	  },
 	  {
 		"key": "drpy_js_NyaFun",
 		"name": "动漫｜NyaFun",
 		"type": 3,
 		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/js/NyaFun.js"
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/NyaFun.js"
 	  },
 	  {
 		"key": "drpy_js_爱弹幕",
 		"name": "动漫｜爱弹幕",
 		"type": 3,
 		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/js/爱弹幕.js"
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/爱弹幕.js"
 	  },
 	  {
 		"key": "drpy_js_路漫漫",
 		"name": "动漫｜路漫漫",
 		"type": 3,
 		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/js/路漫漫.js"
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/路漫漫.js"
 	  },
 	  {
 		"key": "drpy_js_奇米动漫",
 		"name": "动漫｜奇米动漫",
 		"type": 3,
 		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/js/奇米动漫.js"
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/奇米动漫.js"
 	  },
 	  {
 		"key": "drpy_js_去看吧",
 		"name": "动漫｜去看吧",
 		"type": 3,
 		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/js/去看吧.js"
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/去看吧.js"
 	  },
 	  {
 		"key": "魔都",
@@ -4227,6 +5145,17 @@
 		"filterable": 1,
 		"order_num": 0,
 		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/大米动漫[漫].js"
+	  },
+	  {
+		"key": "hipy_js_次元城动漫[漫]",
+		"name": "动漫｜次元城｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/次元城动漫[漫].js"
 	  },
 	  {
 		"key": "hipy_js_七色番[漫]",
@@ -4301,28 +5230,28 @@
 		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
 		"searchable": 1,
 		"quickSearch": 1,
-		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/js/异世界.js"
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/异世界.js"
 	  },
 	  {
 		"key": "奇米动漫",
 		"name": "动漫｜奇米",
 		"type": 3,
 		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/js/奇米动漫.js"
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/奇米动漫.js"
 	  },
 	  {
 		"key": "怡萱动漫",
 		"name": "动漫｜怡萱",
 		"type": 3,
 		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/js/怡萱动漫.js"
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/怡萱动漫.js"
 	  },
 	  {
 		"key": "动漫巴士",
 		"name": "动漫｜巴士",
 		"type": 3,
 		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/js/动漫巴士.js"
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/动漫巴士.js"
 	  },
 	  {
 		"key": "Dm84",
@@ -4351,14 +5280,14 @@
 		"name": "动漫｜樱花",
 		"type": 3,
 		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/js/樱花动漫.js"
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/樱花动漫.js"
 	  },
 	  {
 		"key": "大米动漫",
 		"name": "动漫｜大米",
 		"type": 3,
 		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/js/大米动漫.js"
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/大米动漫.js"
 	  },
 	  {
 		"key": "Anime1",
@@ -4376,7 +5305,7 @@
 		"name": "动漫｜日本[V2]",
 		"type": 3,
 		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/js/Anime1动畫.js"
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/Anime1动畫.js"
 	  },
 	  {
 		"key": "58动漫网",
@@ -4468,7 +5397,7 @@
 		"name": "🧲｜磁力熊",
 		"type": 3,
 		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/js/cilixiong.js",
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/cilixiong.js",
 		"searchable": 1,
 		"quickSearch": 1,
 		"changeable": 1
@@ -4478,7 +5407,7 @@
 		"name": "🧲｜MP4电影",
 		"type": 3,
 		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/js/mp4us.js",
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/mp4us.js",
 		"playerType": "1",
 		"searchable": 1
 	  },
@@ -4487,7 +5416,7 @@
 		"name": "🧲｜电影港",
 		"type": 3,
 		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/js/dygang.js",
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/dygang.js",
 		"playerType": "1",
 		"searchable": 1
 	  },
@@ -4496,7 +5425,7 @@
 		"name": "🧲｜新版6v",
 		"type": 3,
 		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/js/xb6v.js",
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/xb6v.js",
 		"playerType": "1",
 		"searchable": 1
 	  },
@@ -4816,31 +5745,75 @@
 		"key": "有声小说吧",
 		"name": "㊙︎｜有声小说",
 		"type": 3,
-		"api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/libs/drpy2.min.js",
 		"spider": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/jar/公众号云星日记0816.jar;md5;5769450f1eccd0c8dc347327736e870a",
 		"playerType": "3",
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 0,
-		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/js/有声小说吧.js"
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/有声小说吧.js"
 	  },
 	  {
-		"key": "drpy_js_悠久影院",
-		"name": "🎥｜悠久｜(失效)",
-		"type": 3,
-		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/js/悠久影院.js"
-	  },
-	  {
-		"key": "hipy_js_宝片视频",
-		"name": "🎥｜宝片视频｜(失效)",
+		"key": "hipy_js_爱上你听书网[听]",
+		"name": "㊙︎｜爱上你听书网[听]｜T3",
 		"type": 3,
 		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
 		"order_num": 0,
-		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/宝片视频.js"
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/爱上你听书网[听].js"
+	  },
+	  {
+		"key": "hipy_js_海洋听书[听]",
+		"name": "㊙︎｜海洋听书[听]｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/海洋听书[听].js"
+	  },
+	  {
+		"key": "hipy_js_有声小说吧[听]",
+		"name": "㊙︎｜有声小说吧[听]｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/有声小说吧[听].js"
+	  },
+	  {
+		"key": "hipy_js_六月听书[听]",
+		"name": "㊙︎｜六月听书[听]｜T3",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/六月听书[听].js"
+	  },
+	  {
+		"key": "hipy_js_掌心世界",
+		"name": "🎥｜掌心｜(失效)",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main//drpy_libs/drpy2.min.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/掌心世界.js"
+	  },
+	  {
+		"key": "drpy_js_悠久影院",
+		"name": "🎥｜悠久｜(失效)",
+		"type": 3,
+		"api": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+		"ext": "https://raw.kkgithub.com/newrecha/TVBOX/refs/heads/main/drpy_js/悠久影院.js"
 	  },
 	  {
 		"key": "墨白影视",
