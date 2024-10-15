@@ -24,6 +24,8 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|xyg688.com|xyg688.xyz|zz
 -1325890192.cos.
 -1688-wp-media/ads/
 -90mh-gg.
+.*gcdcjr000.fun/$script,third-party
+.*ryt111.fun/$script,third-party
 .189.gd^*.html?p=$popup,third-party
 .194007.com/4058.gif
 .asp?wg&df=$script,third-party
@@ -1865,8 +1867,6 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|xyg688.com|xyg688.xyz|zz
 9u8u.com##.tc-box
 9upk.com,ouyaoxiazai.com##.ad_show
 9y01.xyz##.in-friends
-://*.*fgcdcjr000.fun/$script,third-party
-://*.*ryt111.fun/$script,third-party
 ://*.tv/ad/$domain=~moviedj.tv
 ://*.z*.xyz/$object,third-party
 ://*:*/chunyu.html?k=$csp=script-src
@@ -9087,6 +9087,7 @@ zzzyk.com###Tinfo
 ||2qj7mq3w4uxe.com^
 ||2qy9zm.cn^
 ||2rb5hh5t6.de^
+||2rbda.icu^
 ||2re6rpip2.de^
 ||2rid9fii9chx.www.atlaslane.com^
 ||2rlgdkf7s.de^
@@ -34403,6 +34404,7 @@ zzzyk.com###Tinfo
 ||dkrxtdnlg.com^
 ||dkskbu.demae-can.com^
 ||dkstrtss.xyz^
+||dktad.com^
 ||dktr03lf4tq7h.cloudfront.net^
 ||dkuekrwiwr.com^
 ||dkupaw9ae63a8.cloudfront.net^
@@ -38797,6 +38799,7 @@ zzzyk.com###Tinfo
 ||erotikdating.com^
 ||erovation.com^
 ||erp.qwic.nl^
+||erqtga.xyz^
 ||err.ifengcloud.ifeng.com^
 ||errantstetrole.com^
 ||erratatoecap.top^
@@ -48113,6 +48116,7 @@ zzzyk.com###Tinfo
 ||huqkbq.misterrunning.com^
 ||hur.cn/AhurD/*.gif
 ||hurdlesmuchel.com^
+||huresdu.top^
 ||hurgusou.com^
 ||hurkarubypaths.com^
 ||hurlaxiscame.com^
@@ -52214,6 +52218,7 @@ zzzyk.com###Tinfo
 ||iupian.com/mstyle/js/topinfo.js
 ||iuqasw.xyz^
 ||iuqmon117bj1f4.shop^
+||iuresdo.top^
 ||iuryhk.soccer.com^
 ||iusxjykqehwdx.com^
 ||iutr.uozwys.top^
@@ -59022,6 +59027,7 @@ zzzyk.com###Tinfo
 ||lxoemc.paginebianche.it^
 ||lxoemc.siviaggia.it^
 ||lxoemc.tuttocitta.it^
+||lxpbdp.xyz^
 ||lxryhx.xyz^
 ||lxstat.com^
 ||lxsway.alltforforaldrar.se^
@@ -70385,6 +70391,7 @@ zzzyk.com###Tinfo
 ||opinionsurprise.com^
 ||opkfijuifbuyynyny.com^
 ||opkinglerr.com^
+||opkmio.xyz^
 ||oplo.org^
 ||oplpectation.xyz^
 ||opmnstr.com^
@@ -75871,6 +75878,7 @@ zzzyk.com###Tinfo
 ||pvdrtiy.com^
 ||pvfbav.sportler.com^
 ||pvhjkzo.xyz^
+||pviasld.icu^
 ||pvjiqmryv.com^
 ||pvlcbsynxsabti.com^
 ||pvlnjwr.xyz^
@@ -76742,6 +76750,7 @@ zzzyk.com###Tinfo
 ||qtoxhaamntfi.com^
 ||qtpb.12jf3.cn^
 ||qtq632.com^
+||qtroytj33.fun^
 ||qttfwb.shaneco.com^
 ||qtuopsqmunzo.com^
 ||qtuxulczymu.com^
@@ -103424,6 +103433,7 @@ zzzyk.com###Tinfo
 ||wjxtbwffpykdmo.com^
 ||wjzyrk.magiclife.com^
 ||wka4jursurf6.com^
+||wkabios.icu^
 ||wkanx.com^
 ||wkctj.baidu.com^
 ||wkitere.top^
