@@ -3610,7 +3610,7 @@ btbtt.me###wrapper2 > .width
 btime.com###ad_full_button_placehoder
 btmovi.in##body > span[style]
 btmulu.com#?#.item:-abp-has(> a[target="_blank"])
-btnull.org###ly
+btnull.org,gying.net,gying.org,gying.si,gying.in,gyg.la,gyg.si###ly
 bttop.net###top_bottom + div[style="float:left;width:100%;"]
 btyingshi.com##.aside > .card:last-child
 bukaivip.com##img[onclick]
@@ -8664,6 +8664,7 @@ zzzyk.com###Tinfo
 ||1hkmr7jb0.de^
 ||1i8c0f11.de^
 ||1igare0jn.de^
+||1iohncj.xyz^
 ||1itot7tm.de^
 ||1iuybpo.com^
 ||1j02claf9p.pro^
@@ -10119,6 +10120,7 @@ zzzyk.com###Tinfo
 ||6ped2nd3yp.com^
 ||6pznpz.com^
 ||6qu5dcmyumtw.com^
+||6qyxeob.xyz^
 ||6r9ahe6qb.com^
 ||6sc.co^
 ||6slb0.cyou^
@@ -23267,6 +23269,7 @@ zzzyk.com###Tinfo
 ||bmnbzt.pool-systems.de^
 ||bmnr.pw^
 ||bmodjx.mgos.jp^
+||bmougwx.icu^
 ||bmp.ali213.net/js/
 ||bmp.ali213.net^
 ||bmp.ovh/imgs/2020/09/3e4e11ecc19c4bd6.png
@@ -39148,6 +39151,7 @@ zzzyk.com###Tinfo
 ||eupathyboyuna.com^
 ||euqsfp.belluna.jp^
 ||eureka-app.eurekaplatform.org^
+||euresdw.top^
 ||euro-pr.eu^
 ||euro4ads.de^
 ||euroads.dk^
@@ -53208,6 +53212,7 @@ zzzyk.com###Tinfo
 ||jmesxbe.icu^
 ||jmgehn.cn^
 ||jmhfw.com/index.php?/ajax/get_adv/
+||jmipzsn.icu^
 ||jmiqbfhoar.com^
 ||jmlinks.cn^
 ||jmlk.co^
@@ -55214,6 +55219,7 @@ zzzyk.com###Tinfo
 ||kphcrjth.xyz^
 ||kpjuilkzfi.com^
 ||kpmose.xyz^
+||kpmsoq.xyz^
 ||kppt.cc/zb_system/script/common.js
 ||kppt.cc/zhifu.jpg
 ||kpr2exp21.com^
@@ -60422,6 +60428,7 @@ zzzyk.com###Tinfo
 ||magictag.digislots.in^
 ||magicwindow.cn^
 ||magiczenith.com^
+||magioe.xyz^
 ||magiq.com^
 ||magistratehumorousjeep.com^
 ||magmbb.com^
@@ -70795,6 +70802,7 @@ zzzyk.com###Tinfo
 ||ostrichmustardalloy.com^
 ||osucwlavnbkaect.com^
 ||osufjhrfvavyu.com^
+||osujcq.xyz^
 ||osupdate.aliyun.com^
 ||osupdateservice.yunos.com^
 ||osur.dell.com^
@@ -79661,6 +79669,7 @@ zzzyk.com###Tinfo
 ||rtrhit.com^
 ||rtrk.co.nz^
 ||rtrk.com^
+||rtroytj33.fun^
 ||rttkpr.bidolubaski.com^
 ||rttnvz.xyz^
 ||rtty.in^
@@ -91567,6 +91576,7 @@ zzzyk.com###Tinfo
 ||surechequerigorous.com^
 ||surechieflyrepulse.com^
 ||surelyyap.com^
+||suresdb.top^
 ||surf-bar-traffic.com^
 ||surfacesaroselozenge.com^
 ||surfacescompassionblemish.com^
@@ -94018,6 +94028,7 @@ zzzyk.com###Tinfo
 ||tg33.cn^
 ||tgamtip.icu^
 ||tgandmotivat.com^
+||tgb1l.icu^
 ||tgbfha.lily-brw.com^
 ||tgboghbslgrkg.com^
 ||tgccct.icu^
@@ -97919,6 +97930,7 @@ zzzyk.com###Tinfo
 ||ttoc8ok.com^
 ||ttquix.xyz^
 ||ttrace.ru^
+||ttroytj33.fun^
 ||ttrruq749.shop^
 ||tts.178ud.com^
 ||ttsbtdgdo.com^
@@ -105195,6 +105207,8 @@ zzzyk.com###Tinfo
 ||xpevhinqadlokh.com^
 ||xpffkbpq.xyz^
 ||xphcrjth.xyz^
+||xpicj6.cc^
+||xpicj8.cc^
 ||xpidgvrjakkdx.com^
 ||xpj08.oss-cn-beijing.aliyuncs.com^
 ||xpj1.net^
