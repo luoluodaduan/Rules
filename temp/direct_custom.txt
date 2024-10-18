@@ -8,6 +8,7 @@
 .akamaitechnologies.com
 .akamaized.net
 .anti-ad.net
+.apple.com
 .aspnetcdn.com
 .azure.net
 .azureedge.net
