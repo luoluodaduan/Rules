@@ -26,6 +26,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|xyg688.com|xyg688.xyz|zz
 -90mh-gg.
 .*gcdcjr000.fun/$script,third-party
 .*ryt111.fun/$script,third-party
+.*troytj33.fun/$script,third-party
 .189.gd^*.html?p=$popup,third-party
 .194007.com/4058.gif
 .asp?wg&df=$script,third-party
@@ -15601,6 +15602,7 @@ zzzyk.com###Tinfo
 ||aes01.com^
 ||aesary.com^
 ||aesus.so-net.ne.jp^
+||aesxgy.xyz^
 ||aetgjds.com^
 ||aeuati.wedio.com^
 ||aeucyo.xyz^
@@ -23718,6 +23720,7 @@ zzzyk.com###Tinfo
 ||bouwehee.xyz^
 ||bouwhaici.net^
 ||bovidsacate.com^
+||bovytl.xyz^
 ||bowedcounty.com^
 ||boweddemand.com^
 ||bowermisrule.com^
@@ -26472,6 +26475,7 @@ zzzyk.com###Tinfo
 ||cheatinghans.com^
 ||cheatingstiffen.com^
 ||cheats-pack.github.io^
+||checbox.cc^
 ||check-iy-ver-172-3.site^
 ||check-now.online^
 ||check-out-this.site^
@@ -47970,6 +47974,7 @@ zzzyk.com###Tinfo
 ||htnote.info^
 ||htnvpcs.xyz^
 ||htobficta.com^
+||htoetgk.icu^
 ||htoptracker11072023.com^
 ||htoycpsxljkqrp.com^
 ||htpirf.xyz^
@@ -98715,6 +98720,7 @@ zzzyk.com###Tinfo
 ||ufewhistug.net^
 ||ufgkypfhervr.com^
 ||ufgmxknyz.com^
+||ufiidvv.icu^
 ||ufile.cc/crod.js
 ||ufile.cc/pps.js
 ||ufiledsit.com^
@@ -102172,6 +102178,7 @@ zzzyk.com###Tinfo
 ||wbilvnmool.com^
 ||wbiphu.johnbeerens.com^
 ||wbkaqly.cn^
+||wbkdsg.xyz^
 ||wbkfklsl.com^
 ||wbkval.ecco.com^
 ||wbnbocz.xyz^
@@ -106219,6 +106226,7 @@ zzzyk.com###Tinfo
 ||ymdxl.com^
 ||ymeqladpycz.com^
 ||ymetrica1.com^
+||ymewsu.xyz^
 ||ymhpcaxfnvl.com^
 ||ymhyw6.lol^
 ||ymixqb.nationalgeographic.com^

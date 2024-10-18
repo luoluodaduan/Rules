@@ -10493,6 +10493,7 @@
 .applausefz.com
 .apple-icloud.cn
 .apple-x2.xyz
+.apple.com
 .apple110.com
 .apple114.com
 .apple4.us
@@ -42295,6 +42296,7 @@
 .ituchong.com
 .itugo.com
 .ituite.com
+.itunes.com
 .iturco.com
 .itutu.tv
 .ituu.net
