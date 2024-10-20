@@ -49,23 +49,24 @@ jobs:
           python3 ./scripts/build-telegram-clash.py
           python3 ./scripts/build-tiktok.py
           python3 ./scripts/build-tracker.py
-          python3 ./scripts/build-whitelist.py
-          python3 ./scripts/build-whitelist-clash.py
           sort -u dist/rules1.txt | grep -v "^$" > gen/adguard.txt
           sort -u dist/rules2.txt | grep -v "^$" > gen/adbyby.txt
           sort -uf dist/apple1.txt | grep -v "^$" > gen/apple.txt
-          sort -uf dist/direct1.txt | grep -v "^$" > gen/direct.txt
-          sort -uf dist/proxy1.txt | grep -v "^$" > temp/proxy.txt
-          grep -vE 'blogspot|facebook|google|instagram|porn|telegram|twitter|whatsapp|wikileaks|wikipedia|youtube|netflix|twitch|yahoo\.|discord|flickr|pinterest' dist/whitelist1.txt > dist/whitelist3.txt
-          grep -vE '\.cloudfront\.net|\.amazonaws\.com|\.fastly\.net|\.azurewebsites\.net|\.cloudfunctions\.net|\.business\.site' dist/whitelist3.txt | sort -uf | grep -v "^$" > gen/whitelist.txt
+          sort -uf dist/cnip1.txt | grep -v "^$" > gen/cnip.txt
+          grep -vE 'blogspot|facebook|google|instagram|porn|telegram|twitter|whatsapp|wikileaks|wikipedia|youtube|netflix|twitch|yahoo\.|discord|flickr|pinterest' dist/direct1.txt > dist/direct3.txt
+          sort -uf dist/direct3.txt | grep -v "^$" > gen/direct.txt
+          sort -uf dist/proxy1.txt | grep -v "^$" > gen/proxy.txt
+          grep -vE 'adservice|advertise|advertisement|advertising' dist/reject1.txt > dist/reject3.txt
+          sort -uf dist/reject3.txt | grep -v "^$" > gen/reject.txt
+          sort -uf dist/telegram1.txt | grep -v "^$" > temp/telegram.txt
           sed "s/  - '\./  - '+\./g" dist/apple2.txt | sort -uf | grep -v "^$" | sed -e '1s/^/payload:\n/' > clash/apple.yaml
           sort -uf dist/cnip2.txt | grep -v "^$" | sed -e '1s/^/payload:\n/' > clash/cnip.yaml
-          sed "s/  - '\./  - '+\./g" dist/direct2.txt | sort -uf | grep -v "^$" | sed -e '1s/^/payload:\n/' > clash/direct.yaml
+          grep -vE 'blogspot|facebook|google|instagram|porn|telegram|twitter|whatsapp|wikileaks|wikipedia|youtube|netflix|twitch|yahoo\.|discord|flickr|pinterest' dist/direct2.txt> dist/direct4.txt
+          sed "s/  - '\./  - '+\./g" dist/direct4.txt | sort -uf | grep -v "^$" | sed -e '1s/^/payload:\n/' > clash/direct.yaml
           sort -uf dist/proxy2.txt | grep -v "^$" | sed -e '1s/^/payload:\n/' > clash/proxy.yaml
-          sed "s/  - '\./  - '+\./g" dist/reject2.txt | sort -uf | grep -v "^$" | sed -e '1s/^/payload:\n/' > clash/reject.yaml
+          grep -vE 'adservice|advertise|advertisement|advertising' dist/reject2.txt > dist/reject4.txt
+          sed "s/  - '\./  - '+\./g" dist/reject4.txt | sort -uf | grep -v "^$" | sed -e '1s/^/payload:\n/' > clash/reject.yaml
           sort -uf dist/telegram2.txt | grep -v "^$" | sed -e '1s/^/payload:\n/' > clash/telegram.yaml
-          grep -vE 'blogspot|facebook|google|instagram|porn|telegram|twitter|whatsapp|wikileaks|wikipedia|youtube|netflix|twitch|yahoo\.|discord|flickr|pinterest' dist/whitelist2.txt > dist/whitelist4.txt
-          grep -vE '\.cloudfront\.net|\.amazonaws\.com|\.fastly\.net|\.azurewebsites\.net|\.cloudfunctions\.net|\.business\.site' dist/whitelist4.txt | sort -uf | grep -v "^$" | sed -e '1s/^/payload:\n/' > clash/whitelist.yaml
           python3 ./scripts/gen-final.py
 
       - name: Commit Files
