@@ -12,7 +12,7 @@ if args.file:
             result = get_tld(line, as_object=True, fix_protocol=True)
             root_domain = result.fld
             with open("./dist/proxy1.txt", "a+", encoding="utf-8") as f:
-                f.write("DOMAIN-SUFFIX," + root_domain + ",PROXY\n")
+                f.write("." + root_domain + "\n")
         except:
             pass
 

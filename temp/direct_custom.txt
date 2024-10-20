@@ -33,6 +33,7 @@
 .g-msedge.net
 .getmicrosoftkey.com
 .gfx.ms
+.ghp.ci
 .ghproxy.com
 .ghproxy.net
 .githubusercontents.com
@@ -51,6 +52,7 @@
 .lync.com
 .m-msedge.net
 .malu.me
+.meituan.net
 .microsoft.com
 .microsoftazuread-sso.com
 .microsoftonline-p.com

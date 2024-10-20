@@ -8,8 +8,9 @@ def get_apple(url):
     return res.text.split("\n")
 
 apple_urls = []
+apple_urls.append("https://raw.githubusercontent.com/v2fly/domain-list-community/refs/heads/release/apple.txt")
+apple_urls.append("https://raw.githubusercontent.com/v2fly/domain-list-community/refs/heads/release/icloud.txt")
 apple_urls.append("https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/apple.china.conf")
-apple_urls.append("https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/icloud.txt")
 
 if __name__ == "__main__":
     apple = set()
@@ -20,6 +21,6 @@ if __name__ == "__main__":
     apple.sort()
     apple_file = open(os.getcwd() + "/dist/apple2.txt", mode="w", encoding="utf-8")
     for line in apple:
-        if not line.startswith(("#", "!", "！", "[")) and len(line) > 0:
-            apple_file.write("  - '%s'\n" % line.replace("server=/", "").replace("/114.114.114.114", "").replace("\r", "").replace(" ", ""))
+        if not line.startswith(("#", "!", "！", "[","regexp")) and not line.endswith(("@ads")) and len(line) > 0:
+            apple_file.write("  - '%s'\n" % line.replace("server=/", "").replace("/114.114.114.114", "").replace("domain:", ".").replace("full:", "").replace(":@cn", "").replace("\r", "").replace(" ", ""))
     apple_file.close()
