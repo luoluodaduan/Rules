@@ -1342,8 +1342,12 @@ cz.cc
 d-fukyu.com
 d0z.net
 d100.net
+d1b183sg0nvnuh.cloudfront.net
+d1c37gjwa26taa.cloudfront.net
 d2bay.com
 d2pass.com
+d3c33hcgiwev3.cloudfront.net
+d3rhr7kgmtrq1v.cloudfront.net
 dabr.co.uk
 dabr.eu
 dabr.me
@@ -2297,6 +2301,7 @@ gizlen.net
 gjczz.com
 glass8.eu
 global.bing.com
+global.ssl.fastly.net
 globaljihad.net
 globalmediaoutreach.com
 globalmuseumoncommunism.org
@@ -4084,6 +4089,7 @@ nytcn.me
 nytco.com
 nyti.ms
 nytimes.com
+nytimes.map.fastly.net
 nytimg.com
 nytlog.com
 nytstyle.com
@@ -4747,6 +4753,9 @@ s.yimg.com
 s1.nudezz.com
 s1heng.com
 s1s1s1.com
+s3-ap-northeast-1.amazonaws.com
+s3-ap-southeast-2.amazonaws.com
+s3.amazonaws.com
 s4miniarchive.com
 s8forum.com
 sa.com
