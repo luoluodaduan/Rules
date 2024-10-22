@@ -17,7 +17,7 @@ if __name__ == "__main__":
         reject = reject.union(rules)
     reject = list(reject)
     reject.sort()
-    reject_file = open(os.getcwd() + "/gen/reject.txt", mode="w", encoding="utf-8")
+    reject_file = open(os.getcwd() + "/dist/reject1.txt", mode="w", encoding="utf-8")
     for line in reject:
         if not line.startswith(("#", "!", "！", "[")) and len(line) > 0:
             reject_file.write("%s\n" % line.replace("\r", "").replace(" ", ""))

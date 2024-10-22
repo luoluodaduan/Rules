@@ -8,9 +8,7 @@ def get_direct(url):
     return res.text.split("\n")
 
 direct_urls = []
-direct_urls.append("https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/apple.china.conf")
 direct_urls.append("https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/direct.txt")
-direct_urls.append("https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/icloud.txt")
 direct_urls.append("https://raw.githubusercontent.com/luoluodaduan/Rules/main/temp/direct_custom.txt")
 
 if __name__ == "__main__":
@@ -23,5 +21,5 @@ if __name__ == "__main__":
     direct_file = open(os.getcwd() + "/dist/direct2.txt", mode="w", encoding="utf-8")
     for line in direct:
         if not line.startswith(("#", "!", "！", "[")) and len(line) > 0:
-            direct_file.write("  - '%s'\n" % line.replace("server=/", "").replace("/114.114.114.114", "").replace("\r", "").replace(" ", ""))
+            direct_file.write("  - '%s'\n" % line.replace("\r", "").replace(" ", ""))
     direct_file.close()

@@ -15,7 +15,6 @@ values = {
     "tiktok": get_from_file(os.getcwd() + "/temp/tiktok.txt"),
     "telegram": get_from_file(os.getcwd() + "/temp/telegram.txt"),
     "custom": get_from_file(os.getcwd() + "/temp/custom.txt"),
-    "proxy": get_from_file(os.getcwd() + "/temp/proxy.txt"),
     "rewrite": get_from_file(os.getcwd() + "/temp/rewrite.txt"),
     "rewriteplus": get_from_file(os.getcwd() + "/temp/rewriteplus.txt"),
 }

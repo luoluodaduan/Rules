@@ -17,7 +17,7 @@ if __name__ == "__main__":
         telegram = telegram.union(rules)
     telegram = list(telegram)
     telegram.sort()
-    telegram_file = open(os.getcwd() + "/temp/telegram.txt", mode="w", encoding="utf-8")
+    telegram_file = open(os.getcwd() + "/dist/telegram1.txt", mode="w", encoding="utf-8")
     for line in telegram:
         if not line.startswith(("#", "!", "！", "[")) and len(line) > 0:
             telegram_file.write("IP-CIDR,%s,PROXY,no-resolve\n" % line.replace("\r", "").replace(" ", ""))
