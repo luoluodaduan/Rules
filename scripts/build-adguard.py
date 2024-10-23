@@ -10,7 +10,7 @@ def get_adguard(url):
 adguard_urls = []
 adguard_urls.append("https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt")
 adguard_urls.append("https://raw.githubusercontent.com/curbengh/malware-filter/gh-pages/phishing-filter-agh.txt")
-adguard_urls.append("https://raw.githubusercontent.com/curbengh/malware-filter/gh-pages/urlhaus-filter-agh-online.txt")
+adguard_urls.append("https://raw.githubusercontent.com/curbengh/malware-filter/gh-pages/urlhaus-filter-agh.txt")
 adguard_urls.append("https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt")
 # adguard_urls.append('https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/minority-mv.txt')
 # adguard_urls.append('https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt')
