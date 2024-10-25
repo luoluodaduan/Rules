@@ -1628,6 +1628,7 @@ cstat.apple.com
 cstat.cdn-apple.com
 dd-cdn.origin-apple.com.akadns.net
 dejavu.apple.com
+devimages-cdn.apple.com
 devstreaming-cdn.apple.com
 discussionschinese.apple.com
 download.developer.apple.com

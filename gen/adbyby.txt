@@ -183,6 +183,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|xyg688.com|xyg688.xyz|zz
 .qidian.com/floatOpBox.
 .qidian.com/gameBox.
 .qidian.com/pageOps.
+.sinaimg.cn/large/008qC0LFgy1hutqvck5ufj30qe02i74t.
 .site:20443/*.js^$script,third-party
 .st/ads/
 .test15./
@@ -6278,6 +6279,7 @@ mydown.com##.fcGg
 mydown.com##.fc_anqDown
 mydowndown.com#?#.bs-component:-abp-has(>a[href*="97jez.com"])
 mydrivers.com###div_newsyjgg
+mydrivers.com###track-link
 mydrivers.com##.HSsRgYjfNn
 mydrivers.com##.adds
 mydrivers.com##.baidu_box
@@ -16482,6 +16484,7 @@ zzzyk.com###Tinfo
 ||alliancejoyousbloat.com^
 ||allicinarenig.com^
 ||allinsurance.allinsure.ca^
+||allkmbr.icu^
 ||alllget.com^
 ||alllget.com^$third-party
 ||allloveydovey.fun^
@@ -42663,6 +42666,7 @@ zzzyk.com###Tinfo
 ||gjljde.kathmandu.co.nz^
 ||gjmedashb0.fun^
 ||gjmovc.epapoutsia.gr^
+||gjnbf.com^
 ||gjndsa.amaro.com^
 ||gjnzqdpzda.com^
 ||gjonfartyb.com^
@@ -46762,6 +46766,7 @@ zzzyk.com###Tinfo
 ||huohuo.huamuwo.com^
 ||huomob.com^
 ||huoxingtan66.com^
+||huoxun.wang^
 ||huoyan.tv/yb/img/*.gif
 ||hupu-nba.com^
 ||hupu.com^*/stream.js
@@ -54726,6 +54731,7 @@ zzzyk.com###Tinfo
 ||lgepbups.xyz^
 ||lgezbhylndpnuf.com^
 ||lgidskil.top^
+||lgkocdi.icu^
 ||lgm.averydennison.com^
 ||lgmi.com/ggimg/
 ||lgmi.com/left_right_
@@ -58470,6 +58476,7 @@ zzzyk.com###Tinfo
 ||mackeeper.com^
 ||macomaenteria.top^
 ||macoms.la^
+||macos.space^
 ||macromill.com^
 ||macx.cn/js/jquery.$domain=game.macx.cn
 ||mad.kuuad.com^
@@ -67283,6 +67290,7 @@ zzzyk.com###Tinfo
 ||ohjrxj.personalizationmall.com^
 ||ohkahfwumd.com^
 ||ohkdsplu.com^
+||ohkfmi.xyz^
 ||ohkvifgino.com^
 ||ohlattice.com^
 ||ohldsplu.com^
@@ -67556,6 +67564,7 @@ zzzyk.com###Tinfo
 ||omgthink.com^
 ||omguk.com^
 ||omgwowgirls.com^
+||omheth.com^
 ||omhxguadsvq.com^
 ||omiki.com^
 ||omine.org^
@@ -73539,6 +73548,7 @@ zzzyk.com###Tinfo
 ||qdickey.top^
 ||qdipsumy.top^
 ||qdjimo.com/html/js/
+||qdjsiyt.icu^
 ||qdkaky.rikilovesriki.com^
 ||qdlyqbpzfkl.com^
 ||qdmil.com^
