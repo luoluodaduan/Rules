@@ -21,5 +21,5 @@ if __name__ == "__main__":
     direct_file = open(os.getcwd() + "/dist/direct1.txt", mode="w", encoding="utf-8")
     for line in direct:
         if not line.startswith(("#", "!", "！", "[")) and len(line) > 0:
-            direct_file.write("%s\n" % line.replace("\r", "").replace(" ", ""))
+            direct_file.write("%s\n" % line.replace(" ", "").replace("\r", ""))
     direct_file.close()

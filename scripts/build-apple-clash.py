@@ -22,5 +22,5 @@ if __name__ == "__main__":
     apple_file = open(os.getcwd() + "/dist/apple2.txt", mode="w", encoding="utf-8")
     for line in apple:
         if not line.startswith(("#", "!", "！", "[","regexp")) and not line.endswith(("@ads")) and len(line) > 0:
-            apple_file.write("  - '%s'\n" % line.replace("server=/", "").replace("/114.114.114.114", "").replace("domain:", ".").replace("full:", "").replace(":@cn", "").replace("\r", "").replace(" ", ""))
+            apple_file.write("  - '%s'\n" % line.replace(" ", "").replace("\r", "").replace("server=/", "").replace("/114.114.114.114", "").replace("domain:", ".").replace("full:", "").replace(":@cn", ""))
     apple_file.close()

@@ -21,5 +21,5 @@ if __name__ == "__main__":
     cnip_file = open(os.getcwd() + "/dist/cnip1.txt", mode="w", encoding="utf-8")
     for line in cnip:
         if not line.startswith(("#", "!", "！", "[")) and len(line) > 0:
-            cnip_file.write("IP-CIDR,%s\n" % line.replace("\r", "").replace(" ", ""))
+            cnip_file.write("IP-CIDR,%s\n" % line.replace(" ", "").replace("\r", ""))
     cnip_file.close()

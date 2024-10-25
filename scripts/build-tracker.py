@@ -22,5 +22,5 @@ if __name__ == "__main__":
     tracker_file = open(os.getcwd() + "/gen/tracker.txt", mode="w", encoding="utf-8")
     for line in tracker:
         if not line.startswith(("#", "!", "！", "[")) and len(line) > 0:
-            tracker_file.write("%s\n\n" % line.replace("\r", "").replace(" ", ""))
+            tracker_file.write("%s\n\n" % line.replace(" ", "").replace("\r", ""))
     tracker_file.close()

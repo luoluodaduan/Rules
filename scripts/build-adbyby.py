@@ -28,5 +28,5 @@ if __name__ == "__main__":
     adbyby_file = open(os.getcwd() + "/dist/adbyby1.txt", mode="w", encoding="utf-8")
     for line in adbyby:
         if not line.startswith(("#", "!", "！", "[")) and len(line) > 0:
-            adbyby_file.write("%s\n" % line.replace("\r", "").replace("  ", " "))
+            adbyby_file.write("%s\n" % line.replace("  ", " ").replace("\r", ""))
     adbyby_file.close()
