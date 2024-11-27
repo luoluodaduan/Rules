@@ -20,12 +20,15 @@ if __name__ == "__main__":
     reject_file1 = open(os.getcwd() + "/dist/reject1.txt", mode="w", encoding="utf-8")
     reject_file2 = open(os.getcwd() + "/dist/reject2.txt", mode="w", encoding="utf-8")
     reject_file3 = open(os.getcwd() + "/dist/reject3.txt", mode="w", encoding="utf-8")
+    reject_file4 = open(os.getcwd() + "/dist/reject4.txt", mode="w", encoding="utf-8")
     for line in reject:
         if not line.startswith(("#", "!", "！", "[")) and len(line) > 0:
             line = line.replace(" ", "").replace("\t", "").replace("\r", "").replace("DOMAIN-SUFFIX,", "")
             reject_file1.write(".%s\n" % line)
             reject_file2.write("  - '+.%s'\n" % line)
             reject_file3.write("address=/%s/\n" % line)
+            reject_file4.write("%s\n" % line)
     reject_file1.close()
     reject_file2.close()
     reject_file3.close()
+    reject_file4.close()
