@@ -61,12 +61,12 @@ jobs:
           sed "s/'\./'+\./" dist/apple2.txt | sort -uf | grep -v "^$" | sed -e '1s/^/payload:\n/' > coo/apple.yaml
           sort -uf dist/cnip1.txt | grep -v "^$" > gen/cnip.txt
           sort -uf dist/cnip2.txt | grep -v "^$" | sed -e '1s/^/payload:\n/' > coo/cnip.yaml
-          grep -vE 'blogspot|facebook|google|instagram|porn|telegram|twitter|whatsapp|wikileaks|wikipedia|youtube|netflix|twitch|yahoo|discord|flickr|pinterest' dist/direct1.txt > dist/direct11.txt
-          sort -uf dist/direct11.txt | grep -v "^$" > gen/direct.txt
+          grep -vE '[a-z0-9]\.cn$|blogspot|facebook|google|instagram|porn|telegram|twitter|whatsapp|wikileaks|wikipedia|youtube|netflix|twitch|yahoo|discord|flickr|pinterest' dist/direct1.txt > dist/direct11.txt
+          sort -uf dist/direct11.txt | grep -vE '[a-z0-9]\.cn$' | grep -v "^$" > gen/direct.txt
           grep -vE 'blogspot|facebook|google|instagram|porn|telegram|twitter|whatsapp|wikileaks|wikipedia|youtube|netflix|twitch|yahoo|discord|flickr|pinterest' dist/direct2.txt > dist/direct22.txt
-          sed "s/'\./'+\./" dist/direct22.txt | sort -uf | grep -v "^$" | sed -e '1s/^/payload:\n/' > coo/direct.yaml
-          cat dist/direct3.txt dist/direct4.txt | sed 's/server=\/\./server=\//g' | sort -uf | grep -v "^$" > fan/dnsmasqCN.txt
-          sort -uf dist/direct1.txt | sed 's/^\.//' | grep -v "^$" > fan/smartdnsCN.txt
+          sed "s/'\./'+\./" dist/direct22.txt | grep -vE "[a-z0-9]\.cn'$"| sort -uf | grep -v "^$" | sed -e '1s/^/payload:\n/' > coo/direct.yaml
+          cat dist/direct3.txt dist/direct4.txt | grep -vE '[a-z0-9]\.cn\/119\.29\.29\.29$|[a-z0-9]\.cn\/223\.5\.5\.5$' | sed 's/server=\/\./server=\//g' | sort -uf | grep -v "^$" > fan/dnsmasqCN.txt
+          sort -uf dist/direct1.txt | grep -vE '[a-z0-9]\.cn$' | sed 's/^\.//' | grep -v "^$" > fan/smartdnsCN.txt
           sort -uf dist/proxy1.txt | grep -v "^$" > gen/proxy.txt
           sort -uf dist/proxy2.txt | grep -v "^$" | sed -e '1s/^/payload:\n/' > coo/proxy.yaml
           grep -vE 'adservice|advertisement|advertising|guanggao' dist/reject1.txt | sort -u | grep -v "^$" > gen/reject.txt
