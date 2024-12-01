@@ -65,12 +65,12 @@ jobs:
           sort -uf dist/direct11.txt | grep -vE '[a-z0-9]\.cn$' | grep -v "^$" > gen/direct.txt
           grep -vE 'blogspot|facebook|google|instagram|porn|telegram|twitter|whatsapp|wikileaks|wikipedia|youtube|netflix|twitch|yahoo|discord|flickr|pinterest' dist/direct2.txt > dist/direct22.txt
           sed "s/'\./'+\./" dist/direct22.txt | grep -vE "[a-z0-9]\.cn'$"| sort -uf | grep -v "^$" | sed -e '1s/^/payload:\n/' > coo/direct.yaml
-          cat dist/direct3.txt dist/direct4.txt | grep -vE '[a-z0-9]\.cn\/119\.29\.29\.29$|[a-z0-9]\.cn\/223\.5\.5\.5$' | sed 's/server=\/\./server=\//g' | sort -uf | grep -v "^$" > fan/dnsmasqCN.txt
-          sort -uf dist/direct1.txt | grep -vE '[a-z0-9]\.cn$' | sed 's/^\.//' | grep -v "^$" > fan/smartdnsCN.txt
+          cat dist/direct3.txt dist/direct4.txt | grep -vE '[a-z0-9]\.cn\/119\.29\.29\.29$|[a-z0-9]\.cn\/223\.5\.5\.5$|google' | sed 's/server=\/\./server=\//g' | sort -uf | grep -v "^$" > fan/dnsmasqCN.txt
+          sort -uf dist/direct1.txt | grep -vE '[a-z0-9]\.cn$|google' | sed 's/^\.//' | grep -v "^$" > fan/smartdnsCN.txt
           sort -uf dist/proxy1.txt | grep -v "^$" > gen/proxy.txt
           sort -uf dist/proxy2.txt | grep -v "^$" | sed -e '1s/^/payload:\n/' > coo/proxy.yaml
-          grep -vE 'adservice|advertisement|advertising|guanggao' dist/reject1.txt | sort -u | grep -v "^$" > gen/reject.txt
-          grep -vE 'adservice|advertisement|advertising|guanggao' dist/reject2.txt | sort -u | grep -v "^$" | sed -e '1s/^/payload:\n/' > coo/reject.yaml
+          grep -vE 'adservice|advertising|guanggao' dist/reject1.txt | sort -u | grep -v "^$" > gen/reject.txt
+          grep -vE 'adservice|advertising|guanggao' dist/reject2.txt | sort -u | grep -v "^$" | sed -e '1s/^/payload:\n/' > coo/reject.yaml
           sort -uf dist/reject3.txt | grep -v "^$" > fan/dnsmasqAd.txt
           sort -uf dist/reject4.txt | grep -v "^$" > fan/smartdnsAd.txt
           sort -uf dist/telegram1.txt | grep -v "^$" > temp/telegram.txt
