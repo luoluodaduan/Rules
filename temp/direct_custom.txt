@@ -29,10 +29,6 @@
 .f-msedge.net
 .fanboy.co.nz
 .fastgit.org
-.feimaoyun.com
-.fenxm.com
-.fenxmi.com
-.fmapp.com
 .g-msedge.net
 .getmicrosoftkey.com
 .gfx.ms
@@ -88,6 +84,7 @@
 .onenote.net
 .onmicrosoft.com
 .p-msedge.net
+.p3terx.com
 .q-msedge.net
 .r-msedge.net
 .s-microsoft.com
