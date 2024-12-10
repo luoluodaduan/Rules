@@ -8453,7 +8453,6 @@
 9d4d.com
 9damao.com
 9damao.net
-9damaogame.net
 9day.cc
 9dd29.live
 9ddm.com
@@ -43855,7 +43854,6 @@ iptvzj.com
 ipuu.net
 ipv4.host
 ipv4dns.com
-ipv6-test.com
 ipv6dns.com
 ipv6testingcenter.com
 ipyy.com
@@ -54821,7 +54819,6 @@ malmam.com
 malong.com
 malsmiles.com
 maltm.com
-malu.me
 mama100.com
 mamacn.com
 mamahao.com
@@ -74896,7 +74893,6 @@ tesight.com
 tesolsh.com
 tesoon.com
 test-cignacmb.com
-test-ipv6.com
 testbird.com
 testcoo.com
 testdocs.com
