@@ -46,6 +46,7 @@
 .live.com
 .lync.com
 .m-msedge.net
+.malu.me
 .microsoft.com
 .microsoftazuread-sso.com
 .microsoftonline-p.com
