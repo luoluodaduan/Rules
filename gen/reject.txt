@@ -5226,6 +5226,7 @@
 .adcs-ue.myappsget.com
 .add.sina.com.cn
 .addabai.com
+.addata.jd.com
 .adddumbestbarrow.com
 .addefenderplus.info
 .addelive.com
@@ -7715,6 +7716,7 @@
 .alocdn.com
 .aloftloan.com
 .alog.umeng.com
+.alogus.umeng.com
 .alonehepatitisenough.com
 .alongsidelizard.com
 .alony.site
@@ -9110,6 +9112,7 @@
 .api.ssp.zxrtb.com
 .api.statsig.com
 .api.tongji.today
+.api.touch-moblie.com
 .api.ts.feedback.qy.net
 .api.tw06.xlmc.sec.miui.com
 .api.union.vip.com
@@ -10002,6 +10005,7 @@
 .appc.baidu.cn
 .appc.baidu.com
 .appcast.io
+.appcfg.v.qq.com
 .appchannel.html5.qq.com
 .appcloud.appyreward.com
 .appcloud2.in.zhihu.com
@@ -10639,6 +10643,7 @@
 .asparagusinterruption.com
 .asparaguspallorspoken.com
 .asparaguspopcorn.com
+.aspect-upush.umeng.com
 .aspectsofcukorp.com
 .asperencium.com
 .asperityhorizontally.com
@@ -15865,6 +15870,7 @@
 .ccaahdancza.com
 .ccaas.avaya.com
 .ccb.uncle-ad.com
+.ccc-x.jd.com
 .ccc.sys.miui.com
 .ccccc66kkkkk.com
 .ccccc67kkkkk.com
@@ -30644,6 +30650,7 @@
 .fromoffspringcaliber.com
 .frompilis.com
 .frontcognizance.com
+.frontend-perf-service.e.kuaishou.com
 .fronthlpr.com
 .frontierconsul02.tsunagaru-office.com
 .fronttoad.com
@@ -30946,6 +30953,7 @@
 .fwtrck.com
 .fxdepo.com
 .fxfezg.bodylab24.de
+.fxgate.baidu.com
 .fxgkktj.icu
 .fxipca.americanexpress.ca
 .fxipreferral.americanexpress.com
@@ -41336,6 +41344,7 @@
 .kdata.fr
 .kdbhvi.xyz
 .kddtri.cn
+.kde.qq.com
 .kdeh.cn
 .kdf.jssumei.cn
 .kdgjsf.com
@@ -41727,6 +41736,7 @@
 .klhswcxt-o.icu
 .klhxyi.costakreuzfahrten.ch
 .kliksaya.com
+.klink.volceapplog.com
 .klipmart.com
 .kliqz.com
 .klixfeed.com
@@ -44561,9 +44571,12 @@
 .log-pq.shopfully.cloud
 .log-report.com
 .log-sdk.gifshow.com
+.log-sdk.ksapisrv.com
 .log-stats.weathercn.com
 .log-upload-os.hoyoverse.com
 .log-upload.mihoyo.com
+.log-verify.dutils.com
+.log-verify.hiaiabc.com
 .log.120ask.com
 .log.ad.xiaomi.com
 .log.adplex.co.kr
@@ -45263,6 +45276,7 @@
 .lugansk-info.ru
 .luggagebuttonlocum.com
 .luhhcodutax.com
+.luimg.baidu.com
 .lujaqg.e-blooming.com
 .lujcig.modaforyou.pl
 .lukeaccesspopped.com
@@ -55886,6 +55900,7 @@
 .open.novamoney.com
 .open.oneplus.net
 .open.play.cn
+.open.snssdk.com
 .open.speeko.co
 .open.swapu.app
 .open.theinnercircle.co
@@ -83598,6 +83613,7 @@
 .ur.b.inhaabit.com
 .uralweb.ru
 .uranismunshore.com
+.uranus.jd.com
 .uranus.sogou.com
 .uranus.sohu.com
 .urauvipsidu.com
@@ -87106,6 +87122,7 @@
 .wl.eastlady.cn
 .wl.hd.sohu.com
 .wl.houyi.baofeng.net
+.wl.jd.com
 .wl.uqwjdhgv.top
 .wl.xsoftmall.com
 .wlafx4trk.com
