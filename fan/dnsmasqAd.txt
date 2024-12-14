@@ -29557,6 +29557,7 @@ address=/filasofighit.com/
 address=/filasseseeder.com/
 address=/file.blackint3.com/
 address=/file.bmob.cn/
+address=/file.daihuo.qq.com/
 address=/file.edunet.ac/
 address=/file3size.com/
 address=/files.info.posteitaliane.it/
