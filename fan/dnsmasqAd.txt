@@ -87250,7 +87250,6 @@ address=/wl.duoshitong.com/
 address=/wl.eastlady.cn/
 address=/wl.hd.sohu.com/
 address=/wl.houyi.baofeng.net/
-address=/wl.jd.com/
 address=/wl.uqwjdhgv.top/
 address=/wl.xsoftmall.com/
 address=/wlafx4trk.com/
