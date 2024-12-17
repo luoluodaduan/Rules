@@ -94,8 +94,12 @@ jobs:
           branch: ${{ github.ref }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Delete Workflow
-        uses: Mattraks/delete-workflow-runs@v2
+      - name: Delete old Releases and Workflows
+        uses: ophub/delete-releases-workflows@main
         with:
-          keep_minimum_runs: 0
-          retain_days: 1
+          delete_releases: true
+          releases_keep_latest: 0
+          delete_tags: true
+          delete_workflows: true
+          workflows_keep_day: 1
+          gh_token: ${{secrets.GITHUB_TOKEN}}
