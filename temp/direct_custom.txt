@@ -1,5 +1,5 @@
 .886.be
-.9damaogame.net
+.9dmgamemod.com
 .a-msedge.net
 .acwing.com
 .adtidy.org
@@ -20,7 +20,6 @@
 .bing.net
 .c-msedge.net
 .cloudappsecurity.com
-.cn
 .d-msedge.net
 .e-msedge.net
 .easylist.to
@@ -33,15 +32,13 @@
 .getmicrosoftkey.com
 .gfx.ms
 .gh-proxy.com
+.ghgo.xyz
 .ghp.ci
 .ghproxy.com
 .ghproxy.net
-.githubusercontents.com
 .gitmirror.com
 .h-msedge.net
 .i-msedge.net
-.ipip.net
-.ipv6-test.com
 .j-msedge.net
 .jsdelivr.com
 .jsdelivr.net
@@ -52,7 +49,6 @@
 .lync.com
 .m-msedge.net
 .malu.me
-.meituan.net
 .microsoft.com
 .microsoftazuread-sso.com
 .microsoftonline-p.com
@@ -95,7 +91,6 @@
 .skypeforbusiness.com
 .svc.ms
 .t-msedge.net
-.test-ipv6.com
 .trafficmanager.net
 .u-msedge.net
 .v-msedge.net
