@@ -18,8 +18,8 @@ jobs:
 
       - name: Prepare
         run: |
-          sudo -E apt-get update
-          sudo -E apt-get install jq
+          sudo -E apt-get -yqq update
+          sudo -E apt-get -yqq install jq
           mkdir -p dist
 
       - name: Setup Python
