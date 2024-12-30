@@ -846,6 +846,8 @@
 .brussels
 .brutaltgp.com
 .bs
+.bsky.app
+.bsky.social
 .bt
 .bt2mag.com
 .bt4g.com
@@ -1475,6 +1477,7 @@
 .deck.ly
 .deck.new
 .decodet.co
+.deepai.org
 .deepdiscount.com
 .deepmind.com
 .deezer.com
@@ -2573,6 +2576,7 @@
 .hackmd.io
 .hackthatphone.net
 .hahlo.com
+.haijiao.com
 .hakkatv.org.tw
 .hamburg
 .handcraftedsoftware.org
@@ -5336,6 +5340,7 @@
 .smyxy.org
 .sn
 .snapchat.com
+.snapseed.com
 .snaptu.com
 .sncf
 .sndcdn.com
@@ -6467,6 +6472,7 @@
 .vpnworldwide.com
 .vpser.net
 .vraiesagesse.net
+.vrchat.com
 .vrmtr.com
 .vrsmash.com
 .vs.com
@@ -6592,6 +6598,7 @@
 .wha.la
 .whatblocked.com
 .whatbrowser.org
+.whats.new
 .whatsonweibo.com
 .wheatseeds.org
 .wheelockslatin.com
