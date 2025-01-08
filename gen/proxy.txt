@@ -846,6 +846,8 @@
 .brussels
 .brutaltgp.com
 .bs
+.bsky.app
+.bsky.social
 .bt
 .bt2mag.com
 .bt4g.com
@@ -1241,6 +1243,7 @@
 .cna.com.tw
 .cnabc.com
 .cnbc.com
+.cnbeta.com.tw
 .cnd.org
 .cnet.com
 .cnews.com.tw
@@ -1475,6 +1478,7 @@
 .deck.ly
 .deck.new
 .decodet.co
+.deepai.org
 .deepdiscount.com
 .deepmind.com
 .deezer.com
@@ -2515,6 +2519,7 @@
 .grindr.com
 .grotty-monday.com
 .groueta.cc
+.ground.news
 .gs
 .gs-discuss.com
 .gsearch.media
@@ -2573,6 +2578,7 @@
 .hackmd.io
 .hackthatphone.net
 .hahlo.com
+.haijiao.com
 .hakkatv.org.tw
 .hamburg
 .handcraftedsoftware.org
@@ -2634,6 +2640,7 @@
 .heritage.org
 .hermes
 .heroku.com
+.herokuapp.com
 .heungkongdiscuss.com
 .hexieshe.com
 .hexieshe.xyz
@@ -2791,6 +2798,7 @@
 .hoxx.com
 .hoyolab.com
 .hpa.gov.tw
+.hpjav.com
 .hqcdp.org
 .hqjapanesesex.com
 .hqmovies.com
@@ -2887,6 +2895,7 @@
 .iask.bz
 .iask.ca
 .iav19.com
+.iavian.net
 .ibb.co
 .ibiblio.org
 .ibit.am
@@ -4544,6 +4553,7 @@
 .pcc.gov.tw
 .pccw
 .pcdvd.com.tw
+.pcgamestorrents.com
 .pchome.com.tw
 .pcij.org
 .pcloud.com
@@ -5336,6 +5346,7 @@
 .smyxy.org
 .sn
 .snapchat.com
+.snapseed.com
 .snaptu.com
 .sncf
 .sndcdn.com
@@ -6467,6 +6478,7 @@
 .vpnworldwide.com
 .vpser.net
 .vraiesagesse.net
+.vrchat.com
 .vrmtr.com
 .vrsmash.com
 .vs.com
@@ -6592,6 +6604,7 @@
 .wha.la
 .whatblocked.com
 .whatbrowser.org
+.whats.new
 .whatsonweibo.com
 .wheatseeds.org
 .wheelockslatin.com
