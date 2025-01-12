@@ -43,6 +43,7 @@
 .1lib.to
 .1mobile.com
 .1mobile.tw
+.1point3acres.com
 .1pondo.tv
 .2-hand.info
 .2000fun.com
@@ -503,6 +504,7 @@
 .atnext.com
 .atwola.com
 .au
+.audacy.com
 .audi
 .audionow.com
 .auspost
@@ -1026,6 +1028,7 @@
 .cdp2006.org
 .cdpa.url.tw
 .cdpeu.org
+.cdpuk.co.uk
 .cdpusa.org
 .cdpweb.org
 .cdpwu.org
@@ -1471,6 +1474,7 @@
 .ddns.us
 .de
 .de-sci.org
+.deadhouse.org
 .deadline.com
 .deaftone.com
 .debian.org
@@ -2051,6 +2055,7 @@
 .firstfivefollowers.com
 .firstpost.com
 .firstrade.com
+.fish.audio
 .fizzik.com
 .fj
 .flagsonline.it
@@ -2812,6 +2817,7 @@
 .hrw.org
 .hrweb.org
 .hsbc
+.hsex.men
 .hsjp.net
 .hsselite.com
 .hst.net.tw
@@ -3016,6 +3022,7 @@
 .info-graf.fr
 .informer.com
 .ing
+.inherit.live
 .initiativesforchina.org
 .inkbunny.net
 .inkui.com
@@ -3835,6 +3842,7 @@
 .minzhuhua.net
 .minzhuzhanxian.com
 .minzhuzhongguo.org
+.miraheze.org
 .miroguide.com
 .mirror.xyz
 .mirrorbooks.com
@@ -4853,6 +4861,7 @@
 .radikal.ru
 .radiko.jp
 .radio-canada.ca
+.radio-en-ligne.fr
 .radio.garden
 .radioaustralia.net.au
 .radiohilight.net
@@ -5320,6 +5329,7 @@
 .slashine.onl
 .slaytizle.com
 .sleazydream.com
+.sleazyfork.org
 .slheng.com
 .slickvpn.com
 .slides.new
@@ -5442,6 +5452,7 @@
 .spotify.com
 .spreadsheet.new
 .spreadshirt.es
+.spreaker.com
 .spring.io
 .spring.net
 .spring4u.info
@@ -5918,6 +5929,7 @@
 .tiktokcdn-us.com
 .tiktokcdn.com
 .tiktokv.com
+.tiktokv.us
 .tiltbrush.com
 .timdir.com
 .time.com
@@ -7014,6 +7026,7 @@
 .yyjlymb.xyz
 .yysub.net
 .yzzk.com
+.z-lib.io
 .z-lib.org
 .zacebook.com
 .zalmos.com
