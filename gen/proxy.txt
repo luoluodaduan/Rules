@@ -2203,6 +2203,7 @@
 .freewww.info
 .freexinwen.com
 .freeyellow.com
+.freezhihu.org
 .fresenius
 .frienddy.com
 .friendfeed-media.com
@@ -4180,6 +4181,7 @@
 .news.com.au
 .news100.com.tw
 .newsancai.com
+.newsblur.com
 .newschinacomment.org
 .newscn.org
 .newsdetox.ca
@@ -4856,6 +4858,7 @@
 .qi-gong.me
 .qianbai.tw
 .qiandao.today
+.qianglie.com
 .qiangwaikan.com
 .qiangyou.org
 .qidian.ca
@@ -6917,6 +6920,7 @@
 .xn--ngstr-lra8j.com
 .xn--nnx388a
 .xn--node
+.xn--noss43i.com
 .xn--o3cw4h
 .xn--ogbpf8fl
 .xn--oiq.cc
