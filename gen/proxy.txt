@@ -93,6 +93,8 @@
 .4rbtv.com
 .4shared.com
 .4sqi.net
+.500px.com
+.500px.org
 .50webs.com
 .51.ca
 .51jav.org
@@ -421,6 +423,7 @@
 .app
 .app-measurement.com
 .app-measurement.net
+.appadvice.com
 .appbrain.com
 .appdownloader.net
 .apple
@@ -739,6 +742,7 @@
 .bjzc.org
 .bkrtx.com
 .bl-doujinsouko.com
+.blacked.com
 .blacklogic.com
 .blackvpn.com
 .blewpass.com
@@ -869,6 +873,7 @@
 .btctrade.im
 .btdig.com
 .btdigg.org
+.btguard.com
 .bthub.me
 .btku.me
 .btku.org
@@ -1561,6 +1566,7 @@
 .dit-inc.us
 .divoom.com
 .diy
+.diyin.org
 .dizhidizhi.com
 .dizhuzhishang.com
 .dj
@@ -1573,6 +1579,7 @@
 .dlsite.jp
 .dm
 .dm530.net
+.dma.mil
 .dmc.nico
 .dmcdn.net
 .dmhy.org
@@ -1726,6 +1733,7 @@
 .earlytibet.com
 .earthcam.com
 .earthvpn.com
+.eastasiaforum.org
 .eastern-ark.com
 .easternlightning.org
 .eastturkestan.com
@@ -1883,6 +1891,7 @@
 .eus
 .evozi.com
 .evschool.net
+.exam.gov.tw
 .exblog.co.jp
 .exblog.jp
 .exchristian.hk
@@ -2065,6 +2074,7 @@
 .firearmsworld.net
 .firebaseio.com
 .firefox.com
+.fireofliberty.info
 .fireofliberty.org
 .firestone
 .firetweet.io
@@ -2120,6 +2130,7 @@
 .forum4hk.com
 .forums-free.com
 .fotile.me
+.fountmedia.io
 .fourthinternational.org
 .fox
 .fox.com
@@ -2913,6 +2924,7 @@
 .hyatt
 .hybrid-analysis.com
 .hyperrate.com
+.hypothes.is
 .hyread.com.tw
 .hyundai
 .i-cable.com
@@ -3111,6 +3123,7 @@
 .isaacmao.com
 .isasecret.com
 .isgreat.org
+.ishr.ch
 .islahhaber.net
 .islam.org.hk
 .islamawareness.net
@@ -3196,6 +3209,7 @@
 .javcloud.com
 .javdb.com
 .javdb4.com
+.javfinder.ai
 .javfor.me
 .javfree.me
 .javhay.net
@@ -3290,6 +3304,7 @@
 .jslint.com
 .jtvnw.net
 .jubushoushen.com
+.judicial.gov.tw
 .juhuaren.com
 .jukujo-club.com
 .juliepost.com
@@ -3449,6 +3464,7 @@
 .kyoyue.com
 .kyzyhello.com
 .kz
+.kzaobao.com
 .kzeng.info
 .la
 .la-forum.org
@@ -3500,6 +3516,7 @@
 .lefrak
 .left21.hk
 .lego
+.legra.ph
 .legsjapan.com
 .leirentv.ca
 .leisurecafe.ca
@@ -3545,6 +3562,7 @@
 .lih.kg
 .lihkg.com
 .like.com
+.lilaoshibushinilaoshi.com
 .lilly
 .limbopro.xyz
 .limiao.net
@@ -3659,6 +3677,7 @@
 .lvhai.org
 .lvv2.com
 .ly
+.ly.gov.tw
 .lyfhk.net
 .lynda.com
 .lzjscript.com
@@ -3699,6 +3718,7 @@
 .mandiant.com
 .mangafox.com
 .mangafox.me
+.mangmang.run
 .mango
 .maniash.com
 .manicur4ik.ru
@@ -3898,6 +3918,7 @@
 .mk5000.com
 .ml
 .mlb
+.mlc.ai
 .mlcool.com
 .mlzs.work
 .mm-cg.com
@@ -4362,6 +4383,7 @@
 .nybooks.com
 .nyc
 .nydus.ca
+.nyinfor.com
 .nylon-angel.com
 .nylonstockingsonline.com
 .nypost.com
@@ -4659,6 +4681,7 @@
 .picturedip.com
 .picturesocial.com
 .picuki.com
+.pigav.com
 .pimg.tw
 .pin-cong.com
 .pin6.com
@@ -4822,6 +4845,7 @@
 .puffinbrowser.com
 .puffstore.com
 .pugjs.org
+.pugpig.com
 .pullfolio.com
 .punyu.com
 .pure18.com
@@ -5088,6 +5112,7 @@
 .s1heng.com
 .s1s1s1.com
 .s3-ap-northeast-1.amazonaws.com
+.s3-ap-southeast-1.amazonaws.com
 .s3-ap-southeast-2.amazonaws.com
 .s3.amazonaws.com
 .s4miniarchive.com
@@ -5569,6 +5594,7 @@
 .stickam.com
 .stickeraction.com
 .stileproject.com
+.stitcher.com
 .sto.cc
 .stockholm
 .stoporganharvesting.org
@@ -5803,6 +5829,7 @@
 .textnow.com
 .textnow.me
 .tf
+.tfc-taiwan.org.tw
 .tfhub.dev
 .tfiflve.com
 .tg
@@ -5864,6 +5891,7 @@
 .theync.com
 .thinkgeek.com
 .thinkingtaiwan.com
+.thirdmill.org
 .thisav.com
 .thisiscdn.com
 .thlib.org
@@ -6037,6 +6065,7 @@
 .topshareware.com
 .topsy.com
 .toptip.ca
+.toptoon.net
 .tora.to
 .toray
 .torcn.com
@@ -6253,6 +6282,7 @@
 .u15.info
 .u9un.com
 .ua
+.ua5v.com
 .ub0.cc
 .ubank
 .ubddns.org
@@ -6283,6 +6313,8 @@
 .uku.im
 .ulike.net
 .ulop.net
+.ultrasurf.us
+.ultravpn.com
 .ultravpn.fr
 .ultraxs.com
 .umblr.com
@@ -6315,6 +6347,7 @@
 .unsplash.com
 .unstable.icu
 .untraceable.us
+.unwire.hk
 .uocn.org
 .uol
 .updatestar.com
@@ -6345,6 +6378,7 @@
 .usaip.eu
 .usc.edu
 .uscardforum.com
+.uscg.mil
 .uscnpm.org
 .usefreevpn.com
 .usembassy.gov
@@ -6525,6 +6559,7 @@
 .vpnpick.com
 .vpnpop.com
 .vpnpronet.com
+.vpnproxymaster.com
 .vpnreactor.com
 .vpnreviewz.com
 .vpnsecure.me
@@ -6594,6 +6629,7 @@
 .wattpad.com
 .wav.tv
 .waveprotocol.org
+.waybig.com
 .waymo.com
 .wd.bible
 .wda.gov.tw
@@ -6991,6 +7027,7 @@
 .yanghengjun.com
 .yangjianli.com
 .yasni.co.uk
+.yasukuni.or.jp
 .yayabay.com
 .ycombinator.com
 .ydy.com
@@ -7068,6 +7105,7 @@
 .yulghun.com
 .yumenetworks.com
 .yunchao.net
+.yunomi.tokyo
 .yuntipub.com
 .yuvutu.com
 .yvesgeleyn.com
@@ -7141,6 +7179,7 @@
 .zkaip.com
 .zkiz.com
 .zm
+.zmedia.com.tw
 .zodgame.us
 .zoho.com
 .zomobo.net
