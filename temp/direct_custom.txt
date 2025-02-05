@@ -32,6 +32,7 @@
 .getmicrosoftkey.com
 .gfx.ms
 .gh-proxy.com
+.ghfast.top
 .ghgo.xyz
 .ghp.ci
 .ghproxy.com
