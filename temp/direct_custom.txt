@@ -28,6 +28,7 @@
 .f-msedge.net
 .fanboy.co.nz
 .fastgit.org
+.firefox.com
 .g-msedge.net
 .getmicrosoftkey.com
 .gfx.ms
@@ -57,6 +58,7 @@
 .microsoftonline.com
 .microsoftstream.com
 .moeyy.xyz
+.mozilla.com
 .msappproxy.net
 .msauth.net
 .msauthimages.net
