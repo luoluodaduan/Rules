@@ -13,19 +13,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Free Disk Space
-        uses: FirelightFlagboy/gh-runner-free-disk-space@main
-
-      - name: Initialization environment
-        run: |
-          sudo -E apt-get -yqq update
-          sudo -E apt-get -yqq upgrade
-          sudo -E apt-get -yqq install jq
-          sudo -E apt-get -yqq autoremove
-          sudo -E apt-get -yqq autoclean
-          sudo -E apt-get -yqq clean
-          sudo -E systemctl daemon-reload
-
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
