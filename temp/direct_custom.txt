@@ -59,6 +59,7 @@
 .microsoftstream.com
 .moeyy.xyz
 .mozilla.com
+.mozilla.net
 .mozilla.org
 .msappproxy.net
 .msauth.net
