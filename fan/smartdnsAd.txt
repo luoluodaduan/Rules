@@ -4967,6 +4967,7 @@ ad1.udn.com
 ad1.xiaomi.com
 ad1.yangjinyou.com
 ad123.ynet.com
+ad2.ettoday.net
 ad2.sina.com.cn
 ad2.udn.com
 ad2.yam.com
@@ -21753,6 +21754,7 @@ de.mywd.com
 de.pandora.xiaomi.com
 de.sharpmarketing.eu
 de.soquair.com
+de.tynt.com
 de.verintsystemsinc.com
 de17a.com
 de2nsnw1i3egd.cloudfront.net
@@ -43013,6 +43015,7 @@ log.orchidscape.net
 log.p2p.hunantv.com
 log.pinterest.com
 log.pipeline.datarize.io
+log.popin.cc
 log.quora.com
 log.qvb.qcloud.com
 log.rabobank.nl
@@ -61116,6 +61119,7 @@ rletcloaksandth.com
 rlets.com
 rlhn.xyz
 rlittleboywhowas.com
+rlog.popin.cc
 rlog.video.qq.com
 rlogs.youdao.com
 rlovoa.duckcamp.com
@@ -62099,6 +62103,7 @@ s8.dnaxddnc.com
 s8.pw
 s83.fun
 s861531437.sc.origins.en25.com
+s8t.teads.tv
 s8x1.com
 s99i.org
 sa.adidas.ae
@@ -73632,6 +73637,7 @@ t.syosetu.org
 t.tamiflu.com
 t.tarceva.com
 t.targetuse.com
+t.teads.tv
 t.texasperformingarts.org
 t.texassports.com
 t.texastech.com
@@ -73703,6 +73709,7 @@ t1.a.market.xiaomi.com
 t1.benefits.tops.co.th
 t1.discover.flashnews.com.au
 t1.stadiumgoods.com
+t1.teads.tv
 t1.trex.media
 t1.xuefen.com.cn
 t13.io
