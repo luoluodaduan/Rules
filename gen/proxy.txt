@@ -105,6 +105,7 @@
 .5i01.com
 .5isotoi5.org
 .5maodang.com
+.611study.icu
 .63i.com
 .64museum.org
 .64tianwang.com
@@ -1288,6 +1289,7 @@
 .codesandbox.io
 .codeshare.io
 .codeskulptor.org
+.cofacts.tw
 .coin2co.in
 .coinbase.com
 .coinbene.com
@@ -2561,6 +2563,7 @@
 .greenvpn.net
 .greenvpn.org
 .grindr.com
+.grok.com
 .grotty-monday.com
 .groueta.cc
 .ground.news
@@ -4203,6 +4206,7 @@
 .newnews.ca
 .newrelic.com
 .news.com.au
+.news1.kr
 .news100.com.tw
 .newsancai.com
 .newsblur.com
