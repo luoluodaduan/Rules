@@ -185,6 +185,7 @@
 .accountkit.com
 .aceros-de-hispania.com
 .acevpn.com
+.acg.rip
 .acg18.me
 .acgbox.org
 .acgkj.com
@@ -368,6 +369,7 @@
 .animecrazy.net
 .animeshippuuden.com
 .aniscartujo.com
+.annas-archive.se
 .annatam.com
 .anobii.com
 .anonfiles.com
@@ -587,6 +589,7 @@
 .bangchen.net
 .bangdream.space
 .bangkokpost.com
+.bangumi.moe
 .bangyoulater.com
 .bankmobilevibe.com
 .bannedbook.org
@@ -813,6 +816,7 @@
 .booktopia.com.au
 .bookwalker.com.tw
 .boomssr.com
+.bootstrapcdn.com
 .borgenmagazine.com
 .bosch
 .bostik
@@ -1195,6 +1199,7 @@
 .churchinhongkong.org
 .chushigangdrug.ch
 .ci
+.ci-en.jp
 .ciciai.com
 .cienen.com
 .cineastentreff.de
@@ -1628,6 +1633,7 @@
 .dontmovetochina.com
 .dood.video
 .dood.watch
+.doosho.com
 .doourbest.org
 .dorjeshugden.com
 .dotplane.com
@@ -1926,6 +1932,7 @@
 .ezpc.tk
 .ezpeer.com
 .ezua.com
+.f-droid.org
 .f2pool.com
 .f8.com
 .fa.gov.tw
@@ -1967,6 +1974,7 @@
 .familyfed.org
 .famunion.com
 .fan-qiang.com
+.fanbox.cc
 .fandom.com
 .fangbinxing.com
 .fangeming.com
@@ -2160,6 +2168,7 @@
 .free-proxy.cz
 .free-ss.site
 .free-ssh.com
+.free.bg
 .free.fr
 .free4u.com.ar
 .freealim.com
@@ -2844,6 +2853,7 @@
 .how
 .howtoforge.com
 .hoxx.com
+.hoy.tv
 .hoyolab.com
 .hpa.gov.tw
 .hpjav.com
@@ -3438,6 +3448,7 @@
 .korea.net
 .korenan2.com
 .kp
+.kpkuang.org
 .kpmg
 .kpn
 .kqes.net
@@ -3722,6 +3733,7 @@
 .man
 .manchukuo.net
 .mandiant.com
+.mangabz.com
 .mangafox.com
 .mangafox.me
 .mangmang.run
@@ -3834,6 +3846,7 @@
 .meta.ai
 .meta.com
 .metacafe.com
+.metacubex.one
 .metafilter.com
 .metart.com
 .metarthunter.com
@@ -4224,6 +4237,7 @@
 .newsweek.com
 .newtaiwan.com.tw
 .newtalk.tw
+.newthuhole.com
 .newyorker.com
 .newyorktimes.com
 .nexitally.com
@@ -4578,6 +4592,7 @@
 .page2rss.com
 .pages.dev
 .pagodabox.com
+.paimon.moe
 .palacemoon.com
 .paldengyal.com
 .paljorpublications.com
@@ -4646,6 +4661,7 @@
 .pen.io
 .penchinese.com
 .penchinese.net
+.pendrivelinux.com
 .pengyulong.com
 .penisbot.com
 .pentalogic.net
@@ -4678,6 +4694,7 @@
 .phonegap.com
 .photodharma.net
 .photofocus.com
+.photonmedia.net
 .phprcdn.com
 .phptutorial.net
 .phuquocservices.com
@@ -4708,6 +4725,7 @@
 .pixeldrain.com
 .pixelqi.com
 .pixiv.net
+.pixiv.org
 .pixivsketch.net
 .pixnet.in
 .pixnet.net
@@ -4715,6 +4733,7 @@
 .pk.com
 .pki.goog
 .pkqjiasu.com
+.pkuanvil.com
 .pl
 .placemix.com
 .play-asia.com
@@ -4745,6 +4764,7 @@
 .podictionary.com
 .poe.com
 .pohl
+.points-media.com
 .pokerstars.com
 .pokerstars.net
 .pokerstrategy.com
@@ -5692,6 +5712,7 @@
 .symcd.com
 .syncback.com
 .synergyse.com
+.syosetu.com
 .sysresccd.org
 .sytes.net
 .syx86.com
@@ -5856,6 +5877,7 @@
 .theblemish.com
 .thebobs.com
 .thebodyshop-usa.com
+.thechasernews.co.uk
 .thechinabeat.org
 .thechinacollection.org
 .thechinastory.org
@@ -5911,6 +5933,8 @@
 .threatchaos.com
 .threejs.org
 .throughnightsfire.com
+.thu.monster
+.thuhole.com
 .thumbzilla.com
 .thywords.com
 .thywords.com.tw
@@ -6746,6 +6770,7 @@
 .williamhill
 .williamhill.com
 .willw.net
+.wilsoncenter.org
 .windows
 .windowsphoneme.com
 .windscribe.com
