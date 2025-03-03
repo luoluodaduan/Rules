@@ -369,6 +369,7 @@
 .animecrazy.net
 .animeshippuuden.com
 .aniscartujo.com
+.annas-archive.org
 .annas-archive.se
 .annatam.com
 .anobii.com
@@ -525,6 +526,7 @@
 .av-e-body.com
 .av.com
 .av.movie
+.av01.tv
 .av28.com
 .avaaz.org
 .avbody.tv
@@ -1071,6 +1073,7 @@
 .cfhks.org.hk
 .cfos.de
 .cfr.org
+.cfsh99.com
 .cftfc.com
 .cg
 .cgdepot.org
@@ -1245,6 +1248,7 @@
 .clementine-player.org
 .clinica-tibet.ru
 .clinique
+.clipconverter.cc
 .clipfish.de
 .clips4sale.com
 .cloakpoint.com
@@ -1308,11 +1312,13 @@
 .cointiger.com
 .cointobe.com
 .coinut.com
+.colacloud.net
 .collateralmurder.com
 .collateralmurder.org
 .com.uk
 .comedycentral.com
 .comefromchina.com
+.comfastgpt.run
 .comic-mega.me
 .comico.tw
 .commandarms.com
@@ -1551,6 +1557,7 @@
 .diaoyuislands.org
 .didiao.cloud
 .difangwenge.org
+.dify.ai
 .digg.com
 .digiland.tw
 .digisfera.com
@@ -1794,6 +1801,7 @@
 .eksisozluk.com
 .elastic.co
 .elastic.com
+.elconfidencial.com
 .electionsmeter.com
 .electrek.co
 .electronjs.org
@@ -2002,6 +2010,7 @@
 .farwestchina.com
 .fast.com
 .fastestvpn.com
+.fastgpt.run
 .fastly-insights.com
 .fastly.net
 .fastmail.com
@@ -2169,6 +2178,7 @@
 .free-ss.site
 .free-ssh.com
 .free.bg
+.free.com.tw
 .free.fr
 .free4u.com.ar
 .freealim.com
@@ -2246,6 +2256,7 @@
 .frontier
 .frontlinedefenders.org
 .frootvpn.com
+.froth.zone
 .fscked.org
 .fstats.xyz
 .fsurf.com
@@ -2266,6 +2277,7 @@
 .fullerconsideration.com
 .fullservicegame.com
 .fulue.com
+.funami.tech
 .funf.tw
 .funkyimg.com
 .funp.com
@@ -2421,6 +2433,7 @@
 .girlbanker.com
 .git.io
 .gitbook.com
+.gitbook.io
 .gitbooks.io
 .githack.com
 .github.blog
@@ -2474,6 +2487,7 @@
 .gnews.org
 .gnu.org
 .go-pki.com
+.go-to-zlibrary.se
 .go.com
 .go.dev
 .go141.com
@@ -2636,6 +2650,7 @@
 .hackthatphone.net
 .hahlo.com
 .haijiao.com
+.haiwaikan.com
 .hakkatv.org.tw
 .hamburg
 .handcraftedsoftware.org
@@ -2812,6 +2827,7 @@
 .hola.org
 .holymountaincn.com
 .holyspiritspeaks.org
+.home.saxo
 .homedepot
 .homedepot.com
 .homegoods
@@ -3021,6 +3037,7 @@
 .il
 .ilbe.com
 .ilhamtohtiinstitute.org
+.illawarramercury.com.au
 .illusionfactory.com
 .ilove80.be
 .ilovelongtoes.com
@@ -3036,6 +3053,7 @@
 .imagetwist.com
 .imagevenue.com
 .imagezilla.net
+.imago-images.com
 .imamat
 .imb.org
 .imdb
@@ -3265,6 +3283,7 @@
 .jiehua.cz
 .jiepang.com
 .jieshibaobao.com
+.jifangge.com
 .jigglegifs.com
 .jigong1024.com
 .jigsy.com
@@ -3598,6 +3617,7 @@
 .linkedin.com
 .linkideo.com
 .linksalpha.com
+.linktr.ee
 .linkuswell.com
 .linpie.com
 .linux.org.hk
@@ -3658,6 +3678,7 @@
 .longtoes.com
 .lookpic.com
 .looktoronto.com
+.lorenzetti.com.br
 .lotsawahouse.org
 .lotte
 .lotuslight.org.hk
@@ -3711,11 +3732,13 @@
 .mad-ar.ch
 .madewithcode.com
 .madonna-av.com
+.madou.club
 .madrau.com
 .madrid
 .madthumbs.com
 .magic-net.info
 .mahabodhi.org
+.mahjongsoul.com
 .maif
 .maiio.net
 .mail-archive.com
@@ -3865,6 +3888,7 @@
 .mh
 .mh4u.org
 .mhradio.org
+.mi.com
 .miami
 .michaelanti.com
 .michaelmarketl.com
@@ -3926,6 +3950,7 @@
 .mitbbs.com
 .mitbbsau.com
 .mitsubishi
+.miuipolska.pl
 .mixcloud.com
 .mixero.com
 .mixi.jp
@@ -4005,6 +4030,7 @@
 .mov
 .movements.org
 .moviefap.com
+.mozilla.org
 .moztw.org
 .mp
 .mp3buscador.com
@@ -4123,6 +4149,7 @@
 .myteamspeak.com
 .mytizi.com
 .myvisualiq.net
+.mywife.cc
 .mywww.biz
 .myz.info
 .mz
@@ -4698,6 +4725,7 @@
 .phprcdn.com
 .phptutorial.net
 .phuquocservices.com
+.piaotia.com
 .picacomic.com
 .picacomiccn.com
 .picasaweb.com
@@ -4868,6 +4896,7 @@
 .ptt.cc
 .pttgame.com
 .pttvan.org
+.ptwxz.com
 .pubmatic.com
 .pubu.com.tw
 .puffin.com
@@ -5247,6 +5276,7 @@
 .seezone.net
 .segway.com
 .sehuatang.net
+.sehuatang.org
 .sejie.com
 .sellclassics.com
 .semasio.ne
@@ -5371,6 +5401,7 @@
 .sinchew.com.my
 .singaporepools.com.sg
 .singfortibet.com
+.singlelogin.se
 .singpao.com.hk
 .singtao.ca
 .singtao.com
@@ -5427,6 +5458,7 @@
 .sleazyfork.org
 .slheng.com
 .slickvpn.com
+.slides.com
 .slides.new
 .slideshare.net
 .slime.com.tw
@@ -5670,6 +5702,7 @@
 .sun1911.com
 .sundayguardianlive.com
 .sunmedia.ca
+.suno.ai
 .suno.com
 .sunskyforum.com
 .sunta.com.tw
@@ -5909,6 +5942,7 @@
 .thesaturdaypaper.com.au
 .thespeeder.com
 .thestandnews.com
+.thetatoken.org
 .thetibetcenter.org
 .thetibetconnection.org
 .thetibetmuseum.org
@@ -6085,6 +6119,7 @@
 .tokyo-hot.com
 .tokyocn.com
 .tomonews.net
+.tomp3.cc
 .tongil.or.kr
 .tono-oka.jp
 .tonyyan.net
@@ -6182,6 +6217,7 @@
 .tuidang.se
 .tuitui.info
 .tuitwit.com
+.tukaani.org
 .tumbex.com
 .tumblr.co
 .tumblr.com
@@ -6310,6 +6346,7 @@
 .typecho.org
 .typekit.net
 .typepad.com
+.typeset.io
 .typora.io
 .tz
 .u15.info
@@ -6485,6 +6522,7 @@
 .verisign
 .verizon.net
 .vermonttibet.org
+.vern.cc
 .versavpn.com
 .verybs.com
 .vevo.com
@@ -6853,6 +6891,7 @@
 .wujie.net
 .wujieliulan.com
 .wukangrui.net
+.wunderground.com
 .wuw.red
 .wuyanblog.com
 .wwe.com
