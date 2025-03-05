@@ -884,6 +884,8 @@
 .btaia.com
 .btbit.net
 .btbtav.com
+.btbtt.co
+.btbtt.me
 .btc.com
 .btc98.com
 .btcbank.bank
@@ -975,6 +977,7 @@
 .cam4.jp
 .cam4.sg
 .camfrog.com
+.campaign-archive.com
 .campaignforuyghurs.org
 .cams.com
 .cams.org.sg
@@ -1168,6 +1171,7 @@
 .chinatopsex.com
 .chinatown.com.au
 .chinatweeps.com
+.chinauncensored.tv
 .chinaway.org
 .chinaworker.info
 .chinaxchina.com
@@ -1509,6 +1513,7 @@
 .dclk
 .dcmilitary.com
 .ddc.com.tw
+.ddex.io
 .ddhw.info
 .dditscdn.com
 .ddns.info
@@ -1798,6 +1803,7 @@
 .edu
 .edubridge.com
 .edupro.org
+.edx-cdn.org
 .ee
 .eesti.ee
 .eevpn.com
@@ -1921,6 +1927,7 @@
 .europa.eu
 .eurovision
 .eus
+.everipedia.org
 .evozi.com
 .evschool.net
 .exam.gov.tw
@@ -2287,6 +2294,7 @@
 .ftvnews.com.tw
 .ftx.com
 .fucd.com
+.fuchsia.dev
 .fuckcnnic.net
 .fuckgfw.org
 .fuckgfw233.org
@@ -3384,6 +3392,7 @@
 .justmysocks.net
 .justmysocks1.net
 .justmysocks2.net
+.justmysockscn.com
 .justpaste.it
 .justtristan.com
 .juyuange.org
@@ -3884,6 +3893,7 @@
 .mercdn.net
 .merckmsd
 .mercyprophet.org
+.mergersandinquisitions.com
 .mergersandinquisitions.org
 .meridian-trust.org
 .meripet.biz
@@ -4336,6 +4346,7 @@
 .nicovideo.jp
 .nighost.org
 .nightlife141.com
+.nightswatch.top
 .nike
 .nike.com
 .nikkei.com
@@ -4553,6 +4564,7 @@
 .onejav.com
 .onesto.re
 .onestore.co.kr
+.onevps.com
 .oneworldmanystories.com
 .onion.city
 .onion.ly
@@ -4660,6 +4672,7 @@
 .palmislife.com
 .paltalk.com
 .panasonic
+.pandafan.pub
 .pandapow.co
 .pandapow.net
 .pandavpn-jp.com
@@ -4913,6 +4926,7 @@
 .proxypy.net
 .proxyroad.com
 .proxytunnel.net
+.proxz.com
 .proyectoclubes.com
 .prozz.net
 .pru
@@ -4979,6 +4993,7 @@
 .qianglie.com
 .qiangwaikan.com
 .qiangyou.org
+.qianmo.tw
 .qidian.ca
 .qienkuen.org
 .qiwen.lu
@@ -5089,6 +5104,7 @@
 .reddit.com
 .redditlist.com
 .redditmedia.com
+.redditspace.com
 .redditstatic.com
 .redhat.com
 .redhotlabs.com
@@ -5207,7 +5223,6 @@
 .s-onetag.com
 .s1heng.com
 .s1s1s1.com
-.s3-ap-northeast-1.amazonaws.com
 .s3-ap-southeast-1.amazonaws.com
 .s3-ap-southeast-2.amazonaws.com
 .s3.amazonaws.com
@@ -5368,6 +5383,7 @@
 .shadowsocks.be
 .shadowsocks.com
 .shadowsocks.com.hk
+.shadowsocks.nu
 .shadowsocks.org
 .shadowsocks9.com
 .shafaqna.com
@@ -5434,6 +5450,8 @@
 .sijihuisuo.club
 .sijihuisuo.com
 .silkbook.com
+.silvergatebank.com
+.simplecd.me
 .simplecd.org
 .simpleproductivityblog.com
 .simpleswap.io
@@ -5652,6 +5670,7 @@
 .ssr.tools
 .ssrshare.com
 .ssrshare.us
+.ssrtool.com
 .sss.camp
 .sstatic.net
 .sstm.moe
@@ -5714,6 +5733,7 @@
 .straplessdildo.com
 .streamable.com
 .streamate.com
+.streamguys1.com
 .streamingthe.net
 .streamroot.io
 .streamsb.net
@@ -5786,6 +5806,7 @@
 .symauth.com
 .symcb.com
 .symcd.com
+.synapse.org
 .syncback.com
 .synergyse.com
 .syosetu.com
@@ -6198,6 +6219,7 @@
 .toshiba
 .total
 .totalvpn.com
+.tou.tv
 .toutiaoabc.com
 .towngain.com
 .toyota
@@ -6576,6 +6598,7 @@
 .versavpn.com
 .verybs.com
 .vevo.com
+.vewas.net
 .vft.com.tw
 .vg
 .vi
@@ -6597,6 +6620,7 @@
 .vig
 .vijayatemple.org
 .viking
+.vilanet.me
 .vilavpn.com
 .vilynx.com
 .vimeo.com
