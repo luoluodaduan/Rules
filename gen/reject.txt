@@ -6088,6 +6088,7 @@
 .ads.yeeyi.com
 .ads.yimg.com
 .ads.youtube.com
+.ads.zhinengxiyifang.cn
 .ads01.com
 .ads1-adnow.com
 .ads1.lfengmobile.com
@@ -9018,6 +9019,7 @@
 .api.wipmania.com
 .api.xiaohuxi.cn
 .api.xk.miui.com
+.api.yfanads.com
 .api.yidaomobi.com
 .api.youngle.tech
 .api.youtu.qq.com
