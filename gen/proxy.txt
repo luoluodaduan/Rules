@@ -51,6 +51,7 @@
 .2017.hk
 .2021hkcharter.com
 .2047.name
+.2047.one
 .2049bbs.xyz
 .21andy.com
 .21join.com
@@ -650,6 +651,7 @@
 .bdsmvideos.net
 .be
 .beaconevents.com
+.bearteach.com
 .beats
 .bebo.com
 .beeg.com
@@ -956,6 +958,7 @@
 .ca.gov
 .cableav.tv
 .cablegatesearch.net
+.cachefly.com
 .cachefly.net
 .cachinese.com
 .cacnw.com
@@ -1333,7 +1336,6 @@
 .com.uk
 .comedycentral.com
 .comefromchina.com
-.comfastgpt.run
 .comic-mega.me
 .comico.tw
 .commandarms.com
@@ -1423,6 +1425,7 @@
 .curvefish.com
 .cusp.hk
 .cusu.hk
+.cutout.pro
 .cutscenes.net
 .cv
 .cw
@@ -1969,6 +1972,7 @@
 .faceless.me
 .facesofnyfw.com
 .facesoftibetanselfimmolators.info
+.factchecklab.org
 .factpedia.org
 .fage
 .fail.hk
@@ -2287,6 +2291,7 @@
 .fscked.org
 .fstats.xyz
 .fsurf.com
+.ft.com
 .ftchinese.com
 .ftp1.biz
 .ftpserver.biz
@@ -2428,6 +2433,7 @@
 .getmalus.com
 .getmdl.io
 .getoutline.org
+.getsession.org
 .getsocialscope.com
 .getsync.com
 .gettr.com
@@ -4263,6 +4269,7 @@
 .netdna-cdn.com
 .netfirms.com
 .netflav.com
+.netlify.app
 .netme.cc
 .netmng.com
 .netsarang.com
@@ -5610,6 +5617,7 @@
 .soundcloud.com
 .soundofhope.kr
 .soundofhope.org
+.soundon.fm
 .soup.io
 .soupofmedia.com
 .sourceforge.net
@@ -5964,6 +5972,7 @@
 .tfhub.dev
 .tfiflve.com
 .tg
+.tg-me.com
 .tgfcer.com
 .tgstat.com
 .th
@@ -6984,6 +6993,7 @@
 .x-art.com
 .x-berry.com
 .x-wall.org
+.x.ai
 .x.co
 .x.com
 .x.company
