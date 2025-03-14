@@ -2036,7 +2036,6 @@
 .farwestchina.com
 .fast.com
 .fastestvpn.com
-.fastgpt.run
 .fastly-insights.com
 .fastly.net
 .fastmail.com
