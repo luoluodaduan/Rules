@@ -4885,6 +4885,7 @@ ad.hiiir.com
 ad.holaq.com
 ad.houkei-shinjuku.com
 ad.house365.com
+ad.hpplay.cn
 ad.huajiao.com
 ad.ibookstar.com
 ad.ichiban-boshi.com
@@ -5366,6 +5367,7 @@ adelphic.net
 ademails.com
 aden.baidu.com
 adenc.co.kr
+adeng.hpplay.cn
 adengage.com
 adentifi.com
 adeq.hiidc.com.cn
@@ -7820,7 +7822,6 @@ amcmuhu.com
 amdahlryes.com
 amdc.alipay.com
 amdcopen.m.taobao.com
-amdcopen.m.umeng.com
 amelatrina.com
 amendableirritatingprotective.com
 amendablesloppypayslips.com
@@ -8631,6 +8632,7 @@ andomedia.com
 andomediagroup.com
 android-cleaners.com
 android.bcfads.com
+android.bugly.qq.com
 android.push.126.net
 android.txtsmarter.com
 androidgo.duapp.com
@@ -11462,7 +11464,6 @@ azointel.com
 azoogleads.com
 azorbe.com
 azotvby.com
-azr.footprintdns.com
 azscgj.penningtons.com
 azskk.com
 azsqkrc.icu
@@ -17813,6 +17814,7 @@ condyleboggart.com
 conestreshow.com
 conetizable.com
 conf.funshion.com
+conf.hpplay.cn
 conf.optum.com
 conf.vidown.cn
 confabureas.com
@@ -30325,6 +30327,7 @@ g.bitmag.com.br
 g.click.taobao.com
 g.corp.163.com
 g.daman.cc
+g.dtv.cn.miaozhen.com
 g.f11w.com
 g.f5gh.com
 g.gegeyingshi.com
@@ -32941,6 +32944,7 @@ gsimedia.net
 gsjdzx.com
 gsjlfs.com
 gsjln04hd.com
+gslb.hpplay.cn
 gslive.edm.globalsources.com
 gsmatch.edm.globalsources.com
 gsmqez.xcite.com
@@ -34744,6 +34748,7 @@ hotsocials.com
 hottedholster.com
 hottercensorbeaker.com
 hottraffic.nl
+hotupgrade.hpplay.cn
 hotwire-widget.dailywire.com
 hotwords.com
 houbliu.top
@@ -35807,6 +35812,7 @@ image.deginvest.de
 image.fsyule.net
 image.go.aricent.com
 image.haiyunx.com
+image.hpplay.cn
 image.info.perkinelmer.com
 image.kfw-entwicklungsbank.de
 image.kfw-formularsammlung.de
@@ -36356,6 +36362,7 @@ imcdn.pro
 imcht.net
 imcod.net
 imcounter.com
+imdns.hpplay.cn
 imediaaudiences.com
 imediacrew.club
 imeetcentral.pgi.com
@@ -56721,6 +56728,7 @@ pimentoscoter.com
 pimg1.126.net
 pimlog.baidu.com
 pimpoint.inriver.com
+pin.hpplay.cn
 pinaffectionatelyaborigines.com
 pincai.com
 pincersnap.com
@@ -62142,6 +62150,7 @@ royzgi.giftishow.com
 rozamimo9za10.com
 rp.baidu.cn
 rp.baidu.com
+rp.hpplay.cn
 rpazaa.xyz
 rpeutxu.icu
 rpfkgf.rp-online.de
@@ -64152,6 +64161,7 @@ sdk.zsdfm.com
 sdk4push.com
 sdkapp.mobile.sina.cn
 sdkapp.uve.weibo.com
+sdkauth.hpplay.cn
 sdkclick.com
 sdkclick.mobile.sina.cn
 sdkconf.avlyun.com
@@ -66082,6 +66092,7 @@ skyxqbbv.xyz
 sl-ct5.com
 sl-log.oray.net
 sl-tk.oray.com
+sl.hpplay.cn
 sl.trycircle.com
 sl.xawjwl.com
 slabshookwasted.com
@@ -80256,6 +80267,7 @@ tuxi.com.cn
 tuxpfiok.icu
 tv-test.esvdigital.com
 tv.totaljobs.com
+tvapp.hpplay.cn
 tvcoag.brw.pl
 tver-metrics.streaks.jp
 tvgkatu.icu
@@ -82593,6 +82605,7 @@ vip.winfisc.com
 vip.zhuba8.com
 vipads.cn
 vipads.live
+vipauth.hpplay.cn
 vipdragonapp.monster
 viperishly.com
 vipfanyongwang.com
