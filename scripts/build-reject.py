@@ -9,7 +9,7 @@ def get_reject(url):
 
 reject_urls = []
 reject_urls.append("https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-surge.txt")
-reject_urls.append("https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/refs/heads/main/AWAvenue-Ads-Rule.txt")
+reject_urls.append("https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt")
 
 if __name__ == "__main__":
     reject = set()
