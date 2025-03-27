@@ -101854,6 +101854,7 @@ payload:
   - 'connectivitycheck.gstatic.com'
   - 'crl-lb.apple.com.akadns.net'
   - 'crl.apple.com'
+  - 'crl.globalsign.net'
   - 'crl.pki.goog'
   - 'crls.pki.goog'
   - 'csi.gstatic.com'
