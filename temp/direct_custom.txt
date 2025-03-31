@@ -1,6 +1,7 @@
 .886.be
 .9dmgamemod.com
 .a-msedge.net
+.academicearth.org
 .acwing.com
 .adtidy.org
 .agit.ai
@@ -48,6 +49,7 @@
 .k-msedge.net
 .kkgithub.com
 .l-msedge.net
+.learncodethehardway.org
 .live.com
 .lync.com
 .m-msedge.net
