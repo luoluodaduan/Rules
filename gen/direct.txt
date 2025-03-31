@@ -9258,6 +9258,7 @@
 .ac268.com
 .ac57.com
 .acabridge.net
+.academicearth.org
 .academygkusa.com
 .academypublication.com
 .acadki.com
@@ -56936,6 +56937,7 @@
 .leapmotor.com
 .learn-quantum.com
 .learn.microsoft.com
+.learncodethehardway.org
 .learndiary.com
 .learnfuture.com
 .learning-archive.org
