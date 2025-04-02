@@ -8973,6 +8973,7 @@
 .api.ijunhai.com
 .api.installer.xiaomi.com
 .api.jialiangad.com
+.api.jietuhb.com
 .api.jsfc8.cn
 .api.june.so
 .api.ketedata.com
@@ -15500,6 +15501,7 @@
 .cdl2.booksy.com
 .cdlekgr.icu
 .cdmyeg.xyz
+.cdn-ad.wtzw.com
 .cdn-ads.oss-cn-shanghai.aliyuncs.com
 .cdn-adtech.com
 .cdn-adtrue.com
@@ -53006,7 +53008,6 @@
 .oatmealstickyflax.com
 .oatsegnickeez.net
 .oauqyw.xyz
-.oauth-login-drcn.platform.dbankcloud.com
 .oavurognaurd.net
 .obcswpfk.xyz
 .obdtawpwyr.com
