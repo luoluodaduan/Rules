@@ -5434,6 +5434,8 @@
 .adexchangetracker.com
 .adexcite.com
 .adexmedias.com
+.adexp.chinaliftoff.io
+.adexp.liftoff.io
 .adexpo.tencentmusic.com
 .adexprts.com
 .adextrem.com
@@ -15593,6 +15595,7 @@
 .cdn.arcstudiopro.com
 .cdn.b2.ai
 .cdn.c-i.as
+.cdn.chinaliftoff-creatives.io
 .cdn.cookie.pii.ai
 .cdn.debugbear.com
 .cdn.dragonstatic.com
@@ -15609,6 +15612,7 @@
 .cdn.jllstudio.com
 .cdn.kelpo.cloud
 .cdn.komentary.aol.com
+.cdn.liftoff-creatives.io
 .cdn.manga9.co
 .cdn.mcnn.pl
 .cdn.mingmingtehui.com
@@ -16600,6 +16604,7 @@
 .click.carousell.com
 .click.cheshi-img.com
 .click.cheshi.com
+.click.chinaliftoff.io
 .click.com.cn
 .click.community.carousell.com
 .click.compli.com
@@ -16629,6 +16634,7 @@
 .click.instacartemail.com
 .click.kataweb.it
 .click.lergao.com
+.click.liftoff.io
 .click.lmbcustomersupport.com
 .click.mail.carousell.com
 .click.mail.thecarousell.com
@@ -16673,6 +16679,7 @@
 .click2earnfree.com
 .click360.io
 .click360v2-ingest.azurewebsites.net
+.click4.chinaliftoff.io
 .click4.pro
 .click4free.info
 .clickable.com
@@ -32307,6 +32314,7 @@
 .googleadapis.com
 .googleads-cn.com
 .googleads.com
+.googleads.g.doubleclick-cn.net
 .googleads.g.doubleclick.net
 .googleads.github.io
 .googleadsserving.cn
@@ -36485,6 +36493,8 @@
 .impresionesweb.com
 .impresivedate.com
 .impress.vcita.com
+.impression-asia.chinaliftoff.io
+.impression-asia.liftoff.io
 .impression-tracker-service-5eimuebuhq-lz.a.run.app
 .impression.link
 .impressionableegg.pro
@@ -41817,6 +41827,7 @@
 .lh.bigcrunch.com
 .lh031i88q.com
 .lh1dki82.com
+.lh3.googleadsserving.cn
 .lh49dki80.com
 .lhafy.com
 .lhamjcpnpqb.xyz
@@ -53451,6 +53462,7 @@
 .ofwdvh.suntransfers.com
 .ofzzuqlfuof.com
 .og.zyzjpx.cn
+.ogads-pa.clients6.google.com
 .ogads-pa.googleapis.com
 .ogaku.site
 .ogb2.biopur-leanature.fr
@@ -76556,6 +76568,8 @@
 .tp1902abd.com
 .tp4sul.jwzd.com.cn
 .tp88trk.com
+.tpc.googlesyndication-cn.com
+.tpc.googlesyndication.com
 .tpciqzm.com
 .tpcserve.com
 .tpdads.com
