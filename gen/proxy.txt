@@ -1273,6 +1273,7 @@
 .clips4sale.com
 .cloakpoint.com
 .cloudcone.com
+.cloudflare-dns.com
 .cloudflare-ipfs.com
 .cloudflare.com
 .cloudflareinsights.com
@@ -2023,6 +2024,7 @@
 .fangongheike.com
 .fanhaodang.com
 .fanhaolou.com
+.fani.com
 .fanqiang.network
 .fanqiang.tk
 .fanqiangdang.com
@@ -2048,6 +2050,7 @@
 .faststone.org
 .fatakat-n.club
 .fatbtc.com
+.favcomic.com
 .faviconkit.com
 .favotter.net
 .favstar.fm
@@ -2672,6 +2675,7 @@
 .gzm.tv
 .gzone-anime.info
 .h-china.org
+.h-ciyuan.com
 .h-moe.com
 .h1n1china.org
 .h528.com
@@ -2999,6 +3003,7 @@
 .hyperrate.com
 .hypothes.is
 .hyread.com.tw
+.hysteria.network
 .hyundai
 .i-cable.com
 .i-part.com.tw
@@ -3813,6 +3818,7 @@
 .mansion.com
 .mansionpoker.com
 .manta.com
+.manwa.me
 .manyvoices.news
 .maplew.com
 .marc.info
@@ -5258,6 +5264,7 @@
 .safechat.com
 .safeguarddefenders.com
 .safervpn.com
+.sagernet.org
 .saintyculture.com
 .saiq.me
 .sakura
@@ -5617,6 +5624,7 @@
 .sosad.fun
 .sosreader.com
 .sostibet.org
+.sotwe.com
 .sou-tong.org
 .soubory.com
 .soul-plus.net
@@ -5683,6 +5691,7 @@
 .ssglobal.me
 .ssh91.com
 .ssl443.org
+.ssm.fun
 .sspanel.net
 .sspanel.org
 .sspro.ml
@@ -6047,6 +6056,7 @@
 .thlib.org
 .thomasbernhard.org
 .thongdreams.com
+.thotsbay.tv
 .threadreaderapp.com
 .threads.net
 .threatchaos.com
