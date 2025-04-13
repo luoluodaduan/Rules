@@ -522,6 +522,7 @@
 .au
 .audacy.com
 .audi
+.audiomack.com
 .audionow.com
 .auspost
 .authorizeddns.net
@@ -5242,6 +5243,7 @@
 .s3-ap-southeast-1.amazonaws.com
 .s3-ap-southeast-2.amazonaws.com
 .s3.amazonaws.com
+.s3.eu-central-1.amazonaws.com
 .s4miniarchive.com
 .s8forum.com
 .sa
