@@ -71924,7 +71924,6 @@ address=/stats.psychotherapieravensburg.de/
 address=/stats.pubfind.io/
 address=/stats.pusher.com/
 address=/stats.qdq.com/
-address=/stats.qiumibao.com/
 address=/stats.qovery.com/
 address=/stats.quicksilvercre.com/
 address=/stats.qwant.com/
