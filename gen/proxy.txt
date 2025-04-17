@@ -39,8 +39,16 @@
 .1dumb.com
 .1e100.net
 .1eew.com
+.1lib.cloud
+.1lib.cz
 .1lib.domains
+.1lib.education
+.1lib.eu
+.1lib.limited
+.1lib.pl
+.1lib.sk
 .1lib.to
+.1lib.tw
 .1mobile.com
 .1mobile.tw
 .1point3acres.com
@@ -64,6 +72,7 @@
 .24smile.org
 .25u.com
 .2du5.com
+.2lib.org
 .2lipstube.com
 .2mdn.net
 .2shared.com
@@ -77,6 +86,7 @@
 .3arabtv.com
 .3boys2girls.com
 .3d-game.com
+.3lib.net
 .3proxy.ru
 .3ren.ca
 .3tui.net
@@ -472,6 +482,7 @@
 .armorgames.com
 .army.mil
 .art19.com
+.art1lib.com
 .art4tibet1998.org
 .arte
 .arte.tv
@@ -568,7 +579,11 @@
 .azure
 .azureedge.net
 .azurewebsites.net
+.b-ok.africa
+.b-ok.asia
 .b-ok.cc
+.b-ok.global
+.b-ok.org
 .b0ne.com
 .ba
 .baby-kingdom.com
@@ -824,9 +839,18 @@
 .boo
 .boobstagram.com
 .book.com.tw
+.book4you.org
 .bookdepository.com
 .bookepub.com
+.bookfi.net
 .books.com.tw
+.booksc.eu
+.booksc.me
+.booksc.org
+.booksc.xyz
+.bookshome.info
+.bookshome.net
+.bookshome.world
 .booktopia.com.au
 .bookwalker.com.tw
 .boomssr.com
@@ -1534,6 +1558,7 @@
 .ddns.us
 .de
 .de-sci.org
+.de1lib.org
 .deadhouse.org
 .deadline.com
 .deaftone.com
@@ -2528,6 +2553,7 @@
 .gnews.org
 .gnu.org
 .go-pki.com
+.go-to-library.sk
 .go-to-zlibrary.se
 .go.com
 .go.dev
@@ -2806,6 +2832,7 @@
 .hjd2048.com
 .hk-pub.com
 .hk01.com
+.hk1lib.org
 .hk32168.com
 .hkacg.com
 .hkacg.net
@@ -3234,6 +3261,7 @@
 .it
 .itaboo.info
 .itaiwan.gov.tw
+.italian-books.sk
 .italiatibet.org
 .itasoftware.com
 .itau
@@ -3640,6 +3668,9 @@
 .libertytimes.com.tw
 .libraryinformationtechnology.com
 .libredd.it
+.libsolutions.app
+.libsolutions.domains
+.libsolutions.net
 .licdn.com
 .lidecheng.com
 .lidl
@@ -3777,6 +3808,7 @@
 .m.me
 .m8008.com
 .ma
+.ma1lib.org
 .macgamestore.com
 .macrovpn.com
 .macrumors.com
@@ -5398,6 +5430,7 @@
 .sftuk.org
 .sfx.ms
 .sg
+.sg1lib.org
 .sgzhan.com
 .sh
 .shadeyouvpn.com
@@ -5483,7 +5516,11 @@
 .sinchew.com.my
 .singaporepools.com.sg
 .singfortibet.com
+.singlelogin.app
+.singlelogin.me
+.singlelogin.re
 .singlelogin.se
+.singlelogin.site
 .singpao.com.hk
 .singtao.ca
 .singtao.com
@@ -7304,8 +7341,13 @@
 .yyjlymb.xyz
 .yysub.net
 .yzzk.com
+.z-lib.gd
+.z-lib.gs
 .z-lib.io
 .z-lib.org
+.z-lib.ps
+.z-library.se
+.z-library.sk
 .zacebook.com
 .zalmos.com
 .zamimg.com
@@ -7368,6 +7410,9 @@
 .zippyshare.com
 .zkaip.com
 .zkiz.com
+.zlib.life
+.zlibcdn.com
+.zlibcdn2.com
 .zm
 .zmedia.com.tw
 .zodgame.us
