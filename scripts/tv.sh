@@ -37,9 +37,9 @@ find dist -name '5.json' | xargs jq '.' >fan/5.json
 find dist -name '6.json' | xargs jq '.' >fan/6.json
 
 find fan -name '[0-9].json' | xargs perl -pi -e 's|/refs/heads/|/|g'
+find fan -name '[0-9].json' | xargs perl -pi -e 's|(["=])https?:/([^"=]*)/raw\.([^/]+)/([^/]+)/|$1https://gh-proxy.com/https://raw.githubusercontent.com/$4/|g'
 find fan -name '[0-9].json' | xargs perl -pi -e 's|(["=])https?:/([^"=]*)/github\.com/([^/]+)/([^/]+)/raw/|$1https://gh-proxy.com/https://raw.githubusercontent.com/$3/$4/|g'
 find fan -name '[0-9].json' | xargs perl -pi -e 's|(["=])https?:/([^"=]+)\.jsdelivr\.net/gh/([^/]+)/([^/]+)@|$1https://gh-proxy.com/https://raw.githubusercontent.com/$3/$4/|g'
-find fan -name '[0-9].json' | xargs perl -pi -e 's|(["=])https?:/([^"=]*)/raw\.([^/]+)/([^/]+)/|$1https://gh-proxy.com/https://raw.githubusercontent.com/$4/|g'
 
 find fan -name '1.json' | xargs perl -pi -e 's|(["=])\./|$1https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/|g'
 find fan -name '2.json' | xargs perl -pi -e 's|(["=])\./|$1https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/|g'
