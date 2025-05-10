@@ -44,9 +44,9 @@ jobs:
           sh scripts/tv.sh
           sh scripts/gfwlist.sh -l -o dist/gfw1.txt
           curl -o- "https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/tld-not-cn.txt" | sed 's/^\.//' | grep -vE "^#|^$" >> dist/gfw1.txt
-          cat dist/gfw1.txt temp/gfw_wiki.txt temp/gfw_custom.txt | grep -vE '\.cn$|\.xn--fiqs8s$|\.baidu\.|\.hao123|\.iqiyi\.|\.sina\.|\.weibo\.|\.youku\.' > dist/gfw2.txt
+          cat dist/gfw1.txt temp/gfw_wiki.txt temp/gfw_custom.txt | grep -vE '\.cn$|\.xn--fiqs8s$|\.baidu\.|\.hao123|\.iqiyi\.|\.sina\.|\.weibo\.|\.youku\.' | sed 's/\t/ /g' > dist/gfw2.txt
           grep -vE 'blogspot|discord|facebook|flickr|google|instagram|netflix|pinterest|porn|telegram|twitch|twitter|whatsapp|wikileaks|wikipedia|yahoo|youtube' dist/gfw2.txt > dist/gfw3.txt
-          grep -vE '\.apple\.|\.icloud\.|\.itunes\.|\.microsoft\.|\.windows\.' dist/gfw3.txt | sed 's/ //g' | sort -uf | grep -v "^$" > dist/gfw.txt
+          grep -vE '\.apple\.|\.icloud\.|\.itunes\.|\.microsoft\.|\.windows\.' dist/gfw3.txt | sed 's/ //g' | sed 's/\r/\n/g' | sort -uf | grep -v "^$" > dist/gfw.txt
           python3 ./scripts/build-adguard.py
           python3 ./scripts/build-apple.py
           python3 ./scripts/build-cnip.py
