@@ -6036,7 +6036,6 @@
 .ads.feedly.com
 .ads.feelingtouch.com
 .ads.fetnet.net
-.ads.flurry.com
 .ads.gionee.com
 .ads.globo.com
 .ads.gmodules.com
@@ -6062,6 +6061,7 @@
 .ads.playboy.com
 .ads.privacy.qq.com
 .ads.pubmatic.com
+.ads.raidrive.com
 .ads.reader.yueyouxs.com
 .ads.saymedia.com
 .ads.servebom.com
@@ -56016,6 +56016,7 @@
 .pay.aqiu6.com
 .pay.holaq.com
 .pay.mobile.sina.cn
+.pay.sboot.cn
 .pay.truemoney.me
 .paybackmodified.com
 .paydashboardinfo.com
@@ -84871,6 +84872,7 @@
 .wmwwmbjkqomr.top
 .wmxuba.aldoshoes.com
 .wmzlbovlwrrok.top
+.wn.x.jd.com
 .wn6y.cn
 .wnbfw.com
 .wncs.7ez4.cn
