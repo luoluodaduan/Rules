@@ -24,5 +24,5 @@ if __name__ == "__main__":
     adguard_file = open(os.getcwd() + "/dist/adguard1.txt", mode="w", encoding="utf-8")
     for line in adguard:
         if not line.startswith(("#", "!", "！", "[")) and len(line) > 0:
-            adguard_file.write("%s\n" % line.replace("\r", ""))
+            adguard_file.write("%s\n" % line.replace("\t", " ").replace("\r", "\n"))
     adguard_file.close()

@@ -20,5 +20,5 @@ if __name__ == "__main__":
     tiktok_file = open(os.getcwd() + "/temp/tiktok.txt", mode="w", encoding="utf-8")
     for line in tiktok:
         if not line.startswith(("#", "!", "！", "[")) and len(line) > 0:
-            tiktok_file.write("%s,PROXY\n" % line.replace(" ", "").replace("\t", "").replace("\r", ""))
+            tiktok_file.write("%s,PROXY\n" % line.replace(" ", "").replace("\t", " ").replace("\r", "\n"))
     tiktok_file.close()

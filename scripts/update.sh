@@ -11,7 +11,7 @@ sort -uf dist/direct11.txt | grep -vE '[a-z0-9]\.cn$' | grep -v "^$" >gen/direct
 grep -vE 'blogspot|discord|facebook|flickr|google|instagram|netflix|pinterest|porn|telegram|twitch|twitter|whatsapp|wikileaks|wikipedia|yahoo|youtube' dist/direct2.txt >dist/direct22.txt
 sed "s/'\./'+\./" dist/direct22.txt | grep -vE "[a-z0-9]\.cn'$" | sort -uf | grep -v "^$" | sed -e '1s/^/payload:\n/' >coo/direct.yaml
 cat dist/direct3.txt | grep -vE 'blogspot|discord|facebook|flickr|google|instagram|netflix|pinterest|porn|telegram|twitch|twitter|whatsapp|wikileaks|wikipedia|yahoo|youtube' >dist/direct34.txt
-sed 's/server=\/\./server=\//g' dist/direct34.txt | grep -vE "[a-z0-9]\.cn\/[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+$" | sort -uf | grep -v "^$" >fan/dnsmasqCN.txt
+sed 's/server=\/\./server=\//' dist/direct34.txt | grep -vE "[a-z0-9]\.cn\/[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+$" | sort -uf | grep -v "^$" >fan/dnsmasqCN.txt
 sed 's/^\.//' dist/direct11.txt | grep -vE '[a-z0-9]\.cn$|jsdelivr|ghproxy|gh-proxy|moeyy\.xyz|1888866\.xyz|isteed\.cc' | sort -uf | grep -v "^$" >fan/smartdnsCN.txt
 
 sort -uf dist/proxy1.txt | grep -v "^$" >gen/proxy.txt

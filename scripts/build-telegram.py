@@ -21,7 +21,7 @@ if __name__ == "__main__":
     telegram_file2 = open(os.getcwd() + "/dist/telegram2.txt", mode="w", encoding="utf-8")
     for line in telegram:
         if not line.startswith(("#", "!", "！", "[")) and len(line) > 0:
-            line = line.replace(" ", "").replace("\t", "").replace("\r", "")
+            line = line.replace(" ", "").replace("\t", " ").replace("\r", "\n")
             telegram_file1.write("IP-CIDR,%s,PROXY,no-resolve\n" % line)
             telegram_file2.write("  - '%s'\n" % line)
     telegram_file1.close()
