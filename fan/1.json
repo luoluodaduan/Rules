@@ -258,22 +258,6 @@
       "changeable": 0
     },
     {
-      "key": "csp_WoGGGuard",
-      "name": "👽玩偶哥哥(SP)",
-      "type": 3,
-      "api": "csp_WoGGGuard",
-      "timeout": 30,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto",
-        "siteUrl": "https://www.wogg.com/",
-        "danMu": "弹"
-      }
-    },
-    {
       "key": "csp_SbaibaiGuard",
       "name": "🐟素白白(SP)",
       "type": 3,
@@ -333,19 +317,6 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "rfOb1uAWbkRHp7hdxprG9un3+TfN183v1zIyaYDoDAIaLw5L8Dp8+v88LrEL3dBzrmWbdMBX0WNm7HtkQuw0AIzUurGBVyPqCKzDmbriATuukhctJlsLo8KxCw=="
-    },
-    {
-      "key": "csp_LibvioGuard",
-      "name": "🎉Libvio(SP)",
-      "type": 3,
-      "api": "csp_LibvioGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
     },
     {
       "key": "csp_ZxzjGuard",
@@ -1198,14 +1169,6 @@
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/腾云驾雾[官].js"
-    },
-    {
-      "key": "csp_AList",
-      "name": "📜AList",
-      "type": 3,
-      "api": "csp_AList",
-      "searchable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/a.json"
     },
     {
       "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/gm.jar",

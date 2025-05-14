@@ -544,13 +544,28 @@
       }
     },
     {
-      "key": "AList",
-      "name": "🅰AList",
+      "key": "易搜",
+      "name": "🆎易搜",
       "type": 3,
-      "api": "csp_AList",
+      "api": "csp_YiSo",
+      "searchable": 1,
+      "filterable": 0,
+      "switchable": 0,
+      "ext": {
+        "cookie": "satoken=0eedba28-be8a-4f01-81af-2d8d44808ecf",
+        "commonConfig": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
+      }
+    },
+    {
+      "key": "纸条搜",
+      "name": "📜小纸条",
+      "type": 3,
+      "api": "csp_XiaoZhiTiao",
       "searchable": 1,
       "changeable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/alist.json"
+      "ext": {
+        "commonConfig": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
+      }
     },
     {
       "key": "游戏直播",
