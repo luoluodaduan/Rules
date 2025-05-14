@@ -362,17 +362,6 @@
       "changeable": 0
     },
     {
-      "key": "csp_AList",
-      "name": "AList网盘",
-      "type": "3",
-      "api": "csp_AList",
-      "searchable": "0",
-      "quickSearch": "0",
-      "filterable": "1",
-      "changeable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/json/alist.json"
-    },
-    {
       "key": "新6V",
       "name": "新6V磁力慎用",
       "type": 3,

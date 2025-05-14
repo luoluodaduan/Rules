@@ -18,17 +18,6 @@
       }
     },
     {
-      "key": "ConfigCenter",
-      "name": "🅿网盘配置中心",
-      "type": 3,
-      "api": "csp_ConfigCenter",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": {
-        "commonConfig": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
-      }
-    },
-    {
       "key": "瓜子",
       "name": "🍉瓜子",
       "type": 3,
@@ -562,19 +551,6 @@
       "searchable": 1,
       "changeable": 0,
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/alist.json"
-    },
-    {
-      "key": "网盘集合",
-      "name": "🅿网盘集合4K",
-      "type": 3,
-      "api": "csp_网盘集合",
-      "searchable": 1,
-      "filterable": 0,
-      "switchable": 0,
-      "ext": {
-        "commonConfig": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
-        "share": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/网盘集合.json"
-      }
     },
     {
       "key": "游戏直播",

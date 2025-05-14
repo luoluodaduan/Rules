@@ -54,20 +54,6 @@
     },
     {
       "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/pg.jar",
-      "key": "csp_Config_PG",
-      "name": "🔨网盘及弹幕配置",
-      "type": 3,
-      "api": "csp_Config",
-      "searchable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1
-      },
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/pg.json"
-    },
-    {
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/pg.jar",
       "key": "csp_Guazi_PG",
       "name": "🌻瓜子(SP)",
       "type": 3,
