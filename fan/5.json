@@ -65,6 +65,34 @@
       "quickSearch": 1
     },
     {
+      "key": "再看",
+      "name": "再看APP",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://149.88.64.161:8627",
+        "dataKey": "123456789ABCDEFG",
+        "dataIv": "123456789ABCDEFG",
+        "deviceId": "2bb4c10f3e043307dbfc579bd0db23f4e",
+        "version": "110"
+      }
+    },
+    {
+      "key": "仓鼠",
+      "name": "仓鼠APP",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://appcms.cs4k.top",
+        "dataKey": "Hui6595253......",
+        "dataIv": "Hui6595253......",
+        "deviceId": "",
+        "version": ""
+      }
+    },
+    {
       "key": "集多",
       "name": "集多APP",
       "type": 3,
@@ -444,10 +472,10 @@
       "api": "csp_SP360"
     },
     {
-      "key": "雷鲸",
-      "name": "雷鲸",
+      "key": "海绵",
+      "name": "海绵",
       "type": 3,
-      "api": "csp_PanWebShareCloudLJ",
+      "api": "csp_PanWebShareCloudHM",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -456,7 +484,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/json/lj.json"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/json/hm.json"
     },
     {
       "key": "双星",
@@ -487,6 +515,13 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://cs.hgyx.vip/api2/api.php/app/"
+    },
+    {
+      "key": "小慧影视",
+      "name": "小慧影视",
+      "type": 1,
+      "api": "http://cms.xiaohui.cyou:1002/api.php/provide/vod/?ac=list",
+      "playUrl": "json:http://xiaohui.cyou:1000/api/?key=7ee73e22b404453adc116a403a32e9c8&url="
     },
     {
       "key": "金牌影视",

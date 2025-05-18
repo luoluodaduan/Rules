@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem0517.jar;md5;9D8CE31EDD5E8C2CA3BC0C6F6AD95132",
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem0518.jar;md5;64841D1B9D6F479918CF9FD20AAFF6CE",
   "wallpaper": "https://pic.850930.xyz/",
   "sites": [
     {
@@ -610,6 +610,16 @@
       }
     },
     {
+      "key": "csp_AppYsV2_影探",
+      "name": "🕵️‍♂️影探(APP)",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://csysj.lyyytv.cn/api.php/app/"
+    },
+    {
       "key": "csp_TTian_天天_QJ",
       "name": "⛅天天(SP)",
       "type": 3,
@@ -667,10 +677,10 @@
       "ext": "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707"
     },
     {
-      "key": "csp_AppYsV2_超级",
+      "key": "csp_AppYsV2QJ_超级",
       "name": "🎐超级(SP)",
       "type": 3,
-      "api": "csp_AppYsV2",
+      "api": "csp_AppYsV2QJ",
       "playerType": 2,
       "ext": "7lj763gg0939795i0678i48hk312jji7g4k69h089ij36j71031154l2k91k151k138612h68842ji"
     },
@@ -736,7 +746,7 @@
       "type": 3,
       "api": "csp_Xdai",
       "playerType": 2,
-      "ext": "7lj763gg402i7942503g9g9jg94l9884l3k6i952i1951j70534g2ji3i81g55003ki27hgji1688lg56g1ih6h5i6ij15k9lk452078lkkhl1k074jj68"
+      "ext": "7lj763gg402i7942503g9gj0hj4li281k7g69k56829j33311j400hk3ki0557400l8k49gh9g02i1j13l1kh9jgl5gk40hkl362760jl8h09hgk73813kl736gk1l18g3l4i0g0g56h7629ik"
     },
     {
       "key": "csp_Xdai_鲨鱼_QJ",
@@ -1978,42 +1988,6 @@
       "api": "https://catbox.n13.club/t9/caiji.php"
     },
     {
-      "key": "T4_360",
-      "name": "4️⃣360(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/360.php"
-    },
-    {
-      "key": "T4_Auete",
-      "name": "4️⃣Auete(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/auete.php"
-    },
-    {
-      "key": "T4_6V",
-      "name": "4️⃣6V(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/6v.php"
-    },
-    {
-      "key": "T4_4KHDR",
-      "name": "4️⃣4KHDR(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/4khdr.php"
-    },
-    {
-      "key": "T4_电影港",
-      "name": "4️⃣电影港(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/dygangs.php"
-    },
-    {
-      "key": "T4_DJUU",
-      "name": "4️⃣DJUU(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/djuu.php"
-    },
-    {
       "key": "T4_糖豆",
       "name": "4️⃣糖豆(T4)",
       "type": 4,
@@ -2032,16 +2006,20 @@
       "api": "https://catbox.n13.club/t9/bookan.php"
     },
     {
-      "key": "T4_360看球",
-      "name": "4️⃣360看球(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/360kq.php"
-    },
-    {
       "key": "T4_企鹅体育",
       "name": "4️⃣企鹅体育(T4)",
       "type": 4,
       "api": "https://catbox.n13.club/t9/qietiyu.php"
+    },
+    {
+      "key": "vod_小慧",
+      "name": "🚀小慧",
+      "type": 1,
+      "api": "http://cms.xiaohui.cyou:1002/api.php/provide/vod/?ac=list",
+      "playUrl": "json:http://xiaohui.cyou:1000/api/?key=7ee73e22b404453adc116a403a32e9c8&url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "vod_黑木",
@@ -2144,25 +2122,6 @@
       "api": "https://api.1080zyku.com/inc/api_mac10.php",
       "searchable": 1,
       "quickSearch": 1
-    },
-    {
-      "key": "vod_超级",
-      "name": "🚀超级",
-      "type": 1,
-      "api": "http://cjvip.free.hr/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "vod_追风",
-      "name": "🚀追风",
-      "type": 1,
-      "api": "http://www.zfsp.cc/api.php/provide/vod",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "timeout": 10
     },
     {
       "key": "vod_飞速",
