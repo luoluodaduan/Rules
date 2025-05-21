@@ -5586,6 +5586,7 @@
 .adkonekt.com
 .adkongjian.com
 .adkova.com
+.adks.hpplay.cn
 .adku.co
 .adku.com
 .adkwai.com
@@ -8062,6 +8063,7 @@
 .analytics.3c5.com
 .analytics.academy.com
 .analytics.adam.page
+.analytics.adjust.cn
 .analytics.adliners.de
 .analytics.adobe.io
 .analytics.adobe.ly
@@ -10158,6 +10160,7 @@
 .apptracker.torob.com
 .appuat.intermiles.com
 .appuu.cn
+.appversion.115.com
 .appwall.tv2phone.cn
 .appwebview.com
 .appwtehujwi.com
@@ -10744,7 +10747,6 @@
 .at.vodafone.de
 .at1.doubanio.com
 .at2.doubanio.com
-.ata-sdk-uuid-report.dreport.meituan.net
 .atabekdoubly.top
 .atableofcup.com
 .ataccwpdiqqnfl.com
