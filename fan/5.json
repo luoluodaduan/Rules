@@ -253,11 +253,11 @@
       "quickSearch": 1,
       "api": "csp_AppGet",
       "ext": {
-        "url": "http://111.180.198.40:1110",
-        "dataKey": "asgcxhjkts124573",
-        "dataIv": "asgcxhjkts124573",
-        "deviceId": "298e5fe29c74b35aabb9836ee2f6f449f",
-        "version": "701"
+        "url": "http://1.94.105.93",
+        "dataKey": "gKdQKLbwhhLp4Ytv",
+        "dataIv": "gKdQKLbwhhLp4Ytv",
+        "deviceId": "",
+        "version": ""
       }
     },
     {
@@ -663,7 +663,7 @@
       "name": "绝对影视",
       "type": 3,
       "api": "csp_FourK",
-      "ext": "https://www.4kvm.tv"
+      "ext": "https://www.4kvm.net"
     },
     {
       "key": "白白影视",
@@ -1436,6 +1436,17 @@
       "gridview": 3,
       "style": {
         "type": "list"
+      }
+    },
+    {
+      "key": "养生堂",
+      "name": "养生知识",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/XBPQ/养生堂.json",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
       }
     }
   ],
