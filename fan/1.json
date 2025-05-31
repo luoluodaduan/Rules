@@ -617,7 +617,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://csysj.lyyytv.cn/api.php/app/"
+      "ext": "http://cms.lygdyy.cn/api.php/app/"
     },
     {
       "key": "csp_TTian_天天_QJ",
@@ -677,20 +677,12 @@
       "ext": "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707"
     },
     {
-      "key": "csp_qiao_QJ",
-      "name": "🎄巧技二(SP)",
-      "type": 3,
-      "api": "csp_qiao",
-      "playerType": 2,
-      "ext": "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01igg71j3l26k2gk3i71hl81h696923gkl7i0707"
-    },
-    {
       "key": "csp_AppYsV2QJ_超级",
       "name": "🎐超级(SP)",
       "type": 3,
       "api": "csp_AppYsV2QJ",
       "playerType": 2,
-      "ext": "7lj763gg0939795i0678i48hk312jji7g4k69h089ij36j71031154l2k91k151k138612h68842ji"
+      "ext": "7lj763gg09397907492i87j2g8128687kgg1ih5hij8772225j4i54l2k91k151k138612h68842ji"
     },
     {
       "key": "csp_Xdai_橘子_QJ",
@@ -746,7 +738,7 @@
       "type": 3,
       "api": "csp_Xdai",
       "playerType": 1,
-      "ext": "7lj763gg402i7942503g9gj0hj4li291k1lii113j8862i3j7g5412g5gi4k0k5i4ki513l9j61ijjig2735g88gg0g941h2g2352710ggli85h268996ig539"
+      "ext": "7lj763gg402i7942503g9gj0hj4li298lllii113j8862i3j79713kl8j2367k3j229l0kklhh63978g27368jg6ljj739i2i3597j0jhi91lgl828996ig236"
     },
     {
       "key": "csp_Xdai_星河_QJ",
@@ -778,7 +770,7 @@
       "type": 3,
       "api": "csp_Xdai",
       "playerType": 2,
-      "ext": "7lj763gg402i79425227999jg7508k90k3k6j244j6952l2557574gg6kh00480l42i05hg49i578l973l18ghj2g3kk0ll4l1392258l7h6ikk077j56l"
+      "ext": "7lj763gg402i794240208hi3g05l8181hihhjl53988272355j5107k0jh0l4g362jh008g7h97g91g3210l959lk5jk00l6i856520hl493k3lk019l2ljh73li1i19"
     },
     {
       "key": "csp_Xdai_雨滴_QJ",
@@ -3078,7 +3070,14 @@
     "wasu",
     "renrenmi",
     "duoduozy",
-    "bilibili"
+    "bilibili",
+    "m1905",
+    "seven",
+    "m78",
+    "mtv",
+    "sjs",
+    "dbs",
+    "yds"
   ],
   "ijk": [
     {
