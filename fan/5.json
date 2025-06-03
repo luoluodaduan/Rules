@@ -93,6 +93,20 @@
       }
     },
     {
+      "key": "咖啡",
+      "name": "咖啡APP",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet2",
+      "ext": {
+        "url": "http://160.202.243.62:2566",
+        "dataKey": "qwertyuiopqwerty",
+        "dataIv": "qwertyuiopqwerty",
+        "deviceId": "",
+        "version": "120"
+      }
+    },
+    {
       "key": "橘猫",
       "name": "橘猫APP",
       "type": 3,
@@ -514,6 +528,36 @@
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/js/cloud.min.js",
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/js/米搜.js",
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "爱搜UC",
+      "name": "爱UC",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/js/cloud.min.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/js/爱搜UC.js",
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "爱搜Quark",
+      "name": "爱Quark",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/js/cloud.min.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/js/爱搜Quark.js",
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "爱搜Baidu",
+      "name": "爱Baidu",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/js/cloud.min.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/js/爱搜Baidu.js",
       "style": {
         "type": "list"
       }
