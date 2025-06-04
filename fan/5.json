@@ -167,13 +167,13 @@
       "name": "诺雪APP",
       "type": 3,
       "quickSearch": 1,
-      "api": "csp_AppGet",
+      "api": "csp_AppGet2",
       "ext": {
-        "url": "https://appcms.rx4k.top",
-        "dataKey": "LiGFzV6csf21zsu6",
-        "dataIv": "LiGFzV6csf21zsu6",
+        "url": "https://qjappcms.rx4k.top",
+        "dataKey": "ZX10ysTYZWtIJCTU",
+        "dataIv": "ZX10ysTYZWtIJCTU",
         "deviceId": "",
-        "version": ""
+        "version": "120"
       }
     },
     {
@@ -524,10 +524,30 @@
     },
     {
       "key": "米搜",
-      "name": "米搜",
+      "name": "米搜4K搜索",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/js/cloud.min.js",
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/js/米搜.js",
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "人人",
+      "name": "人人4K搜索",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/js/cloud.min.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/js/人人.js",
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "全盘",
+      "name": "全盘4K搜索",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/js/cloud.min.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/js/全盘.js",
       "style": {
         "type": "list"
       }
@@ -558,6 +578,16 @@
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/js/cloud.min.js",
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/js/爱搜Baidu.js",
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "夸克盘搜",
+      "name": "夸克盘搜",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/js/cloud.min.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/js/夸克盘搜.js",
       "style": {
         "type": "list"
       }
