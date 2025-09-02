@@ -1374,6 +1374,21 @@
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/腾云驾雾[官].js"
     },
     {
+      "key": "py_干饭_APP",
+      "name": "🧿干饭(QIJI)",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/qijiapp.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "host": "http://110.42.53.99:1080",
+        "api": "/api.php/qijiappapi",
+        "datakey": "staraugust123456",
+        "dataiv": "staraugust123456"
+      }
+    },
+    {
       "key": "py_加菲_APP",
       "name": "🧿加菲(QIJI)",
       "type": 3,
@@ -1494,48 +1509,93 @@
       }
     },
     {
-      "key": "py_光影_APP",
-      "name": "🧿光影(QIJI)",
+      "key": "py_一三_APP",
+      "name": "🧿一三(QIJI)",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/qijiapp.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "host": "https://www.guangyingmi.com",
+        "host": "https://cdn-tupic-duofun-neimenggu.56uxi.com/1.txt",
         "api": "/api.php/qijiappapi",
-        "datakey": "230fnsodfsdhfon2",
-        "dataiv": "230fnsodfsdhfon2"
+        "datakey": "qwertyuiopqwerty",
+        "dataiv": "qwertyuiopqwerty"
       }
     },
     {
-      "key": "py_迪吧_APP",
-      "name": "🧿迪吧(GET)",
+      "key": "py_柚子_APP",
+      "name": "🧿柚子(GET)",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "host": "http://154.37.152.97:5211",
+        "host": "https://cnm.guahd.com",
         "api": "/api.php/getappapi",
-        "datakey": "685bf108bc47b67d",
-        "dataiv": "685bf108bc47b67d"
+        "datakey": "f2A7D4B9E8C16531",
+        "dataiv": "f2A7D4B9E8C16531"
       }
     },
     {
-      "key": "py_橙飞_APP",
-      "name": "🧿橙飞(GET)",
+      "key": "py_漫国_APP",
+      "name": "🧿漫国(GET)",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "host": "http://172.247.189.145:8989",
+        "host": "https://app.lkdyw.cn",
         "api": "/api.php/getappapi",
-        "datakey": "6d1061a50b656564",
-        "dataiv": "6d1061a50b656564"
+        "datakey": "e65144389e9361b5",
+        "dataiv": "e65144389e9361b5"
+      }
+    },
+    {
+      "key": "py_豆丁_APP",
+      "name": "🧿豆丁(GET)",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "host": "http://45.66.157.77:9427/dd.txt",
+        "api": "/api.php/getappapi",
+        "datakey": "Xasdasd!123123dd",
+        "dataiv": "Xasdasd!123123dd"
+      }
+    },
+    {
+      "key": "py_蔬菜_APP",
+      "name": "🧿蔬菜(GET)",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "host": "http://huohu.yihn.cc",
+        "api": "/api.php/getappapi",
+        "datakey": "huohushipingetap",
+        "dataiv": "huohushipingetap"
+      }
+    },
+    {
+      "key": "py_爱看_APP",
+      "name": "🧿爱看(GET)",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "host": "http://114.134.185.234",
+        "api": "/api.php/getappapi",
+        "datakey": "uI1TkPJC8B46AyN3",
+        "dataiv": "uI1TkPJC8B46AyN3"
       }
     },
     {
@@ -1551,6 +1611,21 @@
         "api": "/api.php/getappapi",
         "datakey": "k9o3p2c8b7m3z0o8",
         "dataiv": "k9o3p2c8b7m3z0o8"
+      }
+    },
+    {
+      "key": "py_光影_APP",
+      "name": "🧿光影(GET)",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "host": "https://www.guangyingmi.com",
+        "api": "/api.php/getappapi",
+        "datakey": "230fnsodfsdhfon2",
+        "dataiv": "230fnsodfsdhfon2"
       }
     },
     {
