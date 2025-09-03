@@ -1539,8 +1539,8 @@
       }
     },
     {
-      "key": "py_漫国_APP",
-      "name": "🧿漫国(GET)",
+      "key": "py_爱影_APP",
+      "name": "🧿爱影(GET)",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
       "searchable": 1,
@@ -1551,6 +1551,21 @@
         "api": "/api.php/getappapi",
         "datakey": "e65144389e9361b5",
         "dataiv": "e65144389e9361b5"
+      }
+    },
+    {
+      "key": "py_柠檬_APP",
+      "name": "🧿柠檬(GET)",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "host": "http://45.207.212.137",
+        "api": "/api.php/getappapi",
+        "datakey": "a006661b01bdebbd",
+        "dataiv": "a006661b01bdebbd"
       }
     },
     {
