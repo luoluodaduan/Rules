@@ -1539,6 +1539,21 @@
       }
     },
     {
+      "key": "py_小猪_APP",
+      "name": "🧿小猪(GET)",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "host": "https://xz4k.top/url.txt",
+        "api": "/api.php/getappapi",
+        "datakey": "1785acb6c963184b",
+        "dataiv": "1785acb6c963184b"
+      }
+    },
+    {
       "key": "py_爱影_APP",
       "name": "🧿爱影(GET)",
       "type": 3,
