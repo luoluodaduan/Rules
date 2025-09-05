@@ -26,8 +26,6 @@ http://finbytes.org:80/announce.php
 
 http://highteahop.top:6960/announce
 
-http://home.yxgz.club:6969/announce
-
 http://ipv4.rer.lol:2710/announce
 
 http://ipv6.rer.lol:6969/announce
@@ -44,9 +42,9 @@ http://retracker.hotplug.ru:2710/announce
 
 http://retracker.spark-rostov.ru:80/announce
 
-http://servandroidkino.ru:80/announce
+http://seeders-paradise.org:80/announce
 
-http://share.hkg-fansub.info:80/announce.php
+http://servandroidkino.ru:80/announce
 
 http://shubt.net:2710/announce
 
@@ -70,6 +68,8 @@ http://tracker.bt-hash.com:80/announce
 
 http://tracker.bt4g.com:2095/announce
 
+http://tracker.bz:80/announce
+
 http://tracker.corpscorp.online:80/announce
 
 http://tracker.cutie.dating:80/announce
@@ -88,6 +88,8 @@ http://tracker.moxing.party:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
+http://tracker.privateseedbox.xyz:2710/announce
+
 http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
@@ -98,17 +100,21 @@ http://tracker.tritan.gg:8080/announce
 
 http://tracker.valete.tf:9999/announce
 
-http://tracker.vanitycore.co:6969/announce
+http://tracker.waaa.moe:6969/announce
+
+http://tracker.wepzone.net:6969/announce
 
 http://tracker.xiaoduola.xyz:6969/announce
 
 http://tracker.zhuqiy.top:80/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
+http://tracker2.dler.org:80/announce
 
 http://tracker2.itzmx.com:6961/announce
 
 http://tracker810.xyz:11450/announce
+
+http://wepzone.net:6969/announce
 
 http://www.all4nothin.net:80/announce.php
 
@@ -130,7 +136,11 @@ https://api.ipv4online.uk:443/announce
 
 https://shahidrazi.online:443/announce
 
+https://t1.hloli.org:443/announce
+
 https://torrent.tracker.durukanbal.com:443/announce
+
+https://tr-rh-zhuqiy.dgj055.icu:443/announce
 
 https://tr.abiir.top:443/announce
 
@@ -145,6 +155,8 @@ https://tracker.aburaya.live:443/announce
 https://tracker.alaskantf.com:443/announce
 
 https://tracker.bt4g.com:443/announce
+
+https://tracker.cangku.moe:443/announce
 
 https://tracker.cutie.dating:443/announce
 
@@ -214,7 +226,7 @@ udp://extracker.dahrkael.net:6969/announce
 
 udp://glotorrents.pw:6969/announce
 
-udp://hificode.in:6969/announce
+udp://ibksturm.synology.me:6969/announce
 
 udp://ipv4.rer.lol:2710/announce
 
@@ -250,13 +262,19 @@ udp://retracker.lanta.me:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
+udp://t.overflow.biz:6969/announce
+
 udp://tr3.ysagin.top:2715/announce
+
+udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker-de-2.cutie.dating:1337/announce
 
 udp://tracker.bitcoinindia.space:6969/announce
 
 udp://tracker.bittor.pw:1337/announce
+
+udp://tracker.breizh.pm:6969/announce
 
 udp://tracker.cloudbase.store:1333/announce
 
@@ -281,8 +299,6 @@ udp://tracker.healthcareindia.store:1337/announce
 udp://tracker.hifimarket.in:2710/announce
 
 udp://tracker.hifitechindia.com:6969/announce
-
-udp://tracker.iperson.xyz:6969/announce
 
 udp://tracker.ololosh.space:6969/announce
 
@@ -314,6 +330,8 @@ udp://tracker.tvunderground.org.ru:3218/announce
 
 udp://tracker.valete.tf:9999/announce
 
+udp://tracker.wepzone.net:6969/announce
+
 udp://tracker.zupix.online:1333/announce
 
 udp://tracker.zupix.online:6969/announce
@@ -331,6 +349,8 @@ udp://ttk2.nbaonlineservice.com:6969/announce
 udp://udp.tracker.projectk.org:23333/announce
 
 udp://v74853.hosted-by-vdsina.com:6969/announce
+
+udp://wepzone.net:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
