@@ -3122,6 +3122,7 @@
 .iphonetaiwan.org
 .iphonix.fr
 .ipicture.ru
+.ipify.org
 .ipiranga
 .ipjetable.net
 .ipobar.com
