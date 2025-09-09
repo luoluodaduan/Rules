@@ -192,12 +192,6 @@
       ]
     },
     {
-      "key": "vod_木耳资源",
-      "name": "️🚀木耳资源",
-      "type": 1,
-      "api": "https://json.heimuer.xyz/api.php/provide/vod/?ac=list"
-    },
-    {
       "key": "vod_海外资源",
       "name": "️🚀海外资源",
       "type": 1,
@@ -1501,6 +1495,21 @@
       }
     },
     {
+      "key": "py_布雷_APP",
+      "name": "🧿布雷(GET)",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "host": "https://cms.bl4k.cc",
+        "api": "/api.php/getappapi",
+        "datakey": "B7uaxcwdpX2dww82",
+        "dataiv": "B7uaxcwdpX2dww82"
+      }
+    },
+    {
       "key": "py_五八_APP",
       "name": "🧿五八(GET)",
       "type": 3,
@@ -2453,98 +2462,6 @@
       "name": "4️⃣企鹅体育(T4)",
       "type": 4,
       "api": "https://catbox.n13.club/t9/qietiyu.php"
-    },
-    {
-      "key": "vod_黑木",
-      "name": "🚀黑木",
-      "type": 1,
-      "api": "https://json.heimuer.xyz/api.php/provide/vod",
-      "playUrl": "json:https://4tvbox.ggff.net/hme.php?url=",
-      "header": {
-        "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36"
-      },
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "国产剧",
-        "港剧",
-        "欧美剧",
-        "台剧",
-        "韩剧",
-        "日剧",
-        "泰剧",
-        "国产综艺",
-        "欧美综艺",
-        "韩国综艺",
-        "日本综艺",
-        "日本动漫",
-        "国产动漫",
-        "欧美动漫",
-        "动画电影",
-        "冒险片",
-        "剧情片",
-        "动作片",
-        "喜剧片",
-        "奇幻片",
-        "恐怖片",
-        "悬疑片",
-        "惊悚片",
-        "战争片",
-        "歌舞片",
-        "灾难片",
-        "爱情片",
-        "犯罪片",
-        "科幻片",
-        "纪录片",
-        "同性片",
-        "经典片"
-      ]
-    },
-    {
-      "key": "vod_木木",
-      "name": "🚀木木",
-      "type": 1,
-      "api": "https://json.heimuer.xyz/api.php/provide/vod",
-      "playUrl": "json:https://tvbox.linkpc.net/api/kill_ads?url=",
-      "header": {
-        "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36"
-      },
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "国产剧",
-        "港剧",
-        "欧美剧",
-        "台剧",
-        "韩剧",
-        "日剧",
-        "泰剧",
-        "国产综艺",
-        "欧美综艺",
-        "韩国综艺",
-        "日本综艺",
-        "日本动漫",
-        "国产动漫",
-        "欧美动漫",
-        "动画电影",
-        "冒险片",
-        "剧情片",
-        "动作片",
-        "喜剧片",
-        "奇幻片",
-        "恐怖片",
-        "悬疑片",
-        "惊悚片",
-        "战争片",
-        "歌舞片",
-        "灾难片",
-        "爱情片",
-        "犯罪片",
-        "科幻片",
-        "纪录片",
-        "同性片",
-        "经典片"
-      ]
     },
     {
       "key": "vod_优质",

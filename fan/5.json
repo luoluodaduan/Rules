@@ -233,6 +233,22 @@
       }
     },
     {
+      "key": "布雷",
+      "name": "布雷丨APP",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://cms.bl4k.cc",
+        "site": "",
+        "dataKey": "B7uaxcwdpX2dww82",
+        "dataIv": "B7uaxcwdpX2dww82",
+        "deviceId": "",
+        "version": "",
+        "ua": ""
+      }
+    },
+    {
       "key": "五八",
       "name": "五八丨APP",
       "type": 3,
@@ -692,7 +708,7 @@
     },
     {
       "key": "123",
-      "name": "123",
+      "name": "1234K",
       "type": 3,
       "api": "csp_PanWebShareCloud123",
       "searchable": 1,
@@ -707,7 +723,7 @@
     },
     {
       "key": "双星",
-      "name": "双星",
+      "name": "双星4K",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/js/drpy2.min.js",
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/js/双星.js",
@@ -717,7 +733,7 @@
     },
     {
       "key": "校长",
-      "name": "校长",
+      "name": "校长4K",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/js/drpy2.min.js",
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/js/校长.js",
@@ -727,7 +743,7 @@
     },
     {
       "key": "人人电影网",
-      "name": "人人",
+      "name": "人人4K",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/js/drpy2.min.js",
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/js/人人电影网.js",
