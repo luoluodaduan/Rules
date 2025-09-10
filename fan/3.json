@@ -6,8 +6,8 @@
       "key": "弹幕",
       "name": "🅿弹幕搜索",
       "type": 3,
-      "api": "csp_Huban",
-      "jar": "https://jihulab.com/yoursmile6/TVBox/-/raw/main/HubanTC.jar"
+      "api": "csp_ConfigCenter",
+      "jar": "https://jihulab.com/yoursmile6/TVBox/-/raw/main/custom_spider.jar"
     },
     {
       "key": "csp_Gz360",
@@ -56,16 +56,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "7lj763gg0939791h1l2681i6g94li291li"
-    },
-    {
-      "key": "金牌",
-      "name": "🥇金牌",
-      "type": 3,
-      "api": "csp_Jpys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
     },
     {
       "key": "狂风",
