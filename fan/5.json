@@ -708,16 +708,6 @@
       "filterable": 1
     },
     {
-      "key": "爱看短剧",
-      "name": "爱看短剧",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/py/爱看短剧.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "锦鲤短剧",
       "name": "锦鲤短剧",
       "type": 3,
@@ -837,12 +827,6 @@
       "api": "csp_Jiaozi"
     },
     {
-      "key": "鸭梨影视",
-      "name": "鸭梨影视",
-      "type": 3,
-      "api": "csp_KmeiJu"
-    },
-    {
       "key": "低端影视",
       "name": "低端影视",
       "type": 3,
@@ -932,26 +916,6 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/XBPQ/三九影视.json"
-    },
-    {
-      "key": "盒子影视",
-      "name": "盒子影视",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/XYQHiker/盒子影视.json"
-    },
-    {
-      "key": "电影牛",
-      "name": "影牛影视",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/XYQHiker/电影牛.json"
     },
     {
       "key": "剧圈圈",

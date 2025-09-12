@@ -611,7 +611,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "7lj763gg09397919456493i0h44j8681highi4"
+      "ext": "7lj763gg0939791h1l3888jig44gi291li"
     },
     {
       "key": "csp_Hmys_QJ",
@@ -633,14 +633,6 @@
       "ext": "7lj763gg402i7942476492jlg94li29kk6gi8448ij"
     },
     {
-      "key": "csp_TTian_热播_QJ",
-      "name": "♨热播(SP)",
-      "type": 3,
-      "api": "csp_TTian",
-      "playerType": 2,
-      "ext": "7lj763gg0939791h1l3888jig44gi291li"
-    },
-    {
       "key": "csp_TTian_追剧_QJ",
       "name": "✈追剧(SP)",
       "type": 3,
@@ -657,7 +649,7 @@
       "type": 3,
       "api": "csp_JpysQJ",
       "playerType": 1,
-      "ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
+      "ext": "7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"
     },
     {
       "key": "csp_qiao2_QJ",
@@ -666,14 +658,6 @@
       "api": "csp_qiao2",
       "playerType": 2,
       "ext": "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707"
-    },
-    {
-      "key": "csp_AppYsV2QJ_超级",
-      "name": "🎐超级(SP)",
-      "type": 3,
-      "api": "csp_AppYsV2QJ",
-      "playerType": 2,
-      "ext": "7lj763gg093979095i278hihlk56998glhg9ii5ii2i73l2k5l0k1gk3l0594h060hj95ig7881j"
     },
     {
       "key": "csp_Xdai_云云_QJ",
@@ -705,15 +689,15 @@
       "type": 3,
       "api": "csp_Xdai",
       "playerType": 2,
-      "ext": "7lj763gg402i7942433293i0g9458881hig7j94k818g326i51491kljlk134k401g9g54gk8j5i9097751kh28kh9lh1jl3l1706410l0ggjlk023873il73igh1i41glgli0l3g52k712h83473k5496g44k3773k4g26i76h597llj6977gl13g"
+      "ext": "7lj763gg402i79424930jkj8lk488382hjhjj851829j24354k104ighgi16580i4j9504k1ih03ihj03901kij4gkg919k4l2367707h2k19gg4728721g03ll9"
     },
     {
-      "key": "csp_Muou_驿站_QJ",
+      "key": "csp_Qiji_驿站_QJ",
       "name": "🚗驿站(SP)",
       "type": 3,
-      "api": "csp_Xdai",
+      "api": "csp_Qiji",
       "playerType": 2,
-      "ext": "7lj763gg402i7942582ljiigh454jh9ig1ggi70ljhjk3977455343k5gi1508190gik13k1i01i949j614hkij5g0g404k3k9796k4gl2h3jhl527952jkg76g95k5ilkkkjhh8k261236896432i458hkk4i756kk2gg3i"
+      "ext": "7lj763gg402i7942552h8ljjlj0jjki7g4lg99099jjh6l6l514k08hjl807161j139753h090539gig3604gi80lgl30jk3hk637h53gh9ljkij2lig30k277g50354k2k3jkl1g17i2820ii582l0483g61k6i79k7kk7274h1i5g6jjj833h2390k42396hik71kigl18k613"
     },
     {
       "key": "csp_Muou_主角_QJ",
@@ -737,7 +721,7 @@
       "type": 3,
       "api": "csp_Xdai",
       "playerType": 2,
-      "ext": "7lj763gg402i7942503g9g9jhi57888hk5k6i953j08i6g7403154lg0g14k5k5748i00ih5ij4k96j26k4ik9j7g5g441k2g933220lk6k7j7gl76j1"
+      "ext": "7lj763gg402i794248398hi3g05j9i9hhig7j94k818g326i41491kljk31l5k00559751hk81479j872853hk8ilhh31lk2k4616457ggg6j3k83gg46il2649h7j71l7l9ii87g2513821g55k1j0493li7k5643hil46002h2k8h6jih135l2384h"
     },
     {
       "key": "csp_Muou_趣看_QJ",
@@ -745,7 +729,7 @@
       "type": 3,
       "api": "csp_Qiji",
       "playerType": 2,
-      "ext": "7lj763gg402i7942552h8ljjlj0jjki7g4lg99099jjh6l6l514k08hjl807161j139753h090539gig3604gi80lgl30jk3hk637h53gh9ljkij2lig30k277g50354k2k3jkl1g17i2820ii582l0483g61k6i79k7kk7274h1i5g6jjj833h2390k42396hik71kigl18k613"
+      "ext": "7lj763gg402i7942522k849kg4499i9hl1k5ik48i38l292l1l4l1klgl41255091i8313k2ik478h8j751kh28kh9gj56l3k874684ll3h7j9k83l9034li7lhi5g45k8k3jhhkk760276g8h5h295i9jk7597177g3kk773hh59kl8"
     },
     {
       "key": "csp_Xdai_星河_QJ",
@@ -764,12 +748,12 @@
       "ext": "7lj763gg402i7942423k8hi1h1498h87k1hi9h0l9ljj69771i4k08k0h4145543139753h0825g9i91751ih18gklk916k4k32k7751k9lj9gh2329j29kl7ih94i52lhk2i5h7k563732gii1669038kk45i6760h0kl6932l5jgljj7j87jl43k03423j31"
     },
     {
-      "key": "csp_Xdai_鲨鱼_QJ",
-      "name": "🦈鲨鱼(SP)",
+      "key": "csp_Qiji_超级_QJ",
+      "name": "🦈超级(SP)",
       "type": 3,
-      "api": "csp_Xdai",
+      "api": "csp_Qiji",
       "playerType": 2,
-      "ext": "7lj763gg402i7942463j9j9jh7498j9il5h1i353ih84356l514k16klgh440h08158552h39k41978i3j12h3j1kggk4hh7l66k6751k0h4j8l82k8332lj3jh11k10g8"
+      "ext": "7lj763gg0939791i5820839jhg498h93ljh9i353ihi73l2k5l5j48g4l21j035j01850ig6i904998l6j09g1j0g1l712hlg37g670ll5k39jl62jj329kl3ilj19"
     },
     {
       "key": "csp_Xdai_优质_QJ",
@@ -793,7 +777,7 @@
       "type": 3,
       "api": "csp_Xdai",
       "playerType": 2,
-      "ext": "7lj763gg093979551l7hj98hlk0kj8i7hil9930ij0g264317k1308i1gk136l5g1jh108hjh54kh8ji2h31kl90i4gh1ij3g466530hkk9lj7gl76j7"
+      "ext": "7lj763gg093979590464ji85lk0jj9i5hill9j0795jj6k761j451lhjkj0l4l1223974kh3994197i56g4lkkj2g4gl1ik3ki58754jk0h3j8l867j46lg03kll1k44lkkh91l2g2"
     },
     {
       "key": "csp_Nmvod_QJ",
@@ -1443,10 +1427,10 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "host": "https://ceshi307386.oss-cn-beijing.aliyuncs.com/csurl.txt",
+        "host": "https://ceshi307386.oss-cn-beijing.aliyuncs.com/ceshi421.txt",
         "api": "/api.php/qijiappapi",
-        "datakey": "Z98KXaLtO2wC1Pte",
-        "dataiv": "Z98KXaLtO2wC1Pte"
+        "datakey": "da61247f5b662597",
+        "dataiv": "da61247f5b662597"
       }
     },
     {
@@ -1480,18 +1464,18 @@
       }
     },
     {
-      "key": "py_苍鼠_APP",
-      "name": "🧿苍鼠(QIJI)",
+      "key": "py_爱看_APP",
+      "name": "🧿爱看(GET)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/qijiapp.py",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "host": "https://ceshi307386.oss-cn-beijing.aliyuncs.com/ceshi421.txt",
-        "api": "/api.php/qijiappapi",
-        "datakey": "da61247f5b662597",
-        "dataiv": "da61247f5b662597"
+        "host": "https://aikan.my",
+        "api": "/api.php/getappapi",
+        "datakey": "hzxjRSmyTmSE4ENE",
+        "dataiv": "hzxjRSmyTmSE4ENE"
       }
     },
     {
