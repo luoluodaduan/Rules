@@ -3799,6 +3799,7 @@
 .mcfog.com
 .mckinsey
 .mcreasite.com
+.mcusercontent.com
 .md
 .md-t.org
 .me.me
@@ -5392,6 +5393,7 @@
 .simpleproductivityblog.com
 .simpleswap.io
 .simplex.chat
+.sina.com.hk
 .sinchew.com.my
 .singaporepools.com.sg
 .singfortibet.com
@@ -5786,6 +5788,7 @@
 .taiwanus.net
 .taiwanyes.com
 .talk853.com
+.talkatone.com
 .talkboxapp.com
 .talkcc.com
 .talkonly.net
