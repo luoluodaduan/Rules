@@ -1464,6 +1464,36 @@
       }
     },
     {
+      "key": "py_热剧_APP",
+      "name": "🧿热剧(QIJI)",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/qijiapp.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "host": "https://www.rebovod.com",
+        "api": "/api.php/qijiappapi",
+        "datakey": "8191A7F47B37882F",
+        "dataiv": "8191A7F47B37882F"
+      }
+    },
+    {
+      "key": "py_稀饭_APP",
+      "name": "🧿稀饭(GET)",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "host": "https://app.xifanys.com",
+        "api": "/api.php/getappapi",
+        "datakey": "HM6Ly9yeS4ya3dvL",
+        "dataiv": "HM6Ly9yeS4ya3dvL"
+      }
+    },
+    {
       "key": "py_爱看_APP",
       "name": "🧿爱看(GET)",
       "type": 3,
@@ -1521,21 +1551,6 @@
         "api": "/api.php/getappapi",
         "datakey": "vXeyuJFqTKqWUtWU",
         "dataiv": "vXeyuJFqTKqWUtWU"
-      }
-    },
-    {
-      "key": "py_追番_APP",
-      "name": "🧿追番(GET)",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "https://ysappapi.oss-cn-shenzhen.aliyuncs.com/getapi.txt",
-        "api": "/api.php/getappapi",
-        "datakey": "A1akVPQmnnE4Fz9Z",
-        "dataiv": "A1akVPQmnnE4Fz9Z"
       }
     },
     {
@@ -1611,21 +1626,6 @@
         "api": "/api.php/getappapi",
         "datakey": "e65144389e9361b5",
         "dataiv": "e65144389e9361b5"
-      }
-    },
-    {
-      "key": "py_豆丁_APP",
-      "name": "🧿豆丁(GET)",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "http://45.66.157.77:9427/dd.txt",
-        "api": "/api.php/getappapi",
-        "datakey": "Xasdasd!123123dd",
-        "dataiv": "Xasdasd!123123dd"
       }
     },
     {
@@ -1731,21 +1731,6 @@
         "api": "/api.php/getappapi",
         "datakey": "qkxnwkfjwpcnwycl",
         "dataiv": "qkxnwkfjwpcnwycl"
-      }
-    },
-    {
-      "key": "py_米诺_APP",
-      "name": "🧿米诺(GET)",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "http://www.milkidc.cn",
-        "api": "/api.php/getappapi",
-        "datakey": "20c79c979da8db0f",
-        "dataiv": "20c79c979da8db0f"
       }
     },
     {
