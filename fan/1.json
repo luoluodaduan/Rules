@@ -1479,6 +1479,36 @@
       }
     },
     {
+      "key": "py_星星_APP",
+      "name": "🧿星星(GET)",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "host": "http://starani.qcanime.xyz",
+        "api": "/api.php/getappapi",
+        "datakey": "123456789StarAni",
+        "dataiv": "123456789StarAni"
+      }
+    },
+    {
+      "key": "py_斗量_APP",
+      "name": "🧿斗量(GET)",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "host": "https://app-cms-v10-1314306855.cos.ap-guangzhou.myqcloud.com/appcms.php",
+        "api": "/api.php/getappapi",
+        "datakey": "A1akVPQmnnE4Fz9Z",
+        "dataiv": "A1akVPQmnnE4Fz9Z"
+      }
+    },
+    {
       "key": "py_魔方_APP",
       "name": "🧿魔方(GET)",
       "type": 3,
@@ -1806,6 +1836,21 @@
         "api": "/api.php/getappapi",
         "datakey": "n3l2tx5jdkp9s2c8",
         "dataiv": "n3l2tx5jdkp9s2c8"
+      }
+    },
+    {
+      "key": "py_方舟_APP",
+      "name": "🧿方舟(GET)",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "host": "https://www.cyfz.vip",
+        "api": "/api.php/getappapi",
+        "datakey": "e72cdfd629e8895d",
+        "dataiv": "e72cdfd629e8895d"
       }
     },
     {
