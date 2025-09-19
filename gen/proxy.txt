@@ -2333,6 +2333,7 @@
 .gardennetworks.org
 .garena.com
 .gartlive.com
+.garudalinux.org
 .gate-project.com
 .gate.io
 .gatecoin.com
@@ -4312,6 +4313,7 @@
 .nintendo.com
 .nintendo.net
 .ninth.biz
+.nirsoft.net
 .nissan
 .nissay
 .nitter.cc
@@ -6633,6 +6635,7 @@
 .vpnvip.com
 .vpnworldwide.com
 .vpser.net
+.vpsxb.net
 .vraiesagesse.net
 .vrchat.com
 .vrmtr.com
