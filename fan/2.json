@@ -301,14 +301,14 @@
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQHiker/爱看影视.json"
     },
     {
-      "key": "csp_XYQHiker_看一看影视",
-      "name": "🔍看一看影视(XYQH)",
+      "key": "csp_XYQHiker_看影网",
+      "name": "🔍看影网(XYQH)",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQHiker/看一看影视.json"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQHiker/看影网.json"
     },
     {
       "key": "csp_XYQHiker_瓜子影院",
