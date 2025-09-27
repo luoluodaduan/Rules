@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem0926.jar;md5;E5F0E32C4A0771F6EDF885F1342A4167",
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem0927.jar;md5;008A25335936C20A8680466FDADA3741",
   "wallpaper": "https://pic.850930.xyz/",
   "sites": [
     {
@@ -1491,6 +1491,21 @@
         "api": "/api.php/qijiappapi",
         "datakey": "sada21321sdq231d",
         "dataiv": "sada21321sdq231d"
+      }
+    },
+    {
+      "key": "py_奈飞_APP",
+      "name": "🧿奈飞(GET)",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "host": "https://movier.ink",
+        "api": "/api.php/getappapi",
+        "datakey": "moviermovierink9",
+        "dataiv": "moviermovierink9"
       }
     },
     {

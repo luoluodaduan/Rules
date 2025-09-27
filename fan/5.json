@@ -225,6 +225,22 @@
       }
     },
     {
+      "key": "奈飞",
+      "name": "奈飞丨APP",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://movier.ink",
+        "site": "",
+        "dataKey": "moviermovierink9",
+        "dataIv": "moviermovierink9",
+        "deviceId": "",
+        "version": "",
+        "ua": ""
+      }
+    },
+    {
       "key": "迪吧",
       "name": "迪吧丨APP",
       "type": 3,
@@ -745,49 +761,62 @@
       "api": "csp_MiSou"
     },
     {
-      "key": "短剧大全",
-      "name": "短剧大全",
+      "key": "酷乐搜索",
+      "name": "酷乐搜索",
       "type": 3,
-      "api": "csp_DuanjuDQ"
+      "api": "csp_KuLe"
     },
     {
-      "key": "短剧合集",
-      "name": "短剧合集",
+      "key": "爱看搜索",
+      "name": "爱看搜索",
       "type": 3,
-      "api": "csp_DuanjuHJ"
+      "api": "csp_AiKan"
     },
     {
-      "key": "短剧鬼鬼",
-      "name": "短剧鬼鬼",
+      "key": "鬼鬼搜索",
+      "name": "鬼鬼搜索",
       "type": 3,
-      "api": "csp_DuanjuGG"
+      "api": "csp_GuiGui"
     },
     {
       "key": "夸克推送",
       "name": "夸克推送",
       "type": 4,
-      "api": "http://zling.online:12331/api.php?type=quark"
+      "api": "https://so.yinpai.xyz/api.php?type=quark"
     },
     {
       "key": "UC推送",
       "name": "UC推送",
       "type": 4,
-      "api": "http://zling.online:12331/api.php?type=uc"
+      "api": "https://so.yinpai.xyz/api.php?type=uc"
+    },
+    {
+      "key": "天翼推送",
+      "name": "天翼推送",
+      "type": 4,
+      "api": "https://so.yinpai.xyz/api.php?type=tianyi"
+    },
+    {
+      "key": "123推送",
+      "name": "123推送",
+      "type": 4,
+      "api": "https://so.yinpai.xyz/api.php?type=123"
     },
     {
       "key": "百度推送",
       "name": "百度推送",
       "type": 4,
-      "api": "http://zling.online:12331/api.php?type=baidu"
+      "api": "https://so.yinpai.xyz/api.php?type=baidu"
     },
     {
       "key": "星芽短剧",
       "name": "星芽短剧",
       "type": 3,
-      "api": "csp_AppXY",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/py/星芽短剧.py",
       "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "甜圈短剧",
@@ -818,6 +847,13 @@
       "changeable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "番茄短剧",
+      "name": "番茄短剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/XBPQ/番茄短剧.json"
     },
     {
       "key": "剧屋短剧",
