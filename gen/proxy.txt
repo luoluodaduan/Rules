@@ -5806,10 +5806,12 @@
 .tanks.gg
 .taoism.net
 .taolun.info
+.tap.io
 .tapanwap.com
 .tapatalk.com
 .tapecontent.net
 .taplytics.com
+.taptap.io
 .taragana.com
 .tardigrade.io
 .target

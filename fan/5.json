@@ -729,75 +729,6 @@
       }
     },
     {
-      "key": "糖果",
-      "name": "糖果搜索",
-      "type": 3,
-      "api": "csp_TGSou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "百酷",
-      "name": "百酷搜索",
-      "type": 3,
-      "api": "csp_Baiku"
-    },
-    {
-      "key": "米搜",
-      "name": "米搜搜索",
-      "type": 3,
-      "api": "csp_MiSou"
-    },
-    {
-      "key": "酷乐搜索",
-      "name": "酷乐搜索",
-      "type": 3,
-      "api": "csp_KuLe"
-    },
-    {
-      "key": "爱看搜索",
-      "name": "爱看搜索",
-      "type": 3,
-      "api": "csp_AiKan"
-    },
-    {
-      "key": "鬼鬼搜索",
-      "name": "鬼鬼搜索",
-      "type": 3,
-      "api": "csp_GuiGui"
-    },
-    {
-      "key": "夸克推送",
-      "name": "夸克推送",
-      "type": 4,
-      "api": "https://so.yinpai.xyz/api.php?type=quark"
-    },
-    {
-      "key": "UC推送",
-      "name": "UC推送",
-      "type": 4,
-      "api": "https://so.yinpai.xyz/api.php?type=uc"
-    },
-    {
-      "key": "天翼推送",
-      "name": "天翼推送",
-      "type": 4,
-      "api": "https://so.yinpai.xyz/api.php?type=tianyi"
-    },
-    {
-      "key": "123推送",
-      "name": "123推送",
-      "type": 4,
-      "api": "https://so.yinpai.xyz/api.php?type=123"
-    },
-    {
-      "key": "百度推送",
-      "name": "百度推送",
-      "type": 4,
-      "api": "https://so.yinpai.xyz/api.php?type=baidu"
-    },
-    {
       "key": "星芽短剧",
       "name": "星芽短剧",
       "type": 3,
@@ -1402,6 +1333,75 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "糖果",
+      "name": "糖果搜索",
+      "type": 3,
+      "api": "csp_TGSou",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "百酷",
+      "name": "百酷搜索",
+      "type": 3,
+      "api": "csp_Baiku"
+    },
+    {
+      "key": "米搜",
+      "name": "米搜搜索",
+      "type": 3,
+      "api": "csp_MiSou"
+    },
+    {
+      "key": "酷乐搜索",
+      "name": "酷乐搜索",
+      "type": 3,
+      "api": "csp_KuLe"
+    },
+    {
+      "key": "爱看搜索",
+      "name": "爱看搜索",
+      "type": 3,
+      "api": "csp_AiKan"
+    },
+    {
+      "key": "鬼鬼搜索",
+      "name": "鬼鬼搜索",
+      "type": 3,
+      "api": "csp_GuiGui"
+    },
+    {
+      "key": "夸克推送",
+      "name": "夸克推送",
+      "type": 4,
+      "api": "https://so.yinpai.xyz/api.php?type=quark"
+    },
+    {
+      "key": "UC推送",
+      "name": "UC推送",
+      "type": 4,
+      "api": "https://so.yinpai.xyz/api.php?type=uc"
+    },
+    {
+      "key": "天翼推送",
+      "name": "天翼推送",
+      "type": 4,
+      "api": "https://so.yinpai.xyz/api.php?type=tianyi"
+    },
+    {
+      "key": "123推送",
+      "name": "123推送",
+      "type": 4,
+      "api": "https://so.yinpai.xyz/api.php?type=123"
+    },
+    {
+      "key": "百度推送",
+      "name": "百度推送",
+      "type": 4,
+      "api": "https://so.yinpai.xyz/api.php?type=baidu"
     },
     {
       "key": "88看球",
