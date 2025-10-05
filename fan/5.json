@@ -1374,36 +1374,6 @@
       "api": "csp_GuiGui"
     },
     {
-      "key": "夸克推送",
-      "name": "夸克推送",
-      "type": 4,
-      "api": "https://so.yinpai.xyz/api.php?type=quark"
-    },
-    {
-      "key": "UC推送",
-      "name": "UC推送",
-      "type": 4,
-      "api": "https://so.yinpai.xyz/api.php?type=uc"
-    },
-    {
-      "key": "天翼推送",
-      "name": "天翼推送",
-      "type": 4,
-      "api": "https://so.yinpai.xyz/api.php?type=tianyi"
-    },
-    {
-      "key": "123推送",
-      "name": "123推送",
-      "type": 4,
-      "api": "https://so.yinpai.xyz/api.php?type=123"
-    },
-    {
-      "key": "百度推送",
-      "name": "百度推送",
-      "type": 4,
-      "api": "https://so.yinpai.xyz/api.php?type=baidu"
-    },
-    {
       "key": "88看球",
       "name": "88看球",
       "type": 3,
