@@ -898,13 +898,6 @@
       "ext": "https://www.wwgz.cn"
     },
     {
-      "key": "采集之王",
-      "name": "采集合集",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/js/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/js/采集之王.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/json/采集静态.json$1$1"
-    },
-    {
       "key": "爱看机器人",
       "name": "爱看影视",
       "type": 3,
@@ -949,6 +942,13 @@
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/js/剧圈圈.js"
     },
     {
+      "key": "采集之王",
+      "name": "采集合集",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/js/drpy2.min.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/js/采集之王.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/json/采集静态.json$1$1"
+    },
+    {
       "key": "1905",
       "name": "1905影视",
       "type": 3,
@@ -975,18 +975,18 @@
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/js/56动漫.js"
     },
     {
-      "key": "NT动漫",
-      "name": "NT动漫",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/js/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/js/NT动漫.js"
-    },
-    {
       "key": "Anime1",
       "name": "A1动漫",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/js/drpy2.min.js",
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/js/Anime1.js"
+    },
+    {
+      "key": "NT动漫",
+      "name": "NT动漫",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/js/drpy2.min.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/js/NT动漫.js"
     },
     {
       "key": "漫国",
