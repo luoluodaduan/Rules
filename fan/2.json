@@ -1,6 +1,6 @@
 {
   "wallpaper": "https://wp.upx8.com/api.php",
-  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar;md5;39f47cafa594a9d606bff5b0ac71b4a8",
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar;md5;3a1edc7bf8ca3dcd37307fe0789fabab",
   "sites": [
     {
       "key": "drpy_js_豆瓣",
@@ -422,6 +422,15 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQHiker/斗鱼直播.json"
+    },
+    {
+      "key": "csp_Djuu",
+      "name": "🎧DJ悠悠",
+      "type": 3,
+      "api": "csp_Djuu",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1
     }
   ],
   "parses": [
