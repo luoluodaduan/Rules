@@ -15058,6 +15058,8 @@
 .browser-update.org
 .browser-updater.yandex.net
 .browser.covatic.io
+.browser.events.data.msn.cn
+.browser.events.data.msn.com
 .browser.pipe.aria.microsoft.com
 .browser.vivo.com.cn
 .browsercfg-drcn.cloud.dbankcloud.cn
