@@ -6735,6 +6735,7 @@
 .webrtc.org
 .webrush.net
 .webs-tv.net
+.websdr.org
 .website.new
 .websitepulse.com
 .websnapr.com
@@ -7047,6 +7048,7 @@
 .xn--qxam
 .xn--rvc1e0am3e
 .xn--s9brj9c
+.xn--u2u927b.com
 .xn--w4r85el8fhu5dnra
 .xn--w4rs40l
 .xn--wgbh1c
