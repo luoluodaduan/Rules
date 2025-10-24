@@ -6453,7 +6453,6 @@ ads.passiontimes.hk
 ads.pinterest.com
 ads.planetwin365affiliate.com
 ads.playboy.com
-ads.privacy.qq.com
 ads.pubmatic.com
 ads.raidrive.com
 ads.reader.yueyouxs.com
@@ -23676,6 +23675,7 @@ dd.control4.com
 dd.dante2007.com
 dd.g2.com
 dd.garena.com
+dd.iask.cn
 dd.leboncoin.fr
 dd.lofujj.com
 dd.mangofortune.net
@@ -38977,8 +38977,6 @@ iamiraqi.com
 ianjumb.com
 iareascebc.life
 iasbetaffiliates.com
-iask.cn
-iask.com.cn
 iask.qq.com
 iatoex.kahve.com
 iaudienc.com
@@ -56648,6 +56646,7 @@ mwvpjvvnovuqb.website
 mwxema.galerieslafayette.com
 mwxtdssacysl.com
 mwxxgdhvhdrgt.space
+mwzbp.iask.com.cn
 mwzkkpwmq.com
 mx.carfax.com
 mx.carte-gr.total.fr

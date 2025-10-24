@@ -6450,7 +6450,6 @@
 .ads.pinterest.com
 .ads.planetwin365affiliate.com
 .ads.playboy.com
-.ads.privacy.qq.com
 .ads.pubmatic.com
 .ads.raidrive.com
 .ads.reader.yueyouxs.com
@@ -23641,6 +23640,7 @@
 .dd.dante2007.com
 .dd.g2.com
 .dd.garena.com
+.dd.iask.cn
 .dd.leboncoin.fr
 .dd.lofujj.com
 .dd.mangofortune.net
@@ -38926,8 +38926,6 @@
 .ianjumb.com
 .iareascebc.life
 .iasbetaffiliates.com
-.iask.cn
-.iask.com.cn
 .iask.qq.com
 .iatoex.kahve.com
 .iaudienc.com
@@ -56592,6 +56590,7 @@
 .mwxema.galerieslafayette.com
 .mwxtdssacysl.com
 .mwxxgdhvhdrgt.space
+.mwzbp.iask.com.cn
 .mwzkkpwmq.com
 .mx.carfax.com
 .mx.carte-gr.total.fr
