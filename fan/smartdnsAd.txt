@@ -18541,9 +18541,7 @@ cloudmobi.net
 cloudpath82.com
 cloudpsh.top
 cloudpush.iqiyi.com
-cloudservice12.kingsoft-office-service.com
 cloudservice13.kingsoft-office-service.com
-cloudservice22.kingsoft-office-service.com
 cloudservice27.kingsoft-office-service.com
 cloudtracer101.com
 cloudtrack-camp.com
@@ -34362,9 +34360,7 @@ gg.vevor.com
 gg.vidown.cn
 gg.xywy.com
 gg1.jc001.cn
-gg2.51cto.com
 gg2888.com
-gg3.51cto.com
 gg86.pinggu.org
 gg88.bj.bcebos.com
 gg8888.cnfol.com
@@ -36119,9 +36115,6 @@ gritoils.com
 griwourtadoothe.net
 grizzledcourage.pro
 grjqvelblmzmu.website
-grjs01.com
-grjs02.com
-grjs06.com
 grknnolhmwypkn.com
 grmciysmhnyaj.site
 grmtas.com
@@ -48670,7 +48663,6 @@ log.popin.cc
 log.quora.com
 log.qvb.qcloud.com
 log.rabobank.nl
-log.rc.hunantv.com
 log.recommend.nicovideo.jp
 log.reformal.ru
 log.ren.tv
