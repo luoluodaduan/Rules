@@ -113946,6 +113946,7 @@ server=/zhuanhuamao.com/223.5.5.5
 server=/zhuanhuanqi.com/223.5.5.5
 server=/zhuanhuanqi.net/223.5.5.5
 server=/zhuaniao.com/223.5.5.5
+server=/zhuaninc.com/223.5.5.5
 server=/zhuankeapp.com/223.5.5.5
 server=/zhuankebang.com/223.5.5.5
 server=/zhuankezu.com/223.5.5.5
