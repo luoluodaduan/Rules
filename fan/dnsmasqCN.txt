@@ -52429,7 +52429,6 @@ server=/imlianai.com/223.5.5.5
 server=/imliuyi.com/223.5.5.5
 server=/imlizhi.com/223.5.5.5
 server=/immeee.com/223.5.5.5
-server=/immersivetranslate.com/223.5.5.5
 server=/immfast.com/223.5.5.5
 server=/immi520.com/223.5.5.5
 server=/immiexpo.com/223.5.5.5

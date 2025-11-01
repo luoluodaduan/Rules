@@ -5883,6 +5883,7 @@
 .tellapart.com
 .tellme.pw
 .temasek
+.temu.com
 .tenacy.com
 .tenor.com
 .tensorflow.org
