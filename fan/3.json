@@ -4,9 +4,9 @@
   "sites": [
     {
       "key": "弹幕",
-      "name": "🅿弹幕搜索",
+      "name": "🅿嗷嗚弹幕刷新一下启动",
       "type": 3,
-      "api": "csp_ConfigCenter",
+      "api": "csp_GoConfigAmnsr",
       "jar": "https://jihulab.com/yoursmile6/TVBox/-/raw/main/custom_spider.jar"
     },
     {
