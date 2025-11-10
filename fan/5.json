@@ -538,16 +538,6 @@
       "filterable": 1
     },
     {
-      "key": "锦鲤短剧",
-      "name": "锦鲤短剧",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/py/锦鲤短剧.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "剧王短剧",
       "name": "剧王短剧",
       "type": 3,
@@ -632,15 +622,6 @@
       "name": "饺子影视",
       "type": 3,
       "api": "csp_Jiaozi"
-    },
-    {
-      "key": "低端影视",
-      "name": "低端影视",
-      "type": 3,
-      "api": "csp_Ddys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "瓜子影视",
