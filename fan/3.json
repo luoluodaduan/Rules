@@ -1,5 +1,5 @@
 {
-  "spider": "https://jihulab.com/yoursmile6/TVBox/-/raw/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
+  "spider": "https://jihulab.com/yoursmile2/TVBox/-/raw/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -7,7 +7,7 @@
       "name": "🅿嗷嗚弹幕刷新一下启动",
       "type": 3,
       "api": "csp_GoConfigAmnsr",
-      "jar": "https://jihulab.com/yoursmile6/TVBox/-/raw/main/custom_spider.jar"
+      "jar": "https://jihulab.com/yoursmile2/TVBox/-/raw/main/custom_spider.jar"
     },
     {
       "key": "csp_Gz360",
@@ -167,17 +167,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "csp_Czsapp",
-      "name": "🏭厂长",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.czzymovie.com/"
     },
     {
       "key": "csp_Tvyb",
