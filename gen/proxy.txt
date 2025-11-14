@@ -402,6 +402,7 @@
 .aolnews.com
 .aomedia.org
 .aomiwang.com
+.aoxvpn.com
 .ap.org
 .apache.org
 .apachefriends.com
@@ -674,6 +675,7 @@
 .bet365.com
 .betaclouds.net
 .betfair.com
+.bettergpt.chat
 .betterhash.net
 .betternet.co
 .bettervpn.com
@@ -974,6 +976,7 @@
 .canadameet.com
 .canon
 .cantonese.asia
+.canva.com
 .canyu.org
 .caobian.info
 .caochangqing.com
@@ -1026,6 +1029,7 @@
 .ccdtr.org
 .ccfd.org.tw
 .cchere.com
+.cchostvps.xyz
 .ccim.org
 .cclife.ca
 .cclife.org
@@ -1090,8 +1094,10 @@
 .chaos.social
 .chapm25.com
 .character.ai
+.chat.com
 .chatgpt.com
 .chatnook.com
+.chatpdf.com
 .chaturbate.com
 .checkgfw.com
 .chengmingmag.com
@@ -1469,6 +1475,7 @@
 .daozhongxing.org
 .darktech.org
 .darktoy.net
+.darmau.co
 .darpa.mil
 .darrenliuwei.com
 .dartlang.org
@@ -2075,6 +2082,7 @@
 .figprayer.com
 .fileflyer.com
 .fileforum.com
+.files.oaiusercontent.com
 .files2me.com
 .fileserve.com
 .filesor.com
@@ -2115,6 +2123,7 @@
 .flitto.com
 .flnet.org
 .flog.tw
+.flowgpt.com
 .flowhongkong.net
 .flurry.com
 .flypool.org
@@ -2141,6 +2150,7 @@
 .footwiball.com
 .forbes.com
 .ford
+.forefront.ai
 .foreignaffairs.com
 .foreignpolicy.com
 .form.new
@@ -2724,6 +2734,7 @@
 .hhdcb3office.org
 .hhthesakyatrizin.org
 .hi-on.org.tw
+.hicairo.com
 .hiccears.com
 .hidden-advent.org
 .hide.me
@@ -2955,6 +2966,7 @@
 .hxwq.org
 .hyatt
 .hybrid-analysis.com
+.hyperbeam.com
 .hyperrate.com
 .hypothes.is
 .hyread.com.tw
@@ -3280,7 +3292,6 @@
 .jgoodies.com
 .jiangweiping.com
 .jiaoyou8.com
-.jichangtj.com
 .jiehua.cz
 .jiepang.com
 .jieshibaobao.com
@@ -3567,6 +3578,7 @@
 .letscorp.net
 .letsencrypt.org
 .levyhsu.com
+.lexica.art
 .lexus
 .lflink.com
 .lflinkup.com
@@ -3617,6 +3629,7 @@
 .linktr.ee
 .linkuswell.com
 .linpie.com
+.linux.do
 .linux.org.hk
 .linuxtoy.org
 .lionsroar.com
@@ -3653,6 +3666,7 @@
 .lkcn.net
 .llnwd.net
 .llss.me
+.lmarena.ai
 .lmsys.org
 .lncn.org
 .load.to
@@ -5074,6 +5088,7 @@
 .religionnews.com
 .religioustolerance.org
 .renminbao.com
+.rentry.co
 .renyurenquan.org
 .rerouted.org
 .resilio.com
@@ -5497,6 +5512,7 @@
 .sndcdn.com
 .sneakme.net
 .snowlionpub.com
+.sntp.uk
 .so
 .sobees.com
 .soc.mil
@@ -5540,6 +5556,7 @@
 .sopcast.com
 .sopcast.org
 .sophos.com
+.sora.com
 .sorazone.net
 .sorting-algorithms.com
 .sos.org
@@ -5893,6 +5910,7 @@
 .terabox.com
 .teraboxcdn.com
 .termius.com
+.terobox.com
 .teva
 .tew.org
 .textnow.com
