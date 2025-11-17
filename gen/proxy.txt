@@ -202,6 +202,7 @@
 .adcex.com
 .addictedtocoffee.de
 .adelaidebbs.com
+.adguard-vpn.com
 .adguard.org
 .admob.com
 .adobe.com
@@ -2683,6 +2684,7 @@
 .hbo
 .hbo.com
 .hbogo.com
+.hbomax.com
 .hbonow.com
 .hcaptcha.com
 .hclips.com
@@ -3968,6 +3970,7 @@
 .mixx.com
 .mizzmona.com
 .mjib.gov.tw
+.mjj.rip
 .mk
 .mk5000.com
 .ml
@@ -5172,6 +5175,7 @@
 .rumble.com
 .runbtx.com
 .rushbee.com
+.rustdesk.com
 .rusvpn.com
 .ruten.com.tw
 .rutracker.net
