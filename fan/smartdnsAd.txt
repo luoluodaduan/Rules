@@ -7005,6 +7005,7 @@ adworldmedia.net
 adwstats.com
 adwx6vcj.com
 adx-ad.smart-tv.cn
+adx-api.jinmo.tech
 adx-bid.tianzhuobj.com
 adx-bj-req.anythinktech.com
 adx-bj.anythinktech.com
@@ -7013,6 +7014,7 @@ adx-drcn.op.dbankcloud.cn
 adx-exchange.toast.com
 adx-open-service.youku.com
 adx-os.anythinktech.com
+adx-saas.advlion.com
 adx-static.ksosoft.com
 adx.36kr.com
 adx.ads.heytapmobi.com
@@ -13638,6 +13640,7 @@ bizspring.net
 bizx.info
 bizz.cochraneco.com
 bizzclick.com
+bj-td-menta-01-callback.advlion.com
 bj.ad.track.66mobi.com
 bj14.9669.cn
 bj2550.com
@@ -15500,6 +15503,7 @@ c.dengbaozx.cn
 c.dokrmob.com
 c.dzytjqcc.com
 c.easypatent.net
+c.etoolads.cn
 c.evidon.com
 c.f1zd.com
 c.fingerprint.com
@@ -54241,6 +54245,7 @@ monitor-api.blackcrow.ai
 monitor-frontend-collector.a.bybit-aws.com
 monitor-stsdk.vivo.com.cn
 monitor-uu.play.aiseet.atianqi.com
+monitor.adxsenmeng.com
 monitor.agenedia.com
 monitor.channel4.com
 monitor.fraudblocker.com
@@ -64408,6 +64413,7 @@ qmjjfwxgmsovj.site
 qmjzqncmzmei.com
 qmkackqmigezu.club
 qmlnioxbjldsfsa.xyz
+qmlog.baertt.com
 qmlpshhjq.net
 qmlrmarmalebo.top
 qmlrmarmalyvb.top
@@ -67352,6 +67358,7 @@ rtb-1.mylust.com
 rtb-1.xcafe.com
 rtb-3.xgroovy.com
 rtb-media.me
+rtb.adxsenmeng.com
 rtb.com.ru
 rtb.prod.carbonatixaudio.com
 rtb.voiceads.cn
@@ -67984,6 +67991,7 @@ s0cool.net
 s0drxaq4v7.com
 s0n.cn
 s1.carnext.com
+s1.cdn-sg.advlion.com
 s1.cmfu.com
 s1.dapenti.com
 s1.dugoogle.com
@@ -80337,6 +80345,7 @@ target-us.samsung.com
 target.abanca.com
 target.accenture.com
 target.acpny.com
+target.ads.jihuoniao.com
 target.afrique.pwc.com
 target.aia.co.kr
 target.aiavitality.co.kr
