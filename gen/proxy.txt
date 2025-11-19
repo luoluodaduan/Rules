@@ -1261,6 +1261,7 @@
 .cloudflare-ipfs.com
 .cloudflare.com
 .cloudflareinsights.com
+.cloudflarestatus.com
 .cloudfront.net
 .cloudfunctions.net
 .club1069.com
@@ -3600,6 +3601,7 @@
 .liberal.org.hk
 .libertysculpturepark.com
 .libertytimes.com.tw
+.library-access.sk
 .libraryinformationtechnology.com
 .libredd.it
 .licdn.com
@@ -3911,6 +3913,7 @@
 .mihk.hk
 .mihr.com
 .mihua.org
+.mij.rip
 .mikanani.me
 .mikesoltys.com
 .mikocon.com
@@ -3970,6 +3973,7 @@
 .mixpod.com
 .mixx.com
 .mizzmona.com
+.mji.rip
 .mjib.gov.tw
 .mjj.rip
 .mk
@@ -7007,6 +7011,7 @@
 .xn--90a3ac
 .xn--90ae
 .xn--90ais
+.xn--9iqy04a7fi01l.com
 .xn--9pr62r24a.com
 .xn--b4w605ferd
 .xn--cckwcxetd
