@@ -5748,6 +5748,7 @@
 .adfrontiers.com
 .adfsda005.xyz
 .adfunds.org
+.adfunlink.com
 .adfurikun.jp
 .adfusion.com
 .adfuture.cn
@@ -13437,6 +13438,7 @@
 .bidsxchange.com
 .bidtheatre.com
 .bidtimize.com
+.bidtoolads.com
 .bidvance.com
 .bidverdrd.com
 .bidvertiser.com
@@ -80312,6 +80314,7 @@
 .takigx.tourneau.com
 .takingbackjuly.com
 .takqyi.laurenhi.jp
+.takuad.com
 .talaropa.com
 .talckyslodder.top
 .talcoidsakis.com
@@ -82291,6 +82294,7 @@
 .tobaccosturgeon.com
 .tobaltoyon.com
 .tobecation.github.io
+.tobidad.com
 .tobipovsem.com
 .toblog.ctobsnssdk.com
 .toblog.snssdk.com
@@ -82468,6 +82472,7 @@
 .topnewsgo.com
 .topodat.info
 .topofblogs.com
+.toponad.com
 .topperformance.xyz
 .toppleunit.com
 .topprofitablecpm.com
