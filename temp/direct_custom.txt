@@ -1,6 +1,7 @@
 .1888866.xyz
 .9dmgamemod.com
 .a-msedge.net
+.academicearth.dpdns.org
 .academicearth.org
 .adtidy.org
 .aka.ms
@@ -47,6 +48,7 @@
 .k-msedge.net
 .kkgithub.com
 .l-msedge.net
+.learncodethehardway.dpdns.org
 .learncodethehardway.org
 .live.com
 .lync.com
