@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/jar/fan.txt;md5;fe5929df64eb2358effeb032359732e5",
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/jar/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -13,19 +13,13 @@
       "changeable": 0
     },
     {
-      "key": "玩偶",
-      "name": "👽玩偶哥哥4K弹幕",
+      "key": "YGP",
+      "name": "🚀叨观荐影预告片",
       "type": 3,
-      "api": "csp_WoGGGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto",
-        "siteUrl": "https://www.wogg.com/",
-        "danMu": "弹"
-      }
+      "api": "csp_YGPGuard",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
     },
     {
       "key": "alllive",
@@ -36,32 +30,6 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
-    },
-    {
-      "key": "抠搜",
-      "name": "🍄抠抠搜搜",
-      "type": 3,
-      "api": "csp_KkSsGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
-    },
-    {
-      "key": "UC",
-      "name": "🌈优汐搜搜",
-      "type": 3,
-      "api": "csp_UuSsGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
     },
     {
       "key": "原创",
@@ -126,20 +94,6 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": "rfOX1voDIQhH8epBwtCFsq+8syyZ18T30GkibomjS1xHcE9fpWU7oKJ1cO9K0M5hrnOHZ9dKjiJz5HEyTr57RZHCqunfFT7jH/mEy+uqVyo="
-    },
-    {
-      "key": "Lib",
-      "name": "🌟立播秒播",
-      "type": 3,
-      "api": "csp_LibvioGuard",
-      "timeout": 10,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
     },
     {
       "key": "zxzj",
@@ -388,96 +342,6 @@
       "changeable": 0
     },
     {
-      "key": "YpanSo",
-      "name": "🐟盘她三盘",
-      "type": 3,
-      "api": "csp_YpanSoGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
-    },
-    {
-      "key": "xzso",
-      "name": "👻盘它三盘",
-      "type": 3,
-      "api": "csp_XzsoGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
-    },
-    {
-      "key": "米搜",
-      "name": "🦋米搜夸父",
-      "type": 3,
-      "api": "csp_MIPanSoGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
-    },
-    {
-      "key": "夸搜",
-      "name": "😻夸搜夸父",
-      "type": 3,
-      "api": "csp_PanSearchGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "pan": "quark",
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
-    },
-    {
-      "key": "Aliso",
-      "name": "🙀盘搜阿狸",
-      "type": 3,
-      "api": "csp_PanSearchGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
-    },
-    {
-      "key": "YiSo",
-      "name": "😹易搜阿狸",
-      "type": 3,
-      "api": "csp_YiSoGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
-    },
-    {
-      "key": "csp_AList",
-      "name": "AList网盘",
-      "type": "3",
-      "api": "csp_AList",
-      "searchable": "0",
-      "quickSearch": "0",
-      "filterable": "1",
-      "changeable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/json/alist.json"
-    },
-    {
       "key": "新6V",
       "name": "新6V磁力慎用",
       "type": 3,
@@ -628,49 +492,49 @@
     },
     {
       "key": "drpy_js_360影视",
-      "name": "官源360[js]",
+      "name": "官源360(js)",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/lib/drpy2.min.js",
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/js/360影视.js"
     },
     {
       "key": "drpy_js_奇珍异兽",
-      "name": "官源爱奇艺[js]",
+      "name": "官源爱奇艺(js)",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/lib/drpy2.min.js",
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/js/奇珍异兽.js"
     },
     {
       "key": "drpy_js_百忙无果",
-      "name": "官源芒果[js]",
+      "name": "官源芒果(js)",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/lib/drpy2.min.js",
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/js/百忙无果.js"
     },
     {
       "key": "drpy_js_腾云驾雾",
-      "name": "官源腾讯[js]",
+      "name": "官源腾讯(js)",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/lib/drpy2.min.js",
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/js/腾云驾雾.js"
     },
     {
       "key": "drpy_js_菜狗",
-      "name": "官源搜狗[js]",
+      "name": "官源搜狗(js)",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/lib/drpy2.min.js",
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/js/菜狗.js"
     },
     {
       "key": "drpy_js_优酷",
-      "name": "官源优酷[js]",
+      "name": "官源优酷(js)",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/lib/drpy2.min.js",
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/js/优酷.js"
     },
     {
       "key": "drpy_js_JustLive",
-      "name": "直播JustLive[js]",
+      "name": "直播JustLive(js)",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/lib/drpy2.min.js",
       "style": {
@@ -682,7 +546,7 @@
     },
     {
       "key": "drpy_js_斗鱼直播",
-      "name": "直播斗鱼[js]",
+      "name": "直播斗鱼(js)",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/lib/drpy2.min.js",
       "style": {
@@ -694,7 +558,7 @@
     },
     {
       "key": "drpy_js_虎牙直播",
-      "name": "直播虎牙[js]",
+      "name": "直播虎牙(js)",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/lib/drpy2.min.js",
       "style": {
@@ -706,28 +570,28 @@
     },
     {
       "key": "drpy_js_AnFuns",
-      "name": "动漫AnFuns[js]",
+      "name": "动漫AnFuns(js)",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/lib/drpy2.min.js",
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/js/AnFuns.js"
     },
     {
       "key": "drpy_js_NT动漫",
-      "name": "动漫NT动漫[js]",
+      "name": "动漫NT动漫(js)",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/lib/drpy2.min.js",
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/js/NT动漫.js"
     },
     {
       "key": "drpy_js_NyaFun",
-      "name": "动漫NyaFun[js]",
+      "name": "动漫NyaFun(js)",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/lib/drpy2.min.js",
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/js/NyaFun.js"
     },
     {
       "key": "drpy_js_好趣网",
-      "name": "电视好趣网[js]",
+      "name": "电视好趣网(js)",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/lib/drpy2.min.js",
       "changeable": 0,
@@ -738,8 +602,24 @@
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/js/好趣网.js"
     },
     {
+      "key": "drpy_js_DJ音乐",
+      "name": "音频DJ音乐(js)",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/lib/drpy2.min.js",
+      "changeable": 0,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/js/DJ音乐.js"
+    },
+    {
+      "key": "drpy_js_短视频",
+      "name": "聚合短视频(js)",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/lib/drpy2.min.js",
+      "changeable": 0,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/js/短视频.js"
+    },
+    {
       "key": "drpy_js_酷6网",
-      "name": "聚合酷6网[js]",
+      "name": "聚合酷6网(js)",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/lib/drpy2.min.js",
       "changeable": 0,
@@ -747,25 +627,11 @@
     },
     {
       "key": "drpy_js_网易公版影像",
-      "name": "聚合网易公版[js]",
+      "name": "聚合网易公版(js)",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/lib/drpy2.min.js",
       "changeable": 0,
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/js/网易公版影像.js"
-    },
-    {
-      "key": "bb",
-      "name": "配置接口完全免费",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/lib/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/js/drpy.js"
-    },
-    {
-      "key": "cc",
-      "name": "请勿相信视频中任何广告",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/lib/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/js/drpy.js"
     }
   ],
   "parses": [
