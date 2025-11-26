@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem1125.jar;md5;9EDD8752F1B1F6DE3983917BA031B2D8",
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem1126.jar;md5;B99C987C93517168812991AB5FB41674",
   "wallpaper": "https://pic.850930.xyz/",
   "sites": [
     {
@@ -316,20 +316,34 @@
       "changeable": 1
     },
     {
-      "key": "csp_JqqGuard",
+      "key": "csp_AppTTGuard_热播",
+      "name": "📺热播(SP)",
+      "type": 3,
+      "api": "csp_AppTTGuard",
+      "timeout": 10,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "uqGL1bNENExT7/hGxpSE5qU="
+    },
+    {
+      "key": "csp_AppSxGuard_剧圈",
       "name": "🐻剧圈(SP)",
       "type": 3,
-      "api": "csp_JqqGuard",
+      "api": "csp_AppSxGuard",
       "timeout": 10,
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
+      "changeable": 1,
+      "ext": "rfOb1uAWbkRHp7hdxprGv+T3siLQwtXglSghatTiFVdOcF8X8jEp+aRrf/FNw9F962OYcJdY2CMy/nlgFeo4R9+I8K2FSnLnGP2FxOijR2T52RQ6NwQWv5XyDxPxRcMHTslu7SYeFlb8EuDsyEz4Dg=="
     },
     {
       "key": "csp_AppSxGuard_下饭",
       "name": "🍙下饭(SP)",
       "type": 3,
       "api": "csp_AppSxGuard",
+      "timeout": 10,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -340,10 +354,22 @@
       "name": "👀鲸鱼(SP)",
       "type": 3,
       "api": "csp_AppSxGuard",
+      "timeout": 10,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
       "ext": "rfOX1voDIQhH8epBwpmIsuS/sSCZz8r+wzZkfJbkFR5FJ1EK9mVu7apib64Gl8ND6FCETepkkEhht0ptIq9qCQ=="
+    },
+    {
+      "key": "csp_AppSxGuard_红豆",
+      "name": "🍊红豆(SP)",
+      "type": 3,
+      "api": "csp_AppSxGuard",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "rfOb1uAWbkRHp7hdxprG9un3+TDC2t/rlTwlcMr+ChdbeV8Q9y9xsKxqfbtO0M05tGWcacFVm2c45jhyH6t1Rt6A6PjICGqxV+uN1uOqS2/x0Vp5J0Vfo8usQADpHg=="
     },
     {
       "key": "csp_AppTTGuard_欢视",
@@ -358,37 +384,15 @@
       "ext": "uqGL1bNENExT9fFAy5mE5qU="
     },
     {
-      "key": "csp_AppTTGuard_热播",
-      "name": "📺热播(SP)",
-      "type": 3,
-      "api": "csp_AppTTGuard",
-      "timeout": 10,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "uqGL1bNENExT7/hGxpSE5qU="
-    },
-    {
-      "key": "csp_AppSxGuard_红豆",
-      "name": "🍊红豆(SP)",
+      "key": "csp_AppSxGuard_糯米",
+      "name": "🍓糯米(SP)",
       "type": 3,
       "api": "csp_AppSxGuard",
       "timeout": 10,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "rfOX1voDIQhH8epBwpmIsuS/sSCZ0NTh0TYsL4PsF1wEM1kc4mV87b9fc/FN//x7jUuaRvFX81tz8A=="
-    },
-    {
-      "key": "csp_NmyswvGuard",
-      "name": "🍓糯米(SP)",
-      "type": 3,
-      "api": "csp_NmyswvGuard",
-      "timeout": 10,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
+      "ext": "rfOX1voDIQhH8epBwtCFsuPz+Gqemoi6lWBjO9WjCB9RMwhf0wct5v5AZOR3ieFbjE+ndoJe"
     },
     {
       "key": "csp_AueteGuard",
