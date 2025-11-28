@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem1127.jar;md5;B960DD85AC82EC370FCC9666D8E74911",
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem1128.jar;md5;DFFB5C740B8B54BC4E01FC3EC25BEECF",
   "wallpaper": "https://pic.850930.xyz/",
   "sites": [
     {
@@ -1304,6 +1304,18 @@
       "ext": {
         "host": "https://ht.zhenxun.love",
         "name": "羊羊学院"
+      }
+    },
+    {
+      "key": "py_吉米_APP",
+      "name": "🧿吉米(FOX)",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/appfox.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "host": "http://fox.tvmao.top"
       }
     },
     {
