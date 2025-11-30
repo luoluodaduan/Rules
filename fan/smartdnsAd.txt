@@ -5246,9 +5246,11 @@ ad.ikonke.com
 ad.imp.joins.com
 ad.inhaabit.com
 ad.intl.xiaomi.com
+ad.iot.360.cn
 ad.ipadview.com
 ad.jamba.net
 ad.jamster.co.uk
+ad.jia.360.cn
 ad.jibunde-esute.com
 ad.jiemian.com
 ad.jsnbrynb.com
@@ -5268,6 +5270,7 @@ ad.kisstvshow.ru
 ad.l2b.co.za
 ad.lflucky.com
 ad.lgappstv.com
+ad.life.360.cn
 ad.lqalm.com
 ad.m.iqiyi.com
 ad.magokoro-care-shoku.com
@@ -5302,6 +5305,7 @@ ad.rednet.cn
 ad.rejichoice.jp
 ad.richmob.cn
 ad.seeyouyima.com
+ad.shenshiads.com
 ad.shinjuku-mens-chuoh.com
 ad.shunchangzhixing.com
 ad.shuoshuomi.com
@@ -5339,6 +5343,7 @@ ad.wsod.com
 ad.wurangxian.top
 ad.xiaomi.com
 ad.ximalaya.com
+ad.xunkids.com
 ad.yeshitv.com
 ad.yixin.im
 ad.ymcdn.org
@@ -6391,6 +6396,7 @@ ads.ccstock.cn
 ads.cdn.rovio.com
 ads.ce.cn
 ads.csdn.net
+ads.cup.com.cn
 ads.cyberctm.com
 ads.dandelionchocolate.jp
 ads.data.pplive.com
@@ -6879,6 +6885,7 @@ adutp.com
 aduu.cn
 adv-adserver.com
 adv-analytics-collector.videograph.ai
+adv-api.shenshiads.com
 adv-sv-show.focus.cn
 adv-sv-stat.focus.cn
 adv.app.qq.com
@@ -9469,6 +9476,7 @@ api-access.pangolin-sdk-toutiao2.com
 api-access.pangolin-sdk-toutiao3.com
 api-access.pangolin-sdk-toutiao4.com
 api-access.pangolin-sdk-toutiao5.com
+api-ad-data.kajicam.com
 api-ad-product.huxiu.com
 api-ad.kajicam.com
 api-ads.tiantianqutao.com
@@ -28889,6 +28897,7 @@ engageya.com
 engagio.com
 engbjwqvwznxg.website
 engfjteoiyrou.online
+engine.dcad01.com
 engine.eroge.com
 engine.fxempire.com
 engine.laweekly.com
@@ -43738,6 +43747,7 @@ junshizhanlue.com
 juomsawqzkdqo.space
 juomudsjlmert.online
 jupdyvbotqwhw.site
+juphaufaigna.net
 jupit.xyz
 jupiterhealth-app.hotdoc.com.au
 juponrerope.com
@@ -47898,6 +47908,7 @@ log.hunantv.com
 log.hypebeast.com
 log.idnes.cz
 log.iflytek.com
+log.ireader.com
 log.kaayun.com
 log.kajicam.com
 log.kinolights.com
@@ -48018,6 +48029,7 @@ logoshutter.com
 logql.yahoo.co.jp
 logr-ingest.com
 logrcv.aiclk.com
+logrcv.yunxish.com
 logrocket.io
 logs-api.shoprunner.com
 logs-collect.ziniao.com
@@ -48053,6 +48065,7 @@ logtake.weidian.com
 logtj.kugou.com
 logua.com
 logupdate.avlyun.sec.miui.com
+logwebs.kugou.com
 logx-experimentation.iherb.com
 logx.optimizely.com
 logxp.ru
@@ -49754,6 +49767,7 @@ m.sfouh.com
 m.sfp61.cn
 m.sfscooter.cn
 m.sgltc.cn
+m.shenshiads.com
 m.shenyunkeji.com
 m.shoppre.com
 m.shopprecouriers.com
@@ -55306,6 +55320,7 @@ mobileadtrading.com
 mobileapptracking.com
 mobiledevel.com
 mobiledissector.com
+mobilelog.kugou.com
 mobilelog.upqzfile.com
 mobilemsg.youku.com
 mobileoffers-dld-download.com
@@ -60147,6 +60162,7 @@ opeanresultanc.com
 opehs.tanx.com
 open-ad.vivo.com.cn
 open-adx.com
+open-set-api.shenshiads.com
 open-test.wynk.in
 open-try.pro
 open-uc.cn
@@ -61230,6 +61246,7 @@ p5mcwdbu.ginzo-buy.jp
 p6-ad-sign.byteimg.com
 p6-be-pack-sign.pglstatp-toutiao.com
 p6.zbjimg.com
+p66-ad.adkwai.com
 p70y44odg.com
 p77777777.com
 p7cloud.net
@@ -70146,6 +70163,8 @@ safe-connection21.com
 safe.tsgpay.cn
 safeanalytics.net
 safebrowsdv.com
+safebrowsing.googleapis.com
+safebrowsing.urlsec.gg.com
 safecoprograms.com
 safefiles2.oss-cn-beijing.aliyuncs.com
 safeglimmerlongitude.com
@@ -71180,6 +71199,7 @@ sdklog.uu.cc
 sdkoptedge.chinanetcenter.com
 sdkpay.uu.cc
 sdkrec.tf.360.cn
+sdkreport.e.qq.com
 sdksitter.m.sjzhushou.com
 sdksp.video.qq.com
 sdktmp.hubcloud.com.cn
@@ -83031,6 +83051,7 @@ thinnerbiting.com
 thinnerlanguish.com
 thinpaltrydistrust.com
 thipseedsy.net
+thirairtoaboats.net
 third-growth.pro
 third-tracking.com
 thirdgas.com
@@ -85357,6 +85378,7 @@ tracead.com
 traceless.me
 tracelog-debug.aiclk.com
 tracelog-debug.qquanquan.com
+tracelog-debug.yunxish.com
 tracemonitorusa.life
 tracemyip.org
 tracer.autoscout24.ch
@@ -93016,6 +93038,7 @@ wi1f.icu
 wiampgqpfdxyz.website
 wiar9wff0ma9.ping.t3.gg
 wicdn.cloud
+wichoaltaisheel.net
 wickedhumankindbarrel.com
 wickedreports.com
 wickedsetup.com
@@ -94462,6 +94485,7 @@ xcvf.info
 xcvfqnxr.net
 xcvqlmvxltmde.website
 xcwdcynb.icu
+xcx.dcad01.com
 xcxmfcqehr.net
 xcxtfgovt.com
 xcy8.com
@@ -97204,6 +97228,7 @@ zjnrvjkrwtbo.com
 zjptg.com
 zjqbxcdwwtvtt.site
 zjrbwb.markenschuhe.de
+zjres-ad.kajicam.com
 zjsyawqj.cn
 zjvdyclulykon.online
 zjwdeujzdjhrk.site
