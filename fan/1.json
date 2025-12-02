@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem1129.jar;md5;F29FD9C5634A45855896EE56382BC6E5",
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem1202.jar;md5;6EC33251008301E60790AE7CBDB5EE94",
   "wallpaper": "https://pic.850930.xyz/",
   "sites": [
     {
@@ -1395,6 +1395,36 @@
         "api": "/api.php/qijiappapi",
         "datakey": "kecbio48dsq131ed",
         "dataiv": "kecbio48dsq131ed"
+      }
+    },
+    {
+      "key": "py_爱盈_APP",
+      "name": "🧿爱盈(QIJI)",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/qijiapp.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "host": "https://aysappto.oss-cn-chengdu.aliyuncs.com/qj3.txt",
+        "api": "/api.php/qijiappapi",
+        "datakey": "sda1231sasddad21",
+        "dataiv": "sda1231sasddad21"
+      }
+    },
+    {
+      "key": "py_顾我_APP",
+      "name": "🧿顾我(QIJI)",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/qijiapp.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "host": "https://guwozj-1319364746.cos.ap-guangzhou.myqcloud.com/guwo.txt",
+        "api": "/api.php/qijiappapi",
+        "datakey": "ca94b06ca3c7d80e",
+        "dataiv": "ca94b06ca3c7d80e"
       }
     },
     {
