@@ -41,35 +41,12 @@
       }
     },
     {
-      "key": "羊羊",
-      "name": "羊羊APP",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_AppMuou",
-      "ext": {
-        "url": "https://ht.zhenxun.love",
-        "name": "羊羊学院"
-      }
-    },
-    {
       "key": "吉米",
       "name": "吉米APP",
       "type": 3,
       "api": "csp_AppFox",
       "ext": {
         "host": "http://fox.tvmao.top"
-      }
-    },
-    {
-      "key": "思念",
-      "name": "思念APP",
-      "type": 3,
-      "api": "csp_AppFox",
-      "ext": {
-        "host": "https://snys2.xyz",
-        "timeout": 15,
-        "ver": 2
       }
     },
     {
@@ -280,17 +257,6 @@
       }
     },
     {
-      "key": "鹤雪",
-      "name": "鹤雪APP",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://hxys.07hx.shop",
-        "dataKey": "hex200762200762.",
-        "dataIv": "hex200762200762."
-      }
-    },
-    {
       "key": "魔方",
       "name": "魔方APP",
       "type": 3,
@@ -414,18 +380,6 @@
       }
     },
     {
-      "key": "爱看",
-      "name": "爱看APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://www.appdm.akandm.com",
-        "dataKey": "uI1TkPJC8B46AyN3",
-        "dataIv": "uI1TkPJC8B46AyN3"
-      }
-    },
-    {
       "key": "八天",
       "name": "八天丨APP",
       "type": 3,
@@ -487,18 +441,6 @@
       }
     },
     {
-      "key": "狂人",
-      "name": "狂人丨APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://www.zjkrmv.vip",
-        "dataKey": "vXeyuJFqTKqWUtWU",
-        "dataIv": "vXeyuJFqTKqWUtWU"
-      }
-    },
-    {
       "key": "驿站",
       "name": "驿站丨APP",
       "type": 3,
@@ -549,18 +491,6 @@
       }
     },
     {
-      "key": "丫丫",
-      "name": "丫丫APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://tv.yy-fun.cc",
-        "dataKey": "qkxnwkfjwpcnwycl",
-        "dataIv": "qkxnwkfjwpcnwycl"
-      }
-    },
-    {
       "key": "腾讯视频",
       "name": "腾讯视频",
       "type": 3,
@@ -605,12 +535,19 @@
       "changeable": 1,
       "ext": {
         "site": [
-          "https://www.wogg.lol",
-          "https://wogg.xxooo.cf",
           "https://www.wogg.one",
           "https://wogg.333232.xyz",
           "https://woggpan.888484.xyz"
         ]
+      }
+    },
+    {
+      "key": "即刻",
+      "name": "即刻4K",
+      "type": 3,
+      "api": "csp_Jike",
+      "style": {
+        "type": "list"
       }
     },
     {
@@ -866,6 +803,18 @@
       }
     },
     {
+      "key": "丫丫动漫",
+      "name": "丫丫动漫",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://tv.yy-fun.cc",
+        "dataKey": "qkxnwkfjwpcnwycl",
+        "dataIv": "qkxnwkfjwpcnwycl"
+      }
+    },
+    {
       "key": "冬日动漫",
       "name": "冬日丨动漫",
       "type": 3,
@@ -951,19 +900,7 @@
       }
     },
     {
-      "key": "派对动漫",
-      "name": "派对动漫",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://qjappcms.acg.party",
-        "dataKey": "AmtMYFCJDPoTlK7z",
-        "dataIv": "AmtMYFCJDPoTlK7z"
-      }
-    },
-    {
-      "key": "米饭",
+      "key": "米饭动漫",
       "name": "米饭动漫",
       "type": 3,
       "quickSearch": 1,
@@ -1003,13 +940,6 @@
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/js/花子动漫.js"
     },
     {
-      "key": "动画片",
-      "name": "动画片动漫",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/js/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/js/动画片大全.js"
-    },
-    {
       "key": "爱动漫",
       "name": "爱动漫动漫",
       "type": 3,
@@ -1022,13 +952,6 @@
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/js/drpy2.min.js",
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/js/路漫漫.js"
-    },
-    {
-      "key": "动漫岛",
-      "name": "动漫岛动漫",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/js/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/js/动漫岛.js"
     },
     {
       "key": "去看吧",
@@ -1182,12 +1105,6 @@
       "name": "酷乐搜索",
       "type": 3,
       "api": "csp_KuLe"
-    },
-    {
-      "key": "爱看搜索",
-      "name": "爱看搜索",
-      "type": 3,
-      "api": "csp_AiKan"
     },
     {
       "key": "鬼鬼搜索",

@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem1203.jar;md5;4962830E27A988D3989E970DA5480F3C",
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem1204.jar;md5;035E512EC63DF4D55BE32648436415DA",
   "wallpaper": "https://pic.850930.xyz/",
   "sites": [
     {
@@ -1294,19 +1294,6 @@
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/腾云驾雾[官].js"
     },
     {
-      "key": "py_羊羊_APP",
-      "name": "🧿羊羊(MUOU)",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/appmuou.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "https://ht.zhenxun.love",
-        "name": "羊羊学院"
-      }
-    },
-    {
       "key": "py_吉米_APP",
       "name": "🧿吉米(FOX)",
       "type": 3,
@@ -1316,19 +1303,6 @@
       "filterable": 1,
       "ext": {
         "host": "http://fox.tvmao.top"
-      }
-    },
-    {
-      "key": "py_思念_APP",
-      "name": "🧿思念(FOX)",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/appfox.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "https://snys2.xyz",
-        "ver": "2"
       }
     },
     {
@@ -1352,7 +1326,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "host": "http://www.mzd.asia"
+        "host": "https://www.dhxxfhsz.top",
+        "ver": "2"
       }
     },
     {
@@ -1593,21 +1568,6 @@
       }
     },
     {
-      "key": "py_鹤雪_APP",
-      "name": "🧿鹤雪(GET)",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "http://hxys.07hx.shop",
-        "api": "/api.php/getappapi",
-        "datakey": "hex200762200762.",
-        "dataiv": "hex200762200762."
-      }
-    },
-    {
       "key": "py_魔方_APP",
       "name": "🧿魔方(GET)",
       "type": 3,
@@ -1758,21 +1718,6 @@
       }
     },
     {
-      "key": "py_爱看_APP",
-      "name": "🧿爱看(GET)",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "https://www.appdm.akandm.com",
-        "api": "/api.php/getappapi",
-        "datakey": "uI1TkPJC8B46AyN3",
-        "dataiv": "uI1TkPJC8B46AyN3"
-      }
-    },
-    {
       "key": "py_八天_APP",
       "name": "🧿八天(GET)",
       "type": 3,
@@ -1845,21 +1790,6 @@
         "api": "/api.php/getappapi",
         "datakey": "JEWibY1AgWF0V1xx",
         "dataiv": "JEWibY1AgWF0V1xx"
-      }
-    },
-    {
-      "key": "py_狂人_APP",
-      "name": "🧿狂人(GET)",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "https://www.zjkrmv.vip",
-        "api": "/api.php/getappapi",
-        "datakey": "vXeyuJFqTKqWUtWU",
-        "dataiv": "vXeyuJFqTKqWUtWU"
       }
     },
     {
@@ -2055,21 +1985,6 @@
         "api": "/api.php/getappapi",
         "datakey": "nKfZ8KX6JTNWRzTD",
         "dataiv": "nKfZ8KX6JTNWRzTD"
-      }
-    },
-    {
-      "key": "py_派对_APP",
-      "name": "🧿派对(GET)",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "https://qjappcms.acg.party",
-        "api": "/api.php/getappapi",
-        "datakey": "AmtMYFCJDPoTlK7z",
-        "dataiv": "AmtMYFCJDPoTlK7z"
       }
     },
     {
