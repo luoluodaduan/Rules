@@ -78,6 +78,16 @@
       }
     },
     {
+      "key": "恋鱼",
+      "name": "恋鱼APP",
+      "type": 3,
+      "api": "csp_AppFox",
+      "ext": {
+        "host": "https://173220859-1333208043.cos.ap-shanghai.myqcloud.com/1.json",
+        "ver": 2
+      }
+    },
+    {
       "key": "和友",
       "name": "和友APP",
       "type": 3,
@@ -133,8 +143,8 @@
       }
     },
     {
-      "key": "咖啡",
-      "name": "咖啡丨APP",
+      "key": "幕启",
+      "name": "幕启丨APP",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppQi",
@@ -142,7 +152,7 @@
         "site": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxh.txt",
         "dataKey": "37kj83zs1q16jk6t",
         "dataIv": "37kj83zs1q16jk6t",
-        "version": "101"
+        "version": "120"
       }
     },
     {
@@ -231,6 +241,71 @@
         "dataKey": "staraugust123456",
         "dataIv": "staraugust123456",
         "version": "120"
+      }
+    },
+    {
+      "key": "剧猫",
+      "name": "剧猫APP",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "site": "https://zjm-1302383509.cos.ap-guangzhou.myqcloud.com/zjm.txt",
+        "dataKey": "zjmznbl2026zcxgb",
+        "dataIv": "zjmznbl2026zcxgb"
+      }
+    },
+    {
+      "key": "爱看",
+      "name": "爱看APP",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://wiffxm.cn",
+        "dataKey": "AvwBFPUtGTEYPbY4",
+        "dataIv": "AvwBFPUtGTEYPbY4"
+      }
+    },
+    {
+      "key": "剧梦",
+      "name": "剧梦APP",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://www.jumengwu.com",
+        "dataKey": "1f0a873caf2550a5",
+        "dataIv": "1f0a873caf2550a5"
+      }
+    },
+    {
+      "key": "缘梦",
+      "name": "缘梦APP",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://www.zipfve.cn",
+        "dataKey": "1234567890987654",
+        "dataIv": "1234567890987654"
+      }
+    },
+    {
+      "key": "麻花",
+      "name": "麻花APP",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://49.235.114.19:150",
+        "dataKey": "q7gj4f9br3fls6nh",
+        "dataIv": "q7gj4f9br3fls6nh"
       }
     },
     {
@@ -388,7 +463,8 @@
       "ext": {
         "url": "https://ios.hgyx.vip",
         "dataKey": "062dec75d039980e",
-        "dataIv": "062dec75d039980e"
+        "dataIv": "062dec75d039980e",
+        "ua": "Dart/3.5 (dart:io)"
       }
     },
     {
@@ -581,6 +657,16 @@
       "style": {
         "type": "list"
       }
+    },
+    {
+      "key": "笒鬼短剧",
+      "name": "笒鬼短剧",
+      "type": 3,
+      "api": "csp_CenguiDJ",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "星芽短剧",
@@ -981,6 +1067,17 @@
       "ext": {
         "url": "https://www.pkmp4.xyz,https://www.qwnull.com,https://www.qwmkv.com,https://www.qwfilm.com,https://www.qnmp4.com,https://www.qnnull.com,https://www.qnhot.com"
       }
+    },
+    {
+      "key": "雪花",
+      "name": "雪花磁力",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "changeable": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/XBPQ/雪花.json"
     },
     {
       "key": "80S",
