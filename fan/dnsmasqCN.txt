@@ -7342,7 +7342,6 @@ server=/75g.co/223.5.5.5
 server=/75ll.com/223.5.5.5
 server=/75n474.com/223.5.5.5
 server=/75pk.com/223.5.5.5
-server=/75team.com/223.5.5.5
 server=/75ww.com/223.5.5.5
 server=/75xn.com/223.5.5.5
 server=/76065.com/223.5.5.5

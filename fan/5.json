@@ -601,7 +601,7 @@
     },
     {
       "key": "爱奇艺",
-      "name": "爱奇异视频",
+      "name": "爱奇艺视频",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/js/drpy2.min.js",
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/js/爱奇艺.js"
