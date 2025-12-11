@@ -88,6 +88,15 @@
       }
     },
     {
+      "key": "木瓜",
+      "name": "木瓜APP",
+      "type": 3,
+      "api": "csp_AppFox",
+      "ext": {
+        "host": "http://www.yezitv.top"
+      }
+    },
+    {
       "key": "和友",
       "name": "和友APP",
       "type": 3,
@@ -241,6 +250,19 @@
         "dataKey": "staraugust123456",
         "dataIv": "staraugust123456",
         "version": "120"
+      }
+    },
+    {
+      "key": "椰子",
+      "name": "椰子APP",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://103.109.20.117:6699",
+        "dataKey": "xxm9N4P9rS2zjdyz",
+        "dataIv": "xxm9N4P9rS2zjdyz"
       }
     },
     {
@@ -630,6 +652,16 @@
       }
     },
     {
+      "key": "人人",
+      "name": "人人4K",
+      "type": 3,
+      "api": "csp_RenRen",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+    {
       "key": "即刻",
       "name": "即刻4K",
       "type": 3,
@@ -642,18 +674,7 @@
       "key": "双星",
       "name": "双星4K",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/js/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/js/双星.js",
-      "style": {
-        "type": "list"
-      }
-    },
-    {
-      "key": "人人",
-      "name": "人人4K",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/js/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/js/人人电影网.js",
+      "api": "csp_ShuangXing",
       "style": {
         "type": "list"
       }
@@ -1197,6 +1218,12 @@
       "name": "鬼鬼搜索",
       "type": 3,
       "api": "csp_GuiGui"
+    },
+    {
+      "key": "趣盘",
+      "name": "趣盘搜索",
+      "type": 3,
+      "api": "csp_QuPanSo"
     },
     {
       "key": "88看球",

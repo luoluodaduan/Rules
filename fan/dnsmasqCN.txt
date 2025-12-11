@@ -18062,7 +18062,6 @@ server=/bytedance.org/223.5.5.5
 server=/bytedanceapi.com/223.5.5.5
 server=/bytedancehermestest.com/223.5.5.5
 server=/bytedancevod.com/223.5.5.5
-server=/bytedapm.com/223.5.5.5
 server=/bytedcdn.com/223.5.5.5
 server=/bytedeliver.com/223.5.5.5
 server=/bytedgames.com/223.5.5.5
