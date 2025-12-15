@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem1122.jar;md5;036E0360E6F85E374B1994285B8156C4",
+  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem1214.jar;md5;E1D5ACBED3C64AE121C2686D3B607E25",
   "wallpaper": "https://pic.850930.xyz/",
   "sites": [
     {
@@ -8,7 +8,7 @@
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/douban.json"
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/douban.json"
     },
     {
       "key": "csp_DouDouGuard",
@@ -21,11 +21,11 @@
       "key": "drjs_豆瓣推荐",
       "name": "📡豆瓣推荐(DRPY)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/豆瓣[官].js"
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/豆瓣[官].js"
     },
     {
       "key": "csp_YGPGuard",
@@ -40,15 +40,15 @@
       "key": "drjs_雷蒙资源",
       "name": "😎雷蒙资源",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/雷蒙资源.js?type=url&params=http://tv.850930.xyz/雷蒙资源静态.json$1"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/雷蒙资源.js?type=url&params=http://tv.850930.xyz/雷蒙资源静态.json$1"
     },
     {
       "key": "drjs_雷蒙直播",
       "name": "🤠雷蒙直播",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/雷蒙直播.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/json/live2cms.json"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/雷蒙直播.js?type=url&params=https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/json/live2cms.json"
     },
     {
       "key": "lfjs_电视直播",
@@ -58,11 +58,11 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/lf_live10_min-output.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/json/lf_live.json"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/lf_live10_min-output.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/json/lf_live.json"
     },
     {
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/pg.jar",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/pg.jar",
       "key": "csp_Guazi_PG",
       "name": "🌻瓜子(SP)",
       "type": 3,
@@ -74,7 +74,7 @@
       "ext": ""
     },
     {
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/pg.jar",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/pg.jar",
       "key": "vod_量子资源",
       "name": "🚀量子资源",
       "type": 1,
@@ -85,7 +85,7 @@
       "filterable": 1
     },
     {
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/pg.jar",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/pg.jar",
       "key": "vod_非凡资源",
       "name": "🚀非凡资源",
       "type": 1,
@@ -124,7 +124,7 @@
       ]
     },
     {
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/pg.jar",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/pg.jar",
       "key": "vod_暴风资源",
       "name": "🚀暴风资源",
       "type": 1,
@@ -219,8 +219,8 @@
       "key": "drjs_荐片",
       "name": "🏆荐片(DRPY)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/EXT/JS/荐片.js"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/EXT/JS/荐片.js"
     },
     {
       "key": "csp_Gz360_FM",
@@ -233,8 +233,8 @@
       "key": "drjs_瓜子",
       "name": "🍉瓜子(DRPY)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/瓜子影视.js"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/瓜子影视.js"
     },
     {
       "key": "csp_IkanBot",
@@ -249,8 +249,8 @@
       "key": "drjs_爱看机器人",
       "name": "🤖爱看机器人(DRPY)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/EXT/JS/ikanbot2.js"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/EXT/JS/ikanbot2.js"
     },
     {
       "key": "csp_AllliveGuard",
@@ -316,6 +316,18 @@
       "changeable": 1
     },
     {
+      "key": "csp_AppTTGuard_热播",
+      "name": "📺热播(SP)",
+      "type": 3,
+      "api": "csp_AppTTGuard",
+      "timeout": 10,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "uqGL1bNENExT7/hGxpSE5qU="
+    },
+    {
       "key": "csp_JqqGuard",
       "name": "🐻剧圈(SP)",
       "type": 3,
@@ -330,20 +342,44 @@
       "name": "🍙下饭(SP)",
       "type": 3,
       "api": "csp_AppSxGuard",
+      "timeout": 10,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "rfOX1voDIQhH8epBwpmIsuStuSyZxtH332ksdImjS1xHcE9fpWVy8fNjc+8DhNI67j3SJZRGjnM="
+      "ext": "rfOX1voDIQhH8epBwpmIsuStr2HSytK11WwwcM/+XB8SbkBB4XYk/L52LroCiYRhoDrRLJ4ZkCh5q2RxCb5yUs6B5aCQVGSkR6zDgKLrFSDulg=="
+    },
+    {
+      "key": "csp_AppSxGuard_猫猫",
+      "name": "🐟猫猫(SP)",
+      "type": 3,
+      "api": "csp_AppSxGuard",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "rfOX1voDIQhH8epBwtCFsub0/WmdmYi/k2NkJsm7Vk4dJQZft2UtrrwhKK52i/dDilKkU5Nz+V0bwkYsVuU="
     },
     {
       "key": "csp_AppSxGuard_鲸鱼",
       "name": "👀鲸鱼(SP)",
       "type": 3,
       "api": "csp_AppSxGuard",
+      "timeout": 10,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
       "ext": "rfOX1voDIQhH8epBwpmIsuS/sSCZz8r+wzZkfJbkFR5FJ1EK9mVu7apib64Gl8ND6FCETepkkEhht0ptIq9qCQ=="
+    },
+    {
+      "key": "csp_AppSxGuard_橘子",
+      "name": "🍊橘子(SP)",
+      "type": 3,
+      "api": "csp_AppSxGuard",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "rfOb1uAWbkRHp7hdxprG9un3+TDC2t/rlTwlcMr+ChdbeV8Q9y9xsKxqfbtO0M05tGWcacFVm2c45jhyH6t1Rt6A6PjICGqxV+uN1uOqS2/x0Vp5J0Vfo8usQADpHg=="
     },
     {
       "key": "csp_AppTTGuard_欢视",
@@ -358,34 +394,11 @@
       "ext": "uqGL1bNENExT9fFAy5mE5qU="
     },
     {
-      "key": "csp_AppTTGuard_热播",
-      "name": "📺热播(SP)",
-      "type": 3,
-      "api": "csp_AppTTGuard",
-      "timeout": 10,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "uqGL1bNENExT7/hGxpSE5qU="
-    },
-    {
-      "key": "csp_AppSxGuard_红豆",
-      "name": "🍊红豆(SP)",
-      "type": 3,
-      "api": "csp_AppSxGuard",
-      "timeout": 10,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "rfOX1voDIQhH8epBwpmIsuS/sSCZ0NTh0TYsL4PsF1wEM1kc4mV87b9fc/FN//x7jUuaRvFX81tz8A=="
-    },
-    {
       "key": "csp_NmyswvGuard",
       "name": "🍓糯米(SP)",
       "type": 3,
       "api": "csp_NmyswvGuard",
-      "timeout": 10,
+      "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -664,15 +677,31 @@
       "ext": "7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"
     },
     {
-      "key": "csp_qiao2_QJ",
-      "name": "🎄巧技(SP)",
+      "key": "csp_qiao2_QJ1",
+      "name": "🎄巧技一(SP)",
       "type": 3,
       "api": "csp_qiao2",
       "playerType": 2,
-      "ext": "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707"
+      "ext": "7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312h4934183ig2l05g9"
     },
     {
-      "key": "csp_Xdai_云云_QJ",
+      "key": "csp_qiao2_QJ2",
+      "name": "🎄巧技二(SP)",
+      "type": 3,
+      "api": "csp_qiao2",
+      "playerType": 2,
+      "ext": "7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312hk935886ig2l05g9"
+    },
+    {
+      "key": "csp_qiao2_QJ3",
+      "name": "🎄巧技三(SP)",
+      "type": 3,
+      "api": "csp_qiao2",
+      "playerType": 2,
+      "ext": "7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312gl815890ig2l05g9"
+    },
+    {
+      "key": "csp_Qiji_云云_QJ",
       "name": "☁云云(SP)",
       "type": 3,
       "api": "csp_Qiji",
@@ -680,28 +709,28 @@
       "ext": "7lj763gg402i79425h2384j4g949j899hll9990i9kjl6l740h1342hjlg1848401g8610h9995i998j351gl38kklkj1hkhll757010k7hji6h377ih37k060g35161jhl3i5h0l2702g7299452l4297k5697g5390lk6935k2i9g48l8j2kh27l1g014k7j9475g8"
     },
     {
-      "key": "csp_Qiji_橘子_QJ",
+      "key": "csp_Xdai_橘子_QJ",
       "name": "🍊橘子(SP)",
       "type": 3,
-      "api": "csp_Muou",
+      "api": "csp_Xdai",
       "playerType": 2,
-      "ext": "7lj763gg0939790i413giqiaoji484k8058896highi4414h68l7g6hk8g9k2k289l9ik807i213k5j602"
+      "ext": "7lj763gg0939795i0179i481k312jji6ggk69j0j96j86874021107j9gl36722129hj77k4g863higk1030k59ljigg39ikjl525l74h782lgj30igk10gh73lk1j12"
     },
     {
       "key": "csp_Qiji_狂风_QJ",
       "name": "🌪狂风(SP)",
       "type": 3,
-      "api": "csp_Xdai",
+      "api": "csp_Qiji",
       "playerType": 2,
-      "ext": "7lj763gg402i79425533i486k8459ljik4g1jg41k6gi0h2850784gj2lk207j5k2ji745gl8478h6h3321l84j2j7lh2li1g0562546ligk98gi74"
+      "ext": "7lj763gg402i7942522l99jhh90ljii5g1l09i13i39g2l6i514l56l1li1k5107159113h6945h8g91351kgkijl5l315g8l3656756kjk699gj689125k773g94i16ghg596l5l022202ki910690ii5kh4i6724k0g83g70k09hgkj3jj7hl431480l3i3197"
     },
     {
-      "key": "csp_Muou_火猫_QJ",
+      "key": "csp_Qiji_火猫_QJ",
       "name": "😺火猫(SP)",
       "type": 3,
-      "api": "csp_Xdai",
+      "api": "csp_Qiji",
       "playerType": 2,
-      "ext": "7lj763gg402i7942463j9j9jh14i9i96llk6ih56ij87382i1i4214lkk502725l2l9j6j9jhh0gh1j06j3ig4gjg5k00jikg1547l6kik9193jk72j31ikg41lk5113ggg5"
+      "ext": "7lj763gg402i7942553k9hj9k1128h95g3l8920j828g332i08154lg0h6134l040hj849gl8i4k9881381lh48ig2g41il4k131270lk1h6j7l723863llg60l91544k9k693l1g7722664ii126k"
     },
     {
       "key": "csp_Qiji_驿站_QJ",
@@ -709,7 +738,7 @@
       "type": 3,
       "api": "csp_Qiji",
       "playerType": 2,
-      "ext": "7lj763gg402i7942552h8ljjlj0jjki7g4lg99099jjh6l6l514k08hjl807161j139753h090539gig3604gi80lgl30jk3hk637h53gh9ljkij2lig30k277g50354k2k3jkl1g17i2820ii582l0483g61k6i79k7kk7274h1i5g6jjj833h2390k42396hik71kigl18k613"
+      "ext": "7lj763gg402i7942503399j2g04i989jhig7j94k818g326i51491kljlk134k401g9g54gk8j5i9097751kh28kh9kj12h4hk746i4gl8g1illj77j76kg27igi5k44lkl6i6l0g76h317i9k136k06i3k4497576h5lh6g75h7j2llj5j9"
     },
     {
       "key": "csp_Muou_主角_QJ",
@@ -725,7 +754,7 @@
       "type": 3,
       "api": "csp_Xdai",
       "playerType": 2,
-      "ext": "7lj763gg402i7942422493i0g712948hk8k7i75hj59g6l73060l0lkhkj0h0g5i48i208k1il0gi4j26k49kkj1g7k049h5g3342108h3kg9igg73j16kg13kh11k10g8"
+      "ext": "7lj763gg402i7942553393i9g44g8j82k2g9jg54ih863325555955g5g1595i1741i70lk1i00hji87320gh6j1gkkg0jh4g8697h06ghh3jhl5339731hj7hh5595ilkkkjhh8k261236896432i458hkk4i756kh5k3773jl2j8gj958228h178060g6h72j974g8k1"
     },
     {
       "key": "csp_Xdai_永夜_QJ",
@@ -741,15 +770,15 @@
       "type": 3,
       "api": "csp_Qiji",
       "playerType": 2,
-      "ext": "7lj763gg402i7942522k849kg4499i9hl1k5ik48i38l292l1l4l1klgl41255091i8313k2ik478h8j751kh28kh9gj56l3k874684ll3h7j9k83l9034li7lhi5g45k8k3jhhkk760276g8h5h295i9jk7597177g3kk773hh59kl8"
+      "ext": "7lj763gg402i7942563l9jjigg56i1i3g1l9930k9gjj6h75040l18likg595g1k569148h69655898i3408l38kklkj1hkhll757010k7hji6h321902gli21h95554k6l4i3lhg275722k9i436l56i5l3103677gjl96l7kh2iilij38828l26h48173731i03hghk319"
     },
     {
-      "key": "csp_Xdai_星河_QJ",
+      "key": "csp_Qiji_星河_QJ",
       "name": "💫星河(SP)",
       "type": 3,
-      "api": "csp_Xdai",
+      "api": "csp_Qiji",
       "playerType": 2,
-      "ext": "7lj763gg402i7942463j9j9jgg568780llhk844hi59920376g4402k6j3314g3g30876g828i65g6982j25h89gk3j63kl6i44h6569j1g6lii93gj66jg1"
+      "ext": "7lj763gg402i7942552h8ljjlj0jjki7g4lg99099jjh6l6l514k08hjl807161j139753h090539gig3604gi80lgl30jk3hk637h53gh9ljkij2lig30k277g50354k2k3jkl1g17i2820ii582l0483g61k6i79k7kk7274h1i5g6jjj833h2390k42396hik71kigl18k615"
     },
     {
       "key": "csp_Xdai_时常_QJ",
@@ -757,23 +786,15 @@
       "type": 3,
       "api": "csp_Qiji",
       "playerType": 1,
-      "ext": "7lj763gg402i7942552h8ljjlj0jjki7g4lg99099jjh6l6l514k08hjl807161j139753h090539gig3604gi80lgl30jk3hk637h53gh9ljkij2lig30k277g50354k2k3jkl1g17i2820ii582l0483g61k6i79k7kk7274h1i5g6jjj833h2390k42396hik71kigl18k613"
+      "ext": "7lj763gg402i79425j2h84igh9528h9gk8k6i54kjli43l2l1l491gljlk0j53010kj85ihh914h868g380kl380l9l157khl16k6j57kgh5j3l13lih29kh7hh14k41g3g3i0l2g074232hig1h380ji2l2546573k8gk6i77h0ijgjj6jk70g5304l1673329575"
     },
     {
-      "key": "csp_Qiji_超级_QJ",
-      "name": "🦈超级(SP)",
+      "key": "csp_Qiji_优质_QJ",
+      "name": "🌈优质(SP)",
       "type": 3,
       "api": "csp_Qiji",
       "playerType": 2,
-      "ext": "7lj763gg0939791i5820839jhg498h93ljh9i353ihi73l2k5l5j48g4l21j035j01850ig6i904998l6j09g1j0g1l712hlg37g670ll5k39jl62jj329kl3ilj19"
-    },
-    {
-      "key": "csp_Xdai_优质_QJ",
-      "name": "🌈优质(SP)",
-      "type": 3,
-      "api": "csp_Xdai",
-      "playerType": 2,
-      "ext": "7lj763gg402i794252728181hk0980i2lhl1j905ikjh3170584h43l8gh0l090242905hk1i01i8g80220khi93llh21hk1l43g2609hikh92k02jji32g07lll4k18l8g0ill1ki272j208349655gi1k71g652gh3gj6374li9kg3jj977gl13g"
+      "ext": "7lj763gg402i7942433293i0g9458881hig7j94k818g326i51491kljlk134k401g9g54gk8j5i9097751kh28kh9kj11kjl92k6046l0gkj8l630892glj67g61h48g3kjiigkg0263k6h955430429ill43307gk8k0602hh09lh0j6jh7h"
     },
     {
       "key": "csp_Xdai_客星_QJ",
@@ -784,12 +805,12 @@
       "ext": "7lj763gg0939790i413gi486k509jgi3ggk6j244j6j36j76041707h0lk124l0l0h867j83h576h3j66h4lk89lh5lh1jl3l170647kj09lklji74j56lg673li1h16"
     },
     {
-      "key": "csp_Hudie_QJ",
+      "key": "csp_Qiji_蝴蝶",
       "name": "🦋蝴蝶(SP)",
       "type": 3,
-      "api": "csp_Xdai",
+      "api": "csp_Qiji",
       "playerType": 2,
-      "ext": "7lj763gg0939791h1l239kj0g853i291lik7jk45j8i66j6l46590lkli918523h02826lh29i74948i3116h18kkgii17kki579606ik1h6kjlh2k8l36ll62h11k10g8"
+      "ext": "7lj763gg402i79425h2384j4g949j899hll9990i9kjl6l740h1342hjlg1848401g8610h9995i998j351gl38kklkj1hkhll757010k7hji6h377ih37k060g35161jhl3i5h0l2702g7299452l4297k5697g5390lk6935k2i9g48l8j2kh27l1g014k7j9677gg"
     },
     {
       "key": "csp_Nmvod_QJ",
@@ -1160,7 +1181,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/freeok.json"
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/freeok.json"
     },
     {
       "key": "csp_CandyMuj_hjtv",
@@ -1179,7 +1200,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/netflixgc.json"
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/netflixgc.json"
     },
     {
       "key": "csp_CandyMuj_dyls",
@@ -1189,7 +1210,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/dyls.json"
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/dyls.json"
     },
     {
       "key": "csp_CandyMuj_haokongbu",
@@ -1267,98 +1288,47 @@
       "key": "drjs_优酷[官]",
       "name": "🔻优酷(DRPY)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/优酷[官].js"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/优酷[官].js"
     },
     {
       "key": "drjs_百忙无果[官]",
       "name": "🥭芒果TV(DRPY)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/百忙无果[官].js"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/百忙无果[官].js"
     },
     {
       "key": "drjs_奇珍异兽[官]",
       "name": "🥝爱奇艺(DRPY)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/奇珍异兽[官].js"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/奇珍异兽[官].js"
     },
     {
       "key": "drjs_腾云驾雾[官]",
       "name": "🐧腾讯视频(DRPY)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/腾云驾雾[官].js"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/腾云驾雾[官].js"
     },
     {
-      "key": "py_火猫_APP",
-      "name": "🧿火猫(MUOU)",
+      "key": "py_吉米_APP",
+      "name": "🧿吉米(FOX)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/appmuou.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/appfox.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "host": "http://app.789dd.cn",
-        "name": "火猫影视"
-      }
-    },
-    {
-      "key": "py_羊羊_APP",
-      "name": "🧿羊羊(MUOU)",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/appmuou.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "https://ht.zhenxun.love",
-        "name": "羊羊学院"
-      }
-    },
-    {
-      "key": "py_思念_APP",
-      "name": "🧿思念(FOX)",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/appfox.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "https://snys2.xyz",
-        "ver": "2"
-      }
-    },
-    {
-      "key": "py_星空_APP",
-      "name": "🧿星空(FOX)",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/appfox.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "http://fox.qwqfun.com"
-      }
-    },
-    {
-      "key": "py_极兔_APP",
-      "name": "🧿极兔(FOX)",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/appfox.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "http://www.mzd.asia"
+        "host": "http://fox.tvmao.top"
       }
     },
     {
       "key": "py_二三_APP",
       "name": "🧿二三(FOX)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/appfox.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/appfox.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1367,10 +1337,35 @@
       }
     },
     {
+      "key": "py_恋鱼_APP",
+      "name": "🧿恋鱼(FOX)",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/appfox.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "host": "https://173220859-1333208043.cos.ap-shanghai.myqcloud.com/1.json",
+        "ver": "2"
+      }
+    },
+    {
+      "key": "py_木瓜_APP",
+      "name": "🧿木瓜(FOX)",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/appfox.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "host": "http://www.yezitv.top"
+      }
+    },
+    {
       "key": "py_爱影_APP",
       "name": "🧿爱影(QIJI)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/qijiapp.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/qijiapp.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1385,7 +1380,7 @@
       "key": "py_金牌_APP",
       "name": "🧿金牌(QIJI)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/qijiapp.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/qijiapp.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1397,45 +1392,30 @@
       }
     },
     {
-      "key": "py_咖啡_APP",
-      "name": "🧿咖啡(QIJI)",
+      "key": "py_爱盈_APP",
+      "name": "🧿爱盈(QIJI)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/qijiapp.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/qijiapp.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "host": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxh.txt",
+        "host": "https://aysappto.oss-cn-chengdu.aliyuncs.com/qj3.txt",
         "api": "/api.php/qijiappapi",
-        "datakey": "37kj83zs1q16jk6t",
-        "dataiv": "37kj83zs1q16jk6t"
+        "datakey": "sda1231sasddad21",
+        "dataiv": "sda1231sasddad21"
       }
     },
     {
-      "key": "py_蓝鹰_APP",
-      "name": "🧿蓝鹰(QIJI)",
+      "key": "py_顾我_APP",
+      "name": "🧿顾我(QIJI)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/qijiapp.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/qijiapp.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "host": "https://lanyinghz.oss-cn-hangzhou.aliyuncs.com/lanyingxmy.txt",
-        "api": "/api.php/qijiappapi",
-        "datakey": "ca94b06ca359d80e",
-        "dataiv": "ca94b06ca359d80e"
-      }
-    },
-    {
-      "key": "py_开心_APP",
-      "name": "🧿开心(QIJI)",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/qijiapp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "https://guwozj-1319364746.cos.ap-guangzhou.myqcloud.com/gw.txt",
+        "host": "https://guwozj-1319364746.cos.ap-guangzhou.myqcloud.com/guwo.txt",
         "api": "/api.php/qijiappapi",
         "datakey": "ca94b06ca3c7d80e",
         "dataiv": "ca94b06ca3c7d80e"
@@ -1445,7 +1425,7 @@
       "key": "py_仓鼠_APP",
       "name": "🧿仓鼠(QIJI)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/qijiapp.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/qijiapp.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1460,7 +1440,7 @@
       "key": "py_鲸鱼_APP",
       "name": "🧿鲸鱼(QIJI)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/qijiapp.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/qijiapp.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1472,40 +1452,10 @@
       }
     },
     {
-      "key": "py_热剧_APP",
-      "name": "🧿热剧(QIJI)",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/qijiapp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "https://www.rebovod.com",
-        "api": "/api.php/qijiappapi",
-        "datakey": "8191A7F47B37882F",
-        "dataiv": "8191A7F47B37882F"
-      }
-    },
-    {
-      "key": "py_影视_APP",
-      "name": "🧿影视(QIJI)",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/qijiapp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "https://aysappto.oss-cn-chengdu.aliyuncs.com/qj2.txt",
-        "api": "/api.php/qijiappapi",
-        "datakey": "sada21321sdq231d",
-        "dataiv": "sada21321sdq231d"
-      }
-    },
-    {
       "key": "py_小猪_APP",
       "name": "🧿小猪(QIJI)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/qijiapp.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/qijiapp.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1520,7 +1470,7 @@
       "key": "py_云云_APP",
       "name": "🧿云云(QIJI)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/qijiapp.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/qijiapp.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1532,10 +1482,115 @@
       }
     },
     {
+      "key": "py_火花_APP",
+      "name": "🧿火花(GET)",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "host": "http://php.itcxo.cn/txt/1.txt",
+        "api": "/api.php/getappapi",
+        "datakey": "PoiUytRedFghjklm",
+        "dataiv": "PoiUytRedFghjklm"
+      }
+    },
+    {
+      "key": "py_椰子_APP",
+      "name": "🧿椰子(GET)",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "host": "http://103.109.20.117:6699",
+        "api": "/api.php/getappapi",
+        "datakey": "xxm9N4P9rS2zjdyz",
+        "dataiv": "xxm9N4P9rS2zjdyz"
+      }
+    },
+    {
+      "key": "py_剧猫_APP",
+      "name": "🧿剧猫(GET)",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "host": "https://zjm-1302383509.cos.ap-guangzhou.myqcloud.com/zjm.txt",
+        "api": "/api.php/getappapi",
+        "datakey": "zjmznbl2026zcxgb",
+        "dataiv": "zjmznbl2026zcxgb"
+      }
+    },
+    {
+      "key": "py_爱看_APP",
+      "name": "🧿爱看(GET)",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "host": "https://wiffxm.cn",
+        "api": "/api.php/getappapi",
+        "datakey": "AvwBFPUtGTEYPbY4",
+        "dataiv": "AvwBFPUtGTEYPbY4"
+      }
+    },
+    {
+      "key": "py_剧梦_APP",
+      "name": "🧿剧梦(GET)",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "host": "https://www.jumengwu.com",
+        "api": "/api.php/getappapi",
+        "datakey": "1f0a873caf2550a5",
+        "dataiv": "1f0a873caf2550a5"
+      }
+    },
+    {
+      "key": "py_缘梦_APP",
+      "name": "🧿缘梦(GET)",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "host": "https://www.zipfve.cn",
+        "api": "/api.php/getappapi",
+        "datakey": "1234567890987654",
+        "dataiv": "1234567890987654"
+      }
+    },
+    {
+      "key": "py_麻花_APP",
+      "name": "🧿麻花(GET)",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "host": "http://49.235.114.19:150",
+        "api": "/api.php/getappapi",
+        "datakey": "q7gj4f9br3fls6nh",
+        "dataiv": "q7gj4f9br3fls6nh"
+      }
+    },
+    {
       "key": "py_星空_APP",
       "name": "🧿星空(GET)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1547,40 +1602,55 @@
       }
     },
     {
-      "key": "py_魔方_APP",
-      "name": "🧿魔方(GET)",
+      "key": "py_冷心_APP",
+      "name": "🧿冷心(GET)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "host": "http://app.ybn-ooo.top",
+        "host": "https://dy.58ys.vip",
         "api": "/api.php/getappapi",
-        "datakey": "vcfgytu7654rtyui",
-        "dataiv": "vcfgytu7654rtyui"
+        "datakey": "JEWibY1AgWF0V1xx",
+        "dataiv": "JEWibY1AgWF0V1xx"
       }
     },
     {
-      "key": "py_柒月_APP",
-      "name": "🧿柒月(GET)",
+      "key": "py_火猫_APP",
+      "name": "🧿火猫(GET)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "host": "https://www.ys.mk",
+        "host": "http://103.23.148.70:14500",
         "api": "/api.php/getappapi",
-        "datakey": "mayday6770249ash",
-        "dataiv": "mayday6770249ash"
+        "datakey": "J6AIORKJ3PQOJKM8",
+        "dataiv": "J6AIORKJ3PQOJKM8"
+      }
+    },
+    {
+      "key": "py_魔方_APP",
+      "name": "🧿魔方(GET)",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "host": "https://www.mfsp4k.top",
+        "api": "/api.php/getappapi",
+        "datakey": "1234567887654321",
+        "dataiv": "1234567887654321"
       }
     },
     {
       "key": "py_小猫_APP",
       "name": "🧿小猫(GET)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1595,7 +1665,7 @@
       "key": "py_瑞奇_APP",
       "name": "🧿瑞奇(GET)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1610,7 +1680,7 @@
       "key": "py_优势_APP",
       "name": "🧿优势(GET)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1625,7 +1695,7 @@
       "key": "py_茉莉_APP",
       "name": "🧿茉莉(GET)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1640,7 +1710,7 @@
       "key": "py_坚果_APP",
       "name": "🧿坚果(GET)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1655,7 +1725,7 @@
       "key": "py_星空_APP",
       "name": "🧿星空(GET)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1667,25 +1737,10 @@
       }
     },
     {
-      "key": "py_于浅_APP",
-      "name": "🧿于浅(GET)",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "http://202.140.143.116:88",
-        "api": "/api.php/getappapi",
-        "datakey": "leroulerop.lerom",
-        "dataiv": "leroulerop.lerom"
-      }
-    },
-    {
       "key": "py_数字_APP",
       "name": "🧿数字(GET)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1700,7 +1755,7 @@
       "key": "py_火锅_APP",
       "name": "🧿火锅(GET)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1712,40 +1767,10 @@
       }
     },
     {
-      "key": "py_爱看_APP",
-      "name": "🧿爱看(GET)",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "https://www.appdm.akandm.com",
-        "api": "/api.php/getappapi",
-        "datakey": "uI1TkPJC8B46AyN3",
-        "dataiv": "uI1TkPJC8B46AyN3"
-      }
-    },
-    {
-      "key": "py_火花_APP",
-      "name": "🧿火花(GET)",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "http://v.itcxo.cn/txt/1.txt",
-        "api": "/api.php/getappapi",
-        "datakey": "PoiUytRedFghjklm",
-        "dataiv": "PoiUytRedFghjklm"
-      }
-    },
-    {
       "key": "py_八天_APP",
       "name": "🧿八天(GET)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1760,7 +1785,7 @@
       "key": "py_紫金_APP",
       "name": "🧿紫金(GET)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1775,7 +1800,7 @@
       "key": "py_星星_APP",
       "name": "🧿星星(GET)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1790,7 +1815,7 @@
       "key": "py_稀饭_APP",
       "name": "🧿稀饭(GET)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1805,7 +1830,7 @@
       "key": "py_五八_APP",
       "name": "🧿五八(GET)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1817,25 +1842,10 @@
       }
     },
     {
-      "key": "py_狂人_APP",
-      "name": "🧿狂人(GET)",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "https://www.zjkrmv.vip",
-        "api": "/api.php/getappapi",
-        "datakey": "vXeyuJFqTKqWUtWU",
-        "dataiv": "vXeyuJFqTKqWUtWU"
-      }
-    },
-    {
       "key": "py_驿站_APP",
       "name": "🧿驿站(GET)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1847,25 +1857,10 @@
       }
     },
     {
-      "key": "py_云端_APP",
-      "name": "🧿云端(GET)",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "https://c8k2n5l0i9s8b2m1jj8k2x2l9ff68.ydysapi.cfd:27899",
-        "api": "/api.php/getappapi",
-        "datakey": "k9o3p2c8b7m3z0o8",
-        "dataiv": "k9o3p2c8b7m3z0o8"
-      }
-    },
-    {
       "key": "py_莱米_APP",
       "name": "🧿莱米(GET)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1880,7 +1875,7 @@
       "key": "py_灵虎_APP",
       "name": "🧿灵虎(GET)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1895,7 +1890,7 @@
       "key": "py_旗星_APP",
       "name": "🧿旗星(GET)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1910,7 +1905,7 @@
       "key": "py_丫丫_APP",
       "name": "🧿丫丫(GET)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1925,7 +1920,7 @@
       "key": "py_冬日_APP",
       "name": "🧿冬日(GET)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1940,7 +1935,7 @@
       "key": "py_漫屋_APP",
       "name": "🧿漫屋(GET)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1955,7 +1950,7 @@
       "key": "py_方舟_APP",
       "name": "🧿方舟(GET)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1970,7 +1965,7 @@
       "key": "py_元咲_APP",
       "name": "🧿元咲(GET)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1985,7 +1980,7 @@
       "key": "py_番薯_APP",
       "name": "🧿番薯(GET)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -2000,7 +1995,7 @@
       "key": "py_曼波_APP",
       "name": "🧿曼波(GET)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -2015,7 +2010,7 @@
       "key": "py_稀饭_APP",
       "name": "🧿稀饭(GET)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -2030,7 +2025,7 @@
       "key": "py_咕咕_APP",
       "name": "🧿咕咕(GET)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -2042,25 +2037,10 @@
       }
     },
     {
-      "key": "py_派对_APP",
-      "name": "🧿派对(GET)",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "https://qjappcms.acg.party",
-        "api": "/api.php/getappapi",
-        "datakey": "AmtMYFCJDPoTlK7z",
-        "dataiv": "AmtMYFCJDPoTlK7z"
-      }
-    },
-    {
       "key": "py_米饭_APP",
       "name": "🧿米饭(GET)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -2075,7 +2055,7 @@
       "key": "py_猪猪_APP",
       "name": "🧿猪猪(APP)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/AppV2.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/AppV2.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -2090,271 +2070,271 @@
       "key": "py_CliCli",
       "name": "🧿CliCli(PY)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/CliCli动漫APP.py"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/CliCli动漫APP.py"
     },
     {
       "key": "py_HiTV",
       "name": "🧿HiTV(PY)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/hitvAPP.py"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/hitvAPP.py"
     },
     {
       "key": "py_MiFun",
       "name": "🧿MiFun(PY)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/MiFunAPP.py"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/MiFunAPP.py"
     },
     {
       "key": "py_热播",
       "name": "🧿热播(PY)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/热播APP.py"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/热播APP.py"
     },
     {
       "key": "py_海马",
       "name": "🧿海马(PY)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/海马影视APP.py"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/海马影视APP.py"
     },
     {
       "key": "py_奇迹",
       "name": "🧿奇迹(PY)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/奇迹APP.py"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/奇迹APP.py"
     },
     {
       "key": "py_零度",
       "name": "🧿零度(PY)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/零度影视APP.py"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/零度影视APP.py"
     },
     {
       "key": "py_外剧",
       "name": "🧿外剧(PY)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/国外剧APP.py"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/国外剧APP.py"
     },
     {
       "key": "py_爱瓜",
       "name": "🧿爱瓜(PY)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/爱瓜TVAPP.py"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/爱瓜TVAPP.py"
     },
     {
       "key": "py_边缘",
       "name": "🧿边缘(PY)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/边缘影视APP.py"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/边缘影视APP.py"
     },
     {
       "key": "py_光速",
       "name": "🧿光速(PY)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/光速APP.py"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/光速APP.py"
     },
     {
       "key": "py_火车",
       "name": "🧿火车(PY)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/火车太顺APP.py"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/火车太顺APP.py"
     },
     {
       "key": "py_剧多",
       "name": "🧿剧多(PY)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/剧多短剧APP.py"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/剧多短剧APP.py"
     },
     {
       "key": "py_恋鱼",
       "name": "🧿恋鱼(PY)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/恋鱼影视APP.py"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/恋鱼影视APP.py"
     },
     {
       "key": "py_美帕",
       "name": "🧿美帕(PY)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/美帕APP.py"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/美帕APP.py"
     },
     {
       "key": "py_魔方",
       "name": "🧿魔方(PY)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/魔方影视APP.py"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/魔方影视APP.py"
     },
     {
       "key": "py_胖虎",
       "name": "🧿胖虎(PY)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/胖虎APP.py"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/胖虎APP.py"
     },
     {
       "key": "py_皮虾",
       "name": "🧿皮虾(PY)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/皮皮虾APP.py"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/皮皮虾APP.py"
     },
     {
       "key": "py_若惜",
       "name": "🧿若惜(PY)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/若惜追剧APP.py"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/若惜追剧APP.py"
     },
     {
       "key": "py_三号",
       "name": "🧿三号(PY)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/三号动漫APP.py"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/三号动漫APP.py"
     },
     {
       "key": "py_视觉",
       "name": "🧿视觉(PY)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/视觉APP.py"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/视觉APP.py"
     },
     {
       "key": "py_哇哇",
       "name": "🧿哇哇(PY)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/哇哇APP.py"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/哇哇APP.py"
     },
     {
       "key": "py_苹果",
       "name": "🧿苹果(PY)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/小苹果APP.py"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/小苹果APP.py"
     },
     {
       "key": "py_悠悠",
       "name": "🧿悠悠(PY)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/悠悠APP.py"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/悠悠APP.py"
     },
     {
       "key": "py_云端",
       "name": "🧿云端(PY)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/云端APP.py"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/云端APP.py"
     },
     {
       "key": "py_云速",
       "name": "🧿云速(PY)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/云速影视APP.py"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/云速影视APP.py"
     },
     {
       "key": "py_飞快TV",
       "name": "🧿飞快(PY)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/飞快TV.py"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/飞快TV.py"
     },
     {
       "key": "py_redflix",
       "name": "🧿REDFLIX(PY)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/redflix.py"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/redflix.py"
     },
     {
       "key": "py_456movie",
       "name": "🧿456Movie(PY)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/456movie.py"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/456movie.py"
     },
     {
       "key": "py_LREEOK",
       "name": "🧿LREEOK(PY)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/LREEOK.py"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/LREEOK.py"
     },
     {
       "key": "py_4KAV",
       "name": "🧿4KAV(PY)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/4KAV.py"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/4KAV.py"
     },
     {
       "key": "py_NUNFLIX",
       "name": "🧿Nunflix(PY)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/NUNFLIX.py"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/NUNFLIX.py"
     },
     {
       "key": "py_荐片",
       "name": "🧿荐片(PY)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/荐片.py"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/荐片.py"
     },
     {
       "key": "py_厂长",
       "name": "🧿厂长(PY)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/厂长资源.py"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/厂长资源.py"
     },
     {
       "key": "py_明月",
       "name": "🧿明月(PY)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/明月影院.py"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/明月影院.py"
     },
     {
       "key": "py_壹帆",
       "name": "🧿壹帆(PY)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/爱壹帆.py"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/爱壹帆.py"
     },
     {
       "key": "py_泥视",
       "name": "🧿泥视(PY)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/泥视频.py"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/泥视频.py"
     },
     {
       "key": "py_想看",
       "name": "🧿想看(PY)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/想看影视.py"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/想看影视.py"
     },
     {
       "key": "py_追星",
       "name": "🧿追星(PY)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/追星影视.py"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/追星影视.py"
     },
     {
       "key": "py_猎手",
       "name": "🧿猎手(PY)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/电影猎手.py"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/电影猎手.py"
     },
     {
       "key": "py_柯南",
       "name": "🧿柯南(PY)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/柯南影视.py"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/柯南影视.py"
     },
     {
       "key": "py_骚火",
       "name": "🧿骚火(PY)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/骚火电影.py"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/骚火电影.py"
     },
     {
       "key": "py_剧粑",
       "name": "🧿剧粑(PY)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/剧粑粑.py"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/剧粑粑.py"
     },
     {
       "key": "py_小红",
       "name": "🧿小红(PY)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/小红影视.py"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/小红影视.py"
     },
     {
       "key": "py_金牌",
       "name": "🧿金牌(PY)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/金牌.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/金牌.py",
       "ext": {
         "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"
       }
@@ -2363,67 +2343,67 @@
       "key": "py_旺旺",
       "name": "🧿旺旺(PY)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/旺旺.py"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/旺旺.py"
     },
     {
       "key": "py_绝对",
       "name": "🧿绝对(PY)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/绝对影视.py"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/绝对影视.py"
     },
     {
       "key": "py_爱看",
       "name": "🧿爱看(PY)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/爱看短剧.py"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/爱看短剧.py"
     },
     {
       "key": "py_锦鲤",
       "name": "🧿锦鲤(PY)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/锦鲤短剧.py"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/锦鲤短剧.py"
     },
     {
       "key": "py_河马",
       "name": "🧿河马(PY)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/河马短剧.py"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/河马短剧.py"
     },
     {
       "key": "py_偷乐",
       "name": "🧿偷乐(PY)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/偷乐短剧.py"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/偷乐短剧.py"
     },
     {
       "key": "py_好帅",
       "name": "🧿好帅(PY)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/好帅短剧.py"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/好帅短剧.py"
     },
     {
       "key": "py_红果",
       "name": "🧿红果(PY)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/红果网页.py"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/红果网页.py"
     },
     {
       "key": "py_甜圈",
       "name": "🧿甜圈(PY)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/甜圈短剧.py"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/甜圈短剧.py"
     },
     {
       "key": "py_嗷呜",
       "name": "🧿嗷呜(PY)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/嗷呜动漫.py"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/嗷呜动漫.py"
     },
     {
       "key": "py_柠檬",
       "name": "🧿柠檬(PY)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/LIVES.py"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/LIVES.py"
     },
     {
       "key": "T4_欧乐",
@@ -2507,7 +2487,7 @@
       "key": "vod_优质",
       "name": "🚀优质",
       "type": 1,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/pg.jar",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/pg.jar",
       "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
       "api": "https://api.1080zyku.com/inc/api_mac10.php",
       "searchable": 1,
