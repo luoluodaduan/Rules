@@ -57,6 +57,16 @@
       }
     },
     {
+      "key": "麒麟",
+      "name": "麒麟APP",
+      "type": 3,
+      "api": "csp_AppFox",
+      "ext": {
+        "host": "https://www.70yyw.cc",
+        "ver": 2
+      }
+    },
+    {
       "key": "木瓜",
       "name": "木瓜APP",
       "type": 3,
@@ -172,6 +182,32 @@
       }
     },
     {
+      "key": "白鸽",
+      "name": "白鸽APP",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://cy.baige.asia",
+        "dataKey": "599D0FE5178642FD",
+        "dataIv": "599D0FE5178642FD"
+      }
+    },
+    {
+      "key": "奇奇",
+      "name": "奇奇APP",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://103.236.61.192:8006",
+        "dataKey": "123456789abcdefg",
+        "dataIv": "123456789abcdefg"
+      }
+    },
+    {
       "key": "火花",
       "name": "火花APP",
       "type": 3,
@@ -260,19 +296,6 @@
         "url": "http://49.235.114.19:150",
         "dataKey": "q7gj4f9br3fls6nh",
         "dataIv": "q7gj4f9br3fls6nh"
-      }
-    },
-    {
-      "key": "星空",
-      "name": "星空APP",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://43.154.4.75",
-        "dataKey": "HDk-7CnlK8SQUGLg",
-        "dataIv": "HDk-7CnlK8SQUGLg"
       }
     },
     {
@@ -586,6 +609,25 @@
       }
     },
     {
+      "key": "双星",
+      "name": "双星4K",
+      "type": 3,
+      "api": "csp_ShuangXing",
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "锦鲤短剧",
+      "name": "锦鲤短剧",
+      "type": 3,
+      "api": "csp_JinliDJ",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "笒鬼短剧",
       "name": "笒鬼短剧",
       "type": 3,
@@ -596,20 +638,30 @@
       "filterable": 1
     },
     {
-      "key": "星芽短剧",
-      "name": "星芽短剧",
+      "key": "百度短剧",
+      "name": "百度短剧",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/py/星芽短剧.py",
+      "api": "csp_BaiduDJ",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
-      "key": "甜圈短剧",
-      "name": "甜圈短剧",
+      "key": "星阁短剧",
+      "name": "星阁短剧",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/py/甜圈短剧.py",
+      "api": "csp_XinggeDJ",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "星芽短剧",
+      "name": "星芽短剧",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/py/星芽短剧.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -718,6 +770,13 @@
       "filterable": 1
     },
     {
+      "key": "韩剧看看",
+      "name": "韩剧影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/XBPQ/韩剧看看.json"
+    },
+    {
       "key": "莫小影视",
       "name": "莫小影视",
       "type": 3,
@@ -802,6 +861,19 @@
         "siteKey": "rectangleadsadxa",
         "listKey": "aassddwwxxllsx1x",
         "parsesKey": "aassddwwxxllsx1x"
+      }
+    },
+    {
+      "key": "卡卡",
+      "name": "卡卡动漫",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://154.201.90.53:8002",
+        "dataKey": "123456789abcdefg",
+        "dataIv": "123456789abcdefg"
       }
     },
     {
@@ -1177,6 +1249,11 @@
     }
   ],
   "parses": [
+    {
+      "name": "聚合",
+      "type": 3,
+      "url": "Web"
+    },
     {
       "name": "虾米",
       "type": 0,

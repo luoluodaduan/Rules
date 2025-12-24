@@ -731,6 +731,7 @@
 .bit-z.com
 .bit.do
 .bit.ly
+.bitbaby.com
 .bitbay.net
 .bitchute.com
 .bitcointalk.org
@@ -3010,6 +3011,7 @@
 .icu-project.org
 .id
 .idaiwan.com
+.idcflare.com
 .iddddg.com
 .ideasoncanvas.com
 .idemocracy.asia
@@ -4233,6 +4235,7 @@
 .neo-miracle.com
 .neoforged.net
 .neowin.net
+.nephobox.com
 .nepusoku.com
 .nesnode.com
 .net-fits.pro
@@ -4672,6 +4675,7 @@
 .parse.com
 .parsely.com
 .parsevideo.com
+.partnerstack.xyz
 .partycasino.com
 .partypoker.com
 .passion.com
@@ -4812,6 +4816,7 @@
 .pnc
 .po2b.com
 .pobieramy.top
+.pocketcasts.com
 .podbean.com
 .podcast.co
 .podictionary.com
