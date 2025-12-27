@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem1222.jar;md5;7C34284A201D14B0EA18429E2CF1D73B",
+  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem1227.jar;md5;A022A376526513A95BF673ED386FA15B",
   "wallpaper": "https://pic.850930.xyz/",
   "sites": [
     {
@@ -221,13 +221,6 @@
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/EXT/JS/荐片.js"
-    },
-    {
-      "key": "csp_Gz360_FM",
-      "name": "🍉瓜子(SP)",
-      "type": 3,
-      "api": "csp_Gz360",
-      "playerType": 2
     },
     {
       "key": "drjs_瓜子",
@@ -909,25 +902,11 @@
       "ext": "http://v.rbotv.cn"
     },
     {
-      "key": "csp_AppRJ_梦回_FM",
-      "name": "🏈梦回(SP)",
-      "type": 3,
-      "api": "csp_AppRJ",
-      "ext": "http://v.lkuys.cn"
-    },
-    {
-      "key": "csp_AppRJ_星辉_FM",
-      "name": "🦢星辉(SP)",
-      "type": 3,
-      "api": "csp_AppRJ",
-      "ext": "http://tt.ysdqjs.cn"
-    },
-    {
       "key": "csp_AppGet_肥猫_FM",
       "name": "🐼肥猫(SP)",
       "type": 3,
       "api": "csp_AppGet",
-      "ext": "https://bind.315999.xyz/89.txt|#getapp@TMD@2025|120"
+      "ext": "http://103.236.61.192:8006|123456789abcdefg"
     },
     {
       "key": "csp_AppGet_干饭_FM",
@@ -941,91 +920,84 @@
       "name": "📀光盘(SP)",
       "type": 3,
       "api": "csp_AppQi",
-      "ext": "https://appcms.rx4k.top|ZX10ysTYZWtIJCTU|120"
+      "ext": "https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/1.json|AAdgrdghjfgswerA|120"
     },
     {
       "key": "csp_AppGet_行动_FM",
       "name": "😌行动(SP)",
       "type": 3,
-      "api": "csp_AppQi",
-      "ext": "https://ceshi307386.oss-cn-beijing.aliyuncs.com/ceshi421.txt|da61247f5b662597|120"
+      "api": "csp_AppGet",
+      "ext": "https://zjm-1302383509.cos.ap-guangzhou.myqcloud.com/zjm.txt|zjmznbl2026zcxgb"
     },
     {
       "key": "csp_AppGet_再来_FM",
       "name": "✌️再来(SP)",
       "type": 3,
-      "api": "csp_AppQi",
-      "ext": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxh.txt|37kj83zs1q16jk6t|101"
+      "api": "csp_AppGet",
+      "ext": "https://www.jumengwu.com|1f0a873caf2550a5"
     },
     {
       "key": "csp_AppGet_一碗_FM",
       "name": "🥣一碗(SP)",
       "type": 3,
       "api": "csp_AppGet",
-      "ext": "http://www.zjcvod.com|ab4e9a421675f14b"
+      "ext": "https://dy.8ttv.cn|1111111111111111"
     },
     {
       "key": "csp_AppGet_猫抓_FM",
       "name": "🐱猫抓(SP)",
       "type": 3,
       "api": "csp_AppGet",
-      "ext": "https://dy.8ttv.cn|1111111111111111"
+      "ext": "https://www.mfsp4k.top|1234567887654321"
     },
     {
       "key": "csp_AppGet_耗子_FM",
       "name": "🐹耗子(SP)",
       "type": 3,
-      "api": "csp_AppQi",
-      "ext": "https://lanyinghz.oss-cn-hangzhou.aliyuncs.com/lanyingxmy.txt|ca94b06ca359d80e|120"
+      "api": "csp_AppGet",
+      "ext": "http://xywlkj.oss-cn-beijing.aliyuncs.com/wp-content/uploads/2024/12/1.txt|xmyxmyxywlkjxywl"
     },
     {
       "key": "csp_AppGet_蔬菜_FM",
       "name": "🥦蔬菜(SP)",
       "type": 3,
       "api": "csp_AppGet",
-      "ext": "http://huohu.yihn.cc|huohushipingetap|140"
+      "ext": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt|88689667dce61725"
     },
     {
       "key": "csp_AppGet_黑猫_FM",
       "name": "🐼黑猫(SP)",
       "type": 3,
       "api": "csp_AppGet",
-      "ext": "https://c8k2n5l0i9s8b2m1jj8k2x2l9ff68.ydysapi.cfd:27899|k9o3p2c8b7m3z0o8"
+      "ext": "http://app1-0-0.87333.cc|VwsHxkCViDXEExWa"
     },
     {
       "key": "csp_AppGet_优优_FM",
       "name": "💯优优(SP)",
       "type": 3,
       "api": "csp_AppGet",
-      "ext": "https://apiapplbys.lbys.app:5678|apiapplbyskey168|107"
+      "ext": "https://ios.hgyx.vip|062dec75d039980e"
     },
     {
       "key": "csp_AppGet_兔子_FM",
       "name": "🐇兔子(SP)",
       "type": 3,
       "api": "csp_AppGet",
-      "ext": "http://laiget-1313189639.cos.ap-guangzhou.myqcloud.com/laimi.txt|ce032244d093b3e2"
+      "ext": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt|dyyztvapiappyyds"
     },
     {
       "key": "csp_AppGet_永永_FM",
       "name": "♾️永永(SP)",
       "type": 3,
       "api": "csp_AppGet",
-      "ext": "http://ys.qist.top|2SWSPFxugBLPPOKo|120"
+      "ext": "https://bind.315999.xyz/89.txt|#getapp@TMD@2025|120"
     },
     {
       "key": "csp_AppGet_云云_FM",
       "name": "☁️云云(SP)",
       "type": 3,
       "api": "csp_AppGet",
-      "ext": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt|dyyztvapiappyyds"
-    },
-    {
-      "key": "csp_AppMuou_冷心_FM",
-      "name": "🧊冷心(SP)",
-      "type": 3,
-      "api": "csp_AppMuou",
-      "ext": "http://app.789dd.cn|火猫影视"
+      "ext": "http://ys.qist.top|2SWSPFxugBLPPOKo"
     },
     {
       "key": "csp_Jpys_FM",
@@ -1041,43 +1013,11 @@
       "ext": "https://wwgz.cn"
     },
     {
-      "key": "csp_KmeiJu_FM",
-      "name": "🍐鸭梨(SP)",
-      "type": 3,
-      "api": "csp_KmeiJu"
-    },
-    {
       "key": "csp_Xlys_FM",
       "name": "🏔️修罗(SP)",
       "type": 3,
       "api": "csp_Xlys",
       "ext": "https://xl01.com.de"
-    },
-    {
-      "key": "csp_Tvyb_FM",
-      "name": "☁︎云播(SP)",
-      "type": 3,
-      "api": "csp_Tvyb"
-    },
-    {
-      "key": "csp_Qiyou_FM",
-      "name": "🥝奇优(SP)",
-      "type": 3,
-      "api": "csp_Qiyou"
-    },
-    {
-      "key": "csp_Quanwk_FM",
-      "name": "👁‍🗨全看(SP)",
-      "type": 3,
-      "api": "csp_Quanwk",
-      "ext": "https://www.91qkw.com"
-    },
-    {
-      "key": "csp_Jiaozi_FM",
-      "name": "🌎饺子(SP)",
-      "type": 3,
-      "api": "csp_Jiaozi",
-      "playerType": 2
     },
     {
       "key": "csp_SaoHuo_FM",
@@ -1108,11 +1048,11 @@
       "ext": "https://www.czzymovie.com/"
     },
     {
-      "key": "csp_FourK_FM",
-      "name": "🐿️绝对(SP)",
+      "key": "csp_AppGet_丫丫_FM",
+      "name": "🐷丫丫(SP)",
       "type": 3,
-      "api": "csp_FourK",
-      "ext": "https://www.4kvm.tv"
+      "api": "csp_AppGet",
+      "ext": "http://tv.yy-fun.cc|qkxnwkfjwpcnwycl"
     },
     {
       "key": "csp_Kugou_FM",
@@ -1148,7 +1088,7 @@
       "type": 3,
       "api": "csp_LivingFM",
       "playerType": 2,
-      "ext": "https://api.muxia.fun"
+      "ext": "https://bt.muxia.fun"
     },
     {
       "key": "csp_CandyMuj_freeok",

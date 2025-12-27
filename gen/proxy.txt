@@ -287,6 +287,7 @@
 .aliengu.com
 .alive.bar
 .aljazeera.com
+.aljazeera.net
 .alkasir.com
 .all4mom.org
 .allcoin.com
@@ -1539,8 +1540,6 @@
 .demdex.net
 .democrats.org
 .demosisto.hk
-.deno.com
-.deno.dev
 .depositphotos.com
 .derpibooru.org
 .derpicdn.net
@@ -2431,6 +2430,7 @@
 .gfw.press
 .gfw.report
 .gfwatch.org
+.gfwbao.com
 .gg
 .ggee
 .ggpht.com
@@ -5685,6 +5685,7 @@
 .stc.com.sa
 .stcgroup
 .steamcommunity.com
+.steamladder.com
 .steampowered.com
 .steamstatic.com
 .steel-storm.com
