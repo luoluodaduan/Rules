@@ -1967,21 +1967,6 @@
       }
     },
     {
-      "key": "py_稀饭_APP",
-      "name": "🧿稀饭(GET)",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "https://xfapp-1305390065.cos.ap-guangzhou.myqcloud.com/getapp.txt",
-        "api": "/api.php/getappapi",
-        "datakey": "1yZ2Spn9krnzVKoC",
-        "dataiv": "1yZ2Spn9krnzVKoC"
-      }
-    },
-    {
       "key": "py_咕咕_APP",
       "name": "🧿咕咕(GET)",
       "type": 3,
