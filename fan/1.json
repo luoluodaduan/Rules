@@ -1238,7 +1238,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "host": "http://fox.tvmao.top"
+        "host": "http://45.207.215.137:8006"
       }
     },
     {
@@ -1352,6 +1352,21 @@
       }
     },
     {
+      "key": "py_布雷_APP",
+      "name": "🧿布雷(QIJI)",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/qijiapp.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "host": "https://ceshi307386.oss-cn-beijing.aliyuncs.com/blurl.txt",
+        "api": "/api.php/qijiappapi",
+        "datakey": "5f2b7ed203a3a581",
+        "dataiv": "5f2b7ed203a3a581"
+      }
+    },
+    {
       "key": "py_仓鼠_APP",
       "name": "🧿仓鼠(QIJI)",
       "type": 3,
@@ -1360,10 +1375,10 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "host": "https://ceshi307386.oss-cn-beijing.aliyuncs.com/ceshi421.txt",
+        "host": "https://ceshi307386.oss-cn-beijing.aliyuncs.com/ceshi430.txt",
         "api": "/api.php/qijiappapi",
-        "datakey": "da61247f5b662597",
-        "dataiv": "da61247f5b662597"
+        "datakey": "7sKhdca8HXGuyZ4x",
+        "dataiv": "7sKhdca8HXGuyZ4x"
       }
     },
     {
