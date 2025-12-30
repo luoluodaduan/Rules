@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem1227.jar;md5;A022A376526513A95BF673ED386FA15B",
+  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem1230.jar;md5;748407F75DB16C42CB4978D143049683",
   "wallpaper": "https://pic.850930.xyz/",
   "sites": [
     {
@@ -382,7 +382,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "rfOb1uAWbkRHp7hdxprG9un3+TDC2t/rlTwlcMr+ChdbeV8Q9y9xsKxqfbtO0M05tGWcacFVm2c45jhyH6t1Rt6A6PjICGqxV+uN1uOqS2/x0Vp5J0Vfo8usQADpHg=="
+      "ext": "rfOb1uAWbkRHp7hdxprG9un3+T/f39S/lTA9LMm9V0hPZltHr3d1+KFzePgKxc5+/yjNcsFajjBz4m5zFvE/QJKc66/VGTSxSuuf1qGjR2fu1UY2NVdfv4c="
     },
     {
       "key": "csp_NmyswvGuard",
@@ -559,6 +559,18 @@
       "filterable": 1
     },
     {
+      "key": "csp_Sir88Guard",
+      "name": "⚽88看球(SP)",
+      "type": 3,
+      "api": "csp_Sir88Guard",
+      "timeout": 10,
+      "searchable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
       "key": "csp_ZbzGuard",
       "name": "⚽超全看球(SP)",
       "type": 3,
@@ -570,18 +582,6 @@
         "type": "list"
       },
       "ext": "uqGL1fpJNAUf8fdTwZCE5qSp+Q=="
-    },
-    {
-      "key": "csp_Sir88Guard",
-      "name": "⚽88看球(SP)",
-      "type": 3,
-      "api": "csp_Sir88Guard",
-      "timeout": 10,
-      "searchable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "list"
-      }
     },
     {
       "key": "csp_KanqiuGuard",
@@ -1242,18 +1242,6 @@
       }
     },
     {
-      "key": "py_二三_APP",
-      "name": "🧿二三(FOX)",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/appfox.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "http://a.cfys.xn--fiqs8s"
-      }
-    },
-    {
       "key": "py_恋鱼_APP",
       "name": "🧿恋鱼(FOX)",
       "type": 3,
@@ -1472,21 +1460,6 @@
       }
     },
     {
-      "key": "py_椰子_APP",
-      "name": "🧿椰子(GET)",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "http://103.109.20.117:6699",
-        "api": "/api.php/getappapi",
-        "datakey": "xxm9N4P9rS2zjdyz",
-        "dataiv": "xxm9N4P9rS2zjdyz"
-      }
-    },
-    {
       "key": "py_剧猫_APP",
       "name": "🧿剧猫(GET)",
       "type": 3,
@@ -1499,21 +1472,6 @@
         "api": "/api.php/getappapi",
         "datakey": "zjmznbl2026zcxgb",
         "dataiv": "zjmznbl2026zcxgb"
-      }
-    },
-    {
-      "key": "py_爱看_APP",
-      "name": "🧿爱看(GET)",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "https://wiffxm.cn",
-        "api": "/api.php/getappapi",
-        "datakey": "AvwBFPUtGTEYPbY4",
-        "dataiv": "AvwBFPUtGTEYPbY4"
       }
     },
     {
@@ -1547,21 +1505,6 @@
       }
     },
     {
-      "key": "py_麻花_APP",
-      "name": "🧿麻花(GET)",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "http://49.235.114.19:150",
-        "api": "/api.php/getappapi",
-        "datakey": "q7gj4f9br3fls6nh",
-        "dataiv": "q7gj4f9br3fls6nh"
-      }
-    },
-    {
       "key": "py_冷心_APP",
       "name": "🧿冷心(GET)",
       "type": 3,
@@ -1574,21 +1517,6 @@
         "api": "/api.php/getappapi",
         "datakey": "JEWibY1AgWF0V1xx",
         "dataiv": "JEWibY1AgWF0V1xx"
-      }
-    },
-    {
-      "key": "py_火猫_APP",
-      "name": "🧿火猫(GET)",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "http://103.23.148.70:14500",
-        "api": "/api.php/getappapi",
-        "datakey": "J6AIORKJ3PQOJKM8",
-        "dataiv": "J6AIORKJ3PQOJKM8"
       }
     },
     {
@@ -1667,36 +1595,6 @@
       }
     },
     {
-      "key": "py_坚果_APP",
-      "name": "🧿坚果(GET)",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "https://qiliniao-1331306839.cos.ap-chengdu.myqcloud.com/jg.txt",
-        "api": "/api.php/getappapi",
-        "datakey": "2015692015692015",
-        "dataiv": "2015692015692015"
-      }
-    },
-    {
-      "key": "py_星空_APP",
-      "name": "🧿星空(GET)",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "http://xkcms.xkgzs.xyz",
-        "api": "/api.php/getappapi",
-        "datakey": "AJcdjkAjkdJDkvcd",
-        "dataiv": "AJcdjkAjkdJDkvcd"
-      }
-    },
-    {
       "key": "py_数字_APP",
       "name": "🧿数字(GET)",
       "type": 3,
@@ -1757,21 +1655,6 @@
       }
     },
     {
-      "key": "py_星星_APP",
-      "name": "🧿星星(GET)",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "http://starani.qcanime.xyz",
-        "api": "/api.php/getappapi",
-        "datakey": "123456789StarAni",
-        "dataiv": "123456789StarAni"
-      }
-    },
-    {
       "key": "py_稀饭_APP",
       "name": "🧿稀饭(GET)",
       "type": 3,
@@ -1814,21 +1697,6 @@
         "api": "/api.php/getappapi",
         "datakey": "dyyztvapiappyyds",
         "dataiv": "dyyztvapiappyyds"
-      }
-    },
-    {
-      "key": "py_莱米_APP",
-      "name": "🧿莱米(GET)",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "http://laiget-1313189639.cos.ap-guangzhou.myqcloud.com/laimi.txt",
-        "api": "/api.php/getappapi",
-        "datakey": "ce032244d093b3e2",
-        "dataiv": "ce032244d093b3e2"
       }
     },
     {
