@@ -4706,6 +4706,7 @@
 .pct.org.tw
 .pdetails.com
 .pdproxy.com
+.pdst.fm
 .pe
 .peace.ca
 .peacefire.org
@@ -6468,6 +6469,7 @@
 .unwire.hk
 .uocn.org
 .uol
+.up.audio
 .upbit.com
 .updatestar.com
 .upghsbc.com
