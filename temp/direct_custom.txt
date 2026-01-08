@@ -34,6 +34,7 @@
 .gfx.ms
 .gh-proxy.com
 .gh-proxy.net
+.gh-proxy.org
 .ghfast.top
 .ghproxy.net
 .gitmirror.com
