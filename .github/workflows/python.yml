@@ -16,38 +16,41 @@ jobs:
       - name: Initialization environment
         run: sudo -E apt-get -yqq update
 
+      - name: Install Node Tools
+        run: npm install -g strip-json-comments-cli
+
       - name: Setup Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: '3.13'
           check-latest: true
 
       - name: Install Requests
         run: |
-          pip3 install tld
-          pip3 install requests
+          python -m pip install --upgrade pip
+          pip install tld requests
           update-tld-names
 
       - name: Generate
         run: |
           mkdir -p dist
           chmod +x scripts/*.sh
-          sh scripts/tv.sh
-          sh scripts/gfwlist.sh -l -o dist/gfw1.txt
-          curl -o- "https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/tld-not-cn.txt" | sed 's/^\.//' | grep -vE '^#|^(\s*)$' >> dist/gfw1.txt
-          cat dist/gfw1.txt temp/gfw_wiki.txt temp/gfw_custom.txt | grep -vE '\.cn$|\.xn--fiqs8s$|\.baidu\.|\.hao123|\.iqiyi\.|\.sina\.|\.weibo\.|\.youku\.' | sed 's/\t/ /g' > dist/gfw2.txt
-          grep -vE 'blogspot|discord|facebook|flickr|google|instagram|netflix|pinterest|porn|telegram|twitch|twitter|whatsapp|wikileaks|wikipedia|yahoo|youtube' dist/gfw2.txt > dist/gfw3.txt
-          grep -vE '\.apple\.|\.icloud\.|\.itunes\.|\.microsoft\.|\.windows\.' dist/gfw3.txt | sed 's/ //g' | sed 's/\r/\n/g' | sort -uf | grep -vE '^(\s*)$' > dist/gfw.txt
+          ./scripts/tv.sh
+          ./scripts/gfwlist.sh
+          curl -o- "https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/tld-not-cn.txt" | sed -r 's/^\.//' | grep -vE '^#|^(\s*)$' >> dist/gfw1.txt
+          cat dist/gfw1.txt temp/gfw_wiki.txt temp/gfw_custom.txt | sed -r 's/[[:blank:]]//g' | grep -vE '\.cn$|\.xn--fiqs8s$|\.baidu\.|\.hao123|\.iqiyi\.|\.sina\.|\.weibo\.|\.youku\.' |
+          grep -vE 'blogspot|discord|facebook|flickr|google|instagram|netflix|pinterest|porn|telegram|twitch|twitter|whatsapp|wikileaks|wikipedia|yahoo|youtube' |
+          grep -vE '\.apple\.|\.icloud\.|\.itunes\.|\.microsoft\.|\.windows\.' | sed -r 's/\r/\n/g' | sort -uf | grep -vE '^(\s*)$' > dist/gfw.txt
           python3 ./scripts/build-adguard.py
           python3 ./scripts/build-apple.py
           python3 ./scripts/build-cnip.py
           python3 ./scripts/build-direct.py
-          python3 ./scripts/build-proxy.py -f ./dist/gfw.txt
+          python3 ./scripts/build-proxy.py
           python3 ./scripts/build-reject.py
           python3 ./scripts/build-telegram.py
           python3 ./scripts/build-tiktok.py
           python3 ./scripts/build-tracker.py
-          sh scripts/update.sh
+          ./scripts/update.sh
           python3 ./scripts/gen-final.py
 
       - name: Commit Files
