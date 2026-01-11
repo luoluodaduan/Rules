@@ -1,6 +1,5 @@
 #!/bin/sh
 
-# 目标地址与临时文件
 BASE_URL='https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt'
 TMP_DIR='dist/gfwlist'
 GFW_BASE64="$TMP_DIR/gfw.b64"
@@ -21,9 +20,9 @@ mkdir -p "$TMP_DIR"
 # 1. 下载 (支持 curl 或 wget)
 echo "正在获取 GFWList..."
 if command -v curl >/dev/null; then
-    curl -s -L -k "$BASE_URL" -o "$GFW_BASE64"
+    curl -fsSL --connect-timeout 10 --retry 3 "$BASE_URL" -o "$GFW_BASE64"
 elif command -v wget >/dev/null; then
-    wget -q --no-check-certificate "$BASE_URL" -O "$GFW_BASE64"
+    wget -q --timeout=10 --tries=3 "$BASE_URL" -O "$GFW_BASE64"
 else
     echo "错误: 未找到 curl 或 wget"
     clean_up 1

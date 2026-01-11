@@ -6,11 +6,11 @@ sed -r "s/'\./'+\./" dist/apple2.txt | sort -uf | grep -vE '^(\s*)$' | sed -e '1
 sort -uf dist/cnip1.txt | grep -vE '^(\s*)$' >gen/cnip.txt
 sort -uf dist/cnip2.txt | grep -vE '^(\s*)$' | sed -e '1s/^/payload:\n/' >coo/cnip.yaml
 
-P_name='blogspot|discord|facebook|flickr|google|instagram|netflix|pinterest|porn|telegram|twitch|twitter|whatsapp|wikileaks|wikipedia|yahoo|youtube'
-grep -vE "$P_name" dist/direct1.txt | grep -vE '[a-zA-Z0-9]\.cn$' | sort -uf | grep -vE '^(\s*)$' >gen/direct.txt
-grep -vE "$P_name" dist/direct2.txt | grep -vE "[a-zA-Z0-9]\.cn'$" | sed -r "s/'\./'+\./" | sort -uf | grep -vE '^(\s*)$' | sed -e '1s/^/payload:\n/' >coo/direct.yaml
-cat dist/direct3.txt | grep -vE "$P_name" | grep -vE '[a-zA-Z0-9]\.cn/([0-9]{1,3}\.){3}[0-9]{1,3}$' | sed -r 's|server=/\.|server=/|' | sort -uf | grep -vE '^(\s*)$' >fan/dnsmasqCN.txt
-grep -vE "$P_name" dist/direct1.txt | grep -vE '[a-zA-Z0-9]\.cn$|jsdelivr\.|gh-proxy\.' | sed -r 's/^\.//' | sort -uf | grep -vE '^(\s*)$' >fan/smartdnsCN.txt
+KEYWORDS='blogspot|discord|facebook|flickr|google|instagram|netflix|pinterest|porn|telegram|twitch|twitter|whatsapp|wikileaks|wikipedia|yahoo|youtube'
+grep -vE "$KEYWORDS" dist/direct1.txt | grep -vE '[a-zA-Z0-9]\.cn$' | sort -uf | grep -vE '^(\s*)$' >gen/direct.txt
+grep -vE "$KEYWORDS" dist/direct2.txt | grep -vE "[a-zA-Z0-9]\.cn'$" | sed -r "s/'\./'+\./" | sort -uf | grep -vE '^(\s*)$' | sed -e '1s/^/payload:\n/' >coo/direct.yaml
+cat dist/direct3.txt | grep -vE "$KEYWORDS" | grep -vE '[a-zA-Z0-9]\.cn/([0-9]{1,3}\.){3}[0-9]{1,3}$' | sed -r 's|server=/\.|server=/|' | sort -uf | grep -vE '^(\s*)$' >fan/dnsmasqCN.txt
+grep -vE "$KEYWORDS" dist/direct1.txt | grep -vE '[a-zA-Z0-9]\.cn$|jsdelivr\.|gh-proxy\.' | sed -r 's/^\.//' | sort -uf | grep -vE '^(\s*)$' >fan/smartdnsCN.txt
 
 sort -uf dist/proxy1.txt | grep -vE '^(\s*)$' >gen/proxy.txt
 sort -uf dist/proxy2.txt | grep -vE '^(\s*)$' | sed -e '1s/^/payload:\n/' >coo/proxy.yaml
