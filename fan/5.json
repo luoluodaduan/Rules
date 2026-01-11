@@ -42,6 +42,39 @@
       }
     },
     {
+      "key": "爆炸",
+      "name": "爆炸｜APP",
+      "type": 3,
+      "api": "csp_AppQi",
+      "changeable": "1",
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": {
+        "site": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxh.txt",
+        "dataKey": "37kj83zs1q16jk6t",
+        "dataIv": "37kj83zs1q16jk6t",
+        "search": "searchList4",
+        "init": "initV122",
+        "ua": "okhttp/3.10.0"
+      }
+    },
+    {
+      "key": "橘子",
+      "name": "橘子｜APP",
+      "type": 3,
+      "api": "csp_AppQi",
+      "changeable": "1",
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": {
+        "url": "https://juziapp.tpmbt.cn",
+        "dataKey": "K3h6YvSU8BTUfEcb",
+        "dataIv": "K3h6YvSU8BTUfEcb",
+        "version": "305",
+        "ua": "okhttp/3.10.0"
+      }
+    },
+    {
       "key": "爱盈",
       "name": "爱盈｜APP",
       "type": 3,
@@ -50,9 +83,28 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": {
-        "site": "https://aysappto.oss-cn-chengdu.aliyuncs.com/qj3.txt",
-        "dataKey": "sda1231sasddad21",
-        "dataIv": "sda1231sasddad21",
+        "site": "https://rxysyyds.oss-cn-chengdu.aliyuncs.com/qiji.txt",
+        "dataKey": "sjvlwnhk6h9znl61",
+        "dataIv": "sjvlwnhk6h9znl61",
+        "version": "305",
+        "ua": "okhttp/3.10.0"
+      }
+    },
+    {
+      "key": "金牌",
+      "name": "金牌｜APP",
+      "type": 3,
+      "api": "csp_AppQi",
+      "changeable": "1",
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": {
+        "site": "https://dtqj.ggtvb.cc/dtjp.txt",
+        "dataKey": "eecbio48dsq131ee",
+        "dataIv": "eecbio48dsq131ee",
+        "search": "searchList4",
+        "version": "305",
+        "init": "initV122",
         "ua": "okhttp/3.10.0"
       }
     },
@@ -68,6 +120,7 @@
         "site": "https://guwozj-1319364746.cos.ap-guangzhou.myqcloud.com/guwo.txt",
         "dataKey": "ca94b06ca3c7d80e",
         "dataIv": "ca94b06ca3c7d80e",
+        "version": "305",
         "ua": "okhttp/3.10.0"
       }
     },
@@ -78,10 +131,11 @@
       "quickSearch": 1,
       "api": "csp_AppQi",
       "ext": {
-        "site": "https://ceshi307386.oss-cn-beijing.aliyuncs.com/ceshi430.txt",
-        "dataKey": "7sKhdca8HXGuyZ4x",
-        "dataIv": "7sKhdca8HXGuyZ4x",
-        "version": "120"
+        "url": "https://hk440cms.cs4k.top",
+        "dataKey": "fL7sY4zN4kB3pG4p",
+        "dataIv": "fL7sY4zN4kB3pG4p",
+        "init": "initV122",
+        "ua": "okhttp/3.10.0"
       }
     },
     {
@@ -106,6 +160,8 @@
         "site": "https://tiantangyoulu.oss-cn-beijing.aliyuncs.com/tengxunyun.txt",
         "dataKey": "seb5tq9mykp2w9ry",
         "dataIv": "seb5tq9mykp2w9ry",
+        "search": "qearchList",
+        "init": "initV122",
         "ua": "okhttp/3.10.0"
       }
     },
@@ -120,6 +176,18 @@
         "dataKey": "staraugust123456",
         "dataIv": "staraugust123456",
         "version": "120"
+      }
+    },
+    {
+      "key": "星星",
+      "name": "星星｜APP",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": {
+        "site": "http://110.81.153.7:1963/get.txt",
+        "dataKey": "k7L9mQ2xR4pW8n88",
+        "dataIv": "k7L9mQ2xR4pW8n88",
+        "version": "305"
       }
     },
     {
@@ -178,7 +246,7 @@
       "changeable": 1,
       "api": "csp_AppGet",
       "ext": {
-        "url": "https://www.26mf4k.top",
+        "site": "https://snysw.xyz/mf4kzs327.txt",
         "dataKey": "1234567887654321",
         "dataIv": "1234567887654321"
       }
@@ -208,18 +276,6 @@
       }
     },
     {
-      "key": "数字",
-      "name": "数字｜APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://app1-0-0.87333.cc",
-        "dataKey": "VwsHxkCViDXEExWa",
-        "dataIv": "VwsHxkCViDXEExWa"
-      }
-    },
-    {
       "key": "八天",
       "name": "八天丨APP",
       "type": 3,
@@ -229,18 +285,6 @@
         "url": "https://dy.8ttv.cn",
         "dataKey": "1111111111111111",
         "dataIv": "1111111111111111"
-      }
-    },
-    {
-      "key": "紫金",
-      "name": "紫金丨APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://www.zjcvod.com",
-        "dataKey": "ab4e9a421675f14b",
-        "dataIv": "ab4e9a421675f14b"
       }
     },
     {
@@ -333,257 +377,6 @@
       }
     },
     {
-      "key": "快映",
-      "name": "快映｜4K",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "http://xsayang.fun:12512"
-        ]
-      }
-    },
-    {
-      "key": "木偶",
-      "name": "木偶｜4K",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "https://123.666291.xyz",
-          "https://666.666291.xyz",
-          "https://www.muou.site",
-          "https://www.muou.asia"
-        ]
-      }
-    },
-    {
-      "key": "蜡笔",
-      "name": "蜡笔｜4K",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "https://www.labi88.sbs",
-          "https://feimao666.fun",
-          "http://feimao888.fun"
-        ]
-      }
-    },
-    {
-      "key": "至臻",
-      "name": "至臻｜4K",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "https://mihdr.top",
-          "https://www.miqk.cc",
-          "https://xiaomiai.site",
-          "https://xiaomi666.fun",
-          "https://www.mihdr.top",
-          "https://www.zhizhenpan.fun"
-        ]
-      }
-    },
-    {
-      "key": "多多",
-      "name": "多多｜4K",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "https://tv.yydsys.top",
-          "https://tv.yydsys.cc",
-          "https://tv.214521.xyz"
-        ]
-      }
-    },
-    {
-      "key": "欧哥",
-      "name": "欧哥｜4K",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "https://woog.nxog.eu.org",
-          "https://woog.nxog.fun",
-          "https://woog.nxog.eu.org",
-          "https://woog.430520.xyz"
-        ]
-      }
-    },
-    {
-      "key": "二小",
-      "name": "二小｜4K",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "https://xhww.net",
-          "https://erxiaofn.site",
-          "https://erxiaofn.click",
-          "https://www.xhww.net"
-        ]
-      }
-    },
-    {
-      "key": "虎斑",
-      "name": "虎斑｜4K",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "http://103.45.162.207:20720"
-        ]
-      }
-    },
-    {
-      "key": "夸克",
-      "name": "夸克｜4K",
-      "type": 3,
-      "api": "csp_PanWebShareCloudKK",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "https://www.quarktv.cc"
-        ]
-      }
-    },
-    {
-      "key": "清影",
-      "name": "清影｜4K",
-      "type": 3,
-      "api": "csp_PanWebShareCloudQY",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "http://www.revohd.com"
-        ]
-      }
-    },
-    {
-      "key": "雷鲸",
-      "name": "雷鲸｜4K",
-      "type": 3,
-      "api": "csp_PanWebShareCloudLJ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "style": {
-        "type": "list",
-        "ratio": 1.433
-      },
-      "ext": {
-        "site": [
-          "https://www.leijing.xyz",
-          "https://www.leijing1.com",
-          "https://leijing.xyz",
-          "https://leijing1.com"
-        ]
-      }
-    },
-    {
-      "key": "海绵",
-      "name": "海绵｜4K",
-      "type": 3,
-      "api": "csp_PanWebShareCloudHM",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "style": {
-        "type": "list",
-        "ratio": 1.433
-      },
-      "ext": {
-        "site": [
-          "http://haimian.eu.org",
-          "https://www.hmxz.org",
-          "https://www.haimianxz.com"
-        ]
-      }
-    },
-    {
-      "key": "夸父",
-      "name": "夸父｜4K",
-      "type": 3,
-      "api": "csp_PanWebShareCloudKF",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "style": {
-        "type": "list",
-        "ratio": 1.433
-      },
-      "ext": {
-        "site": [
-          "https://www.kfzy.cc"
-        ],
-        "cookie": "bbs_sid=qtrfbfct9gs8e7qat96o3nf09t; isClose=yes; __mxau__c2-lS6GI0pR=de438e75-e385-47c4-acb1-6564b407c7b1; __mxaf__c2-lS6GI0pR=1761439615; bbs_token=9NqiBWxAvM2MN_2FST20QOg5g9gcyzm2Hqfd9YwaQjK6Y_3D; __mxas__c2-lS6GI0pR=%7B%22sid%22%3A%22e4f30c47-1290-431b-b228-b9116c4744bd%22%2C%22vd%22%3A5%2C%22stt%22%3A168%2C%22dr%22%3A3%2C%22expires%22%3A1761476207%2C%22ct%22%3A1761474407%7D; __mxav__c2-lS6GI0pR=13"
-      }
-    },
-    {
-      "key": "123",
-      "name": "123｜4K",
-      "type": 3,
-      "api": "csp_PanWebShareCloud123",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "style": {
-        "type": "list",
-        "ratio": 1.433
-      },
-      "ext": {
-        "site": [
-          "https://123panfx.com",
-          "https://pan1.me"
-        ]
-      }
-    },
-    {
       "key": "人人",
       "name": "人人｜4K",
       "type": 3,
@@ -630,12 +423,6 @@
       "type": 3,
       "api": "csp_Tvyb",
       "ext": "http://www.viptv05.com"
-    },
-    {
-      "key": "奇优影视",
-      "name": "奇优｜影视",
-      "type": 3,
-      "api": "csp_Qiyou"
     },
     {
       "key": "苹果影视",

@@ -1962,6 +1962,15 @@
       }
     },
     {
+      "key": "免费短视频资源",
+      "name": "免费短视频🌈",
+      "type": 1,
+      "api": "https://api.zeqaht.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": []
+    },
+    {
       "key": "量子",
       "name": "🈲成人频道[量子]🌈",
       "type": 0,
