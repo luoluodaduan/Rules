@@ -6,20 +6,18 @@ sed -r "s/'\./'+\./" dist/apple2.txt | sort -uf | grep -vE '^(\s*)$' | sed -e '1
 sort -uf dist/cnip1.txt | grep -vE '^(\s*)$' >gen/cnip.txt
 sort -uf dist/cnip2.txt | grep -vE '^(\s*)$' | sed -e '1s/^/payload:\n/' >coo/cnip.yaml
 
-grep -vE 'blogspot|discord|facebook|flickr|google|instagram|netflix|pinterest|porn|telegram|twitch|twitter|whatsapp|wikileaks|wikipedia|yahoo|youtube' dist/direct1.txt >dist/direct11.txt
-sort -uf dist/direct11.txt | grep -vE '[a-z0-9]\.cn$' | grep -vE '^(\s*)$' >gen/direct.txt
-grep -vE 'blogspot|discord|facebook|flickr|google|instagram|netflix|pinterest|porn|telegram|twitch|twitter|whatsapp|wikileaks|wikipedia|yahoo|youtube' dist/direct2.txt >dist/direct22.txt
-sed -r "s/'\./'+\./" dist/direct22.txt | grep -vE "[a-z0-9]\.cn'$" | sort -uf | grep -vE '^(\s*)$' | sed -e '1s/^/payload:\n/' >coo/direct.yaml
-cat dist/direct3.txt | grep -vE 'blogspot|discord|facebook|flickr|google|instagram|netflix|pinterest|porn|telegram|twitch|twitter|whatsapp|wikileaks|wikipedia|yahoo|youtube' >dist/direct34.txt
-sed 's|server=/\.|server=/|' dist/direct34.txt | grep -vE "[a-z0-9]\.cn/[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+$" | sort -uf | grep -vE '^(\s*)$' >fan/dnsmasqCN.txt
-sed 's/^\.//' dist/direct11.txt | grep -vE '[a-z0-9]\.cn$|jsdelivr\.|ghproxy\.|gh-proxy\.|moeyy\.xyz|1888866\.xyz|isteed\.cc' | sort -uf | grep -vE '^(\s*)$' >fan/smartdnsCN.txt
+P_name='blogspot|discord|facebook|flickr|google|instagram|netflix|pinterest|porn|telegram|twitch|twitter|whatsapp|wikileaks|wikipedia|yahoo|youtube'
+grep -vE "$P_name" dist/direct1.txt | grep -vE '[a-zA-Z0-9]\.cn$' | sort -uf | grep -vE '^(\s*)$' >gen/direct.txt
+grep -vE "$P_name" dist/direct2.txt | grep -vE "[a-zA-Z0-9]\.cn'$" | sed -r "s/'\./'+\./" | sort -uf | grep -vE '^(\s*)$' | sed -e '1s/^/payload:\n/' >coo/direct.yaml
+cat dist/direct3.txt | grep -vE "$P_name" | grep -vE '[a-zA-Z0-9]\.cn/([0-9]{1,3}\.){3}[0-9]{1,3}$' | sed -r 's|server=/\.|server=/|' | sort -uf | grep -vE '^(\s*)$' >fan/dnsmasqCN.txt
+grep -vE "$P_name" dist/direct1.txt | grep -vE '[a-zA-Z0-9]\.cn$|jsdelivr\.|gh-proxy\.' | sed -r 's/^\.//' | sort -uf | grep -vE '^(\s*)$' >fan/smartdnsCN.txt
 
 sort -uf dist/proxy1.txt | grep -vE '^(\s*)$' >gen/proxy.txt
 sort -uf dist/proxy2.txt | grep -vE '^(\s*)$' | sed -e '1s/^/payload:\n/' >coo/proxy.yaml
 
-sed -r "s/[[:space:]]+/ /g" dist/adguard1.txt | sed -r 's/^\s+|\s+$//g' | sort -u | grep -vE '^(\s*)$' >fan/adguard.txt
-grep -vE 'adservice|advertising|guanggao' dist/reject1.txt | sort -u | grep -vE '^(\s*)$' >gen/reject.txt
-grep -vE 'adservice|advertising|guanggao' dist/reject2.txt | sort -u | grep -vE '^(\s*)$' | sed -e '1s/^/payload:\n/' >coo/reject.yaml
+sort -u dist/adguard1.txt | grep -vE '^(\s*)$' >fan/adguard.txt
+grep -vE 'adservice|advertising|guanggao' dist/reject1.txt | sort -uf | grep -vE '^(\s*)$' >gen/reject.txt
+grep -vE 'adservice|advertising|guanggao' dist/reject2.txt | sort -uf | grep -vE '^(\s*)$' | sed -e '1s/^/payload:\n/' >coo/reject.yaml
 sort -uf dist/reject3.txt | grep -vE '^(\s*)$' >fan/dnsmasqAd.txt
 sort -uf dist/reject4.txt | grep -vE '^(\s*)$' >fan/smartdnsAd.txt
 

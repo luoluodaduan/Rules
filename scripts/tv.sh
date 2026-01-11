@@ -2,13 +2,23 @@
 
 rm -rf fan/[0-9].json
 
-curl -o- --connect-timeout 10 --retry 3 "https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/lem.json" | sed 's/\r/\n/g' | grep -vE '^(\s*)//|^(\s*)$' >dist/1.json
-curl -o- --connect-timeout 10 --retry 3 "https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json" | sed 's/\r/\n/g' | grep -vE '^(\s*)//|^(\s*)$' >dist/2.json
-curl -o- --connect-timeout 10 --retry 3 "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json" | sed 's/\r/\n/g' | grep -vE '^(\s*)//|^(\s*)$' >dist/3.json
-curl -o- --connect-timeout 10 --retry 3 "https://raw.githubusercontent.com/ne7359/tvurl/main/0821.json" | sed 's/\r/\n/g' | grep -vE '^(\s*)//|^(\s*)$' >dist/4.json
-curl -o- --connect-timeout 10 --retry 3 "https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/api.json" | sed 's/\r/\n/g' | grep -vE '^(\s*)//|^(\s*)$' >dist/5.json
-curl -o- --connect-timeout 10 --retry 3 "https://raw.githubusercontent.com/wanganni/yinshiyuan/main/tvbox18.json" | sed 's/\r/\n/g' | grep -vE '^(\s*)//|^(\s*)$' >dist/6.json
-find dist -name '6.json' | xargs -r perl -pi -e "s/\'/\"/g"
+urls="https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/lem.json
+https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json
+https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json
+https://raw.githubusercontent.com/ne7359/tvurl/main/0821.json
+https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/api.json
+https://raw.githubusercontent.com/wanganni/yinshiyuan/main/tvbox18.json"
+
+i=1
+for url in $urls; do
+    output="dist/$i.json"
+    curl -fsSL --connect-timeout 10 --retry 3 "$url" | sed 's/\r/\n/g' | grep -vE '^(\s*)//|^(\s*)$' >"$output"
+    i=$((i + 1))
+done
+
+if [ -f "dist/6.json" ]; then
+    perl -pi -e "s/\'/\"/g" dist/6.json
+fi
 
 find dist -name '[0-9].json' | xargs -r perl -pi -e 's|\t| |g'
 find dist -name '[0-9].json' | xargs -r perl -pi -e 's|　| |g'
@@ -21,20 +31,20 @@ find dist -name '[0-9].json' | xargs -r perl -pi -e 's|"\./([^"]+)(?<!:)//([^"]*
 find dist -name '[0-9].json' | xargs -r perl -pi -e 's|"\./([^"]+)(?<!:)//([^"]*)"|"./$1/$2"|g'
 find dist -name '[0-9].json' | xargs -r perl -pi -e 's|(?<!:)//[^},]+$||g'
 find dist -name '[0-9].json' | xargs -r perl -pi -e 's|/refs/heads/|/|g'
-find dist -name '[0-9].json' | xargs -r perl -pi -e 's|^(\s*)/\*|『|g'
-find dist -name '[0-9].json' | xargs -r perl -pi -e 's|\*/(\s*)$|』|g'
-find dist -name '[0-9].json' | xargs -r perl -pi -e 's|\n||g'
-find dist -name '[0-9].json' | xargs -r perl -pi -e 's|『[\s\S]*』||g'
+find dist -name '[0-9].json' -exec sh -c 'strip-json-comments "$1" | jq -c "." > "$1.tmp" && mv "$1.tmp" "$1"' _ {} \;
 
-KEYWORDS="bili|Bili|DJ|MV|pansou|push_agent|Youtube|YouTube|三盘|云盘|信息|兔小贝|公告|养生|初中|剧评|听书|哔哩|商店|声明|小品|小学|小说|少儿|幼儿|广告|广播|弹幕|急救|戏曲|扫码|推送|搜搜|搜索|教学|教育|本地|本机|版本|盘他|盘她|盘它|盘搜|直播|相声|看球|短剧|短视频|童趣|网盘|评书|课堂|配置|音乐|音频|预告|高中"
+KEYWORDS="bili|Bili|csp_Pan|DJ|MV|pansou|push_agent|Youtube|YouTube|三盘|云盘|代理|信息|兔小贝|公告|养生|初中|剧评|听书|哔哩|商店|声明|外网|小品|小学|小说|少儿|幼儿|广告|广播|弹幕|急救|戏曲|扫码|推送|搜搜|搜索|教学|教育|本地|本机|版本|盘Ta|盘他|盘她|盘它|盘搜|直播|相声|看球|短剧|童趣|网盘|翻墙|评书|课堂|配置|音乐|音频|预告|高中"
 
 for i in 1 2 3 4 5 6; do
-    if [ -f "dist/$i.json" ]; then
+    input="dist/$i.json"
+    output="fan/$i.json"
+    if [ -f "$input" ]; then
         jq --arg kw "$KEYWORDS" '
-            if .sites then
-                del(.sites[]? | select((.name // "" | test($kw)) or (.key // "" | test($kw))))
-            else . end | del(.lives, .doh, .wallpaper, .notice, .logo)
-        ' "dist/$i.json" >"fan/$i.json" || echo "Error processing $i.json"
+            if .sites then del(.sites[]? | select(((.name // "") | test($kw)) or ((.key // "") | test($kw)) or ((.api // "") | test($kw))))
+            else . end | del(.lives, .wallpaper, .notice, .logo, .doh)
+        ' "$input" >"$output" || echo "Error: Failed to process $input"
+    else
+        echo "Skip: $input not found"
     fi
 done
 

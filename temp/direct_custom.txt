@@ -1,4 +1,3 @@
-.1888866.xyz
 .9dmgamemod.com
 .a-msedge.net
 .academicearth.dpdns.org
@@ -27,7 +26,6 @@
 .edgesuite.net
 .f-msedge.net
 .fanboy.co.nz
-.fastgit.org
 .g-msedge.net
 .geekertao.top
 .getmicrosoftkey.com
@@ -35,9 +33,9 @@
 .gh-proxy.com
 .gh-proxy.net
 .gh-proxy.org
+.gh-proxy.top
 .ghfast.top
 .ghproxy.net
-.gitmirror.com
 .h-msedge.net
 .httpdns.qcloud.com
 .huajunxiazai.com
@@ -47,7 +45,6 @@
 .jsdelivr.com
 .jsdelivr.net
 .k-msedge.net
-.kkgithub.com
 .l-msedge.net
 .learncodethehardway.dpdns.org
 .learncodethehardway.org
@@ -61,7 +58,6 @@
 .microsoftonline-p.net
 .microsoftonline.com
 .microsoftstream.com
-.moeyy.xyz
 .msappproxy.net
 .msauth.net
 .msauthimages.net

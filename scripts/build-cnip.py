@@ -2,28 +2,39 @@ import os
 import requests
 
 def get_cnip(url):
-    res = requests.get(url)
-    if res.status_code != 200:
-        raise Exception("Connect error")
-    return res.text.split("\n")
+    if url.startswith(('http')):
+        try:
+            res = requests.get(url, timeout=10)
+            res.raise_for_status()
+            return res.text.splitlines()
+        except requests.RequestException as e:
+            print(f"网络请求失败 ({url}): {e}")
+            return []
+    else:
+        try:
+            with open(url, 'r', encoding='utf-8') as f:
+                return f.read().splitlines()
+        except Exception as e:
+            print(f"读取本地文件失败 ({url}): {e}")
+            return []
 
-cnip_urls = []
-cnip_urls.append("https://ispip.clang.cn/all_cn_cidr.txt")
-cnip_urls.append("https://ispip.clang.cn/all_cn_ipv6.txt")
+cnip_urls = [
+    "https://ispip.clang.cn/all_cn_cidr.txt",
+    "https://ispip.clang.cn/all_cn_ipv6.txt"
+]
 
 if __name__ == "__main__":
     cnip = set()
     for url in cnip_urls:
-        rules = set(get_cnip(url))
-        cnip = cnip.union(rules)
-    cnip = list(cnip)
-    cnip.sort()
-    cnip_file1 = open(os.getcwd() + "/dist/cnip1.txt", mode="w", encoding="utf-8")
-    cnip_file2 = open(os.getcwd() + "/dist/cnip2.txt", mode="w", encoding="utf-8")
-    for line in cnip:
-        if not line.startswith(("#", "!")) and len(line) > 0:
-            line = line.replace("\r", "\n").replace("\t", " ").replace(" ", "")
-            cnip_file1.write("IP-CIDR,%s,no-resolve\n" % line)
-            cnip_file2.write("  - '%s'\n" % line)
-    cnip_file1.close()
-    cnip_file2.close()
+        cnip.update(get_cnip(url))
+    with open(os.getcwd() + "/dist/cnip1.txt", "w", encoding="utf-8") as f1, \
+        open(os.getcwd() + "/dist/cnip2.txt", "w", encoding="utf-8") as f2:
+        for line in sorted(cnip):
+            line = line.strip()
+            if line and not line.startswith(("#", "!")):
+                ipaddr = (line.replace("\t", "").replace(" ", ""))
+                try:
+                    f1.write(f"IP-CIDR,{ipaddr},no-resolve\n")
+                    f2.write(f"  - '{ipaddr}'\n")
+                except Exception as e:
+                    print(f"运行出错: {e}")

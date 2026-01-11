@@ -2,35 +2,44 @@ import os
 import requests
 
 def get_direct(url):
-    res = requests.get(url)
-    if res.status_code != 200:
-        raise Exception("Connect error")
-    return res.text.split("\n")
+    if url.startswith(('http')):
+        try:
+            res = requests.get(url, timeout=10)
+            res.raise_for_status()
+            return res.text.splitlines()
+        except requests.RequestException as e:
+            print(f"网络请求失败 ({url}): {e}")
+            return []
+    else:
+        try:
+            with open(url, 'r', encoding='utf-8') as f:
+                return f.read().splitlines()
+        except Exception as e:
+            print(f"读取本地文件失败 ({url}): {e}")
+            return []
 
-direct_urls = []
-direct_urls.append("https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/apple.china.conf")
-direct_urls.append("https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/direct.txt")
-direct_urls.append("https://raw.githubusercontent.com/luoluodaduan/Rules/main/temp/direct_custom.txt")
+direct_urls = [
+    "./temp/direct_custom.txt",
+    "https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/apple.china.conf",
+    "https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/direct.txt"
+]
 
 if __name__ == "__main__":
     direct = set()
     for url in direct_urls:
-        rules = set(get_direct(url))
-        direct = direct.union(rules)
-    direct = list(direct)
-    direct.sort()
-    direct_file1 = open(os.getcwd() + "/dist/direct1.txt", mode="w", encoding="utf-8")
-    direct_file2 = open(os.getcwd() + "/dist/direct2.txt", mode="w", encoding="utf-8")
-    direct_file3 = open(os.getcwd() + "/dist/direct3.txt", mode="w", encoding="utf-8")
-    direct_file4 = open(os.getcwd() + "/dist/direct4.txt", mode="w", encoding="utf-8")
-    for line in direct:
-        if not line.startswith(("#", "!")) and len(line) > 0:
-            line = (line.replace("\r", "\n").replace("\t", " ").replace(" ", "").replace("server=/", "").replace("/114.114.114.114", ""))
-            direct_file1.write("%s\n" % line)
-            direct_file2.write("  - '%s'\n" % line)
-            direct_file3.write("server=/%s/223.5.5.5\n" % line)
-            direct_file4.write("server=/%s/119.29.29.29\n" % line)
-    direct_file1.close()
-    direct_file2.close()
-    direct_file3.close()
-    direct_file4.close()
+        direct.update(get_direct(url))
+    with open(os.getcwd() + "/dist/direct1.txt", "w", encoding="utf-8") as f1, \
+        open(os.getcwd() + "/dist/direct2.txt", "w", encoding="utf-8") as f2, \
+        open(os.getcwd() + "/dist/direct3.txt", "w", encoding="utf-8") as f3, \
+        open(os.getcwd() + "/dist/direct4.txt", "w", encoding="utf-8") as f4:
+        for line in sorted(direct):
+            line = line.strip()
+            if line and not line.startswith(("#", "!")):
+                domain = (line.replace("\t", "").replace(" ", "").replace("server=/", "").replace("/114.114.114.114", ""))
+                try:
+                    f1.write(f"{domain}\n")
+                    f2.write(f"  - '{domain}'\n")
+                    f3.write(f"server=/{domain}/223.5.5.5\n")
+                    f4.write(f"server=/{domain}/119.29.29.29\n")
+                except Exception as e:
+                    print(f"运行出错: {e}")
