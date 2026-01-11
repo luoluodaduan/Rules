@@ -37,7 +37,7 @@ jobs:
           chmod +x scripts/*.sh
           ./scripts/tv.sh
           ./scripts/gfwlist.sh
-          curl -o- "https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/tld-not-cn.txt" | sed -r 's/^\.//' | grep -vE '^#|^(\s*)$' >> dist/gfw1.txt
+          curl -fsSL --connect-timeout 10 --retry 3 "https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/tld-not-cn.txt" | sed -r 's/^\.//' >> dist/gfw1.txt
           cat dist/gfw1.txt temp/gfw_wiki.txt temp/gfw_custom.txt | sed -r 's/[[:blank:]]//g' | grep -vE '\.cn$|\.xn--fiqs8s$|\.baidu\.|\.hao123|\.iqiyi\.|\.sina\.|\.weibo\.|\.youku\.' |
           grep -vE 'blogspot|discord|facebook|flickr|google|instagram|netflix|pinterest|porn|telegram|twitch|twitter|whatsapp|wikileaks|wikipedia|yahoo|youtube' |
           grep -vE '\.apple\.|\.icloud\.|\.itunes\.|\.microsoft\.|\.windows\.' | sed -r 's/\r/\n/g' | sort -uf | grep -vE '^(\s*)$' > dist/gfw.txt
