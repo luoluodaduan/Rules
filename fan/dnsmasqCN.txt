@@ -12155,6 +12155,7 @@ server=/aoch.com/223.5.5.5
 server=/aochengcdn.com/223.5.5.5
 server=/aocslb.com/223.5.5.5
 server=/aocter.net/223.5.5.5
+server=/aod-ssl.itunes.apple.com/223.5.5.5
 server=/aod.itunes.apple.com/223.5.5.5
 server=/aodabo.tech/223.5.5.5
 server=/aodaliyaqianzheng.com/223.5.5.5
