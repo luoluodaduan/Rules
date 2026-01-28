@@ -3,10 +3,8 @@ import re
 import time
 
 def get_from_file(path):
-    file = open(path, "r", encoding="utf-8")
-    content = file.read()
-    file.close()
-    return content
+    with open(path, "r", encoding="utf-8") as f:
+        return f.read()
 
 values = {
     "build_time": time.strftime("%Y-%m-%d %H:%M:%S"),
@@ -20,15 +18,14 @@ values = {
 }
 
 def gen_file(name):
-    template_file = open(os.getcwd() + "/template/" + name + "-template.conf", mode="r", encoding="utf-8")
-    template = template_file.read()
-    output_file = open(os.getcwd() + "/gen/" + name + ".conf", mode="w", encoding="utf-8")
-    marks = re.findall(r"{{(.+)}}", template)
+    with open(os.getcwd() + f"/template/{name}-template.conf", "r", encoding="utf-8") as f:
+        template = f.read()
+    marks = re.findall(r"{{(.+?)}}", template)
     for mark in marks:
-        template = template.replace("{{" + mark + "}}", values[mark])
-    output_file.write(template)
-    template_file.close()
-    output_file.close()
+        if mark in values:
+            template = template.replace("{{" + mark + "}}", values[mark])
+    with open(os.getcwd() + f"/gen/{name}.conf", "w", encoding="utf-8") as f:
+        f.write(template)
 
 file_names = [
     "white-ad",

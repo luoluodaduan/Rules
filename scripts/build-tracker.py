@@ -1,26 +1,41 @@
 import os
 import requests
 
-def get_tracker(url):
-    res = requests.get(url)
-    if res.status_code != 200:
-        raise Exception("Connect error")
-    return res.text.split("\n")
+def get_tracker(url, retries=3):
+    if url.startswith('http'):
+        for i in range(retries):
+            try:
+                res = requests.get(url, timeout=10)
+                res.raise_for_status()
+                return res.text.splitlines()
+            except requests.RequestException as e:
+                if i == retries - 1:
+                    print(f"网络请求失败 ({url}): {e}")
+        return []
+    else:
+        try:
+            with open(url, 'r', encoding='utf-8') as f:
+                return f.read().splitlines()
+        except Exception as e:
+            print(f"读取本地文件失败 ({url}): {e}")
+            return []
 
-tracker_urls = []
-tracker_urls.append("https://cf.trackerslist.com/all.txt")
-tracker_urls.append("https://cf.trackerslist.com/best.txt")
-tracker_urls.append("https://cf.trackerslist.com/http.txt")
+tracker_urls = [
+    "https://cf.trackerslist.com/all.txt",
+    "https://cf.trackerslist.com/best.txt",
+    "https://cf.trackerslist.com/http.txt"
+]
 
 if __name__ == "__main__":
     tracker = set()
     for url in tracker_urls:
-        rules = set(get_tracker(url))
-        tracker = tracker.union(rules)
-    tracker = list(tracker)
-    tracker.sort()
-    tracker_file = open(os.getcwd() + "/fan/tracker.txt", mode="w", encoding="utf-8")
-    for line in tracker:
-        if not line.startswith(("#", "!")) and len(line) > 0:
-            tracker_file.write("%s\n\n" % line.replace("\r", "\n").replace("\t", " ").replace(" ", ""))
-    tracker_file.close()
+        tracker.update(get_tracker(url))
+    with open(os.getcwd() + "/fan/tracker.txt", "w", encoding="utf-8") as f1:
+        for line in sorted(tracker):
+            line = line.strip()
+            if line and not line.startswith(("#", "!", "[")):
+                domain = (line.replace("\t", "").replace(" ", ""))
+                try:
+                    f1.write(f"{domain}\n\n")
+                except Exception as e:
+                    print(f"运行出错: {e}")
