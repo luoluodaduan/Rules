@@ -1,30 +1,43 @@
 import os
 import requests
 
-def get_apple(url):
-    res = requests.get(url)
-    if res.status_code != 200:
-        raise Exception("Connect error")
-    return res.text.split("\n")
+def get_apple(url, retries=3):
+    if url.startswith('http'):
+        for i in range(retries):
+            try:
+                res = requests.get(url, timeout=10)
+                res.raise_for_status()
+                return res.text.splitlines()
+            except requests.RequestException as e:
+                if i == retries - 1:
+                    print(f"网络请求失败 ({url}): {e}")
+        return []
+    else:
+        try:
+            with open(url, 'r', encoding='utf-8') as f:
+                return f.read().splitlines()
+        except Exception as e:
+            print(f"读取本地文件失败 ({url}): {e}")
+            return []
 
-apple_urls = []
-apple_urls.append("https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/apple.china.conf")
-apple_urls.append("https://raw.githubusercontent.com/v2fly/domain-list-community/release/apple.txt")
-apple_urls.append("https://raw.githubusercontent.com/v2fly/domain-list-community/release/icloud.txt")
+apple_urls = [
+    "https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/apple.china.conf",
+    "https://raw.githubusercontent.com/v2fly/domain-list-community/release/apple.txt",
+    "https://raw.githubusercontent.com/v2fly/domain-list-community/release/icloud.txt"
+]
 
 if __name__ == "__main__":
     apple = set()
     for url in apple_urls:
-        rules = set(get_apple(url))
-        apple = apple.union(rules)
-    apple = list(apple)
-    apple.sort()
-    apple_file1 = open(os.getcwd() + "/dist/apple1.txt", mode="w", encoding="utf-8")
-    apple_file2 = open(os.getcwd() + "/dist/apple2.txt", mode="w", encoding="utf-8")
-    for line in apple:
-        if (not line.startswith(("#", "!")) and not line.endswith(("@ads")) and len(line) > 0 ):
-            line = (line.replace("\r", "\n").replace("\t", " ").replace(" ", "").replace("server=/", "").replace("/114.114.114.114", "").replace("domain:", ".").replace("full:", "").replace(":@cn", ""))
-            apple_file1.write("%s\n" % line)
-            apple_file2.write("  - '%s'\n" % line)
-    apple_file1.close()
-    apple_file2.close()
+        apple.update(get_apple(url))
+    with open(os.getcwd() + "/dist/apple1.txt", "w", encoding="utf-8") as f1, \
+        open(os.getcwd() + "/dist/apple2.txt", "w", encoding="utf-8") as f2:
+        for line in sorted(apple):
+            line = line.strip()
+            if line and not line.startswith(("#", "!", "[")) and not line.endswith("@ads"):
+                domain = (line.replace("\t", "").replace(" ", "").replace("server=/", "").replace("/114.114.114.114", "").replace("domain:", ".").replace("full:", "").replace(":@cn", ""))
+                try:
+                    f1.write(f"{domain}\n")
+                    f2.write(f"  - '{domain}'\n")
+                except Exception as e:
+                    print(f"运行出错: {e}")
