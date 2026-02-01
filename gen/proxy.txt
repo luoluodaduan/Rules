@@ -245,6 +245,7 @@
 .ai-kan.net
 .ai-wen.net
 .ai.dev
+.ai.studio
 .aig
 .aiosearch.com
 .aiph.net
@@ -287,6 +288,7 @@
 .aliengu.com
 .alive.bar
 .aljazeera.com
+.aljazeera.net
 .alkasir.com
 .all4mom.org
 .allcoin.com
@@ -370,7 +372,10 @@
 .animecrazy.net
 .animeshippuuden.com
 .aniscartujo.com
+.annas-archive.in
+.annas-archive.li
 .annas-archive.org
+.annas-archive.pm
 .annas-archive.se
 .annatam.com
 .anobii.com
@@ -388,6 +393,7 @@
 .antichristendom.com
 .antiwave.net
 .antpool.com
+.anuneko.com
 .anws.gov.tw
 .anysex.com
 .anz
@@ -575,7 +581,6 @@
 .badjojo.com
 .badoo.com
 .bahamut.com.tw
-.baidu.jp
 .baijie.org
 .bailandaily.com
 .baixing.me
@@ -730,6 +735,7 @@
 .bit-z.com
 .bit.do
 .bit.ly
+.bitbaby.com
 .bitbay.net
 .bitchute.com
 .bitcointalk.org
@@ -833,6 +839,7 @@
 .box.com
 .box.net
 .boxpn.com
+.boxun*.azurewebsites.net
 .boxun.com
 .boxun.tv
 .boxunblog.com
@@ -938,6 +945,7 @@
 .bynet.co.il
 .bypasscensorship.org
 .byrut.org
+.byspotify.com
 .bz
 .bzh
 .c-est-simple.com
@@ -1372,6 +1380,7 @@
 .creadersnet.com
 .creativelab5.com
 .cristyli.com
+.crixet.com
 .crocotube.com
 .crossfire.co.kr
 .crossthewall.net
@@ -1496,6 +1505,7 @@
 .dayabook.com
 .daylife.com
 .dayoneapp.com
+.dazn.com
 .db.tt
 .dbc.hk
 .dbgjd.com
@@ -1537,8 +1547,6 @@
 .demdex.net
 .democrats.org
 .demosisto.hk
-.deno.com
-.deno.dev
 .depositphotos.com
 .derpibooru.org
 .derpicdn.net
@@ -2032,6 +2040,7 @@
 .fb.me
 .fb.watch
 .fbaddins.com
+.fbcdn*.akamaihd.net
 .fbcdn.com
 .fbcdn.net
 .fbit.com
@@ -2233,6 +2242,7 @@
 .freessh.us
 .freessl.org
 .freetcp.com
+.freeterabox.com
 .freetibet.net
 .freetibet.org
 .freetibetanheroes.org
@@ -2429,6 +2439,7 @@
 .gfw.press
 .gfw.report
 .gfwatch.org
+.gfwbao.com
 .gg
 .ggee
 .ggpht.com
@@ -3009,6 +3020,7 @@
 .icu-project.org
 .id
 .idaiwan.com
+.idcflare.com
 .iddddg.com
 .ideasoncanvas.com
 .idemocracy.asia
@@ -3295,6 +3307,7 @@
 .jfqu36.club
 .jfqu37.xyz
 .jgoodies.com
+.jhelab.org
 .jiangweiping.com
 .jiaoyou8.com
 .jiehua.cz
@@ -3700,6 +3713,7 @@
 .lotte
 .lotuslight.org.hk
 .lotuslight.org.tw
+.lovart.ai
 .loved.hk
 .loverslab.com
 .lovetvshow.com
@@ -3849,6 +3863,7 @@
 .mega.io
 .mega.nz
 .megalodon.jp
+.megaphone.fm
 .megaproxy.com
 .megarotic.com
 .megaupload.com
@@ -4164,6 +4179,7 @@
 .mytalkbox.com
 .myteamspeak.com
 .mytizi.com
+.mytvsuper.com
 .myvisualiq.net
 .mywife.cc
 .mywww.biz
@@ -4231,6 +4247,7 @@
 .neo-miracle.com
 .neoforged.net
 .neowin.net
+.nephobox.com
 .nepusoku.com
 .nesnode.com
 .net-fits.pro
@@ -4558,6 +4575,8 @@
 .onthehunt.com
 .ontrac.com
 .oojj.de
+.ooni.io
+.ooni.org
 .oopsforum.com
 .open
 .open.com.hk
@@ -4670,6 +4689,7 @@
 .parse.com
 .parsely.com
 .parsevideo.com
+.partnerstack.xyz
 .partycasino.com
 .partypoker.com
 .passion.com
@@ -4699,6 +4719,7 @@
 .pct.org.tw
 .pdetails.com
 .pdproxy.com
+.pdst.fm
 .pe
 .peace.ca
 .peacefire.org
@@ -4810,9 +4831,11 @@
 .pnc
 .po2b.com
 .pobieramy.top
+.pocketcasts.com
 .podbean.com
 .podcast.co
 .podictionary.com
+.podwise.ai
 .poe.com
 .pohl
 .points-media.com
@@ -5013,9 +5036,11 @@
 .radiko.jp
 .radio-canada.ca
 .radio-en-ligne.fr
+.radio.co
 .radio.garden
 .radioaustralia.net.au
 .radiohilight.net
+.radiojar.com
 .radioline.co
 .radiotime.com
 .radiovaticana.org
@@ -5428,12 +5453,12 @@
 .sijihuisuo.com
 .silkbook.com
 .silvergatebank.com
+.simianx.ai
 .simplecd.me
 .simplecd.org
 .simpleproductivityblog.com
 .simpleswap.io
 .simplex.chat
-.sina.com.hk
 .sinchew.com.my
 .singaporepools.com.sg
 .singfortibet.com
@@ -5674,6 +5699,7 @@
 .stc.com.sa
 .stcgroup
 .steamcommunity.com
+.steamladder.com
 .steampowered.com
 .steamstatic.com
 .steel-storm.com
@@ -5806,6 +5832,7 @@
 .tafm.org
 .tagwalk.com
 .tahr.org.tw
+.tails.net
 .taipei
 .taipei.gov.tw
 .taipeisociety.org
@@ -6213,6 +6240,7 @@
 .trickip.net
 .trickip.org
 .trimondi.de
+.tritondigital.com
 .tronscan.org
 .trouw.nl
 .trt.net.tr
@@ -6281,6 +6309,7 @@
 .tv.com
 .tvants.com
 .tvb.com
+.tvbanywhere.com
 .tvboxnow.com
 .tvbs.com.tw
 .tvider.com
@@ -6456,6 +6485,7 @@
 .unwire.hk
 .uocn.org
 .uol
+.up.audio
 .upbit.com
 .updatestar.com
 .upghsbc.com
@@ -6781,6 +6811,7 @@
 .wefightcensorship.org
 .wefong.com
 .weiboleak.com
+.weights.com
 .weihuo.org
 .weijingsheng.org
 .weiming.info
@@ -6956,6 +6987,7 @@
 .xbox
 .xbtce.com
 .xcafe.in
+.xcancel.com
 .xcity.jp
 .xcritic.com
 .xda-developers.com
@@ -7163,6 +7195,7 @@
 .yesasia.com
 .yesasia.com.hk
 .yeyeclub.com
+.yfsp.tv
 .ygto.com
 .yhcw.net
 .yibada.com
@@ -7194,6 +7227,7 @@
 .youjizz.com
 .youlucky.com
 .youmaker.com
+.youmind.com
 .youngspiration.hk
 .youpai.org
 .your-freedom.net
@@ -7249,6 +7283,7 @@
 .zannel.com
 .zaobao.com
 .zaobao.com.sg
+.zaochenbao.com
 .zaozon.com
 .zappos
 .zapto.org
