@@ -1,0 +1,80 @@
+name: Python Generate
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '40 23 * * *'
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check Out
+        uses: actions/checkout@v6
+
+      - name: Initialization Environment
+        env:
+          DEBIAN_FRONTEND: noninteractive
+        run: |
+          sudo -E apt-get -yqq update
+          sudo -E apt-get -yqq install jq
+          sudo -E apt-get -y autoremove --purge
+          sudo -E apt-get clean
+
+      - name: Install Node Tools
+        run: npm install -g json5
+
+      - name: Setup Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.13'
+          check-latest: true
+
+      - name: Install Requests
+        run: |
+          python -m pip install --upgrade pip
+          pip install tld requests
+          update-tld-names
+
+      - name: Generate
+        run: |
+          mkdir -p dist
+          chmod +x scripts/*.sh
+          ./scripts/gfwlist.sh
+          python3 ./scripts/build-adguard.py
+          python3 ./scripts/build-cnip.py
+          python3 ./scripts/build-direct.py
+          python3 ./scripts/build-proxy.py
+          python3 ./scripts/build-reject.py
+          python3 ./scripts/build-telegram.py
+          python3 ./scripts/build-tiktok.py
+          python3 ./scripts/build-tracker.py
+          ./scripts/update.sh
+          python3 ./scripts/gen-final.py
+          ./scripts/tv.sh
+
+      - name: Commit Files
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git checkout main
+          rm -rf dist
+          git add .
+          git commit -m "$(date '+%Y-%m-%d')"
+
+      - name: Push Changes
+        uses: ad-m/github-push-action@master
+        with:
+          branch: ${{ github.ref }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Delete old Releases and Workflows
+        uses: ophub/delete-releases-workflows@main
+        with:
+          delete_releases: true
+          releases_keep_latest: 0
+          delete_tags: true
+          delete_workflows: true
+          workflows_keep_day: 1
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
