@@ -747,6 +747,7 @@
 .bitshare.com
 .bitsnoop.com
 .bitterwinter.org
+.bittorrent.com
 .bitvise.com
 .bitz.ai
 .bizhat.com
@@ -2730,6 +2731,7 @@
 .helpuyghursnow.org
 .helpzhuling.org
 .helsinki
+.hembed.com
 .hentai.to
 .hentaitube.tv
 .hentaivideoworld.com
@@ -2987,6 +2989,7 @@
 .hyperrate.com
 .hypothes.is
 .hyread.com.tw
+.hysteria.network
 .hyundai
 .i-cable.com
 .i-part.com.tw
