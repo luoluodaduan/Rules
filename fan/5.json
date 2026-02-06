@@ -351,7 +351,7 @@
       "changeable": 1,
       "api": "csp_AppGet",
       "ext": {
-        "site": "https://snysw.xyz/mf4kzs327.txt",
+        "site": "https://snysw.xyz/mf4kev328.txt",
         "dataKey": "1234567887654321",
         "dataIv": "1234567887654321"
       }
@@ -458,13 +458,15 @@
           "https://wogg.333232.xyz",
           "https://woggpan.888484.xyz"
         ]
-      }
+      },
+      "timeout": 60
     },
     {
       "key": "人人",
       "name": "人人｜4K",
       "type": 3,
-      "api": "csp_RenRen"
+      "api": "csp_RenRen",
+      "timeout": 60
     },
     {
       "key": "即刻",
@@ -473,7 +475,8 @@
       "api": "csp_Jike",
       "style": {
         "type": "list"
-      }
+      },
+      "timeout": 60
     },
     {
       "key": "双星",
@@ -482,7 +485,8 @@
       "api": "csp_ShuangXing",
       "style": {
         "type": "list"
-      }
+      },
+      "timeout": 60
     },
     {
       "key": "木兮影视",

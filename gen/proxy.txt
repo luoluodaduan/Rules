@@ -2613,6 +2613,7 @@
 .greenvpn.org
 .grindr.com
 .grok.com
+.grokipedia.com
 .grotty-monday.com
 .groueta.cc
 .ground.news
@@ -4658,6 +4659,7 @@
 .page.link
 .page.tl
 .page2rss.com
+.pages.dev
 .pagodabox.com
 .paimon.moe
 .palacemoon.com
@@ -5333,6 +5335,7 @@
 .seesmic.com
 .seevpn.com
 .seezone.net
+.sef.org.tw
 .segway.com
 .sehuatang.net
 .sehuatang.org

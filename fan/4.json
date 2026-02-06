@@ -6,7 +6,7 @@
       "type": 0,
       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/ne7359/tvurl/main/list.txt",
       "playerType": 2,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "epg": "http://epg.cdn.loc.cc/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
     {
@@ -15,7 +15,7 @@
       "url": "https://tv.iill.top/m3u/Gather",
       "ua": "okhttp/3.15",
       "playerType": 2,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+      "epg": "http://epg.cdn.loc.cc/?ch={name}&date={date}"
     },
     {
       "name": "YanG•体育",
@@ -29,24 +29,24 @@
       "type": 0,
       "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
       "playerType": 2,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "epg": "http://epg.cdn.loc.cc/?ch={name}&date={date}",
+      "logo": "https://logo.wyfc.qzz.io/{name}.png"
     },
     {
       "name": "YueChan•综合",
       "type": 0,
       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
       "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "epg": "http://epg.cdn.loc.cc/?ch={name}&date={date}",
+      "logo": "https://logo.wyfc.qzz.io/{name}.png"
     },
     {
       "name": "Yoursmile•综合",
       "type": 0,
       "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
       "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "epg": "http://epg.cdn.loc.cc/?ch={name}&date={date}",
+      "logo": "https://logo.wyfc.qzz.io/{name}.png"
     },
     {
       "name": "MemoryC•综合",
@@ -54,32 +54,32 @@
       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/MemoryCollection/IPTV/main/itvlist.m3u",
       "playerType": 1,
       "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "epg": "http://epg.cdn.loc.cc/?ch={name}&date={date}",
+      "logo": "https://logo.wyfc.qzz.io/{name}.png"
     },
     {
       "name": "肥猫•综合",
       "type": 0,
       "url": "http://我不是.肥猫.live/TV/tvzb.txt",
       "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "epg": "http://epg.cdn.loc.cc/?ch={name}&date={date}",
+      "logo": "https://logo.wyfc.qzz.io/{name}.png"
     },
     {
       "name": "Ray•综合",
       "type": 0,
       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
       "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "epg": "http://epg.cdn.loc.cc/?ch={name}&date={date}",
+      "logo": "https://logo.wyfc.qzz.io/{name}.png"
     },
     {
       "name": "俊于•综合",
       "type": 0,
       "url": "http://home.jundie.top:81/Cat/tv/live.txt",
       "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "epg": "http://epg.cdn.loc.cc/?ch={name}&date={date}",
+      "logo": "https://logo.wyfc.qzz.io/{name}.png"
     },
     {
       "name": "初秋语•电台",
