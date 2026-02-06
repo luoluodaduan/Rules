@@ -47,9 +47,9 @@ for i in 1 2 3 4 5 6; do
     fi
 done
 
-find fan -name '[0-9].json' | xargs -r perl -pi -e 's|(["=])https?:/([^"=]*)/raw\.([^/"]+)/([^/"]+)/([^/"]+)/|$1$ENV{PROXY_URL}/https://raw.githubusercontent.com/$4/$5/|g'
-find fan -name '[0-9].json' | xargs -r perl -pi -e 's|(["=])https?:/([^"=]*)/github\.com/([^/"]+)/([^/"]+)/raw/|$1$ENV{PROXY_URL}/https://raw.githubusercontent.com/$3/$4/|g'
-find fan -name '[0-9].json' | xargs -r perl -pi -e 's|(["=])https?:/([^"=]+)\.jsdelivr\.net/gh/([^/"]+)/([^/"]+)@|$1$ENV{PROXY_URL}/https://raw.githubusercontent.com/$3/$4/|g'
+find fan -name '[0-9].json' | xargs -r perl -pi -e 's|(["=])https?:/(?:[^"=]*)/raw\.(?:[^/"]+)/([^/"]+)/([^/"]+)/|$1$ENV{PROXY_URL}/https://raw.githubusercontent.com/$2/$3/|g'
+find fan -name '[0-9].json' | xargs -r perl -pi -e 's|(["=])https?:/(?:[^"=]*)/github\.com/([^/"]+)/([^/"]+)/raw/|$1$ENV{PROXY_URL}/https://raw.githubusercontent.com/$2/$3/|g'
+find fan -name '[0-9].json' | xargs -r perl -pi -e 's|(["=])https?:/(?:[^"=]+)\.jsdelivr\.(?:[^/"]+)/gh/([^/"]+)/([^/"]+)@|$1$ENV{PROXY_URL}/https://raw.githubusercontent.com/$2/$3/|g'
 
 find fan -name '1.json' | xargs -r perl -pi -e 's|"\./|"$ENV{PROXY_URL}/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/|g'
 find fan -name '2.json' | xargs -r perl -pi -e 's|"\./|"$ENV{PROXY_URL}/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/|g'

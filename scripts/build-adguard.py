@@ -24,7 +24,8 @@ adguard_urls = [
     "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt",
     "https://raw.githubusercontent.com/curbengh/malware-filter/gh-pages/phishing-filter-agh.txt",
     "https://raw.githubusercontent.com/curbengh/malware-filter/gh-pages/urlhaus-filter-agh-online.txt",
-    "https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt"
+    "https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt",
+    "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/refs/heads/main/AWAvenue-Ads-Rule.txt"
 ]
 
 if __name__ == "__main__":
