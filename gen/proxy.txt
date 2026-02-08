@@ -2548,7 +2548,6 @@
 .gongmeng.info
 .gongminliliang.com
 .gongwt.com
-.goo
 .goo.gl
 .goo.gle
 .goo.ne.jp
