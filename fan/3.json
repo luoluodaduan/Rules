@@ -17,13 +17,15 @@
       }
     },
     {
-      "key": "csp_Gz360",
+      "key": "csp_GuaZi",
       "name": "🍉瓜子",
       "type": 3,
-      "api": "csp_Gz360",
+      "api": "csp_GuaZi",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
+      }
     },
     {
       "key": "天天",
@@ -261,7 +263,10 @@
       "api": "csp_Ikanbot",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "ext": {
+        "commonConfig": "https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
+      }
     },
     {
       "key": "csp_Jianpian",
@@ -545,6 +550,17 @@
         "commonConfig": "https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
         "siteUrl": "https://sduc.cloud/",
         "filter": "https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
+      }
+    },
+    {
+      "key": "FourKZN",
+      "name": "️4️⃣4k指南",
+      "type": 3,
+      "api": "csp_FourKZN",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
       }
     },
     {

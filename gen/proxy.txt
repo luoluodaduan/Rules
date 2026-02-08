@@ -3587,10 +3587,8 @@
 .lego
 .legra.ph
 .legsjapan.com
-.leisurecafe.ca
 .leisurepro.com
 .lematin.ch
-.lemonde.fr
 .lenwhite.com
 .leorockwell.com
 .lerosua.org
@@ -3674,7 +3672,6 @@
 .live.net
 .livecoin.net
 .livedoor.com
-.livedoor.jp
 .livefilestore.com
 .livejasmin.com
 .liveleak.com
@@ -3692,7 +3689,6 @@
 .lmarena.ai
 .lmsys.org
 .lncn.org
-.load.to
 .lobsangwangyal.com
 .localbitcoins.com
 .localdomain.ws
@@ -3705,7 +3701,6 @@
 .logmein.com
 .logos.com.hk
 .london
-.londonchinese.ca
 .longhair.hk
 .longmusic.com
 .longtermly.net
@@ -3716,7 +3711,6 @@
 .lotsawahouse.org
 .lotte
 .lotuslight.org.hk
-.lotuslight.org.tw
 .lovart.ai
 .loved.hk
 .loverslab.com
@@ -3798,21 +3792,18 @@
 .mangmang.run
 .mango
 .maniash.com
-.manicur4ik.ru
 .mansion.com
 .mansionpoker.com
 .manta.com
 .manyvoices.news
 .maplew.com
 .marc.info
-.marguerite.su
 .marriott
 .marshalls
 .martau.com
 .martincartoons.com
 .martinoei.com
 .martsangkagyuofficial.org
-.maruta.be
 .marxist.com
 .marxist.net
 .marxists.org
@@ -3837,7 +3828,6 @@
 .mattwilcox.net
 .maturejp.com
 .maven.org
-.maxing.jp
 .mayimayi.com
 .maying.co
 .mc
@@ -4132,8 +4122,6 @@
 .myactimes.com
 .myanniu.com
 .myaudiocast.com
-.myav.com.tw
-.mybbs.us
 .mybet.com
 .myca168.com
 .mycanadanow.com
@@ -6873,6 +6861,7 @@
 .wikimedia.org
 .wikinews.org
 .wikiquote.org
+.wikis.tw
 .wikisource.org
 .wikiunblocked.org
 .wikiversity.org
