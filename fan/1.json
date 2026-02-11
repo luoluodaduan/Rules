@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem0208.jar;md5;DD02508BFF82CB8962CEAA52A58604F6",
+  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem0210.jar;md5;CE5E2A523BDF7C87FC3169463CC23326",
   "lives": [
     {
       "name": "CatVod-1",
@@ -1424,6 +1424,21 @@
         "api": "/api.php/getappapi",
         "datakey": "bH5mI8iK0tK7aQ5x",
         "dataiv": "bH5mI8iK0tK7aQ5x"
+      }
+    },
+    {
+      "key": "py_旗星_APP",
+      "name": "雷蒙影视|🧿旗星(GET)",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "host": "http://ys.qist.top/dtym.txt",
+        "api": "/api.php/getappapi",
+        "datakey": "2SWSPFxugBLPPOKo",
+        "dataiv": "2SWSPFxugBLPPOKo"
       }
     },
     {
