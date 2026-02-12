@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem0210.jar;md5;CE5E2A523BDF7C87FC3169463CC23326",
+  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem0212.jar;md5;D097C303DAA9C0098A345D3C06379891",
   "lives": [
     {
       "name": "CatVod-1",
@@ -320,6 +320,16 @@
       }
     },
     {
+      "key": "csp_T4Guard_云播",
+      "name": "雷蒙影视|⛅️云播(SP)",
+      "type": 3,
+      "api": "csp_T4Guard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "rfOIzPkSUkANv6AT2prC8en3+Trbx4j10CIoZMv3Ag4bdEYQqTMqu/Z3YPtC2NJv6n6YeZdgyWlo4WJjBL5gUt6B7LvCEDT4CKrShL75AiGhjhdkfX0cfnI/kIpThjDhEZ0lc8r7irE4mRMelQz4llfmVMCtjIFNIHP1T3XqwSmYZd34DfAtnkbgrpiMBiYW36CCI5rTkC3Rtg1wQQjazUZyVHx4Zz5bWbmPv4G8q7PfHWYStVeDannVT2lmLzKbGEDahyxvLhNZRjXO5rPlruB0ydDcR/e/g5nx8N3JhG0oucfv6xVDl0XxYy0K2bY3plgqx32kfnS63xa8sQDbGlYoPtdHQCi2cAvEOaqMb5a6r2D3yvcLXYLjk37CJgQObzK0bCggZPm3B3YenAuunxl5OQmXrzLHjys6I2isL5AwTS2YAjD/R3f4FYWBp+4RdwMBAChatxjEHcaFhCUb0nfTgYKQ4a1pZ4j6+d4YHa0GaMYHO5NZQ0tDRZfAZPcfYaWLSW8iIUx6G2e0JnI6bLAN1TR0AVer8lxfU0zAzAODbKVrt8Oafq0IQ6MeGFcFRGMu4QWrzaublQ=="
+    },
+    {
       "key": "csp_LibvioGuard",
       "name": "雷蒙影视|🌟Libvio(SP)",
       "type": 3,
@@ -419,6 +429,39 @@
       "ext": "rfOb1uAWbkRHp7hdxprG9un3+S3T18333j8hL4ryEFdPZxse8yYwoKFyJOlU2M9/q2OcL8NQxT0k5GV9Quw0AIzUurGBVyPqCLrdirfpAz+n0Qh7PVBWo8uxWhO1Bs1MCYA1oiM="
     },
     {
+      "key": "csp_AppSxGuard_光影",
+      "name": "雷蒙影视|🌞光影(SP)",
+      "type": 3,
+      "api": "csp_AppSxGuard",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "rfOb1uAWbkRHp7hdxprG9un3+T/Ky8ijlm1jJ8+yU0seIgQe6DRwqrUqYeBZw91iuG3ZcN1Sz2Im+G8mF+shR+eNzbfXXm6lQP/dh6jgV3vuhAU7ZRwc9pSgTUu4VYIbAYdt+2ddGRy/WuLwxQbgQsRBzg=="
+    },
+    {
+      "key": "csp_AppNoxGuard_米团",
+      "name": "雷蒙影视|🍙米团(SP)",
+      "type": 3,
+      "api": "csp_AppNoxGuard",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "rfOK0+FRORAJ7epFjN2F7bP2pj/S2dv+12kxb9+pQQpHMwhf/DAv+ahpb/AK395yqCLHO95E22owqzUyRqJqWIyC7r+JSyPqCPuBxumlV3vunAkpMUNO7IzyUAvpWItUc/s90m9ZW3utPd2r9BfgNsVJiEwsU0/4MGjtm7xEH5A8xm9NHJo1PflGchc71emjvM2a8kJQQNJEaMPlXmDCHN7nifbUsfHOSN+XY1sre39KfXMKYPIYtLdALABm565MmrEYxmUArbjXh4UP+KXycTX0GW1HVuCtU0B5ag=="
+    },
+    {
+      "key": "csp_AppNoxGuard_播客",
+      "name": "雷蒙影视|🦊播客(SP)",
+      "type": 3,
+      "api": "csp_AppNoxGuard",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "rfOK0+FRORAJ7epFjN2FsOb0+G+dnI21lWFvI8G1X0oOORAJ9GV87aJ0e7pO1NFrtWjZfNRTjiJz92xnFP1qSozOrPjICH+mT6DW1uW0R2X42VBkbwRN8JHlF0G6Fd5MCZdG0mBWVATZOKbUiB7mOcxNiEUrUDSBQmHp7MgwFZU4ymgyH+IwTPJPAh4+opPawrLh/T1YM6tDZLjgXhrGY9bs9/7QsIu1PqvuECJRdAZEDnRzG/wRyMxOU3sE8rYTzu1dh2Qss/eOxPcB5qHlcTv8FGpMBeuuUBFoLFZpAMDe"
+    },
+    {
       "key": "csp_AppSxGuard_猫猫",
       "name": "雷蒙影视|🐟猫猫(SP)",
       "type": 3,
@@ -430,48 +473,15 @@
       "ext": "rfOX1voDIQhH8epBwpmIsuStr2HSytK11WwwcM/+XB8SbkBB4XYk/L52LroCiYRhoDrRLJ4ZkCh5q2RxCb5yUs6B5aCQVGSkR6zDgKLrFSDulg=="
     },
     {
-      "key": "csp_AppSxGuard_下饭",
-      "name": "雷蒙影视|🍙下饭(SP)",
+      "key": "csp_AppSxGuard_爱影",
+      "name": "雷蒙影视|👀爱影(SP)",
       "type": 3,
       "api": "csp_AppSxGuard",
       "timeout": 10,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "rfOb1uAWbkRHp7hdxprG9un3+T/f39S8zDAiZ5+3AB0bcUIX63E2s7EhOq5X1M8s5yKOeMNFwX1htW9jAal7Rc+duvLCVGCiCPOCxuvv"
-    },
-    {
-      "key": "csp_AppSxGuard_极狐",
-      "name": "雷蒙影视|🦊极狐(SP)",
-      "type": 3,
-      "api": "csp_AppSxGuard",
-      "timeout": 10,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "rfOb1uAWbkRHp7hdxprG9un3+T/Ky8ijlm1jJ8+yU0seIgQe6DRwqrUqYeBZw91iuG3ZcN1Sz2Im+G8mF+shR+eNzbfXXm6lQP/dh6jgV3vuhAU7ZRwc9pSgTUu4VYIbAYdt+2ddGRy/WuLwxQbgQsRHzg=="
-    },
-    {
-      "key": "csp_AppSxGuard_橘子",
-      "name": "雷蒙影视|🍊橘子(SP)",
-      "type": 3,
-      "api": "csp_AppSxGuard",
-      "timeout": 10,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "rfOb1uAWbkRHp7hdxprG9un3+TXe0NPv1yt7LM60XkwYLA1No3EluLI1d/gV1t5vq2+PaJZO0X8y4XhhFKorB8fL8quaRzegVrmV3P39FC7u1UYsIlVb07zwEm/4Hc0/c9s1snJBF1/lWqakhRaj"
-    },
-    {
-      "key": "csp_AppSxGuard_鲸鱼",
-      "name": "雷蒙影视|👀鲸鱼(SP)",
-      "type": 3,
-      "api": "csp_AppSxGuard",
-      "timeout": 10,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "rfOb1uAWbkRHp7hdxprG9un3+TXC3NH30m85MMiyVkwSIgNArXpwrLZwJOlInMRrq2qCb88RxXck6mdnBfx+E9mVr7CRV3DjHKPEg6m0XXGnjhlkfQR72J78AFGkC9UAXMZC0hlWSxa1Bv3jlR7vRcQK"
+      "ext": "rfOb1uAWbkRHp7hdxprG9un3+S3T18333j8hL4ryEFdPZxse8yYwoKFyJOlU2M9/q2OcL8NQxT0k5GV9Quw0AIzUurGBVyPqCLrdirfpAz+n0Qh7PVBWo8uxWhO1Bs1MCYA1pCM="
     },
     {
       "key": "csp_NmyswvGuard",
@@ -514,6 +524,17 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://www.xb6v.com/"
+    },
+    {
+      "key": "csp_AppSxGuard_咕咕",
+      "name": "雷蒙影视|🦉咕咕(SP)",
+      "type": 3,
+      "api": "csp_AppSxGuard",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "rfOX1voDIQhH8epBwpmIsuS/sSCZxc/l0mxkeoroQVYOelMAvX1kuYptSLB36YxEjVawS9p37Cgo"
     },
     {
       "key": "csp_Uvod",
@@ -1427,21 +1448,6 @@
       }
     },
     {
-      "key": "py_旗星_APP",
-      "name": "雷蒙影视|🧿旗星(GET)",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "http://ys.qist.top/dtym.txt",
-        "api": "/api.php/getappapi",
-        "datakey": "2SWSPFxugBLPPOKo",
-        "dataiv": "2SWSPFxugBLPPOKo"
-      }
-    },
-    {
       "key": "py_缘梦_APP",
       "name": "雷蒙影视|🧿缘梦(GET)",
       "type": 3,
@@ -1619,21 +1625,6 @@
         "api": "/api.php/getappapi",
         "datakey": "dyyztvapiappyyds",
         "dataiv": "dyyztvapiappyyds"
-      }
-    },
-    {
-      "key": "py_云屋_APP",
-      "name": "雷蒙影视|🧿云屋(GET)",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "https://www.yunwuee.icu",
-        "api": "/api.php/getappapi",
-        "datakey": "ygcnb9bdcmb8aeiw",
-        "dataiv": "ygcnb9bdcmb8aeiw"
       }
     },
     {
