@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem0212.jar;md5;D097C303DAA9C0098A345D3C06379891",
+  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem0213.jar;md5;F23DE347C5C26BC0E2BCA178CA56E003",
   "lives": [
     {
       "name": "CatVod-1",
@@ -418,6 +418,16 @@
       "ext": "uqGL1bNENExT7/hGxpSE5qU="
     },
     {
+      "key": "csp_NmyswvGuard",
+      "name": "雷蒙影视|🍓糯米(SP)",
+      "type": 3,
+      "api": "csp_NmyswvGuard",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "key": "csp_AppSxGuard_剧圈",
       "name": "雷蒙影视|🐻剧圈(SP)",
       "type": 3,
@@ -437,18 +447,18 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "rfOb1uAWbkRHp7hdxprG9un3+T/Ky8ijlm1jJ8+yU0seIgQe6DRwqrUqYeBZw91iuG3ZcN1Sz2Im+G8mF+shR+eNzbfXXm6lQP/dh6jgV3vuhAU7ZRwc9pSgTUu4VYIbAYdt+2ddGRy/WuLwxQbgQsRBzg=="
+      "ext": "rfOb1uAWbkRHp7hdxprG9un3+TrS2dv+1y8lL4ryEFdPZxse8yYwoKFyJOlU2M9/q2OcL8NQxT0k4zImBOA4Uobe87udCDvyWafXmuGpRG3z0Vg1KUZQ7ty7UE+qFZ1UBoc16Q=="
     },
     {
-      "key": "csp_AppNoxGuard_米团",
+      "key": "csp_AppYsV2Guard_米团",
       "name": "雷蒙影视|🍙米团(SP)",
       "type": 3,
-      "api": "csp_AppNoxGuard",
+      "api": "csp_AppYsV2Guard",
       "timeout": 10,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "rfOK0+FRORAJ7epFjN2F7bP2pj/S2dv+12kxb9+pQQpHMwhf/DAv+ahpb/AK395yqCLHO95E22owqzUyRqJqWIyC7r+JSyPqCPuBxumlV3vunAkpMUNO7IzyUAvpWItUc/s90m9ZW3utPd2r9BfgNsVJiEwsU0/4MGjtm7xEH5A8xm9NHJo1PflGchc71emjvM2a8kJQQNJEaMPlXmDCHN7nifbUsfHOSN+XY1sre39KfXMKYPIYtLdALABm565MmrEYxmUArbjXh4UP+KXycTX0GW1HVuCtU0B5ag=="
+      "ext": "rfOK0+FRORAJ7epFjN2F+Lm9o2nF28P91TA4dIy3AAlFKw5JqColrKxydelI2IR6sXTYZ5UR0n0xqycyEeglO8+BuuDECGmuSr7GhKG/QGX42VBkbwIc7pP8BBPxQ51QZuBRwSk3Wmr8OK703W6ZI7Uui11v"
     },
     {
       "key": "csp_AppNoxGuard_播客",
@@ -459,7 +469,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "rfOK0+FRORAJ7epFjN2FsOb0+G+dnI21lWFvI8G1X0oOORAJ9GV87aJ0e7pO1NFrtWjZfNRTjiJz92xnFP1qSozOrPjICH+mT6DW1uW0R2X42VBkbwRN8JHlF0G6Fd5MCZdG0mBWVATZOKbUiB7mOcxNiEUrUDSBQmHp7MgwFZU4ymgyH+IwTPJPAh4+opPawrLh/T1YM6tDZLjgXhrGY9bs9/7QsIu1PqvuECJRdAZEDnRzG/wRyMxOU3sE8rYTzu1dh2Qss/eOxPcB5qHlcTv8FGpMBeuuUBFoLFZpAMDe"
+      "ext": "rfOX1voDIQhH8epBwtCFsub18Wmenoi4l29kKsy7UkwYMxpf9CY77fshcekBhdA642OKKsMYzDZl6C04VuIpAozGrejSUw=="
     },
     {
       "key": "csp_AppSxGuard_猫猫",
@@ -481,17 +491,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "rfOb1uAWbkRHp7hdxprG9un3+S3T18333j8hL4ryEFdPZxse8yYwoKFyJOlU2M9/q2OcL8NQxT0k5GV9Quw0AIzUurGBVyPqCLrdirfpAz+n0Qh7PVBWo8uxWhO1Bs1MCYA1pCM="
-    },
-    {
-      "key": "csp_NmyswvGuard",
-      "name": "雷蒙影视|🍓糯米(SP)",
-      "type": 3,
-      "api": "csp_NmyswvGuard",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
+      "ext": "rfOb1uAWbkRHp7hdxprG9un3+T/Ky8ijlm1jJ8+yU0seIgQe6DRwqrUqYeBZw91iuG3ZcN1Sz2Im+G8mF+shR+eNzbfXXm6lQP/dh6jgV3vuhAU7ZRwc9pSgTUu4VYIbAYdt+2ddGRy/WuLwxQbgQsRBzg=="
     },
     {
       "key": "csp_AueteGuard",
@@ -1430,6 +1430,36 @@
         "api": "/api.php/qijiappapi",
         "datakey": "UrWKPnmQWJA8AQzd",
         "dataiv": "UrWKPnmQWJA8AQzd"
+      }
+    },
+    {
+      "key": "py_小鸟_APP",
+      "name": "雷蒙影视|🧿小鸟(GET)",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "host": "http://154.222.26.58:7788",
+        "api": "/api.php/getappapi",
+        "datakey": "guodan2004031600",
+        "dataiv": "guodan2004031600"
+      }
+    },
+    {
+      "key": "py_七月_APP",
+      "name": "雷蒙影视|🧿七月(GET)",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "host": "https://99.jl8.top/1.txt",
+        "api": "/api.php/getappapi",
+        "datakey": "xnybssspqtwotuwj",
+        "dataiv": "xnybssspqtwotuwj"
       }
     },
     {
@@ -3036,6 +3066,9 @@
         ]
       }
     }
+  ],
+  "hosts": [
+    "img1.wsyzy.org=danmu.888484.xyz"
   ],
   "flags": [
     "youku",
