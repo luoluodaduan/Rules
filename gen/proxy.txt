@@ -2397,6 +2397,7 @@
 .gmail
 .gmail.com
 .gmgard.com
+.gmgn.ai
 .gmhz.org
 .gmiddle.com
 .gmiddle.net
@@ -6481,6 +6482,7 @@
 .waiwaier.com
 .wales
 .walletconnect.com
+.walletconnect.org
 .wallmama.com
 .wallornot.org
 .wallpapercasa.com
