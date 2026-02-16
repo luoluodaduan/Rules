@@ -369,7 +369,6 @@
 .antiwave.net
 .antpool.com
 .anuneko.com
-.anws.gov.tw
 .anysex.com
 .anz
 .ao
@@ -438,7 +437,6 @@
 .archiveofourown.com
 .archiveofourown.org
 .archives.gov
-.archives.gov.tw
 .arctosia.com
 .areca-backup.org
 .arena.taipei
@@ -1364,7 +1362,6 @@
 .cv
 .cw
 .cw.com.tw
-.cwb.gov.tw
 .cx
 .cy
 .cyberctm.com
@@ -1429,7 +1426,6 @@
 .dashlane.com
 .dastrassi.org
 .data-vocabulary.org
-.data.gov.tw
 .datalabour.com
 .dating
 .datsun
@@ -1834,7 +1830,6 @@
 .everipedia.org
 .evozi.com
 .evschool.net
-.exam.gov.tw
 .exchristian.hk
 .excite.co.jp
 .exhentai.org
@@ -1855,7 +1850,6 @@
 .extraspace
 .extremetube.com
 .exx.com
-.ey.gov.tw
 .eyeota.net
 .eyevio.jp
 .eyny.com
@@ -1864,7 +1858,6 @@
 .f-droid.org
 .f2pool.com
 .f8.com
-.fa.gov.tw
 .faceless.me
 .facesofnyfw.com
 .facesoftibetanselfimmolators.info
@@ -1959,7 +1952,6 @@
 .fc2cn.com
 .fc2web.com
 .fcww95.com
-.fda.gov.tw
 .fdbox.com
 .fdc64.org
 .fedex
@@ -2471,6 +2463,7 @@
 .gov
 .gov.ir
 .gov.taipei
+.gov.tw
 .gp
 .gr
 .gr8domain.biz
@@ -2784,7 +2777,6 @@
 .hoxx.com
 .hoy.tv
 .hoyolab.com
-.hpa.gov.tw
 .hpjav.com
 .hqcdp.org
 .hqjapanesesex.com
@@ -2979,7 +2971,6 @@
 .imkev.com
 .imlive.co
 .imlive.com
-.immigration.gov.tw
 .improd.works
 .imrworldwide.com
 .in
@@ -3088,7 +3079,6 @@
 .isupportuyghurs.org
 .it
 .itaboo.info
-.itaiwan.gov.tw
 .italiatibet.org
 .itasoftware.com
 .itau
@@ -3238,7 +3228,6 @@
 .jslint.com
 .jtvnw.net
 .jubushoushen.com
-.judicial.gov.tw
 .juhuaren.com
 .jukujo-club.com
 .juliepost.com
@@ -3604,7 +3593,6 @@
 .lvhai.org
 .lvv2.com
 .ly
-.ly.gov.tw
 .lyfhk.net
 .lynda.com
 .lzjscript.com
@@ -3842,7 +3830,6 @@
 .mixx.com
 .mizzmona.com
 .mji.rip
-.mjib.gov.tw
 .mjj.rip
 .mk
 .mk5000.com
@@ -3868,19 +3855,15 @@
 .mod.io
 .modernchinastudies.org
 .moe
-.moeaic.gov.tw
 .moeerolibrary.com
 .moegirl.org
 .moeshare.cc
-.mofa.gov.tw
 .mofaxiehui.com
 .mofos.com
 .mog.com
 .mohu.club
 .mohu.rocks
-.moj.gov.tw
 .mojim.com
-.mol.gov.tw
 .molihua.org
 .momoshop.com.tw
 .monash
@@ -3961,7 +3944,6 @@
 .muzi.net
 .muzu.tv
 .mv
-.mvdis.gov.tw
 .mvg.jp
 .mvnrepository.com
 .mw
@@ -4056,7 +4038,6 @@
 .nanzao.com
 .naol.cc
 .nasa.gov
-.nat.gov.tw
 .nat.moe
 .natado.com
 .national-lottery.co.uk
@@ -4171,7 +4152,6 @@
 .ngensis.com
 .ngodupdongchung.com
 .nhentai.net
-.nhi.gov.tw
 .nhk
 .ni
 .nic.gov
@@ -4241,8 +4221,6 @@
 .noxinfluencer.com
 .noypf.com
 .npa.go.jp
-.npa.gov.tw
-.npm.gov.tw
 .npmjs.com
 .npmjs.org
 .npnt.me
@@ -4263,11 +4241,7 @@
 .ns2.name
 .ns3.name
 .nsaimg.com
-.nsc.gov.tw
 .nsstatic.net
-.ntbk.gov.tw
-.ntbna.gov.tw
-.ntbt.gov.tw
 .ntd.tv
 .ntdtv.com
 .ntdtv.com.tw
@@ -4530,7 +4504,6 @@
 .pbxes.com
 .pbxes.org
 .pcanywhere.net
-.pcc.gov.tw
 .pccw
 .pcgamestorrents.com
 .pcij.org
@@ -5137,7 +5110,6 @@
 .seesmic.com
 .seevpn.com
 .seezone.net
-.sef.org.tw
 .segway.com
 .sehuatang.net
 .sehuatang.org
@@ -5473,7 +5445,6 @@
 .starp2p.com
 .startpage.com
 .startuplivingchina.com
-.stat.gov.tw
 .statebank
 .statefarm
 .static-economist.com
@@ -5615,7 +5586,6 @@
 .tagwalk.com
 .tails.net
 .taipei
-.taipei.gov.tw
 .taipeisociety.org
 .taipeitimes.com
 .taisounds.com
@@ -5625,7 +5595,6 @@
 .taiwandaily.net
 .taiwandc.org
 .taiwanhot.net
-.taiwanjobs.gov.tw
 .taiwanjustice.com
 .taiwanjustice.net
 .taiwankiss.com
@@ -5742,7 +5711,6 @@
 .tgstat.com
 .th
 .thaicn.com
-.thb.gov.tw
 .thd
 .theatlantic.com
 .theatrum-belli.com
@@ -5915,7 +5883,6 @@
 .tinypaste.com
 .tinyurl.com
 .tipas.net
-.tipo.gov.tw
 .tirol
 .tistory.com
 .tj
@@ -6104,6 +6071,7 @@
 .twelve.today
 .twerkingbutt.com
 .twftp.org
+.twgov.tw
 .twgreatdaily.com
 .twibase.com
 .twibble.de
@@ -6519,7 +6487,6 @@
 .waybig.com
 .waymo.com
 .wd.bible
-.wda.gov.tw
 .wdf5.com
 .wealth.com.tw
 .wearehairy.com
@@ -6656,7 +6623,6 @@
 .woesermiddle-way.net
 .wokar.org
 .wolfax.com
-.wolterskluwer
 .wombo.ai
 .woodside
 .woolyss.com
