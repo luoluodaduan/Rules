@@ -3888,6 +3888,7 @@
 .morningsun.org
 .moroneta.com
 .mos.ru
+.mosavi.io
 .moscow
 .mosucloud.site
 .motherless.com
