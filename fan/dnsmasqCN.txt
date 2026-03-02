@@ -69541,6 +69541,7 @@ server=/monfetch.com/223.5.5.5
 server=/mongac.com/223.5.5.5
 server=/monhun.fun/223.5.5.5
 server=/monidata.com/223.5.5.5
+server=/monika.love/223.5.5.5
 server=/monitoring.qpdp1.net/223.5.5.5
 server=/monkeylsp.com/223.5.5.5
 server=/monknow.com/223.5.5.5

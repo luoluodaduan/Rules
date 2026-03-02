@@ -1277,19 +1277,6 @@
       }
     },
     {
-      "key": "py_麒麟_APP",
-      "name": "雷蒙影视|🧿麒麟(FOX)",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/appfox.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "https://qh.70qh.top",
-        "ver": "2"
-      }
-    },
-    {
       "key": "py_恋鱼_APP",
       "name": "雷蒙影视|🧿恋鱼(FOX)",
       "type": 3,
@@ -1466,18 +1453,18 @@
       }
     },
     {
-      "key": "py_爱影_APP",
-      "name": "雷蒙影视|🧿爱影(QIJI)",
+      "key": "py_小羊_APP",
+      "name": "雷蒙影视|🧿小羊(GET)",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/qijiapp.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "host": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q16.txt",
-        "api": "/api.php/qijiappapi",
-        "datakey": "dj382hsyqp98kqn8",
-        "dataiv": "dj382hsyqp98kqn8"
+        "host": "https://xy4k.com/url.txt",
+        "api": "/api.php/getappapi",
+        "datakey": "7SDWjknU34zqFbVr",
+        "dataiv": "7SDWjknU34zqFbVr"
       }
     },
     {
@@ -1541,21 +1528,6 @@
       }
     },
     {
-      "key": "py_缘梦_APP",
-      "name": "雷蒙影视|🧿缘梦(GET)",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "http://165.99.42.137:5432",
-        "api": "/api.php/getappapi",
-        "datakey": "1234567890987654",
-        "dataiv": "1234567890987654"
-      }
-    },
-    {
       "key": "py_王子_APP",
       "name": "雷蒙影视|🧿王子(GET)",
       "type": 3,
@@ -1598,36 +1570,6 @@
         "api": "/api.php/getappapi",
         "datakey": "uXVVRRuaPnjEfsX5",
         "dataiv": "uXVVRRuaPnjEfsX5"
-      }
-    },
-    {
-      "key": "py_气球_APP",
-      "name": "雷蒙影视|🧿气球(GET)",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "https://vv.229d.cn",
-        "api": "/api.php/getappapi",
-        "datakey": "8888888888888888",
-        "dataiv": "8888888888888888"
-      }
-    },
-    {
-      "key": "py_白鸽_APP",
-      "name": "雷蒙影视|🧿白鸽(GET)",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "https://cy.baige.asia",
-        "api": "/api.php/getappapi",
-        "datakey": "599D0FE5178642FD",
-        "dataiv": "599D0FE5178642FD"
       }
     },
     {
@@ -1703,21 +1645,6 @@
         "api": "/api.php/getappapi",
         "datakey": "ab4e9a421675f14b",
         "dataiv": "ab4e9a421675f14b"
-      }
-    },
-    {
-      "key": "py_驿站_APP",
-      "name": "雷蒙影视|🧿驿站(GET)",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt",
-        "api": "/api.php/getappapi",
-        "datakey": "dyyztvapiappyyds",
-        "dataiv": "dyyztvapiappyyds"
       }
     },
     {
@@ -2138,62 +2065,6 @@
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/LIVES.py"
     },
     {
-      "key": "js_零度",
-      "name": "雷蒙影视|🍥零度(NOX)",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/appnox.min.js",
-      "ext": {
-        "host": "http://ld.ldysapp.cn",
-        "signature": "70:DF:B1:2A:AE:C3:E3:73:6E:23:0F:67:B9:3B:C5:63:2D:EA:2A:2C:9E:9D:52:82:1D:3F:3C:3C:B9:10:9E:EE",
-        "package": "com.mjyx.jhxq",
-        "verCode": "36",
-        "verName": "2.2.6",
-        "deviceId": "ee0b3ae17bbf6218"
-      }
-    },
-    {
-      "key": "js_粉象",
-      "name": "雷蒙影视|🍥粉象(NOX)",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/appnox.min.js",
-      "ext": {
-        "host": "http://64.64.252.93:8080",
-        "signature": "DD:78:90:EA:BD:D3:C2:EA:A4:E1:42:2B:CF:3E:A2:9F:9C:0E:BF:94:1E:85:43:B5:3C:FE:4E:1B:51:39:22:98",
-        "package": "com.fenxiang.make",
-        "verCode": "1",
-        "verName": "1.0.0",
-        "deviceId": "ee0b3ae17bbf6218"
-      }
-    },
-    {
-      "key": "js_橘猫",
-      "name": "雷蒙影视|🍥橘猫(NOX)",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/appnox.min.js",
-      "ext": {
-        "host": "https://nox.jm4k.top",
-        "signature": "6D:77:A5:59:EA:EA:2E:4E:CC:E3:FE:B9:5D:8D:B0:F0:12:17:11:AD:82:97:87:FA:F7:88:18:37:6A:63:4F:38",
-        "package": "com.gnzhis.nru",
-        "verCode": "2",
-        "verName": "2.4.1",
-        "deviceId": "ee0b3ae17bbf6218"
-      }
-    },
-    {
-      "key": "js_片喵",
-      "name": "雷蒙影视|🍥片喵(NOX)",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/appnox.min.js",
-      "ext": {
-        "host": "https://svip.2video.cc",
-        "signature": "70:DF:B1:2A:AE:C3:E3:73:6E:23:0F:67:B9:3B:C5:63:2D:EA:2A:2C:9E:9D:52:82:1D:3F:3C:3C:B9:10:9E:EE",
-        "package": "com.ds.wlss",
-        "verCode": "56",
-        "verName": "1.2.6",
-        "deviceId": "ee0b3ae17bbf6218"
-      }
-    },
-    {
       "key": "js_火猫",
       "name": "雷蒙影视|🍥火猫(NOX)",
       "type": 3,
@@ -2204,34 +2075,6 @@
         "package": "cc.xzsc.user",
         "verCode": "12",
         "verName": "5.2",
-        "deviceId": "ee0b3ae17bbf6218"
-      }
-    },
-    {
-      "key": "js_幕悦",
-      "name": "雷蒙影视|🍥幕悦(NOX)",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/appnox.min.js",
-      "ext": {
-        "host": "http://111.170.7.114:8989",
-        "signature": "3D:D7:7B:07:B0:81:49:AF:90:5E:39:2B:B8:59:A9:99:89:EB:D5:35:6E:06:C0:A4:BE:44:B6:16:43:33:C4:C3",
-        "package": "com.muyuesg.app",
-        "verCode": "12",
-        "verName": "0.1.2",
-        "deviceId": "ee0b3ae17bbf6218"
-      }
-    },
-    {
-      "key": "js_随看",
-      "name": "雷蒙影视|🍥随看(NOX)",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/appnox.min.js",
-      "ext": {
-        "host": "https://skapp.tpmbt.cn",
-        "signature": "28:FA:41:C9:95:6D:9A:36:0A:FC:FC:22:12:78:80:10:B7:47:0B:8F:CE:AB:A9:49:85:22:B3:EA:57:35:C2:D1",
-        "package": "com.mfbrjy.aqb",
-        "verCode": "320",
-        "verName": "3.2.0",
         "deviceId": "ee0b3ae17bbf6218"
       }
     },

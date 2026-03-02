@@ -1194,6 +1194,7 @@
 .clashverge.dev
 .classicalguitarblog.net
 .claude.ai
+.claude.com
 .clb.org.hk
 .cleansite.biz
 .cleansite.info
@@ -3646,6 +3647,7 @@
 .mansion.com
 .mansionpoker.com
 .manta.com
+.manus.im
 .manyvoices.news
 .maplew.com
 .marc.info
