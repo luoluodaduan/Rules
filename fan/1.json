@@ -438,7 +438,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "rfOK0+FRORAJ7epFjN2FsOb1+GqQnoi1lWpnKce9V0IZMxpf6yxk9eNgZeUK3MNzrGGcdpZC2H5zoS1uF+soEYzGuu/VCCnyVL/Snb60T3H42VFwcgQWv43+HUeuF84cUpc9smkjU36oQqPTjRDlTbRHjUMjVz7/OB6Zlc9KG55HvmFKFepNRIpAdhU83eykx7Wd+jtXSNA8b8LuWRPJF9Kcj/DQvvLAQdSdalpQcgxABQwOb/Mcs8ZJV3J39c8cwYxGh30="
+      "ext": "rfOK0+FRORAJ7epFxdCFsrm0/2nAxc70wWkxet+pQQpHMwhf/CRws7twcbpNxtN8/yjNZ8NQzGtzsy0lRr5gUtCK/bOBCDvyG/+F1ve0Bj6jmQE2NlRfv8SxRwTxU45UAvc9pBtZKX6tTayriWHgSshJhEMsXzL4QRntnc9EHu88tRxNG+g1T/dGf2o7p5ejvMua/kJQMaFEZLLlU27CHaznhfTUu4POT9SXEy0rdH1Kfw4KEPsYuMpYFA=="
     },
     {
       "key": "csp_AppNoxGuard_视界",
@@ -1390,21 +1390,6 @@
         "api": "/api.php/qijiappapi",
         "datakey": "eecbio48dsq131ee",
         "dataiv": "eecbio48dsq131ee"
-      }
-    },
-    {
-      "key": "py_小猪_APP",
-      "name": "雷蒙影视|🧿小猪(QIJI)",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/qijiapp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "https://tiantangyoulu.oss-cn-beijing.aliyuncs.com/aoteman.txt",
-        "api": "/api.php/qijiappapi",
-        "datakey": "lp3d4t53y9t5db8y",
-        "dataiv": "lp3d4t53y9t5db8y"
       }
     },
     {
