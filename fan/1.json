@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem0301.jar;md5;4EE92C5760197EA79AF04E339CD64597",
+  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem0305.jar;md5;EBBE4E76271D91E149DF89AA595133A1",
   "lives": [
     {
       "name": "咪咕",
@@ -1378,6 +1378,36 @@
       }
     },
     {
+      "key": "py_爱影_APP",
+      "name": "雷蒙影视|🧿爱影(QIJI)",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/qijiapp.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "host": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q19.txt",
+        "api": "/api.php/qijiappapi",
+        "datakey": "fff32466kkfff616",
+        "dataiv": "fff32466kkfff616"
+      }
+    },
+    {
+      "key": "py_小猪_APP",
+      "name": "雷蒙影视|🧿小猪(QIJI)",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/qijiapp.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "host": "https://tiantangwulu.oss-cn-shanghai.aliyuncs.com/xinjian.txt",
+        "api": "/api.php/qijiappapi",
+        "datakey": "k5t2fp3h9d25hn9y",
+        "dataiv": "k5t2fp3h9d25hn9y"
+      }
+    },
+    {
       "key": "py_金牌_APP",
       "name": "雷蒙影视|🧿金牌(QIJI)",
       "type": 3,
@@ -2494,7 +2524,7 @@
         "动画片",
         "惊悚片",
         "奇幻片",
-        "国产剧",
+        "国���剧",
         "欧美剧",
         "韩剧",
         "日剧",
@@ -2535,7 +2565,7 @@
     },
     {
       "key": "vod_优酷",
-      "name": "雷蒙���视|️🚀优酷",
+      "name": "雷蒙影视|️🚀优酷",
       "type": 1,
       "api": "https://api.ukuapi.com/api.php/provide/vod/",
       "searchable": 1,

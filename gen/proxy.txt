@@ -1422,6 +1422,7 @@
 .danwei.org
 .daolan.net
 .daozhongxing.org
+.dappcdn.com
 .darktech.org
 .darktoy.net
 .darmau.co
