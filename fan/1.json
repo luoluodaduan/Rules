@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem0305.jar;md5;EBBE4E76271D91E149DF89AA595133A1",
+  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem0307.jar;md5;74B1989643847B098918578DF65A3FD0",
   "lives": [
     {
       "name": "咪咕",
@@ -1408,36 +1408,6 @@
       }
     },
     {
-      "key": "py_金牌_APP",
-      "name": "雷蒙影视|🧿金牌(QIJI)",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/qijiapp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "https://dtqj.ggtvb.cc/dtjp.txt",
-        "api": "/api.php/qijiappapi",
-        "datakey": "eecbio48dsq131ee",
-        "dataiv": "eecbio48dsq131ee"
-      }
-    },
-    {
-      "key": "py_鲸鱼_APP",
-      "name": "雷蒙影视|🧿鲸鱼(QIJI)",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/qijiapp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/juyu3.json",
-        "api": "/api.php/qijiappapi",
-        "datakey": "AAdgrdghjfgsABC1",
-        "dataiv": "AAdgrdghjfgsABC1"
-      }
-    },
-    {
       "key": "py_橘子_APP",
       "name": "雷蒙影视|🧿橘子(QIJI)",
       "type": 3,
@@ -1543,21 +1513,6 @@
       }
     },
     {
-      "key": "py_缘梦_APP",
-      "name": "雷蒙影视|🧿缘梦(GET)",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "http://165.99.42.137:5432",
-        "api": "/api.php/getappapi",
-        "datakey": "1234567890987654",
-        "dataiv": "1234567890987654"
-      }
-    },
-    {
       "key": "py_小羊_APP",
       "name": "雷蒙影视|🧿小羊(GET)",
       "type": 3,
@@ -1633,36 +1588,6 @@
       }
     },
     {
-      "key": "py_王子_APP",
-      "name": "雷蒙影视|🧿王子(GET)",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "https://app.95112475.xyz",
-        "api": "/api.php/getappapi",
-        "datakey": "5a9w6x58dsq6z3a6",
-        "dataiv": "5a9w6x58dsq6z3a6"
-      }
-    },
-    {
-      "key": "py_小猫_APP",
-      "name": "雷蒙影视|🧿小猫(GET)",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "http://xywlkj.oss-cn-beijing.aliyuncs.com/wp-content/uploads/2024/12/1.txt",
-        "api": "/api.php/getappapi",
-        "datakey": "xmyxmyxywlkjxywl",
-        "dataiv": "xmyxmyxywlkjxywl"
-      }
-    },
-    {
       "key": "py_小白_APP",
       "name": "雷蒙影视|🧿小白(GET)",
       "type": 3,
@@ -1678,21 +1603,6 @@
       }
     },
     {
-      "key": "py_魔方_APP",
-      "name": "雷蒙影视|🧿魔方(GET)",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "http://www.613mf4k12.top",
-        "api": "/api.php/getappapi",
-        "datakey": "1234567887654321",
-        "dataiv": "1234567887654321"
-      }
-    },
-    {
       "key": "py_瑞奇_APP",
       "name": "雷蒙影视|🧿瑞奇(GET)",
       "type": 3,
@@ -1705,21 +1615,6 @@
         "api": "/api.php/getappapi",
         "datakey": "yangruiqiYsapp00",
         "dataiv": "yangruiqiYsapp00"
-      }
-    },
-    {
-      "key": "py_茉莉_APP",
-      "name": "雷蒙影视|🧿茉莉(GET)",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt",
-        "api": "/api.php/getappapi",
-        "datakey": "88689667dce61725",
-        "dataiv": "88689667dce61725"
       }
     },
     {
@@ -2524,7 +2419,7 @@
         "动画片",
         "惊悚片",
         "奇幻片",
-        "国���剧",
+        "国产剧",
         "欧美剧",
         "韩剧",
         "日剧",
