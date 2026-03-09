@@ -120,13 +120,6 @@
       "ext": "7lj763gg0939790i413gjh9kk011jijiggll990k9li73l224k770ik0j10l502j2j9l798lhj778hh33g018h94k5j400kij3567j7gji97kkk4118421g03lll"
     },
     {
-      "key": "一碗",
-      "name": "🥣一碗",
-      "type": 3,
-      "api": "csp_Xdai",
-      "ext": "7lj763gg402i7942473ii481k20588jil1g6j60594j164790g1943ghg14l035643ik05ghi00gihji6345k5jhgkg440hlg8382i06l8k19hgk"
-    },
-    {
       "key": "番薯",
       "name": "💢番薯",
       "type": 3,
@@ -278,6 +271,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "csp_xlys",
+      "name": "🧲修罗",
+      "type": 3,
+      "api": "csp_Bdys01",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "7lj763gg402i7942476492jlg94li29kk6gi8448ij"
     },
     {
       "key": "csp_New6v",
