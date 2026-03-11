@@ -116094,7 +116094,6 @@ server=/zimufy.com/223.5.5.5
 server=/zimuism.com/223.5.5.5
 server=/zimujiang.com/223.5.5.5
 server=/zimuzu.com/223.5.5.5
-server=/zimuzu.io/223.5.5.5
 server=/zindall.com/223.5.5.5
 server=/zine.la/223.5.5.5
 server=/zinffer.com/223.5.5.5

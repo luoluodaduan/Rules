@@ -1285,7 +1285,20 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "host": "https://173220859-1333208043.cos.ap-shanghai.myqcloud.com/1.json",
+        "host": "http://103.117.137.33:2443",
+        "ver": "2"
+      }
+    },
+    {
+      "key": "py_云播_APP",
+      "name": "雷蒙影视|🧿云播(FOX)",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/appfox.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "host": "http://app.hktvyb.cc",
         "ver": "2"
       }
     },
@@ -1300,6 +1313,36 @@
       "ext": {
         "host": "https://yzysap.oss-cn-hangzhou.aliyuncs.com/yzysapp.json",
         "ver": "2"
+      }
+    },
+    {
+      "key": "py_金牌_APP",
+      "name": "雷蒙影视|🧿金牌(QIJI)",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/qijiapp.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "host": "https://qj3.ggtvb.cc",
+        "api": "/api.php/qijiappapi",
+        "datakey": "eecbio48dsq13kkk",
+        "dataiv": "eecbio48dsq13kkk"
+      }
+    },
+    {
+      "key": "py_小羊_APP",
+      "name": "雷蒙影视|🧿小羊(QIJI)",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/qijiapp.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "host": "https://qjappcms410.xy4k.com",
+        "api": "/api.php/qijiappapi",
+        "datakey": "mC6kG4mI1uM8tS4o",
+        "dataiv": "mC6kG4mI1uM8tS4o"
       }
     },
     {
@@ -1453,6 +1496,21 @@
       }
     },
     {
+      "key": "py_秒看_APP",
+      "name": "雷蒙影视|🧿秒看(GET)",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "host": "https://mk1080.top/get.txt",
+        "api": "/api.php/getappapi",
+        "datakey": "c60d88b2eep53za8",
+        "dataiv": "c60d88b2eep53za8"
+      }
+    },
+    {
       "key": "py_茉莉_APP",
       "name": "雷蒙影视|🧿茉莉(GET)",
       "type": 3,
@@ -1525,21 +1583,6 @@
         "api": "/api.php/getappapi",
         "datakey": "dyyztvapiappyyds",
         "dataiv": "dyyztvapiappyyds"
-      }
-    },
-    {
-      "key": "py_小羊_APP",
-      "name": "雷蒙影视|🧿小羊(GET)",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "https://xy4k.com/url.txt",
-        "api": "/api.php/getappapi",
-        "datakey": "7SDWjknU34zqFbVr",
-        "dataiv": "7SDWjknU34zqFbVr"
       }
     },
     {
