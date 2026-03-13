@@ -16,8 +16,6 @@ http://bvarf.tracker.sh:2086/announce
 
 http://ipv4.rer.lol:2710/announce
 
-http://ipv4announce.sktorrent.eu:6969/announce
-
 http://ipv6.rer.lol:6969/announce
 
 http://lucke.fenesisu.moe:6969/announce
@@ -82,6 +80,8 @@ http://www.all4nothin.net:80/announce.php
 
 http://www.wareztorrent.com:80/announce
 
+https://004430.xyz:443/announce
+
 https://1337.abcvg.info:443/announce
 
 https://cny.fan:443/announce
@@ -93,6 +93,8 @@ https://t.213891.xyz:443/announce
 https://torrent.tracker.durukanbal.com:443/announce
 
 https://tr.abiir.top:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.nyacat.pw:443/announce
 
@@ -162,8 +164,6 @@ udp://martin-gebhardt.eu:25/announce
 
 udp://node01.madtia.cc:42069/announce
 
-udp://node01.torrentonline.cc:42069/announce
-
 udp://node01.trackerstatus.live:42069/announce
 
 udp://node02.madtia.cc:42069/announce
@@ -198,7 +198,11 @@ udp://torrentvpn.club:6990/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
 
+udp://tracker-de-2.cutie.dating:1337/announce
+
 udp://tracker-udp.gbitt.info:80/announce
+
+udp://tracker.004430.xyz:1337/announce
 
 udp://tracker.1h.is:1337/announce
 
@@ -227,8 +231,6 @@ udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
-
-udp://tracker.iperson.xyz:6969/announce
 
 udp://tracker.ixuexi.click:6969/announce
 
@@ -263,6 +265,8 @@ udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 
 udp://tracker.wepzone.net:6969/announce
+
+udp://tracker.yume-hatsuyuki.moe:6969/announce
 
 udp://tracker1.myporn.club:9337/announce
 
