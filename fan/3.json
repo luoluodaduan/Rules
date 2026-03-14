@@ -75,6 +75,13 @@
       "ext": "7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312hk935886ig2l05g9"
     },
     {
+      "key": "仓鼠",
+      "name": "🐹仓鼠",
+      "type": 3,
+      "api": "csp_Xdai",
+      "ext": "7lj763gg402i79425239jk86k05j9i82l1g5j913il9g682g1i5514k3k5147l590igi0ghkg10482gg680k88j2kik01hi3g7774k09kj8h9jkj08j62ki63kh75113ggg5"
+    },
+    {
       "key": "橘子",
       "name": "🍊橘子",
       "type": 3,
@@ -95,7 +102,7 @@
       "type": 3,
       "api": "csp_Qiji",
       "playerType": 2,
-      "ext": "7lj763gg402i794245238hjjg45j8295khg7jl51j9i73332410i18ljh4155k07119l53h0j6539l8j2208h380k5h21hk8lj2l7551l0h7i6lj28ih29kh7hh14150g9l396h6g3243h218h173857igkk546g62k2lk3g33h39jh5ji9l7ig56g470g73329575"
+      "ext": "7lj763gg402i794245238hjjg45j8295k5hji64882862l321l4215hkkg1l5g001i9k5ihkj6539l8j2208h380k5h21hk8lj2l6i57kgh8i2lj28ih29kh7hh14615kkg5i4h2g57l7h7iij17345hihkk546j27g5g86837h5i6l581j97ig966460g73329575"
     },
     {
       "key": "王子",
@@ -239,7 +246,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "7lj763gg402i7942463j9j9jgg449698khhh845ki38473"
+      "ext": "7lj763gg402i7942463j9j9jgg449698lggi845ki38473"
     },
     {
       "key": "低端",

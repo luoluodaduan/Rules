@@ -6717,6 +6717,7 @@
 .xcity.jp
 .xcritic.com
 .xda-developers.com
+.xdaforums.com
 .xdebug.org
 .xerotica.com
 .xerox
