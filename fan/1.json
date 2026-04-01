@@ -1241,10 +1241,25 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "host": "https://lanyinghz.oss-cn-hangzhou.aliyuncs.com/lanyingxmy.txt",
+        "host": "https://xinlanyinghb.oss-cn-wuhan-lr.aliyuncs.com/xly.txt",
         "api": "/api.php/qijiappapi",
         "datakey": "ca94b06ca359d80e",
         "dataiv": "ca94b06ca359d80e"
+      }
+    },
+    {
+      "key": "py_顾我_APP",
+      "name": "雷蒙影视|🧿顾我(QIJI)",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/qijiapp.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "host": "http://117.50.204.35:8090",
+        "api": "/api.php/qijiappapi",
+        "datakey": "ca94b06ca3c7d80e",
+        "dataiv": "ca94b06ca3c7d80e"
       }
     },
     {
@@ -1256,10 +1271,10 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "host": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q20.txt",
+        "host": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q21.txt",
         "api": "/api.php/qijiappapi",
-        "datakey": "ada211sdfsff3261",
-        "dataiv": "ada211sdfsff3261"
+        "datakey": "okkfKgnc9JIBISh1",
+        "dataiv": "okkfKgnc9JIBISh1"
       }
     },
     {
@@ -2035,7 +2050,7 @@
     },
     {
       "key": "vod_量子",
-      "name": "雷���影视|🚀量子",
+      "name": "雷蒙影视|🚀量子",
       "type": 1,
       "api": "http://cj.lziapi.com/api.php/provide/vod/",
       "searchable": 1,
