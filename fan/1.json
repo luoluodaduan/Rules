@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem0329.jar;md5;4FC77B47584B8B65F95C9DC82F8F49E2",
+  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem0403.jar;md5;790A3809099F0D85564D48BFE78B2AB9",
   "lives": [
     {
       "name": "咪咕",
@@ -258,7 +258,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "rfOX1voDIQhH8epBwpmIsuSzojrZxdTnzy4lcpy3AAlFMxpf9CY77fshLs0O9fE94T6hWZAWnkpluC1p"
+      "ext": "rfOb1uAWbkRHp7hdxprG9un3+SLPmtXpyixkZJ2xCEhcZkZK7jUu+bF/Yq4Ul9lvoCLVO/BTxWNsx08tSfQCTO6d5L/CUw=="
     },
     {
       "key": "csp_AppSxGuard_视界",
@@ -608,7 +608,7 @@
       "type": 3,
       "api": "csp_Qiji",
       "playerType": 2,
-      "ext": "7lj763gg402i794245238hjjg45j8295k5hji64882862l321l4215hkkg1l5g001i9k5ihkj6539l8j2208h380k5h21hk8lj2l7546kjh0igh2329j29kl67l85g13lkg1i5l3li2k312g97113g038kll1j7121h5gi6976ki97hlj7837gg73k03403l33"
+      "ext": "7lj763gg402i79425l239ljhg55099jiljhhj910il877129534l1ik9l1184k401g9g54gk8j5i9097751kh28kh9l211l2lk696110l0ggjlk0339j25j768855553lkl8l1g5i05018428357244jh6l0607k61h5l55j20j0k996hl977gl13g"
     },
     {
       "key": "csp_Xdai_星河_QJ",
@@ -632,7 +632,7 @@
       "type": 3,
       "api": "csp_Qiji",
       "playerType": 2,
-      "ext": "7lj763gg402i7942483l849kk10ljji4g6li98059ijj72225j5255l2k95g5i1h1g985ggj905j86ig3604gi80lgl30jk3hk637h53ghh085k83k9121g23jlk1915gig09glhl775217i9g443h49i3g51h3227k7gj367kk7iigl818k2lg6744i433j"
+      "ext": "7lj763gg402i7942483l849kk10ljji4g6li98059ijj72225j5255l2k95g5i1h1g985ggj905j86ig3604gi80lgl30jk3hk637h53ghh685k83k9121g23jlk1915gig09glhl775217i9g443h49i3g51h3227k7gj367kk7iigl818k2lg6744i433j"
     },
     {
       "key": "csp_Nmvod_QJ",
@@ -2043,7 +2043,7 @@
       "api": "https://catbox.n13.club/t9/bookan.php"
     },
     {
-      "key": "T4_企鹅体育",
+      "key": "T4_企鹅体��",
       "name": "雷蒙影视|4️⃣企鹅体育(T4)",
       "type": 4,
       "api": "https://catbox.n13.club/t9/qietiyu.php"

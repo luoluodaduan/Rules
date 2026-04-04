@@ -144,14 +144,6 @@
       "ext": "7lj763gg0939790i413gjh9kk011jijiggll990k9li73l224k770ik0j10l502j2j9l798lhj778hh33g018h94k5j400kij3567j7gji97kkk4118421g03lll"
     },
     {
-      "key": "番薯",
-      "name": "💢番薯",
-      "type": 3,
-      "api": "csp_Xdai",
-      "playerType": 2,
-      "ext": "7lj763gg402i79425l2l9j9jh14i9ijil0h1jk58ih8633354h0l18lil40h755g029i0ghhil4gh89i133hk9i9l1k604i9g4797k09k8k5j3j73kgj1hg725gg575ig9g790"
-    },
-    {
       "key": "厂长",
       "name": "🏭厂长",
       "type": 3,
@@ -350,6 +342,22 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://dm84.net"
+    },
+    {
+      "key": "丫丫",
+      "name": "💢丫丫动漫",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 2,
+      "ext": "7lj763gg09397919476493iglj5g999ihighi941jj82242l454g1jl9kk0758000i8l5khh8443989i350gh685likh08k4lk776j5jk8gk98gi74"
+    },
+    {
+      "key": "番薯",
+      "name": "💢番薯动漫",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 2,
+      "ext": "7lj763gg402i79425l2l9j9jh14i9ijil0h1jk58ih8633354h0l18lil40h755g029i0ghhil4gh89i133hk9i9l1k604i9g4797k09k8k5j3j73kgj1hg725gg575ig9g790"
     },
     {
       "key": "嗷呜动漫",

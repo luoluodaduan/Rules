@@ -4434,6 +4434,7 @@
 .orzistic.org
 .osaka
 .osfoora.com
+.osmand.net
 .otcbtc.com
 .otnd.org
 .otsuka
