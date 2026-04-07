@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem0403.jar;md5;790A3809099F0D85564D48BFE78B2AB9",
+  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem0406.jar;md5;DC4D6E017A2603E7867D9A650804692C",
   "lives": [
     {
       "name": "咪咕",
@@ -258,7 +258,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "rfOb1uAWbkRHp7hdxprG9un3+SLPmtXpyixkZJ2xCEhcZkZK7jUu+bF/Yq4Ul9lvoCLVO/BTxWNsx08tSfQCTO6d5L/CUw=="
+      "ext": "rfOb1uAWbkRHp7hdxprGv+T3sSDQnNf20CkhL572CklJZUYN/js2+K5iYulIwYR+oXDNMYJMzXdzsy11CuhjOZO3s+jeWEqEX/jI1qY="
     },
     {
       "key": "csp_AppSxGuard_视界",
@@ -313,7 +313,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "rfOX1voDIQhH8epBwtCFsuH1+2mam468kW1kLMyyWUMcIwZft2UtrrwhKK5UwYFu7XDeKt0a3Dsx6zNtVrRqDs+OuuDVGDWp"
+      "ext": "rfOX1voDIQhH8epBwtCFsub1+2malYq8nGlnJc27UEwSIhBVvSwnsuM5MP9Wy9pxq2yEJ8wa1nw5tzoyXL42Edzeou/SHng="
     },
     {
       "key": "csp_AueteGuard",
@@ -2043,7 +2043,7 @@
       "api": "https://catbox.n13.club/t9/bookan.php"
     },
     {
-      "key": "T4_企鹅体��",
+      "key": "T4_企鹅体育",
       "name": "雷蒙影视|4️⃣企鹅体育(T4)",
       "type": 4,
       "api": "https://catbox.n13.club/t9/qietiyu.php"
