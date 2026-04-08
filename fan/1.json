@@ -1151,7 +1151,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "host": "http://110.42.67.221:8009",
+        "host": "http://110.42.67.221:8002",
         "api": "/api.php/qijiappapi",
         "datakey": "123456789abcdefg",
         "dataiv": "123456789abcdefg"
@@ -1185,21 +1185,6 @@
         "api": "/api.php/qijiappapi",
         "datakey": "sjvlwnhk6h9znl61",
         "dataiv": "sjvlwnhk6h9znl61"
-      }
-    },
-    {
-      "key": "py_花猪_APP",
-      "name": "雷蒙影视|🧿花猪(QIJI)",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/qijiapp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "https://tiantangwulu.oss-cn-shanghai.aliyuncs.com/axiba.txt",
-        "api": "/api.php/qijiappapi",
-        "datakey": "h5w3d6g1j9s2h3f6",
-        "dataiv": "h5w3d6g1j9s2h3f6"
       }
     },
     {
@@ -1308,18 +1293,18 @@
       }
     },
     {
-      "key": "py_不错_APP",
-      "name": "雷蒙影视|🧿不错(GET)",
+      "key": "py_王子_APP",
+      "name": "雷蒙影视|🧿王子(GET)",
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "host": "https://zbc4kmcs.zbc4k.app",
+        "host": "https://app.95112475.xyz",
         "api": "/api.php/getappapi",
-        "datakey": "vE4kR7cF6jS6jH7a",
-        "dataiv": "vE4kR7cF6jS6jH7a"
+        "datakey": "5a9w6x58dsq6z3a6",
+        "dataiv": "5a9w6x58dsq6z3a6"
       }
     },
     {
@@ -1425,21 +1410,6 @@
         "api": "/api.php/getappapi",
         "datakey": "dyyztvapiappyyds",
         "dataiv": "dyyztvapiappyyds"
-      }
-    },
-    {
-      "key": "py_七壹_APP",
-      "name": "雷蒙影视|🧿七壹(GET)",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "https://qiyiys.cc",
-        "api": "/api.php/getappapi",
-        "datakey": "45452893929B40D9",
-        "dataiv": "45452893929B40D9"
       }
     },
     {
@@ -1593,21 +1563,6 @@
       }
     },
     {
-      "key": "py_元咲_APP",
-      "name": "雷蒙影视|🧿元咲(GET)",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "http://cic.aicg.fun",
-        "api": "/api.php/getappapi",
-        "datakey": "2c4h36abd96se10u",
-        "dataiv": "2c4h36abd96se10u"
-      }
-    },
-    {
       "key": "py_番薯_APP",
       "name": "雷蒙影视|🧿番薯(GET)",
       "type": 3,
@@ -1650,21 +1605,6 @@
         "api": "/api.php/getappapi",
         "datakey": "nKfZ8KX6JTNWRzTD",
         "dataiv": "nKfZ8KX6JTNWRzTD"
-      }
-    },
-    {
-      "key": "py_米饭_APP",
-      "name": "雷蒙影视|🧿米饭(GET)",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "https://get.mymifun.com",
-        "api": "/api.php/getappapi",
-        "datakey": "GETMIFUNGEIMIFUN",
-        "dataiv": "GETMIFUNGEIMIFUN"
       }
     },
     {
@@ -2114,7 +2054,7 @@
         "战争片",
         "香港剧",
         "台湾剧",
-        "日本剧",
+        "日本���",
         "欧美剧",
         "泰国剧",
         "日本动漫",

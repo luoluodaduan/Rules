@@ -1315,6 +1315,7 @@
 .cq99.us
 .cr
 .crackle.com
+.crashlytics.com
 .crazypool.org
 .crazys.cc
 .crazyshit.com
