@@ -3836,6 +3836,7 @@
 .missav.com
 .missav.ws
 .mist.vip
+.mistral.ai
 .mit
 .mit.edu
 .mitbbs.com
