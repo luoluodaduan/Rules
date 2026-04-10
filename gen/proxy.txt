@@ -349,11 +349,9 @@
 .animecrazy.net
 .animeshippuuden.com
 .aniscartujo.com
-.annas-archive.in
-.annas-archive.li
-.annas-archive.org
-.annas-archive.pm
-.annas-archive.se
+.annas-archive.gd
+.annas-archive.gl
+.annas-archive.pk
 .annatam.com
 .anobii.com
 .anonfiles.com
@@ -5709,7 +5707,6 @@
 .telecomspace.com
 .telega.one
 .telegra.ph
-.telegraph.co.uk
 .telesco.pe
 .tellapart.com
 .tellme.pw
