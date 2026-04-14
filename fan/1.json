@@ -1151,21 +1151,6 @@
       }
     },
     {
-      "key": "py_奇奇_APP",
-      "name": "雷蒙影视|🧿奇奇(QIJI)",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/qijiapp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "http://110.42.67.221:8002",
-        "api": "/api.php/qijiappapi",
-        "datakey": "123456789abcdefg",
-        "dataiv": "123456789abcdefg"
-      }
-    },
-    {
       "key": "py_老鹰_APP",
       "name": "雷蒙影视|🧿老鹰(QIJI)",
       "type": 3,
@@ -1178,21 +1163,6 @@
         "api": "/api.php/qijiappapi",
         "datakey": "zxPtEUDGVllIUhDB",
         "dataiv": "zxPtEUDGVllIUhDB"
-      }
-    },
-    {
-      "key": "py_爱盈_APP",
-      "name": "雷蒙影视|🧿爱盈(QIJI)",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/qijiapp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "https://rxysyyds.oss-cn-chengdu.aliyuncs.com/qiji.txt",
-        "api": "/api.php/qijiappapi",
-        "datakey": "sjvlwnhk6h9znl61",
-        "dataiv": "sjvlwnhk6h9znl61"
       }
     },
     {
@@ -1211,21 +1181,6 @@
       }
     },
     {
-      "key": "py_优兔_APP",
-      "name": "雷蒙影视|🧿优兔(QIJI)",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/qijiapp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "https://uututv-1319209748.cos.ap-shanghai.myqcloud.com/uutuv4.txt",
-        "api": "/api.php/qijiappapi",
-        "datakey": "UrWKPnmQWJA8AQzd",
-        "dataiv": "UrWKPnmQWJA8AQzd"
-      }
-    },
-    {
       "key": "py_蓝鹰_APP",
       "name": "雷蒙影视|🧿蓝鹰(QIJI)",
       "type": 3,
@@ -1241,48 +1196,18 @@
       }
     },
     {
-      "key": "py_顾我_APP",
-      "name": "雷蒙影视|🧿顾我(QIJI)",
+      "key": "py_映画_APP",
+      "name": "雷蒙影视|🧿映画(GET)",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/qijiapp.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "host": "http://117.50.204.35:8090",
-        "api": "/api.php/qijiappapi",
-        "datakey": "ca94b06ca3c7d80e",
-        "dataiv": "ca94b06ca3c7d80e"
-      }
-    },
-    {
-      "key": "py_爱影_APP",
-      "name": "雷蒙影视|🧿爱影(QIJI)",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/qijiapp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q21.txt",
-        "api": "/api.php/qijiappapi",
-        "datakey": "okkfKgnc9JIBISh1",
-        "dataiv": "okkfKgnc9JIBISh1"
-      }
-    },
-    {
-      "key": "py_小羊_APP",
-      "name": "雷蒙影视|🧿小羊(QIJI)",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/qijiapp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "https://qjappcms410.xy4k.com",
-        "api": "/api.php/qijiappapi",
-        "datakey": "mC6kG4mI1uM8tS4o",
-        "dataiv": "mC6kG4mI1uM8tS4o"
+        "host": "https://cms140.yhg.one/",
+        "api": "/api.php/getappapi",
+        "datakey": "bM7iC9eA3oZ1nB7z",
+        "dataiv": "bM7iC9eA3oZ1nB7z"
       }
     },
     {
@@ -1376,21 +1301,6 @@
       }
     },
     {
-      "key": "py_段友_APP",
-      "name": "雷蒙影视|🧿段友(GET)",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "https://shangjihuoke.com",
-        "api": "/api.php/getappapi",
-        "datakey": "8E2DC386FD452D05",
-        "dataiv": "8E2DC386FD452D05"
-      }
-    },
-    {
       "key": "py_灵虎_APP",
       "name": "雷蒙影视|🧿灵虎(GET)",
       "type": 3,
@@ -1478,21 +1388,6 @@
         "api": "/api.php/getappapi",
         "datakey": "uXVVRRuaPnjEfsX5",
         "dataiv": "uXVVRRuaPnjEfsX5"
-      }
-    },
-    {
-      "key": "py_瑞奇_APP",
-      "name": "雷蒙影视|🧿瑞奇(GET)",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "http://rqxk.gdata.fun",
-        "api": "/api.php/getappapi",
-        "datakey": "yangruiqiYsapp00",
-        "dataiv": "yangruiqiYsapp00"
       }
     },
     {
@@ -1707,7 +1602,7 @@
     },
     {
       "key": "py_胖虎",
-      "name": "雷蒙影视|���胖虎(PY)",
+      "name": "雷蒙影视|🧿胖虎(PY)",
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/胖虎APP.py"
     },
