@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem0410.jar;md5;4E421DA03E50EA2CA7824D8C601DEA68",
+  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem0414.jar;md5;ED112A8FB4B2CC4351B50B70568AA751",
   "lives": [
     {
       "name": "咪咕",
@@ -217,6 +217,16 @@
       "changeable": 1
     },
     {
+      "key": "csp_NmyswvGuard",
+      "name": "雷蒙影视|🍓糯米(SP)",
+      "type": 3,
+      "api": "csp_NmyswvGuard",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "key": "csp_AppTTGuard_热播",
       "name": "雷蒙影视|📺热播(SP)",
       "type": 3,
@@ -227,16 +237,6 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "uqGL1bNENExT7/hGxpSE5qU="
-    },
-    {
-      "key": "csp_NmyswvGuard",
-      "name": "雷蒙影视|🍓糯米(SP)",
-      "type": 3,
-      "api": "csp_NmyswvGuard",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
     },
     {
       "key": "csp_AppSxGuard_剧圈",
@@ -1718,7 +1718,7 @@
       "key": "py_壹帆",
       "name": "雷蒙影视|🧿壹帆(PY)",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/爱壹帆.py"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/爱���帆.py"
     },
     {
       "key": "py_泥视",
