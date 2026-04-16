@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem0414.jar;md5;ED112A8FB4B2CC4351B50B70568AA751",
+  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem0415.jar;md5;8097627A094522928374A62BF8089B1B",
   "lives": [
     {
       "name": "咪咕",
@@ -1196,6 +1196,36 @@
       }
     },
     {
+      "key": "py_金都_APP",
+      "name": "雷蒙影视|🧿金都(GET)",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "host": "https://cmm.jindou11.top",
+        "api": "/api.php/getappapi",
+        "datakey": "weyuhgiohgsytwhj",
+        "dataiv": "weyuhgiohgsytwhj"
+      }
+    },
+    {
+      "key": "py_猎豹_APP",
+      "name": "雷蒙影视|🧿猎豹(GET)",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "host": "https://444421.xyz",
+        "api": "/api.php/getappapi",
+        "datakey": "#getapp@TMD@2025",
+        "dataiv": "#getapp@TMD@2025"
+      }
+    },
+    {
       "key": "py_映画_APP",
       "name": "雷蒙影视|🧿映画(GET)",
       "type": 3,
@@ -1686,7 +1716,7 @@
     },
     {
       "key": "py_4KAV",
-      "name": "雷蒙影视|🧿4KAV(PY)",
+      "name": "雷蒙影视|���4KAV(PY)",
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/4KAV.py"
     },
@@ -1718,7 +1748,7 @@
       "key": "py_壹帆",
       "name": "雷蒙影视|🧿壹帆(PY)",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/爱���帆.py"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/爱壹帆.py"
     },
     {
       "key": "py_泥视",
