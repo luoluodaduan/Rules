@@ -8780,6 +8780,7 @@ address=/analytics.changiairport.com/
 address=/analytics.chase.com/
 address=/analytics.chattarize.de/
 address=/analytics.chegg.com/
+address=/analytics.cherry-ai.com/
 address=/analytics.chilevision.cl/
 address=/analytics.churchthemes.com/
 address=/analytics.chvnoticias.cl/

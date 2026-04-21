@@ -8750,6 +8750,7 @@
 .analytics.chase.com
 .analytics.chattarize.de
 .analytics.chegg.com
+.analytics.cherry-ai.com
 .analytics.chilevision.cl
 .analytics.churchthemes.com
 .analytics.chvnoticias.cl
