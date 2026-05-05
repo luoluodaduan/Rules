@@ -61,7 +61,7 @@ jobs:
           git checkout main
           rm -rf dist
           git add .
-          git commit -m "$(date '+%Y-%m-%d')"
+          git diff --quiet && git diff --staged --quiet || git commit -m "$(date '+%Y-%m-%d')"
 
       - name: Push Changes
         uses: ad-m/github-push-action@master
