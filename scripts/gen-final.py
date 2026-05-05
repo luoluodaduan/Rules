@@ -24,7 +24,15 @@ def gen_file(name):
     for mark in marks:
         if mark in values:
             template = template.replace("{{" + mark + "}}", values[mark])
-    with open(os.getcwd() + f"/gen/{name}.conf", "w", encoding="utf-8") as f:
+    new_lines = []
+    for line in template.splitlines():
+        if line.startswith("DOMAIN"):
+            new_lines.append(line + ",extended-matching")
+        else:
+            new_lines.append(line)
+    template = "\n".join(new_lines)
+    output_path = os.getcwd() + f"/gen/{name}.conf"
+    with open(output_path, "w", encoding="utf-8") as f:
         f.write(template)
 
 file_names = [

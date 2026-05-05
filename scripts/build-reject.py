@@ -21,7 +21,8 @@ def get_reject(url, retries=3):
             return []
 
 reject_urls = [
-    "https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-surge.txt"
+    "https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-surge2.txt",
+    "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-Surge.list"
 ]
 
 if __name__ == "__main__":
@@ -30,16 +31,14 @@ if __name__ == "__main__":
         reject.update(get_reject(url))
     with open(os.getcwd() + "/dist/reject1.txt", "w", encoding="utf-8") as f1, \
         open(os.getcwd() + "/dist/reject2.txt", "w", encoding="utf-8") as f2, \
-        open(os.getcwd() + "/dist/reject3.txt", "w", encoding="utf-8") as f3, \
-        open(os.getcwd() + "/dist/reject4.txt", "w", encoding="utf-8") as f4:
+        open(os.getcwd() + "/dist/reject3.txt", "w", encoding="utf-8") as f3:
         for line in sorted(reject):
             line = line.strip()
-            if line and line.startswith(("||", "DOMAIN-SUFFIX")):
-                domain = (line.replace("\t", "").replace(" ", "").replace("DOMAIN-SUFFIX,", "").replace("||", "").replace("^", ""))
+            if line and not line.startswith(("#", "!", "[")):
+                domain = (line.replace("\t", "").replace(" ", ""))
                 try:
                     f1.write(f".{domain}\n")
                     f2.write(f"  - '+.{domain}'\n")
                     f3.write(f"address=/{domain}/\n")
-                    f4.write(f"{domain}\n")
                 except Exception as e:
                     print(f"运行出错: {e}")

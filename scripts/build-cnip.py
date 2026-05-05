@@ -21,8 +21,8 @@ def get_cnip(url, retries=3):
             return []
 
 cnip_urls = [
-    "https://ispip.clang.cn/all_cn_cidr.txt",
-    "https://ispip.clang.cn/all_cn_ipv6.txt"
+    "https://ispip.clang.cn/all_cn_apnic.txt",
+    "https://ispip.clang.cn/all_cn_ipv6_apnic.txt"
 ]
 
 if __name__ == "__main__":
