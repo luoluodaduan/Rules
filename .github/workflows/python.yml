@@ -3,7 +3,7 @@ name: Python Generate
 on:
   workflow_dispatch:
   schedule:
-    - cron: '40 23 * * *'
+    - cron: '30 23 * * *'
 
 jobs:
   generate:
@@ -19,8 +19,8 @@ jobs:
         run: |
           sudo -E apt-get -yqq update
           sudo -E apt-get -yqq install jq
-          sudo -E apt-get -y autoremove --purge
-          sudo -E apt-get clean
+          sudo -E apt-get -yqq autoremove --purge
+          sudo -E apt-get -yqq clean
 
       - name: Install Node Tools
         run: npm install -g json5
@@ -39,7 +39,7 @@ jobs:
 
       - name: Generate
         run: |
-          mkdir -p dist
+          mkdir -p dist gen
           chmod +x scripts/*.sh
           ./scripts/gfwlist.sh
           python3 ./scripts/build-adguard.py
@@ -53,13 +53,12 @@ jobs:
           ./scripts/update.sh
           python3 ./scripts/gen-final.py
           ./scripts/tv.sh
+          rm -rf dist
 
       - name: Commit Files
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git checkout main
-          rm -rf dist
           git add .
           git diff --quiet && git diff --staged --quiet || git commit -m "$(date '+%Y-%m-%d')"
 
