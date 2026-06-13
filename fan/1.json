@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem0610.jar;md5;005E813846053008410523C74B9EB4AA",
+  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem0612.jar;md5;7866B989EEA121F81E7C577823C0B1F7",
   "lives": [
     {
       "name": "咪咕",
@@ -15,6 +15,12 @@
       "playerType": 2,
       "url": "https://live.ottiptv.cc/iptv.m3u?userid=5803665715&sign=65177c4b80fc8438071a048ac5aec7980991f960675556c5c93cdb3c5a6f7082e86f69204a098d26a1bc196b6c880d567ed4a2e65c270ce37ca71e387de6289dbf6a784a3c5e9c&auth_token=b6823db883fc12f91cf1127973951993",
       "ua": "okHttp/Mod-1.5.0.0"
+    },
+    {
+      "name": "世界杯",
+      "type": 0,
+      "url": "http://82.156.243.185:33389/fwc.m3u",
+      "playerType": 2
     },
     {
       "name": "搜集",
@@ -448,7 +454,7 @@
         "type": "rect",
         "ratio": 1
       },
-      "searchable": 1,
+      "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
     },
