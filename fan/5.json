@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/spider.jar",
+  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/spider.jar;md5;8c879fe501ce509c5b2adacf037381c9",
   "sites": [
     {
       "key": "豆瓣",
@@ -506,6 +506,13 @@
       "ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
     },
     {
+      "key": "修罗影视",
+      "name": "修罗｜影视",
+      "api": "csp_Xlys",
+      "type": 3,
+      "ext": "https://www.xlysw.ggff.net"
+    },
+    {
       "key": "瓜子影视",
       "name": "瓜子｜影视",
       "type": 3,
@@ -545,28 +552,28 @@
       "name": "小镇｜影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/XBPQ/小镇影视.json"
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/json/XZYS.json"
     },
     {
       "key": "面包影视",
       "name": "面包｜影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/XBPQ/面包影视.json"
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/json/MBYS.json"
     },
     {
       "key": "永乐影视",
       "name": "永乐｜影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/XBPQ/永乐影视.json"
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/json/YLYS.json"
     },
     {
       "key": "剧圈影视",
       "name": "剧圈｜影视",
       "type": 3,
       "api": "csp_XYQHiker",
-      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/XYQHiker/剧圈影视.json"
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/json/JQYS.json"
     },
     {
       "key": "1905",
@@ -585,13 +592,13 @@
       "style": {
         "type": "list"
       },
-      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/XBPQ/哆啦新番社.json"
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/json/DLXFS.json"
     },
     {
       "key": "Anime1",
       "name": "A1｜动漫",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/js/drpy2.min.js",
+      "api": "https://pan.vma.cc/pan/down.php/ec67b9045d393737f073d2c9365533f0.js",
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/js/Anime1.js"
     },
     {
@@ -648,34 +655,27 @@
       "name": "巴士｜动漫",
       "type": 3,
       "api": "csp_XYQHiker",
-      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/XYQHiker/巴士动漫.json"
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/json/BSDM.json"
     },
     {
       "key": "路漫漫",
       "name": "路漫漫｜动漫",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/js/drpy2.min.js",
-      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/js/路漫漫.js"
+      "api": "https://pan.vma.cc/pan/down.php/ec67b9045d393737f073d2c9365533f0.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/js/LMM.js"
     },
     {
       "key": "去看吧",
       "name": "去看吧｜动漫",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/js/drpy2.min.js",
-      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/js/去看吧.js"
+      "api": "https://pan.vma.cc/pan/down.php/ec67b9045d393737f073d2c9365533f0.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/js/QKB.js"
     },
     {
       "key": "荐片",
       "name": "荐片｜磁力",
       "api": "csp_JianPian",
       "type": 3
-    },
-    {
-      "key": "修罗",
-      "name": "修罗｜磁力",
-      "api": "csp_Xlys",
-      "type": 3,
-      "ext": "https://www.xlysw.ggff.net"
     },
     {
       "key": "七味",
@@ -724,7 +724,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/XYQHiker/电影港.json"
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/json/DYG.json"
     },
     {
       "key": "球通体育",
@@ -940,26 +940,21 @@
   "flags": [
     "youku",
     "优酷",
-    "优 酷",
     "优酷视频",
     "qq",
     "腾讯",
-    "腾 讯",
     "腾讯视频",
     "iqiyi",
     "qiyi",
     "奇艺",
     "爱奇艺",
-    "爱 奇 艺",
     "m1905",
     "xigua",
     "letv",
     "leshi",
     "乐视",
-    "乐 视",
     "sohu",
     "搜狐",
-    "搜 狐",
     "搜狐视频",
     "tudou",
     "pptv",
@@ -967,7 +962,6 @@
     "芒果",
     "imgo",
     "芒果TV",
-    "芒 果 T V",
     "bilibili",
     "哔 哩",
     "哔 哩 哔 哩"

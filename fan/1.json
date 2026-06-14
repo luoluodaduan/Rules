@@ -104,18 +104,10 @@
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/EXT/JS/荐片.js"
     },
     {
-      "key": "csp_Gz360_FM",
-      "name": "雷蒙影视|🍉瓜子(SP)",
+      "key": "py_瓜子",
+      "name": "雷蒙影视|🍉瓜子(PY)",
       "type": 3,
-      "api": "csp_Gz360",
-      "playerType": 2
-    },
-    {
-      "key": "drjs_瓜子",
-      "name": "雷蒙影视|🍉瓜子(DRPY)",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/瓜子影视.js"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/瓜子.py"
     },
     {
       "key": "csp_IkanBot",
