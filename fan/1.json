@@ -110,14 +110,25 @@
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/瓜子.py"
     },
     {
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/pg.jar",
-      "key": "csp_Guazi_pg",
-      "name": "雷蒙影视|🍉瓜子(SP)",
+      "key": "csp_Gz360_FM",
+      "name": "雷蒙影视|🌻瓜子(SP)",
       "type": 3,
-      "api": "csp_Guazi",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "api": "csp_Gz360",
+      "playerType": 2
+    },
+    {
+      "key": "drjs_瓜子影视",
+      "name": "雷蒙影视|🌱瓜子(DRPY)",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/瓜子影视.js"
+    },
+    {
+      "key": "drjs_瓜子",
+      "name": "雷蒙影视|🍈瓜子(DRPY)",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/瓜子.js"
     },
     {
       "key": "csp_IkanBot",
