@@ -164,6 +164,7 @@
 .acast.com
 .accenture
 .accim.org
+.accountboy.com
 .accountkit.com
 .aceros-de-hispania.com
 .acevpn.com
@@ -3928,6 +3929,7 @@
 .monocloud.me
 .monster.com
 .moodyz.com
+.moomoo.com
 .moon.fm
 .moonbbs.com
 .moonbingo.com
@@ -6913,6 +6915,7 @@
 .xn--rvc1e0am3e
 .xn--s9brj9c
 .xn--u2u927b.com
+.xn--vuqv2cf7wzyig79c.com
 .xn--w4r85el8fhu5dnra
 .xn--w4rs40l
 .xn--wgbh1c
