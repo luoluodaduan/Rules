@@ -15673,8 +15673,6 @@
 .bfyx.com
 .bfyx.net
 .bfzhan.com
-.bg.v4.a.dl.ws.microsoft.com
-.bg4.v4.a.dl.ws.microsoft.com
 .bg45.com
 .bg7ywl.com
 .bgbfds.com
@@ -18005,7 +18003,6 @@
 .buickcare.net
 .buidea.com
 .build-decor.com
-.build.microsoft.com
 .build8.com
 .build9s.io
 .builddecor.org
@@ -19829,7 +19826,6 @@
 .cdn.fun
 .cdn.globalsigncdn.com.cdn.cloudflare.net
 .cdn.jetbrains.com
-.cdn.marketplaceimages.windowsphone.com
 .cdn.samsung.com
 .cdn.shanghai.nyu.edu
 .cdn.show
@@ -28728,7 +28724,6 @@
 .devashen.com
 .devask.net
 .devbean.net
-.devblogs.microsoft.com
 .devclub.cc
 .devedu.net
 .develenv.com
@@ -30069,7 +30064,6 @@
 .docoi.cc
 .docpe.com
 .docs.cdnetworks.com
-.docs.microsoft.com
 .docschina.org
 .docshare.org
 .docsj.com
@@ -31253,6 +31247,7 @@
 .dxm-cdn.com
 .dxm-int.com
 .dxm-yibai.com
+.dxmbaoxian.com
 .dxmjinr.com
 .dxmjuhe.com
 .dxmlcf.com
@@ -36020,7 +36015,6 @@
 .fs-czx.com
 .fs-eliza.com
 .fs-qiyun.com
-.fs.microsoft.com
 .fs0757.com
 .fs121.com
 .fs1982.com
@@ -60703,7 +60697,6 @@
 .leapmmw.com
 .leapmotor.com
 .learn-quantum.com
-.learn.microsoft.com
 .learncodethehardway.dpdns.org
 .learncodethehardway.org
 .learndiary.com
@@ -65106,6 +65099,7 @@
 .mcpemaster.com
 .mcpfks.com
 .mcpmaid.com
+.mcpworld.com
 .mcq93.app
 .mcqy.net
 .mcsafebox.com
@@ -68105,6 +68099,7 @@
 .mysqil.com
 .mysql360.com
 .mysqlab.net
+.myssl-uri.com
 .myssl.com
 .mystarch.com
 .mysteel.com
@@ -72926,6 +72921,7 @@
 .perfect-input.com
 .perfect99.com
 .perfectdiary.com
+.perfectlingo.com
 .perfecttradinghk.com
 .perfectwatchen.com
 .perfertw.com
@@ -74364,6 +74360,7 @@
 .pw1999.com
 .pw88.com
 .pwand.com
+.pwcinema.com
 .pwdding.icu
 .pwithe.com
 .pwjptdg.xyz
@@ -77804,8 +77801,6 @@
 .reqable.com
 .reqgvheo.com
 .rergdfh.com
-.res-1.cdn.office.net
-.res.cdn.office.net
 .reseetech.com
 .resemblancey.com
 .resemi.com
@@ -91080,6 +91075,7 @@
 .trust400.com
 .trusta-lawyer.com
 .trustasia.com
+.trustasia.net
 .trustcn.com
 .trustdecision.com
 .trustedsign.com
@@ -97505,8 +97501,6 @@
 .wsclsb.net
 .wscn.net
 .wscncdn.com
-.wscont1.apps.microsoft.com
-.wscont2.apps.microsoft.com
 .wscp.shop
 .wscrm.net
 .wscso.com
@@ -98032,7 +98026,6 @@
 .www.gov.mo
 .www.gstatic.com
 .www.htc.com
-.www.microsoft.com
 .www.nike.com
 .www.pxcc.com
 .www.recaptcha-cn.net
