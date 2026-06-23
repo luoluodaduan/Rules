@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem0621.jar;md5;8C3E1FDE0B8C44E1DE6192595845085A",
+  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem0622.jar;md5;7613B65F29255FC71D1EB74089794E64",
   "lives": [
     {
       "name": "咪咕",
@@ -104,31 +104,21 @@
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/EXT/JS/荐片.js"
     },
     {
+      "key": "csp_AppgzGuard",
+      "name": "雷蒙影视|👀瓜子(SP)",
+      "type": 3,
+      "api": "csp_AppgzGuard",
+      "timeout": 15,
+      "playerType": "2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "key": "py_瓜子",
       "name": "雷蒙影视|🍉瓜子(PY)",
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/瓜子.py"
-    },
-    {
-      "key": "csp_Gz360_FM",
-      "name": "雷蒙影视|🌻瓜子(SP)",
-      "type": 3,
-      "api": "csp_Gz360",
-      "playerType": 2
-    },
-    {
-      "key": "drjs_瓜子影视",
-      "name": "雷蒙影视|🌱瓜子(DRPY)",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/瓜子影视.js"
-    },
-    {
-      "key": "drjs_瓜子",
-      "name": "雷蒙影视|🍈瓜子(DRPY)",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/瓜子.js"
     },
     {
       "key": "csp_IkanBot",
@@ -290,17 +280,6 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "rfOb1uAWbkRHp7hdxprG9un3+SPC3Nbv1SI/b5LtAUhbYkFU/DFvsLBvd/oV3cA4uGiCZNFRz3ln6nh5Q+AgDZiM5KrCAiO7S7SVzv31EG78jVB4JEMNrMPzTgWqRZdMTdR1smBWWwru"
-    },
-    {
-      "key": "csp_AppNoxGuard_米陌",
-      "name": "雷蒙影视|👀米陌(SP)",
-      "type": 3,
-      "api": "csp_AppNoxGuard",
-      "timeout": 10,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "rfOK0+FRORAJ7epFjN2F7bP2pj/S2dv+12kxb9+pQQpHMwhf/DAv+ahpb/AK395yqCLHO95E22owqzUyRqJqWIyC7r+JSyPqCPuBxumlV3vunhcnNWtev8SxRwL2VYpMG5d0/TUVDE7mCv2zjQblQ8wz+UVUWDTwR2GS7sg9EpVHt2hIHOIxP/JOfx41qZOnwrLi/T1ZMKs9ZLjhUBrKbdac8P7cwYvGOKuQESIsCAZBDXQMZ/wXycxJI3t3jLYfuPU3mD54+aDQ5IAghbm+"
     },
     {
       "key": "csp_AppSxGuard_剧圈",
@@ -2929,6 +2908,7 @@
   "hosts": [
     "img1.wsyzy.org=fan.cloudflare.182682.xyz",
     "fiizvfck.top=fan.cloudflare.182682.xyz",
+    "images.67c6c7a.com=fan.cloudflare.182682.xyz",
     "hlsztemgsplive.miguvideo.com=hlsztemgsplive.miguvideo.com.b.cdn.chinamobile.com",
     "push-rtmp-hs-spe-f5.douyincdn.com=source-fcdn-spe-push.s.bytefcdn.com",
     "cdn9.163189.xyz=gcore.jsdelivr.net",
