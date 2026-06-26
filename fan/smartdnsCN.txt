@@ -10099,6 +10099,7 @@ accio.com
 acclb.com
 acconsys.com
 accopower.com
+account-cn.alibabacloud.com
 account.htcvive.com
 accr.cc
 accsh.org
@@ -12665,6 +12666,7 @@ api-expo.com
 api-forwards.com
 api-m.com
 api-vod-qcloud.com
+api.alibabacloud.com
 api.anythinktech.com
 api.so
 apiairasia.com
@@ -23820,6 +23822,7 @@ cn-wisely.com
 cn-witmed.com
 cn-zhentai.com
 cn-zhongrui.com
+cn.alibabacloud.com
 cn.bing.com
 cn.bing.net
 cn.download.nvidia.com
@@ -85315,6 +85318,7 @@ staticsoem.com
 staticswin.com
 stationpc.com
 statsinstall.xyz
+status.alibabacloud.com
 statuslarkoffice.com
 stay-bullish.com
 staybrowser.com
