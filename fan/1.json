@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem0625.jar;md5;1AFDFCC5B0ADE57F39D09D9DCF409851",
+  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem0626.jar;md5;12AA67703873B6A25DD2CC755B523534",
   "lives": [
     {
       "name": "咪咕",
@@ -57,10 +57,10 @@
   ],
   "sites": [
     {
-      "key": "csp_Douban",
+      "key": "csp_Douban_LEM",
       "name": "雷蒙影视|📡我的豆瓣(SP)",
       "type": 3,
-      "api": "csp_Douban",
+      "api": "csp_DoubanLEM",
       "searchable": 0,
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/douban.json"
     },
@@ -91,7 +91,7 @@
     {
       "key": "csp_Jianpian_FM",
       "name": "雷蒙影视|🏆荐片(SP)",
-      "api": "csp_Jianpian",
+      "api": "csp_JianpianFM",
       "type": 3,
       "playerType": "2",
       "ext": "https://api.ztcgi.com"
@@ -429,10 +429,10 @@
       "searchable": 1
     },
     {
-      "key": "csp_SP360",
+      "key": "csp_SP360_LEM",
       "name": "雷蒙影视|3️⃣360(SP)",
       "type": 3,
-      "api": "csp_SP360",
+      "api": "csp_SP360LEM",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1217,7 +1217,7 @@
       "key": "csp_Jpys_FM",
       "name": "雷蒙影视|🥇️金牌(SP)",
       "type": 3,
-      "api": "csp_Jpys"
+      "api": "csp_JpysFM"
     },
     {
       "key": "csp_Wwys_FM",
@@ -1239,7 +1239,7 @@
       "name": "雷蒙影视|🏭厂长(SP)",
       "type": 3,
       "playerType": "2",
-      "api": "csp_Czsapp",
+      "api": "csp_CzsappFM",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1271,7 +1271,7 @@
       "key": "csp_Kugou_FM",
       "name": "雷蒙影视|🐾酷狗(SP)",
       "type": 3,
-      "api": "csp_Kugou",
+      "api": "csp_KugouFM",
       "playerType": 2,
       "ext": {
         "classes": [
@@ -1297,117 +1297,6 @@
       "timeout": 12,
       "order_num": 0,
       "changeable": 0
-    },
-    {
-      "key": "csp_CandyMuj_freeok",
-      "name": "雷蒙影视|🆗FreeOK(SP)",
-      "type": 3,
-      "api": "csp_CandyMuj_freeok",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/freeok.json"
-    },
-    {
-      "key": "csp_CandyMuj_hjtv",
-      "name": "雷蒙影视|🍺韩剧TV(SP)",
-      "type": 3,
-      "api": "csp_CandyMuj_hjtv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_CandyMuj_netflixgc",
-      "name": "雷蒙影视|💖奈飞工厂(SP)",
-      "type": 3,
-      "api": "csp_CandyMuj_netflixgc",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/netflixgc.json"
-    },
-    {
-      "key": "csp_CandyMuj_dyls",
-      "name": "雷蒙影视|🚅极速影视(SP)",
-      "type": 3,
-      "api": "csp_CandyMuj_dyls",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/dyls.json"
-    },
-    {
-      "key": "csp_CandyMuj_haokongbu",
-      "name": "雷蒙影视|🧛‍♂️好恐怖(SP)",
-      "type": 3,
-      "api": "csp_CandyMuj_haokongbu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_CandyMuj_taoju",
-      "name": "雷蒙影视|🌊淘剧影院(SP)",
-      "type": 3,
-      "api": "csp_CandyMuj_taoju",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_CandyMuj_lm5",
-      "name": "雷蒙影视|🌃星辰影院(SP)",
-      "type": 3,
-      "api": "csp_CandyMuj_lm5",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_CandyMuj_cokemv",
-      "name": "雷蒙影视|🥤Cokemv(SP)",
-      "type": 3,
-      "api": "csp_CandyMuj_cokemv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_CandyMuj_qiqiyy",
-      "name": "雷蒙影视|👩琪琪影院(SP)",
-      "type": 3,
-      "api": "csp_CandyMuj_qiqiyy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_CandyMuj_nkvod",
-      "name": "雷蒙影视|🔱耐看点播(SP)",
-      "type": 3,
-      "api": "csp_CandyMuj_nkvod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_CandyMuj_yzzy",
-      "name": "雷蒙影视|💯优质资源(SP)",
-      "type": 3,
-      "api": "csp_CandyMuj_yzzy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_CandyMuj_yinfans",
-      "name": "雷蒙影视|🧲音范丝(SP)",
-      "type": 3,
-      "api": "csp_CandyMuj_yinfans",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "drjs_优酷[官]",
