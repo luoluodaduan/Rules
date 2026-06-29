@@ -59058,7 +59058,6 @@ server=/kscdns.com/223.5.5.5
 server=/kschuangku.com/223.5.5.5
 server=/kscloudapi.com/223.5.5.5
 server=/ksco.cc/223.5.5.5
-server=/kscord.com/223.5.5.5
 server=/ksdedu.com/223.5.5.5
 server=/ksdhgy.com/223.5.5.5
 server=/ksecit.com/223.5.5.5
