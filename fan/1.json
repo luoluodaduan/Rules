@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem0628.jar;md5;5C3EA1AC738790257070CF1C6A1E0FAD",
+  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem0701.jar;md5;6805954C4511DCB244DCA3CF9FB1EB27",
   "lives": [
     {
       "name": "咪咕",
@@ -206,17 +206,6 @@
       "changeable": 1
     },
     {
-      "key": "csp_JPJGuard",
-      "name": "雷蒙影视|🥝荐片(SP)",
-      "type": 3,
-      "api": "csp_JPJGuard",
-      "timeout": 10,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
       "key": "csp_NmyswvGuard",
       "name": "雷蒙影视|🍓糯米(SP)",
       "type": 3,
@@ -291,6 +280,17 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "rfOX1voDIQhH8epBwpmIsuSluiuZl4+/lm1iJsy3HwNWMxpf9CY77fshI+kByoxy7DyPatUZ1jk0ty1p"
+    },
+    {
+      "key": "csp_JPJGuard",
+      "name": "雷蒙影视|🥝荐片(SP)",
+      "type": 3,
+      "api": "csp_JPJGuard",
+      "timeout": 10,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
     },
     {
       "key": "csp_AueteGuard",
