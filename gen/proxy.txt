@@ -705,6 +705,7 @@
 .binance.vision
 .binancezh.cc
 .binancezh.com
+.bing
 .bing.com
 .bingo
 .binsearch.info
