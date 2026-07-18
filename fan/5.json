@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/spider.jar;md5;20b61ea1e8772fd2f8e013c5c2fab86f",
+  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/spider.jar;md5;88060bd476fba1aa555dd8a52ebc4add",
   "danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
   "sites": [
     {

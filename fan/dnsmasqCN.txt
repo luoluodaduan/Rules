@@ -67552,6 +67552,7 @@ server=/mychuguan.com/223.5.5.5
 server=/mychunyan.net/223.5.5.5
 server=/myckjr.com/223.5.5.5
 server=/mycleanmymac.com/223.5.5.5
+server=/mycloudnas.com/223.5.5.5
 server=/mycloudstudy.com/223.5.5.5
 server=/myclub2.com/223.5.5.5
 server=/mycnc.org/223.5.5.5
