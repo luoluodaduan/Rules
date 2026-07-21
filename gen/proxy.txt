@@ -1213,6 +1213,7 @@
 .cl
 .clarionproject.org
 .clashverge.dev
+.clashyun.com
 .classicalguitarblog.net
 .claude.ai
 .claude.com
@@ -5701,6 +5702,7 @@
 .synergyse.com
 .syosetu.com
 .sysresccd.org
+.sysub.com
 .sytes.net
 .syx86.com
 .sz
