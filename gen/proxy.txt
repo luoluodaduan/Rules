@@ -7171,6 +7171,7 @@
 .zengjinyan.org
 .zenmate.com
 .zenmate.com.ru
+.zenmux.ai
 .zenomedia.com
 .zerohedge.com
 .zeronet.io

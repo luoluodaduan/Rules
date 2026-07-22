@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem0720.jar;md5;849FA96CC3A4DFD29E60112F9BB7A72F",
+  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem07212.jar;md5;A58833A90124C3F641A6FCD2F4D69A97",
   "lives": [
     {
       "name": "咪咕",
@@ -128,10 +128,10 @@
       "changeable": 1
     },
     {
-      "key": "py_瓜子",
-      "name": "雷蒙影视|🍉瓜子(PY)",
+      "key": "py_瓜子影视",
+      "name": "雷蒙影视|🌱瓜子(PY)",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/瓜子.py"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/瓜子影视.py"
     },
     {
       "key": "csp_IkanBot",
@@ -832,6 +832,280 @@
       "genre": "music"
     },
     {
+      "key": "csp_AppRJ",
+      "name": "雷蒙影视|🚀秒播(SP)",
+      "type": 3,
+      "quickSearch": 1,
+      "searchable": 1,
+      "api": "csp_AppRJ",
+      "timeout": 12,
+      "ext": "http://v.rbotv.cn"
+    },
+    {
+      "key": "csp_Wwys",
+      "name": "雷蒙影视|🌾农民(SP)",
+      "type": 3,
+      "api": "csp_Wwys",
+      "timeout": 12,
+      "ext": "https://vip.wwgz.cn:5200"
+    },
+    {
+      "key": "csp_App3Q",
+      "name": "雷蒙影视|🍅大鹅(SP)",
+      "type": 3,
+      "timeout": 15,
+      "api": "csp_App3Q",
+      "ext": "https://asd123sx23xdacsx.top"
+    },
+    {
+      "key": "csp_PianKu8",
+      "name": "雷蒙影视|🍬山楂(SP)",
+      "type": 3,
+      "api": "csp_PianKu8"
+    },
+    {
+      "key": "csp_AppGet_爱影",
+      "name": "雷蒙影视|💥爱影(SP)",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_AppGet",
+      "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q23.txt|nzEqOgYk3QzHuEP8|V122|okhttp/3.10.0"
+    },
+    {
+      "key": "csp_AppGet_首发",
+      "name": "雷蒙影视|🏵️首发(SP)",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/603.txt|FTgP4Gq8zPiqbt7M|V122|okhttp/3.10.0"
+    },
+    {
+      "key": "csp_FengYe",
+      "name": "雷蒙影视|🍁枫叶(SP)",
+      "type": 3,
+      "api": "csp_FengYe",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://www.vip1949.com/"
+    },
+    {
+      "key": "csp_App99_双星",
+      "name": "雷蒙影视|🥪双星(SP)",
+      "type": 3,
+      "api": "csp_App99",
+      "ext": {
+        "host": "http://175.178.65.250:19987/app/bn",
+        "LoginPath": "/app/log",
+        "appkey": "f66f65db127e48449f073c2c6eb0f993",
+        "versionName": "6.4.5",
+        "name": "双子星动漫",
+        "package": "com.yingfu.mobile.android.pgsp",
+        "buildNumber": "2003",
+        "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
+      }
+    },
+    {
+      "key": "csp_AppGet_咕咕",
+      "name": "雷蒙影视|🥖咕咕(SP)",
+      "type": 3,
+      "searchable": 1,
+      "api": "csp_AppGet",
+      "ext": "https://www.gugu3.com|nKfZ8KX6JTNWRzTD|V119|okhttp/3.10"
+    },
+    {
+      "key": "csp_HeMa",
+      "name": "雷蒙影视|🔥盒马(SP)",
+      "type": 3,
+      "timeout": 12,
+      "api": "csp_HeMa"
+    },
+    {
+      "key": "csp_AppXYXM",
+      "name": "雷蒙影视|🌟星丫(SP)",
+      "type": 3,
+      "searchable": 1,
+      "timeout": 12,
+      "api": "csp_AppXYXM",
+      "ext": ""
+    },
+    {
+      "key": "csp_SaoHuo",
+      "name": "雷蒙影视|🔥火火(SP)",
+      "type": 3,
+      "api": "csp_SaoHuo"
+    },
+    {
+      "key": "csp_CzsappXM",
+      "name": "雷蒙影视|🏭厂长(SP)",
+      "type": 3,
+      "api": "csp_CzsappXM",
+      "ext": "https://www.4kcz.com"
+    },
+    {
+      "key": "csp_AppV6XM_麦田",
+      "name": "雷蒙影视|🌾麦田(SP)",
+      "type": 3,
+      "api": "csp_AppV6XM",
+      "ext": "http://172.247.227.203:25321/mtys.php"
+    },
+    {
+      "key": "csp_Feiyu",
+      "name": "雷蒙影视|🥭飞娱(SP)",
+      "type": 3,
+      "api": "csp_Feiyu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_App99_橙子",
+      "name": "雷蒙影视|🍊橙子(SP)",
+      "type": 3,
+      "api": "csp_App99",
+      "ext": {
+        "host": "http://113.31.180.218:19987/app/bn",
+        "LoginPath": "/app/log",
+        "appkey": "6e8f3764a0644f3686ab5cdd57bcdf48",
+        "versionName": "4.3.1",
+        "name": "小橙子",
+        "package": "com.xchengzix.app",
+        "buildNumber": "2001",
+        "buildSignature": "99DA983CF878CEC016616175464A91A94775E20A489F07F76FCDEA1A0F2B6B45"
+      }
+    },
+    {
+      "key": "csp_App99_剧圈",
+      "name": "雷蒙影视|🫎剧圈(SP)",
+      "type": 3,
+      "api": "csp_App99",
+      "ext": {
+        "host": "http://124.221.3.182:19987/app/bn",
+        "appkey": "d1f0c269eab74d93821fffc9befdbbba",
+        "versionName": "1.2.0",
+        "name": "剧圈圈",
+        "package": "com.qingtangxiaozhuan.xyz",
+        "buildNumber": "2002",
+        "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
+      }
+    },
+    {
+      "key": "csp_AppDrama_天堂",
+      "name": "雷蒙影视|👀天堂(SP)",
+      "type": 3,
+      "api": "csp_AppDrama",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "appName": "电影天堂",
+        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
+        "dataKey": "D2KREWRIBVNAUJJYEDL4VFHOY2Q0PQ==",
+        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+        "commonKey": "ed5fdsgucxumegqa",
+        "pkg": "com.dytiantang.one",
+        "host": "",
+        "site": "https://dyttandroid04-1372779881.cos.ap-shanghai.myqcloud.com/app_dyttandroid.txt",
+        "version": "3.0.0.7",
+        "decrypt": "0"
+      }
+    },
+    {
+      "key": "csp_AppDrama_橘汁",
+      "name": "雷蒙影视|👀橘汁(SP)",
+      "type": 3,
+      "api": "csp_AppDrama",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "appName": "橘汁",
+        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
+        "dataKey": "DGVQRUX5R1LWWDLHTGJSUKG1DJRVPQ==",
+        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+        "commonKey": "ed5fdsgucxumegqa",
+        "pkg": "com.lxf.snzlcgtzxyx",
+        "host": "",
+        "site": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
+        "version": "3.0.2.1",
+        "decrypt": "1"
+      }
+    },
+    {
+      "key": "csp_JianpianXM",
+      "name": "雷蒙影视|🧲荐片(SP)",
+      "quickSearch": 0,
+      "changeable": "0",
+      "searchable": 1,
+      "timeout": 15,
+      "type": 3,
+      "api": "csp_JianpianXM",
+      "style": {
+        "type": "rect",
+        "ratio": 1.333
+      },
+      "ext": "https://api.ztcgi.com"
+    },
+    {
+      "key": "csp_APPTe",
+      "name": "雷蒙影视|🍉天鹅(SP)",
+      "type": 3,
+      "timeout": 12,
+      "searchable": 1,
+      "quickSearch": 0,
+      "api": "csp_AppTe"
+    },
+    {
+      "key": "csp_JpysXM",
+      "name": "雷蒙影视|🥇金牌(SP)",
+      "type": 3,
+      "timeout": 12,
+      "searchable": 1,
+      "quickSearch": 0,
+      "api": "csp_JpysXM",
+      "ext": "https://y2s52n7.com"
+    },
+    {
+      "key": "csp_TingBook",
+      "name": "雷蒙影视|📻六月(SP)",
+      "type": 3,
+      "api": "csp_TingBook",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "ext": "https://app.365ting.com",
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "csp_KuKuMusic",
+      "name": "雷蒙影视|🎵酷酷(SP)",
+      "type": 3,
+      "api": "csp_KuKuMusic",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "oval",
+        "ratio": 1
+      }
+    },
+    {
+      "key": "csp_YXZB",
+      "name": "雷蒙影视|📡游戏(SP)",
+      "type": 3,
+      "api": "csp_YXZB",
+      "searchable": 0,
+      "quickSearch": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 3.8
+      }
+    },
+    {
       "key": "csp_TTian_天天_QJ",
       "name": "雷蒙影视|⛅天天(SP)",
       "type": 3,
@@ -1069,154 +1343,6 @@
       "playerType": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "csp_AppRJ_潮流_FM",
-      "name": "雷蒙影视|🏜潮流(SP)",
-      "type": 3,
-      "api": "csp_AppRJ",
-      "ext": "http://v.rbotv.cn"
-    },
-    {
-      "key": "csp_AppGet_肥猫_FM",
-      "name": "雷蒙影视|🐼肥猫(SP)",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "https://cms140.yhg.one|bM7iC9eA3oZ1nB7z"
-    },
-    {
-      "key": "csp_AppGet_干饭_FM",
-      "name": "雷蒙影视|🍚干饭(SP)",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "https://mk1080.top/get.txt|c60d88b2eep53za8"
-    },
-    {
-      "key": "csp_AppQi_光盘_FM",
-      "name": "雷蒙影视|📀光盘(SP)",
-      "type": 3,
-      "api": "csp_AppQi",
-      "ext": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/600.txt|FTgP4Gq8zPiqbt7M"
-    },
-    {
-      "key": "csp_AppQi_行动_FM",
-      "name": "雷蒙影视|😌行动(SP)",
-      "type": 3,
-      "api": "csp_AppQi",
-      "ext": "https://qj4.catbb.xyz|eecbio48dsq13kkk"
-    },
-    {
-      "key": "csp_AppGet_再来_FM",
-      "name": "雷蒙影视|✌️再来(SP)",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "https://vv.229d.cn|8888888888888888"
-    },
-    {
-      "key": "csp_AppGet_一碗_FM",
-      "name": "雷蒙影视|🥣一碗(SP)",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "https://app.95112475.xyz|5a9w6x58dsq6z3a6"
-    },
-    {
-      "key": "csp_AppGet_蔬菜_FM",
-      "name": "雷蒙影视|🫛蔬菜(SP)",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "https://allinadmin.oss-cn-hangzhou.aliyuncs.com/bk/9.txt|88689667dce61725"
-    },
-    {
-      "key": "csp_AppGet_永永_FM",
-      "name": "雷蒙影视|♾️永永(SP)",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "https://444421.xyz|#getapp@TMD@2025|120"
-    },
-    {
-      "key": "csp_Jpys_FM",
-      "name": "雷蒙影视|🥇️金牌(SP)",
-      "type": 3,
-      "api": "csp_JpysFM"
-    },
-    {
-      "key": "csp_Wwys_FM",
-      "name": "雷蒙影视|🌾️农民(SP)",
-      "type": 3,
-      "api": "csp_Wwys",
-      "ext": "https://vip.wwgz.cn:5200"
-    },
-    {
-      "key": "csp_SaoHuo_FM",
-      "name": "雷蒙影视|🔥骚火(SP)",
-      "type": 3,
-      "api": "csp_SaoHuo",
-      "playerType": 2,
-      "ext": "https://shdy5.us"
-    },
-    {
-      "key": "csp_Czsapp_FM",
-      "name": "雷蒙影视|🏭厂长(SP)",
-      "type": 3,
-      "playerType": "2",
-      "api": "csp_CzsappFM",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.czzy89.com"
-    },
-    {
-      "key": "csp_Dm84_FM",
-      "name": "雷蒙影视|🤣巴士(SP)",
-      "type": 3,
-      "playerType": "2",
-      "api": "csp_Dm84",
-      "ext": "https://dm84.net"
-    },
-    {
-      "key": "csp_AppGet_方舟_FM",
-      "name": "雷蒙影视|🐷方舟(SP)",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "https://www.cyfz.top|e72cdfd629e8895d"
-    },
-    {
-      "key": "csp_AppGet_番薯_FM",
-      "name": "雷蒙影视|🍠番薯(SP)",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "https://new.app.bytegooty.com|N4yj7l7xKxHF4*gz"
-    },
-    {
-      "key": "csp_Kugou_FM",
-      "name": "雷蒙影视|🐾酷狗(SP)",
-      "type": 3,
-      "api": "csp_KugouFM",
-      "playerType": 2,
-      "ext": {
-        "classes": [
-          {
-            "type_name": "酷狗",
-            "type_id": "kugou"
-          }
-        ]
-      }
-    },
-    {
-      "key": "csp_GuaziTY_FM",
-      "name": "雷蒙影视|🏀体育(SP)",
-      "type": 3,
-      "api": "csp_GuaziTY",
-      "style": {
-        "type": "rect",
-        "ratio": 1.333
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "timeout": 12,
-      "order_num": 0,
-      "changeable": 0
     },
     {
       "key": "drjs_优酷[官]",
