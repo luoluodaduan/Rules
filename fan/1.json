@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem07212.jar;md5;A58833A90124C3F641A6FCD2F4D69A97",
+  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem0722.jar;md5;9AF2AA9A04C5C596FA3540E0509AF86B",
   "lives": [
     {
       "name": "咪咕",
@@ -840,6 +840,19 @@
       "api": "csp_AppRJ",
       "timeout": 12,
       "ext": "http://v.rbotv.cn"
+    },
+    {
+      "key": "YunZhenXiang",
+      "name": "雷蒙影视|🚀帧享(SP)",
+      "type": 3,
+      "api": "csp_YunZhenXiang",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "index_url": "https://ss.trgfd.cn/cache/index/com.baiyunvideo.app.json",
+        "key_api": "https://www.tangsan.fun/zx.php"
+      }
     },
     {
       "key": "csp_Wwys",
