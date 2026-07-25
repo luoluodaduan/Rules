@@ -1185,6 +1185,7 @@
 .cienen.com
 .cipfg.org
 .cipriani
+.circle19.org
 .circlethebayfortibet.org
 .cirosantilli.com
 .cisco
@@ -3353,6 +3354,7 @@
 .kanzhongguo.com
 .kaotic.com
 .karayou.com
+.kards.com
 .karkhung.com
 .karmapa-teachings.org
 .karmapa.org
