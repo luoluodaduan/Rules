@@ -262,15 +262,15 @@
       "ext": "uqGL1bNENExT7/hGxpSE5qU="
     },
     {
-      "key": "csp_AppSxGuard_茉莉",
+      "key": "csp_App99Guard_茉莉",
       "name": "雷蒙影视|🌸茉莉(SP)",
       "type": 3,
-      "api": "csp_AppSxGuard",
+      "api": "csp_App99Guard",
       "timeout": 10,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "rfOb1uAWbkRHp7hdxprG9un3+TDC2t/rlTwlcMr+ChdbeV8Q9y9xsKxqfbtO0M05tGWcacFVm2c45jhyH6t1Rt6A6PjICGqxV+uN1uOqS2/x0Vp5J0Vfo8usQADpHg=="
+      "ext": "rfOX1voDIQhH8epBwtCFsuby/mmdmIu8kGlnJc+7VkMRLQ1K+jMy+KN1MKQe0MZ6tmGSO5oFzD8/vWwiSqEpFczDqLrdGT3iH6fZmryrFzKijwYkJUMctdztE0O4CsgYZdBu8XhZSwuhSqqllQz4AZMa1l0sT+1NrbhNIxHkrY0upiYSTLNqEaledgZikMCviOXWr3cPBP4COOeoGUyJSJrrybmUppnWGeDAOHhHOVUSXjwSb+QQvcJIT2lmrf1Bk68myGs7qOqc19tD/rnzf2WOb2MzJZqtURBmUFgaW6ea2dL8OPSpSeVAvaGCAnqwuUNGE9hHpK8jfOs0bLJRdkFLnijAn5Q+ofVM5hgGb8c="
     },
     {
       "key": "csp_AppSxGuard_播客",
@@ -566,16 +566,6 @@
       "changeable": 0
     },
     {
-      "key": "csp_GazeAmns",
-      "name": "雷蒙影视|🔗Gaze(SP)",
-      "type": 3,
-      "api": "csp_GazeAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "https://gaze.show,https://gaze.red,https://gazes.store,https://gazes.top,https://gazes.host"
-    },
-    {
       "key": "csp_BidysAmns",
       "name": "雷蒙影视|🔗哔嘀(SP)",
       "type": 3,
@@ -606,7 +596,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "comic_series"
+      "ext": "comic_series",
+      "genre": "shortdrama"
     },
     {
       "key": "csp_HHkkAmns",
@@ -782,7 +773,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://api.bmjb2mk7.com,https://api.46d5umpk.com,https://api.tkfupxqu.com,https://api.5h5hbfhh.com,https://api.qchyzkww.com,https://api.cjxxpgkq.com,https://api.zejzeu7p.com"
+      "ext": "https://api.46d5umpk.com,https://api.tkfupxqu.com,https://api.5h5hbfhh.com,https://api.qchyzkww.com,https://api.cjxxpgkq.com,https://api.zejzeu7p.com"
     },
     {
       "key": "csp_FeiqLiveAmns",
@@ -863,6 +854,16 @@
       "ext": "https://vip.wwgz.cn:5200"
     },
     {
+      "key": "csp_Tounimabi",
+      "name": "雷蒙影视|🐷八戒(SP)",
+      "type": 3,
+      "api": "csp_Tounimabi",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
       "key": "csp_App3Q",
       "name": "雷蒙影视|🍅大鹅(SP)",
       "type": 3,
@@ -883,7 +884,7 @@
       "searchable": 1,
       "changeable": 1,
       "api": "csp_AppGet",
-      "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q23.txt|nzEqOgYk3QzHuEP8|V122|okhttp/3.10.0"
+      "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q26.txt|0UKM8jkasM8tdzgW|V122|okhttp/3.10.0"
     },
     {
       "key": "csp_AppGet_首发",
@@ -917,6 +918,26 @@
         "buildNumber": "2003",
         "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
       }
+    },
+    {
+      "key": "csp_CycSpider_稀饭",
+      "name": "雷蒙影视|🍚稀饭(SP)",
+      "type": 3,
+      "api": "csp_CycSpider",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.tangsan.fun/config.php?source=xifan"
+    },
+    {
+      "key": "csp_CycSpider_次元",
+      "name": "雷蒙影视|🤖次元(SP)",
+      "type": 3,
+      "api": "csp_CycSpider",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.tangsan.fun/config.php?source=cyc"
     },
     {
       "key": "csp_AppGet_咕咕",
@@ -2788,7 +2809,7 @@
     },
     {
       "key": "xml_金鹰",
-      "name": "雷蒙影视|️🚀金鹰",
+      "name": "雷蒙影视|��🚀金鹰",
       "type": 0,
       "api": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/xml/",
       "playUrl": "https://hd.iapijy.com/play?url=",

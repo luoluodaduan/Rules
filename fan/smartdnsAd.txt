@@ -6863,6 +6863,7 @@ ads-video-al.xhscdn.com
 ads-video-qc.xhscdn.com
 ads-yallo-production.imgix.net
 ads.95516.com
+ads.adfunlink.com
 ads.adroi.com.cn
 ads.aol.co.uk
 ads.api.my7v.com
@@ -7338,6 +7339,7 @@ adtrack.loracle.jp
 adtrack.maisonlexia.com
 adtrack.quark.cn
 adtrack.ucweb.com
+adtracker.adfunlink.com
 adtracker.medproad.com
 adtraction.com
 adtraxx.de
