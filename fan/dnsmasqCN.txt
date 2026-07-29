@@ -100845,6 +100845,7 @@ server=/xmmtu.com/223.5.5.5
 server=/xmmuye.com/223.5.5.5
 server=/xmnjdwx.com/223.5.5.5
 server=/xmocloud01.com/223.5.5.5
+server=/xmoj.tech/223.5.5.5
 server=/xmonecode.com/223.5.5.5
 server=/xmos.tv/223.5.5.5
 server=/xmov.ai/223.5.5.5
