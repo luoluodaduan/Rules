@@ -1047,6 +1047,7 @@
 .centerforhumanreprod.com
 .centralnation.com
 .centurys.net
+.cerebras.ai
 .cern
 .certificate-transparency.org
 .cf
@@ -1172,6 +1173,7 @@
 .chromercise.com
 .chromestatus.com
 .chromium.org
+.cht.com.tw
 .chuang-yen.org
 .chubold.com
 .chubun.com
@@ -1213,7 +1215,6 @@
 .ck101.com
 .cl
 .clarionproject.org
-.clashverge.dev
 .clashyun.com
 .classicalguitarblog.net
 .claude.ai
@@ -4008,7 +4009,6 @@
 .mov
 .movements.org
 .moviefap.com
-.mozilla.ai
 .mozilla.org
 .moztw.org
 .mp
@@ -4879,7 +4879,6 @@
 .pure18.com
 .pureapk.com
 .pureconcepts.net
-.puredns.org
 .pureinsight.org
 .purepdf.com
 .purevpn.com
@@ -4959,7 +4958,6 @@
 .radio.garden
 .radioaustralia.net.au
 .radiohilight.net
-.radiojar.com
 .radioline.co
 .radiotime.com
 .radiovaticana.org
@@ -5159,7 +5157,6 @@
 .safechat.com
 .safeguarddefenders.com
 .safervpn.com
-.sagernet.org
 .saintyculture.com
 .saiq.me
 .sakura
