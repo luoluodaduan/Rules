@@ -60945,6 +60945,7 @@ server=/lifeup.vip/223.5.5.5
 server=/lifevc.com/223.5.5.5
 server=/lifevccdn.com/223.5.5.5
 server=/lifeweeker.com/223.5.5.5
+server=/lifexue.com/223.5.5.5
 server=/lifeyk.com/223.5.5.5
 server=/lifeyn.net/223.5.5.5
 server=/lifezb.com/223.5.5.5
