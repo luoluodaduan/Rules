@@ -232,6 +232,7 @@
 .ai.dev
 .ai.studio
 .aig
+.aihub.top
 .aiosearch.com
 .aiph.net
 .airasia.com
@@ -432,6 +433,7 @@
 .ar
 .arab
 .aramco
+.arcgis.com
 .archive-it.org
 .archive.fo
 .archive.is
@@ -5030,6 +5032,7 @@
 .redhat.com
 .redhotlabs.com
 .redircdn.com
+.redteago.com
 .redtube.com
 .redumbrella
 .referer.us
