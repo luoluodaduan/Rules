@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem0809.jar;md5;6016B511E72AE389BA3DCDB149363F45",
+  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem0810.jar;md5;5CC442BF38D401A434CF41649233DE80",
   "lives": [
     {
       "name": "咪咕",
@@ -888,6 +888,7 @@
       "name": "雷蒙影视|🌾农民(SP)",
       "type": 3,
       "api": "csp_Wwys",
+      "quickSearch": 1,
       "timeout": 12,
       "ext": "https://vip.wwgz.cn:5200"
     },
@@ -985,14 +986,6 @@
       "ext": "https://www.tangsan.fun/config.php?source=xifan"
     },
     {
-      "key": "csp_AppGet_方舟",
-      "name": "雷蒙影视|🌸方舟(SP)",
-      "type": 3,
-      "searchable": 1,
-      "api": "csp_AppGet",
-      "ext": "https://www.cyfz.top|e72cdfd629e8895d|V119|okhttp/3.10"
-    },
-    {
       "key": "csp_Ciyuancheng",
       "name": "雷蒙影视|🌸次元(SP)",
       "type": 3,
@@ -1003,19 +996,22 @@
       "ext": ""
     },
     {
-      "key": "csp_AppGet_咕咕",
-      "name": "雷蒙影视|🥖咕咕(SP)",
-      "type": 3,
-      "searchable": 1,
-      "api": "csp_AppGet",
-      "ext": "https://www.gugu3.com|nKfZ8KX6JTNWRzTD|V119|okhttp/3.10"
-    },
-    {
       "key": "csp_HeMa",
       "name": "雷蒙影视|🔥盒马(SP)",
       "type": 3,
       "timeout": 12,
+      "genre": "shortdrama",
       "api": "csp_HeMa"
+    },
+    {
+      "key": "csp_QM",
+      "name": "雷蒙影视|🌟七猫(SP)",
+      "type": 3,
+      "searchable": 1,
+      "timeout": 12,
+      "genre": "shortdrama",
+      "api": "csp_DuanJuAiQiMiao",
+      "ext": ""
     },
     {
       "key": "csp_AppXYXM",
@@ -1023,6 +1019,7 @@
       "type": 3,
       "searchable": 1,
       "timeout": 12,
+      "genre": "shortdrama",
       "api": "csp_AppXYXM",
       "ext": ""
     },
@@ -1032,22 +1029,6 @@
       "type": 3,
       "api": "csp_CzsappXM",
       "ext": "https://www.4kcz.com"
-    },
-    {
-      "key": "csp_App99_橙子",
-      "name": "雷蒙影视|🍊橙子(SP)",
-      "type": 3,
-      "api": "csp_App99",
-      "ext": {
-        "host": "http://113.31.180.218:19987/app/bn",
-        "LoginPath": "/app/log",
-        "appkey": "6e8f3764a0644f3686ab5cdd57bcdf48",
-        "versionName": "4.3.1",
-        "name": "小橙子",
-        "package": "com.xchengzix.app",
-        "buildNumber": "2001",
-        "buildSignature": "99DA983CF878CEC016616175464A91A94775E20A489F07F76FCDEA1A0F2B6B45"
-      }
     },
     {
       "key": "csp_App99_剧圈",
@@ -1062,6 +1043,27 @@
         "package": "com.qingtangxiaozhuan.xyz",
         "buildNumber": "2002",
         "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
+      }
+    },
+    {
+      "key": "csp_AppDrama_苹果",
+      "name": "雷蒙影视|🍎苹果(SP)",
+      "type": 3,
+      "api": "csp_AppDrama",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "appName": "小苹果",
+        "commonKey": "ed5fdsgucxumegqa",
+        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
+        "dataKey": "S0VNDTJHOFHHCNMRAW5IV2TOS2PBPQ==",
+        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+        "pkg": "com.juechufsh.android.xpg1",
+        "host": "",
+        "site": "https://xpgandroid03-1372779881.cos.ap-beijing.myqcloud.com/app_xpg_android.txt",
+        "version": "1.0.0.3",
+        "decrypt": "1"
       }
     },
     {
