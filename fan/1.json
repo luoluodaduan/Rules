@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem0810.jar;md5;5CC442BF38D401A434CF41649233DE80",
+  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem0811.jar;md5;A7B9D5ED01B484592A7B7592CD516A05",
   "lives": [
     {
       "name": "咪咕",
@@ -851,7 +851,7 @@
       "ext": "http://v.rbotv.cn"
     },
     {
-      "key": "YunZhenXiang",
+      "key": "csp_YunZhenXiang",
       "name": "雷蒙影视|🚀帧享(SP)",
       "type": 3,
       "api": "csp_YunZhenXiang",
@@ -987,13 +987,15 @@
     },
     {
       "key": "csp_Ciyuancheng",
-      "name": "雷蒙影视|🌸次元(SP)",
+      "name": "雷蒙影视|🍚次元(SP)",
       "type": 3,
       "api": "csp_Ciyuancheng",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": ""
+      "ext": {
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoxNDU3ODYzLCJ1c2VybmFtZSI6Im5pbWFzaWxlIiwidG9rZW5faWQiOiIwMUtaUVIxVEJTUFJZMUhIOEU4V04xWThaSyIsInRva2VuX3ZlcnNpb24iOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Q6ODA5MCIsImF1ZCI6WyIiXSwiZXhwIjoxNzg3MDM0NDMwLCJuYmYiOjE3ODY0Mjk2MzAsImlhdCI6MTc4NjQyOTYzMH0.epvHnPb8cO-yFfGvA1BnyGzYMDDJrB2YOvbnB9Efb4c"
+      }
     },
     {
       "key": "csp_HeMa",
@@ -1131,8 +1133,8 @@
       "name": "雷蒙影视|🎵酷酷(SP)",
       "type": 3,
       "api": "csp_KuKuMusic",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "filterable": 0,
       "changeable": 0,
       "style": {
