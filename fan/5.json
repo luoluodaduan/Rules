@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/spider.jar;md5;3fe4ef452048de01cbcdda5924a4d94a",
+  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/spider.jar;md5;a932698717d44bbf1780212ff05e3d6e",
   "danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
   "sites": [
     {
@@ -29,22 +29,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
-    },
-    {
-      "key": "三秋影视",
-      "name": "三秋•APP",
-      "type": 3,
-      "api": "csp_App3Q",
-      "ext": {
-        "host": "https://asd123sx23xdacsx.top",
-        "finger": "SF-C3B2B41F6EFFFF9869176CF68F6790E8F07506FC88632C94B4F5F0430D5498CA",
-        "updateId": "38b0ddfd-9aa3-8e42-5c92-a7fddd3d36e7",
-        "deviceBrand": "vivo",
-        "deviceModel": "V2309A",
-        "pkg": "com.sunshine.tv",
-        "sk": "SK-thanks",
-        "ver": "6"
-      }
     },
     {
       "key": "马猴影视",
@@ -524,21 +508,31 @@
       "filterable": 0
     },
     {
-      "key": "哆啦新番社",
-      "name": "哆啦•新番社",
+      "key": "番社动漫",
+      "name": "番社•动漫",
       "type": 3,
       "api": "csp_XBPQ",
+      "ext": {
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",
+        "主页url": "https://dora.xiaoxinbk.com/",
+        "数组": "class=\"card-img-bili\"&&</a>",
+        "标题": "alt=\"&&\"",
+        "图片": "data-url=\"&&\"",
+        "链接": "href=\"&&\"",
+        "线路标题": "mt-0\">&&</h3>",
+        "播放数组": "class=\"card-body button-list\"&&</div>",
+        "播放列表": "<a&&a>",
+        "播放链接": "href=\"&&\"",
+        "播放标题": ">&&</",
+        "分类url": "https://www.dora-video.cn/search/sy/?niandai={year}&cat={class}&tag={cateId}&gaojijiansuo=1&zhuangtai={by}",
+        "分类": "全部$0#动画$20#剧场版$21#MV$22#预告片$23#直播$27#同人$25#民间$26#目录$28#中篇$30",
+        "剧情": "哆啦A梦新番$1#新哆啦A梦 台湾配音$2#哆啦A梦剧场版$3#最新预告片$6#剧场版集合$7#哆啦A梦MV$4#哆啦A梦七小子集合$11#生日特别篇$19#哆啦A梦生日特别篇$12#哆啦美生日特别篇$14#大雄生日特别篇$13#静香生日特别篇$15#胖虎生日特别篇$16#小夫生日特别篇$17#24小时直播$24#哆啦A梦中篇附映$29#哆啦A梦大山版 - 哆啦a梦1979版国语旧版 - 旧版$31#哆啦A梦大山修复&补档区$32#藤子·F·不二雄【其它动画】$33",
+        "排序": "全部$0#完结$2#连载$1#待定$-1"
+      },
       "style": {
         "type": "list"
-      },
-      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/json/DLXFS.json"
-    },
-    {
-      "key": "Anime1",
-      "name": "A1•动漫",
-      "type": 3,
-      "api": "https://pan.vma.cc/pan/down.php/ec67b9045d393737f073d2c9365533f0.js",
-      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/js/Anime1.js"
+      }
     },
     {
       "key": "喵呜动漫",
@@ -553,22 +547,6 @@
       "type": 3,
       "searchable": 1,
       "api": "csp_MoDu"
-    },
-    {
-      "key": "双星99",
-      "name": "双星•动漫",
-      "type": 3,
-      "api": "csp_App99",
-      "ext": {
-        "host": "http://175.178.65.250:19987/app/bn",
-        "LoginPath": "/app/log",
-        "appkey": "f66f65db127e48449f073c2c6eb0f993",
-        "versionName": "6.4.5",
-        "name": "双子星动漫",
-        "package": "com.yingfu.mobile.android.pgsp",
-        "buildNumber": "2003",
-        "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
-      }
     },
     {
       "key": "漫国动漫",
@@ -623,8 +601,19 @@
       "key": "巴士动漫",
       "name": "巴士•动漫",
       "type": 3,
-      "api": "csp_XYQHiker",
-      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/json/BSDM.json"
+      "api": "csp_XBPQ",
+      "ext": {
+        "请求头": "User-Agent$MOBILE_UA#Accept$text/html#accept-language$zh-CN,zh;q=0.8",
+        "分类url": "https://dmbus.cc/show-{cateId}--{by}-{class}--{year}-{catePg}.html",
+        "分类": "国漫$1#日漫$2#欧美动漫$3#电影$4",
+        "数组": "class=\"item\">&&</li>",
+        "简介": "剧情：&&</p>",
+        "标题": "title=\"&&在线观看\"",
+        "副标题": "desc\">&&</span>",
+        "图片": "data-bg=\"&&\"",
+        "搜索url": "https://dmbus.cc/s----------.html?wd={wd}",
+        "倒序": "1"
+      }
     },
     {
       "key": "路漫漫",
@@ -699,7 +688,10 @@
       "key": "球通体育",
       "name": "球通•体育",
       "type": 3,
-      "api": "csp_QiutongTY",
+      "api": "csp_SportsQiutong",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
       "style": {
         "type": "list"
       }
@@ -708,7 +700,10 @@
       "key": "瓜子体育",
       "name": "瓜子•体育",
       "type": 3,
-      "api": "csp_GuaziTY",
+      "api": "csp_SportsGuazi",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
       "style": {
         "type": "list"
       }
@@ -717,7 +712,10 @@
       "key": "咖啡体育",
       "name": "咖啡•体育",
       "type": 3,
-      "api": "csp_KafeiTY",
+      "api": "csp_SportsKafei",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
       "style": {
         "type": "list"
       }
@@ -727,6 +725,9 @@
       "name": "蜻蜓•FM",
       "type": 3,
       "api": "csp_QingtingFM",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
       "style": {
         "type": "list"
       }
@@ -736,6 +737,9 @@
       "name": "贝乐虎•儿童",
       "type": 3,
       "api": "csp_BeiLeHu",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
       "style": {
         "type": "rect",
         "ratio": 1.597
