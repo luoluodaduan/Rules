@@ -1,14 +1,6 @@
 {
-  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem0814.jar;md5;AD3980296262211631247DE88CC89B4D",
+  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem0816.jar;md5;1BFA85F4BC44AAB47026B6197C5AB472",
   "lives": [
-    {
-      "name": "咪咕",
-      "type": 0,
-      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/develop202/migu_video/main/interface.txt",
-      "playerType": 2,
-      "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
     {
       "name": "IPTV",
       "type": 0,
@@ -193,7 +185,7 @@
     },
     {
       "key": "csp_HmysGuard",
-      "name": "雷蒙影视|⏮️海绵(SP)",
+      "name": "雷蒙影视|🍄海绵(SP)",
       "type": 3,
       "api": "csp_HmysGuard",
       "timeout": 10,
@@ -826,7 +818,16 @@
       "changeable": 0
     },
     {
-      "key": "TStzg",
+      "key": "csp_TSaowuAmns",
+      "name": "雷蒙影视|📖听听(SP)",
+      "type": 3,
+      "api": "csp_TSaowuAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
+      "key": "csp_TStzgAmns",
       "name": "雷蒙影视|📖书书(SP)",
       "type": 3,
       "api": "csp_TStzgAmns",
@@ -943,15 +944,6 @@
       "name": "雷蒙影视|🍬山楂(SP)",
       "type": 3,
       "api": "csp_PianKu8"
-    },
-    {
-      "key": "csp_AppGet_爱影",
-      "name": "雷蒙影视|💥爱影(SP)",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_AppGet",
-      "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q26.txt|0UKM8jkasM8tdzgW|V122|okhttp/3.10.0"
     },
     {
       "key": "csp_FengYe",

@@ -74367,6 +74367,7 @@ server=/qianvisa.com/223.5.5.5
 server=/qianwa.com/223.5.5.5
 server=/qianwanku.com/223.5.5.5
 server=/qianwen.com/223.5.5.5
+server=/qianwenai.com/223.5.5.5
 server=/qianxiangbank.com/223.5.5.5
 server=/qianxibj.net/223.5.5.5
 server=/qianximiye.com/223.5.5.5
