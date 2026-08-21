@@ -847,6 +847,7 @@
 .breaking911.com
 .breakingtweets.com
 .breakwall.net
+.briarproject.org
 .bridgestone
 .briefdream.com
 .briian.com
@@ -1076,6 +1077,7 @@
 .character.ai
 .chat.com
 .chatgpt.com
+.chatgpt.site
 .chatnook.com
 .chatpdf.com
 .chaturbate.com
