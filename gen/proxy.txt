@@ -2741,6 +2741,7 @@
 .hindustantimes.com
 .hinet.net
 .hisamitsu
+.historylines.net
 .hitachi
 .hitbtc.com
 .hitomi.la
@@ -3414,6 +3415,7 @@
 .kissjav.com
 .kiwi
 .kiwi.kz
+.kiwix.org
 .kk-whys.co.jp
 .kkbox.com
 .kknews.cc
@@ -3786,6 +3788,7 @@
 .mc
 .mcadforums.com
 .mcaf.ee
+.mceindex.com
 .mcfog.com
 .mckinsey
 .mcreasite.com
@@ -5197,6 +5200,7 @@
 .say2.info
 .sb
 .sb-cd.com
+.sb.sb
 .sbcdnvid.com
 .sbcdnvideo.com
 .sbi
