@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem0819.jar;md5;79697F081595A75CC21C1FC5B6F60487",
+  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem0823.jar;md5;BCD84A50518DF5E50F7F2DBCAAB3CF11",
   "lives": [
     {
       "name": "IPTV",
@@ -889,18 +889,22 @@
       "ext": ""
     },
     {
-      "key": "csp_WhaleApp",
-      "name": "雷蒙影视|🚀爱影(SP)",
+      "key": "csp_YiYs",
+      "name": "雷蒙影视|🚀壹影(SP)",
       "type": 3,
-      "api": "csp_WhaleApp",
+      "api": "csp_YiYs",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "proxy": "https://www.tangsan.fun/jingyu.php",
-        "site": "aiyingshi",
-        "pic": "http://222.211.75.252:23433"
-      }
+      "filterable": 1
+    },
+    {
+      "key": "csp_AppGet_四K",
+      "name": "雷蒙影视|👀四K(SP)",
+      "type": 3,
+      "api": "csp_AppGet",
+      "quickSearch": 1,
+      "timeout": 12,
+      "ext": "https://appcms.4ksj.app|O3K6rYx75Q4xtiIE|V119"
     },
     {
       "key": "csp_AppGet_4K",
@@ -1059,13 +1063,6 @@
       "genre": "shortdrama",
       "api": "csp_AppXYXM",
       "ext": ""
-    },
-    {
-      "key": "csp_CzsappXM",
-      "name": "雷蒙影视|🏭厂长(SP)",
-      "type": 3,
-      "api": "csp_CzsappXM",
-      "ext": "https://www.4kcz.com"
     },
     {
       "key": "csp_App99_剧圈",
