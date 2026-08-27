@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem0823.jar;md5;BCD84A50518DF5E50F7F2DBCAAB3CF11",
+  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem0826.jar;md5;5EEFAE43E078DF08758F2F68ADDA9B60",
   "lives": [
     {
       "name": "IPTV",
@@ -146,7 +146,7 @@
       "timeout": 30,
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
+      "changeable": 1,
       "ext": {
         "Cloud-drive": "tvfan/Cloud-drive.txt"
       }
@@ -365,16 +365,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "csp_Anime1Guard",
-      "name": "雷蒙影视|🐾Anime1动画线上看(SP)",
-      "type": 3,
-      "api": "csp_Anime1Guard",
-      "timeout": 10,
-      "filterable": 1,
-      "quickSearch": 1,
-      "searchable": 1
     },
     {
       "key": "csp_YHDM",
