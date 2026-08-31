@@ -2387,6 +2387,7 @@
 .getlantern.org
 .getmalus.com
 .getmdl.io
+.getmonero.org
 .getoutline.org
 .getsession.org
 .getsocialscope.com
@@ -4281,6 +4282,7 @@
 .ni
 .nic.gov
 .nico
+.nicoseiga.jp
 .nicovideo.jp
 .nighost.org
 .nightlife141.com
