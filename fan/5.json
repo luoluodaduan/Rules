@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce",
+  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/spider.jar;md5;33d68b70607c55c58748cbe9a6219307",
   "danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
   "sites": [
     {
@@ -579,6 +579,18 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://xunlei8.me"
+    },
+    {
+      "key": "飞球体育",
+      "name": "飞球•体育",
+      "type": 3,
+      "api": "csp_SportsFeiqiu",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      }
     },
     {
       "key": "瓜子体育",
