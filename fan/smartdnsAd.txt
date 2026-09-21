@@ -6414,6 +6414,7 @@ adm.myzaker.com
 adm.shinobi.jp
 adm.sina.com.cn
 adm.xmfish.com
+adm.zhangyuyidong.cn
 adm.zookingsoft.com
 adm0.autoimg.cn
 adm1.autoimg.cn
@@ -7125,6 +7126,7 @@ adslvseed.qq.com
 adsmarch.online
 adsmart.hk
 adsmart.konka.com
+adsmartget.datads.cn
 adsmatcher.com
 adsmeasurement.com
 adsmediabox.com
@@ -24020,6 +24022,7 @@ de-metalshop.m-shop.me
 de-mi-nis-ner.info
 de-ner-mi-nis4.info
 de-nis-ner-mi-5.info
+de.ad.gameley.com
 de.as.cp61.ott.cibntv.net
 de.as.pptv.com
 de.bca-news.com
@@ -44470,6 +44473,7 @@ jozispfsxhbmg.space
 jozvfaesigdre.site
 jozx7iukw8.com
 jp-go.experian.com
+jp.ad.gameley.com
 jp.as.pptv.com
 jp.ppgamingproxy.lol
 jp532fdo5.com
@@ -57118,6 +57122,7 @@ mparticle.com
 mpavweetzzsjx.site
 mpb1.iteye.com
 mpb2.iteye.com
+mpcfg.fancydsp.com
 mpcsbtbipqzfa.space
 mpdkfhyvpvttt.site
 mpebncqjoepwq.space
@@ -72575,8 +72580,10 @@ sdk-ab-config.qquanquan.com
 sdk-analytics-web.cloud.itau.com.br
 sdk-cache.video.ptqy.gitv.tv
 sdk-config.tanx.com
+sdk-track.66mobi.com
 sdk.1rtb.net
 sdk.ad.smaato.net
+sdk.adhuanxiao.com
 sdk.adx.adwangmai.com
 sdk.api.bjshcw.com
 sdk.api.oaid.wocloud.cn
@@ -72588,11 +72595,13 @@ sdk.cferw.com
 sdk.duihuashijie.com
 sdk.e.qq.com
 sdk.hzsanjiaomao.com
+sdk.hzzfcm.com
 sdk.look.360.cn
 sdk.m.youku.com
 sdk.markmedia.com.cn
 sdk.mobads.adwangmai.com
 sdk.tf.360.cn
+sdk.zhangyuyidong.cn
 sdk.zsdfm.com
 sdk4push.com
 sdkapi.cloooud.com
@@ -72609,6 +72618,7 @@ sdkconfig.video.qq.com
 sdkinit.taobao.com
 sdkl.info
 sdklog.uu.cc
+sdklog.zhangyuyidong.cn
 sdkoptedge.chinanetcenter.com
 sdkpay.uu.cc
 sdkrec.tf.360.cn
@@ -84284,6 +84294,7 @@ telemetry.stytch.com
 telemetry.svc.transifex.net
 telemetry.tableausoftware.com
 telemetry.tradingview.com
+telemetry.transcend.io
 telemetry.urs.microsoft.com
 telemetry.vtex.com
 telemetry.webasto.com
@@ -88391,7 +88402,6 @@ transact.blackboard.com
 transactionale.com
 transactionproducer.com
 transactionscookclotted.com
-transcend.io
 transcendcdn.eventbrite.com
 transferfaciliate.com
 transformationepisode.com
@@ -96867,6 +96877,7 @@ xacdghbkbelxi.website
 xad.com
 xadcentral.com
 xadsmart.com
+xadsmartget.adgain.cn
 xafrpagtesteb.online
 xafszmuibdlps.site
 xaguwy.thomas-muenz.ru
