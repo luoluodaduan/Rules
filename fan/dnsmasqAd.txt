@@ -63909,6 +63909,7 @@ address=/pic1.59wd.com/
 address=/pic1.dianshu119.com/
 address=/pic2016.5442.com/
 address=/pic2host.icu/
+address=/pica-a-display.diwodiwo.xyz/
 address=/pica-ad-api.diwodiwo.xyz/
 address=/pica-juicy.picacomic.com/
 address=/pichost24.club/
