@@ -2486,6 +2486,7 @@
 .gnci.org.hk
 .gnews.org
 .gnu.org
+.go-mpulse.net
 .go-pki.com
 .go-to-zlibrary.se
 .go.com
@@ -4937,6 +4938,7 @@
 .qkshare.com
 .qmp4.com
 .qmzdd.com
+.qobuz.com
 .qooqlevideo.com
 .qoos.com
 .qooza.hk
@@ -6469,6 +6471,7 @@
 .vansky.com
 .vaticannews.va
 .vatn.org
+.vava8.com
 .vc
 .vcf-online.org
 .vcfbuilder.org
