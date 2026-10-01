@@ -2285,6 +2285,7 @@
 .fututrustee.com
 .fux.com
 .fuyin.net
+.fuyin116.com
 .fuyindiantai.org
 .fw.cm
 .fwmrm.net
@@ -4063,6 +4064,7 @@
 .multiproxy.org
 .multiupload.com
 .mummysgold.com
+.muse.ai
 .musescore.com
 .musicade.net
 .musixmatch.com
@@ -6642,6 +6644,7 @@
 .wales
 .walletconnect.com
 .walletconnect.org
+.wallhaven.cc
 .wallmama.com
 .wallornot.org
 .wallpapercasa.com
