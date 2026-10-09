@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem1005.jar;md5;82573E853028B9581033428F87E87F39",
+  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem1008.jar;md5;A85273CABF8DE867FFE33620A6D71351",
   "lives": [
     {
       "name": "IPTV",
@@ -509,8 +509,8 @@
       "name": "雷蒙影视|🐱番薯(SP)",
       "type": 3,
       "api": "csp_DMfansAmns",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "changeable": 1
     },
     {
@@ -576,8 +576,8 @@
       "type": 3,
       "api": "csp_HHkkAmns",
       "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
       "genre": "shortdrama"
     },
     {
@@ -659,15 +659,6 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "JPian"
-    },
-    {
-      "key": "csp_YIysAmns",
-      "name": "雷蒙影视|⭐伊外(SP)",
-      "type": 3,
-      "api": "csp_YIysAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
     },
     {
       "key": "csp_AiBotAmns",
