@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem1015.jar;md5;30434EB6BC3FF8D36D2C62EA43766613",
+  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem1018.jar;md5;3C17B08251601D6ECDEA6AD4FF534AFD",
   "lives": [
     {
       "name": "IPTV",
@@ -179,6 +179,17 @@
       "api": "csp_NewCzGuard",
       "timeout": 10,
       "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "csp_HmysGuard",
+      "name": "雷蒙影视|🐬海绵(SP)",
+      "type": 3,
+      "api": "csp_HmysGuard",
+      "timeout": 10,
+      "playerType": "2",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -505,13 +516,14 @@
       "ext": "AppV7Dsx"
     },
     {
-      "key": "csp_DMfansAmns",
-      "name": "雷蒙影视|🐱番薯(SP)",
+      "key": "csp_DMxiguaAmns",
+      "name": "雷蒙影视|🐱冬瓜(SP)",
       "type": 3,
-      "api": "csp_DMfansAmns",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 1
+      "api": "csp_DMxiguaAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "DMxigua"
     },
     {
       "key": "csp_DMoxAmns",
