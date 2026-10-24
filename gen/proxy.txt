@@ -3336,6 +3336,7 @@
 .jsfiddle.net
 .jshell.net
 .jslint.com
+.jspm.io
 .jtvnw.net
 .jubushoushen.com
 .juhuaren.com
@@ -6355,6 +6356,7 @@
 .typecho.org
 .typekit.net
 .typepad.com
+.typesafe.ai
 .typeset.io
 .typora.io
 .tz
