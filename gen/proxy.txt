@@ -10,6 +10,7 @@
 .111666.best
 .123av.com
 .123av.me
+.123av.org
 .12bet.com
 .12vpn.com
 .12vpn.net
@@ -1854,6 +1855,7 @@
 .eromangadouzin.com
 .eromon.net
 .eroprofile.com
+.eroterest.net
 .eroticsaloon.net
 .es
 .eslite.com
@@ -3426,6 +3428,7 @@
 .kichiku-doujinko.com
 .kik.com
 .killwall.com
+.kimootoko.net
 .kindle
 .kindle4rss.com
 .kindleren.com
@@ -3948,6 +3951,7 @@
 .miniforum.org
 .miningpoolhub.com
 .ministrybooks.org
+.minkch.com
 .mint
 .minzhuhua.net
 .minzhuzhanxian.com
@@ -4346,7 +4350,9 @@
 .niupic.com
 .niusnews.com
 .njactb.org
+.njav.com
 .njav.tv
+.njavtv.com
 .njuice.com
 .nl
 .nlfreevpn.com
@@ -4796,6 +4802,7 @@
 .pmates.com
 .pn
 .pnc
+.po-kaki-to.com
 .po2b.com
 .pobieramy.top
 .pocketcasts.com
@@ -7310,6 +7317,7 @@
 .zopim.com
 .zorrovpn.com
 .zozotown.com
+.zozovideo.com
 .zpn.im
 .zsdxzk.com
 .zspeeder.me
