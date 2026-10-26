@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem1024.jar;md5;E45471004CD379233D2194714667EA26",
+  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem1025.jar;md5;A9E04AE1C5A450EE825FEE6BD9A39370",
   "lives": [
     {
       "name": "牛播一",
@@ -533,14 +533,13 @@
       "ext": "AppV7Dsx"
     },
     {
-      "key": "csp_DMxiguaAmns",
-      "name": "雷蒙影视|🐱冬瓜(SP)",
+      "key": "csp_DMcycAmns",
+      "name": "雷蒙影视|🐱嗷嗚(SP)",
       "type": 3,
-      "api": "csp_DMxiguaAmns",
+      "api": "csp_DMcycAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext": "DMxigua"
+      "changeable": 1
     },
     {
       "key": "csp_DMoxAmns",
@@ -559,6 +558,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
+    },
+    {
+      "key": "csp_DMxiguaAmns",
+      "name": "雷蒙影视|🐱冬瓜(SP)",
+      "type": 3,
+      "api": "csp_DMxiguaAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "DMxigua"
     },
     {
       "key": "csp_DMmoduAmns",
