@@ -512,6 +512,7 @@
 .audi
 .audionow.com
 .auspost
+.auth0.com
 .authorizeddns.net
 .authorizeddns.org
 .autodraw.com
@@ -871,6 +872,7 @@
 .brutaltgp.com
 .bs
 .bsky.app
+.bsky.chat
 .bsky.network
 .bsky.social
 .bt
@@ -1231,7 +1233,10 @@
 .clashyun.com
 .classicalguitarblog.net
 .claude.ai
+.claude.app
 .claude.com
+.claudemcpcontent.com
+.claudeusercontent.com
 .clb.org.hk
 .cleansite.biz
 .cleansite.info
