@@ -2716,7 +2716,6 @@
 .helpster.de
 .helpuyghursnow.org
 .helpzhuling.org
-.helsinki
 .hembed.com
 .hentai.tv
 .hentaiclub.net
@@ -6160,6 +6159,7 @@
 .torproject.org
 .torrentgalaxy.to
 .torrentkitty.tv
+.torrentleech.org
 .torrentprivacy.com
 .torrentproject.se
 .torrenty.org
@@ -7206,6 +7206,7 @@
 .youthnetradio.org
 .youtu.be
 .youversion.com
+.youversionapi.com
 .youwin.com
 .youxu.info
 .ypncdn.com
