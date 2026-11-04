@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem1031.jar;md5;CC6E37071081DF3EE82CD1B26BA526A2",
+  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem1103.jar;md5;71877DD21A04838D0455E014884AC1CA",
   "lives": [
     {
       "name": "牛播一",
@@ -832,6 +832,21 @@
       "genre": "music"
     },
     {
+      "key": "csp_HongGuo",
+      "name": "雷蒙影视|🍒红果(SP)",
+      "type": 3,
+      "api": "csp_HongGuo",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "lang": "ds",
+      "genre": "短剧",
+      "ext": {
+        "danmu": true,
+        "danmu_api": "https://dm.211.li/nonay"
+      }
+    },
+    {
       "key": "AppV7_小猪",
       "name": "雷蒙影视|🐷小猪(SP)",
       "type": 3,
@@ -1051,20 +1066,6 @@
       }
     },
     {
-      "key": "csp_FengYe",
-      "name": "雷蒙影视|🍁枫叶(SP)",
-      "type": 3,
-      "api": "csp_FengYe",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": {
-        "site": "https://www.vip1949.com/",
-        "danmu": true,
-        "danmu_api": "https://dm.211.li/nonay"
-      }
-    },
-    {
       "key": "csp_XiFanAcg",
       "name": "雷蒙影视|🥣稀饭(SP)",
       "type": 3,
@@ -1097,21 +1098,6 @@
       "ext": {
         "username": "nimasile",
         "password": "xiaomi888",
-        "danmu": true,
-        "danmu_api": "https://dm.211.li/nonay"
-      }
-    },
-    {
-      "key": "csp_HongGuo",
-      "name": "雷蒙影视|🍒红果(SP)",
-      "type": 3,
-      "api": "csp_HongGuo",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "lang": "ds",
-      "genre": "短剧",
-      "ext": {
         "danmu": true,
         "danmu_api": "https://dm.211.li/nonay"
       }
