@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem1104.jar;md5;EC5444AFF8B0E91238F9211179C09463",
+  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem1108.jar;md5;F89CE69B90F4284FAB24B1BBA64A6B13",
   "lives": [
     {
       "name": "牛播一",
@@ -186,11 +186,7 @@
       "playerType": "2",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext": {
-        "v2": "1",
-        "deviceId": "6fd6416460897d6b"
-      }
+      "changeable": 1
     },
     {
       "key": "csp_LibvioGuard",
@@ -544,10 +540,10 @@
       "changeable": 1
     },
     {
-      "key": "csp_DMqingkAmns",
-      "name": "雷蒙影视|🐱青云(SP)",
+      "key": "csp_DMlmmAmns",
+      "name": "雷蒙影视|🐱快快(SP)",
       "type": 3,
-      "api": "csp_DMqingkAmns",
+      "api": "csp_DMlmmAmns",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -559,8 +555,7 @@
       "api": "csp_DMxiguaAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext": "DMxigua"
+      "changeable": 1
     },
     {
       "key": "csp_DMmoduAmns",
@@ -851,7 +846,7 @@
       }
     },
     {
-      "key": "AppV7_小猪",
+      "key": "csp_AppV7_小猪",
       "name": "雷蒙影视|🐷小猪(SP)",
       "type": 3,
       "api": "csp_AppV7",
@@ -861,7 +856,7 @@
       "ext": "AppV7Fz"
     },
     {
-      "key": "AppV7_追剧",
+      "key": "csp_AppV7_追剧",
       "name": "雷蒙影视|📺追剧(SP)",
       "type": 3,
       "api": "csp_AppV7",
@@ -871,14 +866,14 @@
       "ext": "AppV7Zjdr"
     },
     {
-      "key": "AppV7_师兄",
+      "key": "csp_DaShiXiong",
       "name": "雷蒙影视|📦师兄(SP)",
       "type": 3,
-      "api": "csp_AppV7",
+      "api": "csp_DaShiXiong",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "AppV7Dsx"
+      "ext": ""
     },
     {
       "key": "csp_Mtq",
@@ -1047,6 +1042,18 @@
       "timeout": 12,
       "ext": {
         "danmu": true,
+        "danmu_api": "https://dm.211.li/nonay"
+      }
+    },
+    {
+      "key": "csp_JingCai",
+      "name": "雷蒙影视|🍒精彩(SP)",
+      "type": 3,
+      "api": "csp_JingCai",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": {
         "danmu_api": "https://dm.211.li/nonay"
       }
     },
