@@ -67417,6 +67417,7 @@ server=/nhzj.com/223.5.5.5
 server=/nhzs.com/223.5.5.5
 server=/ni8.com/223.5.5.5
 server=/ni93.com/223.5.5.5
+server=/nia-teams.com/223.5.5.5
 server=/nianchu.net/223.5.5.5
 server=/nianhuawan.com/223.5.5.5
 server=/niankawang.com/223.5.5.5
