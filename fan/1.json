@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem1118.jar;md5;3B5023FD4E058645B9DB28075EF70E58",
+  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem1122.jar;md5;458DABF9EEE403A19D1095D195B896D2",
   "lives": [
     {
       "name": "牛播一",
@@ -168,6 +168,16 @@
       "changeable": 1
     },
     {
+      "key": "csp_HanquanGuard",
+      "name": "雷蒙影视|🐱韩迷(SP)",
+      "type": 3,
+      "api": "csp_HanquanGuard",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "key": "csp_T4Guard_光影",
       "name": "雷蒙影视|🌞光影(SP)",
       "type": 3,
@@ -213,12 +223,14 @@
       "changeable": 1
     },
     {
-      "key": "csp_HmysGuard",
-      "name": "雷蒙影视|🐬海绵(SP)",
+      "key": "csp_HuashuGuard",
+      "name": "雷蒙影视|🥜花生(SP)",
       "type": 3,
-      "api": "csp_HmysGuard",
-      "timeout": 10,
-      "playerType": "2",
+      "api": "csp_HuashuGuard",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -530,10 +542,19 @@
       "ext": "AppV7Xhr"
     },
     {
-      "key": "csp_DMcycAmns",
+      "key": "csp_DMlmmAmns",
       "name": "雷蒙影视|🐱嗷嗚(SP)",
       "type": 3,
-      "api": "csp_DMcycAmns",
+      "api": "csp_DMlmmAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "csp_DMxifanAmns",
+      "name": "雷蒙影视|🐱新帆(SP)",
+      "type": 3,
+      "api": "csp_DMxifanAmns",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -548,10 +569,10 @@
       "changeable": 1
     },
     {
-      "key": "csp_DMlmmAmns",
-      "name": "雷蒙影视|🐱快快(SP)",
+      "key": "csp_DMbusAmns",
+      "name": "雷蒙影视|🐱贝斯(SP)",
       "type": 3,
-      "api": "csp_DMlmmAmns",
+      "api": "csp_DMbusAmns",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
