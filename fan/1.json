@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem1122.jar;md5;458DABF9EEE403A19D1095D195B896D2",
+  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem1123.jar;md5;06BD42014D55A9F5B5326A46CAB44BD3",
   "lives": [
     {
       "name": "牛播一",
@@ -264,7 +264,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "rfOIzPkSUkANv6AT2prC8en3+TzKx9TnlT8vaY37HhtYfAQe6C5xqrVuJPhQwYV6r3eRdMBGm3Qm6Th+BushR86B6KqJGXDsHazHw7alBG/7zUxkN1tK/NypRxnpBNoeUtpw4jcCGhytI75yO4g4zG6SOPA0RSwhksM0IF2friAkrHCWoW3v+0mdw6sjz4t4XB1Df7yL/R5cfaA/5LQYq3I8OkvMrJMU9Q1P7JXwx7NSF2zTyH/ANVmZ4u5m567DW1KVG7OuQjXPjZiOXTYk0+wjpfBRTf19yIq6q/C76k2Fs80joAMPw0ueDR+QHxtuDcTom2rmHkI1Fonkzi6BotbpUcbSi4PiIgmfdbvVwhG6Z+i4nvt+IYa48l5aLA7PLgDiERpuOs31aHaXlgFswT87XyTb8QaF4CuzKWJuXptwNTjvXAS9KHdxH49Ay+hfBAB2bCvUf4CMoldF2wZUv0mI2qY966erFpOFg+FOc7t88EUH8j8ACXQtHJiKC9RQ+SaLIF0="
+      "ext": "rfOIzPkSUkANv6AT2prC8en3+Trbx4jq3i8iepe3AAlFJlcJ8nEyo7U0Zv5Ly99uvDeRbsAQwngm4DhwCew4GZ2NpO2FWja5GbiLw/2+VyOxmwVkfRMWv532AlCkEM0DUsYlqgFBirI7micJVqtVVd5RVO+OjoFt49RYjdpcwCGzZNf2zleAXOBerYWUBBYiHAcv4i9IkhbqtQRBgq93D8T/VUpyZg15mh4icjAzq6HJ3fKftkmNq95YguHZLzKbGEDahyxvIgNARifYJxRobH3iyvXchGcLgar0MU56i0oTeFRc6ThjWvJdYRkG14ULZ/+nBcQncXy23jGsvADOGlYoPtpPQAOccjnT9Q0UrQssrFfhyMAynhd5nlPX67OibRK1YBs1pV05B3ICXao4njVgOB+AbpZJjwAw7tkjLocnQhq0w5RxREH/1j8YpssxtJO1ADlPtR7A3GILhxMcEc1KgJy+LBzmZL7G+vYG3T++qkSKO6V2QFdgRLTCpSHJ"
     },
     {
       "key": "csp_JumiTvGuard",
@@ -596,16 +596,6 @@
       "changeable": 1
     },
     {
-      "key": "csp_BidysAmns",
-      "name": "雷蒙影视|🛸哔嘀(SP)",
-      "type": 3,
-      "api": "csp_BidysAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "Bidys"
-    },
-    {
       "key": "csp_CzzyAmns",
       "name": "雷蒙影视|🛸厂长(SP)",
       "type": 3,
@@ -879,6 +869,29 @@
       "genre": "music"
     },
     {
+      "key": "csp_HetunManju",
+      "name": "雷蒙影视|🐡河豚(SP)",
+      "type": 3,
+      "api": "csp_HetunManju",
+      "group": "短剧",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_HongGuo",
+      "name": "雷蒙影视|🍒红果(SP)",
+      "type": 3,
+      "api": "csp_HongGuo",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": {
+        "danmu": true,
+        "danmu_api": "https://dm.211.li/nonay"
+      }
+    },
+    {
       "key": "csp_JingCai",
       "name": "雷蒙影视|🍒精彩(SP)",
       "type": 3,
@@ -921,6 +934,16 @@
       "ext": ""
     },
     {
+      "key": "csp_YunZhenXiang",
+      "name": "雷蒙影视|🦶帧享(SP)",
+      "type": 3,
+      "api": "csp_YunZhenXiang",
+      "group": "综合影视",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "csp_Mtq",
       "name": "雷蒙影视|🍊蒙太(SP)",
       "type": 3,
@@ -943,20 +966,6 @@
       "ext": {
         "rotate_device": 1,
         "auto_fallback": 1
-      }
-    },
-    {
-      "key": "csp_JuXiaFan",
-      "name": "雷蒙影视|🍚下饭(SP)",
-      "type": 3,
-      "api": "csp_JuXiaFan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": {
-        "site": "http://jumianfei.com",
-        "danmu": true,
-        "danmu_api": "https://dm.211.li/nonay"
       }
     },
     {
@@ -1145,17 +1154,6 @@
       }
     },
     {
-      "key": "csp_Shipu",
-      "name": "雷蒙影视|🥘漫剧(SP)",
-      "type": 3,
-      "api": "csp_Shipu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "timeout": 15,
-      "ext": {}
-    },
-    {
       "key": "csp_GuaziTY",
       "name": "雷蒙影视|⚽体育(SP)",
       "type": 3,
@@ -1254,13 +1252,13 @@
       }
     },
     {
-      "key": "csp_AppDramaV5_橘汁",
+      "key": "csp_AppDrama_橘汁",
       "name": "雷蒙影视|🍊橘汁(SP)",
       "type": 3,
-      "api": "csp_AppDramaV5",
+      "api": "csp_AppDrama",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
+      "filterable": 0,
       "ext": {
         "appName": "橘汁",
         "commonKey": "ed5fdsgucxumegqa",
@@ -1712,7 +1710,7 @@
     },
     {
       "key": "py_叶子_APP",
-      "name": "雷蒙影视|🧿叶子(FOX)",
+      "name": "雷蒙影视|���叶子(FOX)",
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/appfox.py",
       "searchable": 1,
