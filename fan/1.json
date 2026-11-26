@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem1123.jar;md5;06BD42014D55A9F5B5326A46CAB44BD3",
+  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem1125.jar;md5;FC8EE9D0E9530FDB0EA555FD36D9F1CD",
   "lives": [
     {
       "name": "牛播一",
@@ -3218,6 +3218,16 @@
       "name": "Web解析聚合",
       "type": 3,
       "url": "Web"
+    },
+    {
+      "name": "嗷呜",
+      "type": 0,
+      "url": "https://free.maccms.xyz?url="
+    },
+    {
+      "name": "真帅",
+      "type": 0,
+      "url": "https://jx.77flv.cc/?url="
     },
     {
       "name": "巧技",
